@@ -1,0 +1,4 @@
+
+*.materials/Release
+*.inform/*
+!*.inform/Source 
