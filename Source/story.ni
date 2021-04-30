@@ -2,7 +2,7 @@
 
 section 1 - Office
 
-Office is a room. The description of the Office is "Your boss and yourself are in the midst of stormy negotiations with new potential associates. The atmosphere is tense, so much so that you can feel sweat beads dripping down your tailored shirt as your sticky hands pound on your laptop keyboard. Your boss sits at your left while two other gentlemen sit straight across from you both. All of you have been in here, bargaining over contract terms, for quite a while now and you wrists are staring to ache as you write and erase what the others tell you to. The shadows you cast on the white office walls gently shift as the sun goes down,  you wish they had come up to an agreement  by now.
+Office is a room. The description of the Office is "Your boss and yourself are in the midst of stormy negotiations with new potential associates. The atmosphere is tense, so much so that you can feel sweat beads dripping down your tailored shirt as your sticky hands pound on your laptop keyboard. Your boss sits at your left while two other gentlemen sit straight across from you both. All of you have been in here, bargaining over contract terms, for quite a while now and you wrists are staring to ache as you write and erase what the others tell you to. The shadows you cast on the white office walls gently shift as the sun goes down,  you wish they had come up to an agreement by now.
 
 Suddenly, either out of weariness or out of boldness, one of your guests leans in towards you and suggests a daring idea. You see a spark light up everybody else's as the idea sinks a little deeper in all of your minds. 
 
@@ -26,9 +26,61 @@ The conference table is in the Office.  Your laptop and several coffee mugs are 
 
 section 2 - Europe
 
-Swamps is a room. Swamps is east of the office. The description of the swamps is "What europe will look like in 2700".
+Swamps is a room. Swamps is north of Souk Ruins and south of Yogi's retreat. The description of the swamps is "The air here is breezy. It is hard for you to move comfortably because your feet are plunged in water, or is it silt ? Vegetation is quite dense, reeds and weeds pave your way. If you look west, you can see the framework of a door in the distance. Strangely enough, it looks like the one form your office. There are poorly lit openings in the trees leading either to the north or the south. "
 
-Druid's tent is a room. Druid's tent is west of the office. The description of the Druid's tent is "an old Celtic druid's tent".
+The Aligator is in the Swamps.  A scaly skin is on the Aligator. The description of Aligator is "The poor beast looks like it has enhaled too much pollution, it cannot even swim straight. Do aligators shed their skin ? because his gives the impression it is comming off. "
+
+The long wooden stick is in the Swamps. The description of the long wooden stick is "Looks studry."
+
+The familiar looking door is a door. It is east of the office and west of the swamps.
+
+The familiar looking door is lockable and locked. 
+
+Druid's tent is a room. Druid's tent is north of Alexandria's Library and south of Maharaja's palace . The description of the Druid's tent is "an old Celtic druid's tent, just like you imagined them. Drapy curtens frame passageways going north and south, they are too thick for you to see threw them. At the very back of the tent, behind all of the mess, you see a door. Strangely enough, it looks like the one form your office ".
+
+The back door is a door. It is west of the office and east of the Druid's tent.
+
+The back door is lockable and locked. 
+
+The shelves are a supporter in the Druid's tent.  "The tent is cramped with peculiar shelves. They are made of thick lumber on which rests an army of glass jars filled with colorful liquids. Each jar is labeled with small srips of paper filled with a handwriting you can bearly decipher."
+
+Understand "bookshelf" or "shelf" or "shelves" as shelves.
+
+The small altar is a supporter in the Druid's tent.  It is fixed in place.
+The cauldron is in the Druid's tent.  It is fixed in place.
+
+A jar is a kind of container.  A jar is usually openable and closed.  A jar has a text called the label.
+
+A liquid is a kind of thing.
+ 
+Instead of drinking the liquid: 
+    say "You feel ancestral powers fuzzing threw you."
+
+The rounded jar, the skinny jar, and pear shaped jar are jars on the small altar.
+
+The description of the rounded jar is "A bubbly blue liquid fills it up half way. The liquid seems to reacts as you touch the glass, coagulating at the tips of your fingers.".
+The label of the rounded jar is "Jellied bat blood: good for making potions".
+In the rounded jar is a liquid. 
+
+The description of the skinny jar is "A vibrant orange liquid gently heats up the glass, making the jar foggy."
+The label of the skinny jar is "tears of sunshine: good for opening doors".
+In the skinny jar is a liquid. 
+
+The description of the pear shaped jar is "A voluptuous and warmn pink slim slides and covers all the walls of that jar.  As you look a it you realise it draws eight shapes all across the glass."
+The label of the pear shaped jar is "youth foutain splashes: good for finding love".
+In the pear shaped jar is a liquid. 
+
+Understand the command "read" as something new.
+
+Reading is an action applying to one carried thing.
+
+Understand "read [something]" as reading.
+
+Check reading when the noun is not a jar: instead say "You can only read labels."
+
+Understand "label" as the jar.
+
+Report reading: say "you squinkt your eyes: '[The label of the noun]'  mmmh..."
 
 section 3 - India 
 
@@ -48,7 +100,7 @@ Chinese Workshop is a room. Chinese Workshop is west of Wuhan. The description o
 
 Section 5 - Latin America 
 
-Mexico City is a room. Mexico City is north of Wuhan. The description of Mexico City is "The gunshots pierce the sky as you cross the road of today's Mexico".
+Mexico City is a room. Mexico City is north of Wuhan. The description of Mexico City is "Gunshots pierce the sky as you cross the road of today's Mexico. It is getting quite dark and you don't want any trouble. You see four similarly unwellcoming alleyways each leading in different directions: south, north, east and west.".
 
 Scorpion's nest is a room. Scorpion's nest is east of Mexico City. The description of the  Scorpion's nest is "As time past, a lot of species went extinct. Not scorpions though, scorpions got bigger. Unfortunately, way bigger than you."
 
