@@ -30,20 +30,22 @@ You look around but can't seem to find any paper laying around. New ideas flood 
 
 -Yes, of course. you respond as you quickly get up. 
 
-savannah.
+Now out of your Leather chair, you take a last look at the conference table. You think to yourself:
 
-New Delhi.
+- No paper, no pens, is this really it? The office of the future?
 
-druids.
+It can't be. All it is, is a realm of shiny metals and cold greatings. Your buzzing laptop the stainless glass door, the cold coffee you drink, everything you lay your eyes on is chilling.
 
-swamp.
+Going for a strawl could be exactly what you need. Suddenly, you catch yourself hoping for a paper shortage in the whole damn building or, better even, in the whole damn town. So you'd have an excuse to put some miles between you and this place.
 
-You can also see a big door, a Leather chair and a conference table (on which are your laptop and several coffee mugs) here.
+You can also see a big door here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
         <children><child nodeId="node-1081"></child>
             <child nodeId="node-1094"></child>
+            <child nodeId="node-1110"></child>
+            <child nodeId="node-1102"></child>
             <child nodeId="node-1042"></child>
         </children>
     </item>
@@ -443,6 +445,29 @@ You can see an entrance tunnel here.
     <item nodeId="node-1080">
         <command xml:space="preserve">search person</command>
         <result xml:space="preserve">There is nothing on the sleeping person.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1102">
+        <command xml:space="preserve">open big door</command>
+        <result xml:space="preserve">Scientifique Base Camp
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1110">
+        <command xml:space="preserve">look table</command>
+        <result xml:space="preserve">This table is unnecessary large for the number of people it is currently hosting. Since it is made out of glass, you can still perfectly see the traces your sweaty fingers laid of it earlier.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1113"></child>
+        </children>
+    </item>
+    <item nodeId="node-1113">
+        <command xml:space="preserve">open door</command>
+        <result xml:space="preserve">Which do you mean, the shiny door, the outstanding door, the back door, the familiar looking door or the big door?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>

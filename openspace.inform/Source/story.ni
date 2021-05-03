@@ -33,6 +33,7 @@ Instead of opening the big door:
 The Leather chair is an enterable supporter in the Office.  The Leather is not portable.  It is pushable between rooms.  The description of the Leather chair is "Very fashionnable, although you find it a bit rigid. Maybe it's because you sat on it for too long."
 
 The conference table is in the Office.  Your laptop and several coffee mugs are on the conference table. The description of the conference table is "This table is unnecessary large for the number of people it is currently hosting. Since it is made out of glass, you can still perfectly see the traces your sweaty fingers laid of it earlier."
+Your laptop and several coffee mugs are scenery.
 
 section 3 - Europe
 
@@ -42,11 +43,11 @@ The Aligator is in the Swamps.  A scaly skin is on the Aligator. The description
 
 The long wooden stick is in the Swamps. The description of the long wooden stick is "Looks studry."
 
-The familiar looking door is a door. It is east of the office and west of the swamps. The familiar looking door is lockable and locked.  "[if the player is in Swamps]A big and modern glass door. You know, that opaque kind of glass which looks very expensive.[otherwise]!!![end if]." 
+The familiar looking door is a door. It is east of the office and west of the swamps. The familiar looking door is lockable and locked.  "[if the player is in Swamps]A big and modern glass door. You know, that opaque kind of glass which looks very expensive.[otherwise]Going for a strawl could be exactly what you need. Suddenly, you catch yourself hoping for a paper shortage in the whole damn building or, better even, in the whole damn town. So you'd have an excuse to put some miles between you and this place.[end if]" 
 
 Druid's tent is a room. Druid's tent is north of Alexandria's Library and south of Maharaja's palace . The description of the Druid's tent is "an old Celtic druid's tent, just like you imagined them. Drapy curtens frame passageways going north and south, they are too thick for you to see threw them. At the very back of the tent, behind all of the mess, you see a door. Strangely enough, it looks like the one form your office ".
 
-The back door is a door. It is west of the office and east of the Druid's tent. The back door is lockable and locked.  "[if the player is in Druid's tent]A big and modern glass door. You know, that opaque kind of glass which looks very expensive.[otherwise]Hurry[end if]."
+The back door is a door. It is west of the office and east of the Druid's tent. The back door is lockable and locked.  "[if the player is in Druid's tent]A big and modern glass door. You know, that opaque kind of glass which looks very expensive.[otherwise]It can't be. All it is, is a realm of shiny metals and cold greatings. Your buzzing laptop the stainless glass door, the cold coffee you drink, everything you lay your eyes on is chilling.[end if]"
 
 The shelves are a supporter in the Druid's tent.  "The tent is cramped with peculiar shelves. They are made of thick lumber on which rests an army of glass jars filled with colorful liquids. Each jar is labeled with small srips of paper filled with a handwriting you can bearly decipher."
 
@@ -92,7 +93,7 @@ section 4 - India
 
 New Delhi is a room. The description of the New Delhi is "The city center today".
 
-The outstanding door is a door. It is south of New Delhi and north of the office. The outstanding door is lockable and locked.  "[if the player is in New Delhi]A big and modern glass door. You know, that opaque kind of glass which looks very expensive. Of course you'd know, your office has the same ones.[otherwise]Should[end if]."
+The outstanding door is a door. It is south of New Delhi and north of the office. The outstanding door is lockable and locked.  "[if the player is in New Delhi]A big and modern glass door. You know, that opaque kind of glass which looks very expensive. Of course you'd know, your office has the same ones.[otherwise]- No paper, no pens, is this really it? The office of the future?[end if]"
 
 
 Yogi's retreat is a room. Yogi's retreat is east of New Delhi. The description of the Yogi's retreat is "the only community still standing in 20900's India".
@@ -144,7 +145,7 @@ Section 8 - Africa
 
 Savannah is a room. Savannah is north of Scientific base camp. The description of the Savannah is "Savannah today".
 
-The shiny door is a door. It is south of the office and north of Savannah. The shiny door is lockable and locked.  "[if the player is in Savannah]A big and modern glass door. You know, that opaque kind of glass which looks very expensive.[otherwise]You[end if]."
+The shiny door is a door. It is south of the office and north of Savannah. The shiny door is lockable and locked.  "[if the player is in Savannah]A big and modern glass door. You know, that opaque kind of glass which looks very expensive.[otherwise]Now out of your [leather chair], you take a last look at the [conference table]. You think to yourself:[end if]"
  
 
 Alexandria's Library is a room. Alexandria's Library is west of Savannah. The description of the Alexandria's Library is "Cars finally float on air cushions and plants co-exist with skyscrapers in a friendly and aesthetic way. ".
