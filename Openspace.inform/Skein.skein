@@ -176,7 +176,7 @@ You can see an entrance tunnel here.
         <result xml:space="preserve">(in the entrance tunnel)
 
 Igloo
-You cannot see much, but a dying fire sufficiently illuminates the place to be able to see the room made of ice. At the back of the igloo, you see a sleeping person. He looks like a scientist, he certainly writes things down everyday...
+You cannot see much, but a dying fire sufficiently illuminates the place to be able to see the room made of ice. At the back of the igloo, you see a sleeping person. He looks like a researcher, he certainly writes things down everyday...
 
 You can see an entrance tunnel and a sleeping researcher here.
 
@@ -184,6 +184,7 @@ You can see an entrance tunnel and a sleeping researcher here.
         <commentary xml:space="preserve"></commentary>
         <children><child nodeId="node-1069"></child>
             <child nodeId="node-1130"></child>
+            <child nodeId="node-1316"></child>
             <child nodeId="node-1280"></child>
             <child nodeId="node-1288"></child>
         </children>
@@ -257,6 +258,23 @@ Igloo
 You cannot see much, but a dying fire sufficiently illuminates the place to be able to see the room made of ice. At the back of the igloo, you see a sleeping person. He looks like a scientist, he certainly writes things down everyday...
 
 You can see an entrance tunnel here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1316">
+        <command xml:space="preserve">search the researcher</command>
+        <result xml:space="preserve">You lift the multiple layers of blankets and fur and after a quick search you see something shiny that catches your frozen eyes: a Mont Blanc quill! Exactly what your boss needs to sign the contract. After a brief discussion with your conscience, you decide to take it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1317"></child>
+        </children>
+    </item>
+    <item nodeId="node-1317">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a Mont Blanc quill
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
