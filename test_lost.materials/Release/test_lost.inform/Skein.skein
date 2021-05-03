@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1221">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-1221">
+        <command xml:space="preserve">test_lost</command>
+        <result xml:space="preserve">
+
+
+Beachfront
+An Interactive Fiction
+Release 1 / Serial number 210503 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+Stuffy Office
+The windows are closed, making the sultry air even more unbearable. A narrow slice of Caribbean blue is visible between the scuba gear rental shop and the recreated 17th century pirate tavern.
+
+The office is cheerfully furnished with wicker chairs and white curtains, but the tropical decorating scheme stopped at the desk, which is heavy oak and absolutely covered with papers.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1224"></child>
+        </children>
+    </item>
+    <item nodeId="node-1224">
+        <command xml:space="preserve">x desk</command>
+        <result xml:space="preserve">You see nothing special about the heavy oak desk.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1225"></child>
+        </children>
+    </item>
+    <item nodeId="node-1225">
+        <command xml:space="preserve">x papers</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1226"></child>
+        </children>
+    </item>
+    <item nodeId="node-1226">
+        <command xml:space="preserve">x paperwork</command>
+        <result xml:space="preserve">You see nothing special about the heavy oak desk.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1227"></child>
+        </children>
+    </item>
+    <item nodeId="node-1227">
+        <command xml:space="preserve">search desk</command>
+        <result xml:space="preserve">You rifle through the piles of bills and notices; invitations to conventions; advertisements for high-end prescription drugs; pink carbon sheets bearing patients' names and medical identification numbers in spidery, elderly handwriting. Almost at the bottom of the heap, you find what you were looking for: a creamy envelope with the address typed.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1228"></child>
+        </children>
+    </item>
+    <item nodeId="node-1228">
+        <command xml:space="preserve">search desk</command>
+        <result xml:space="preserve">On the heavy oak desk is a creamy envelope.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1229"></child>
+        </children>
+    </item>
+    <item nodeId="node-1229">
+        <command xml:space="preserve">x enveloppe</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1230"></child>
+        </children>
+    </item>
+    <item nodeId="node-1230">
+        <command xml:space="preserve">x creamw enveloppe</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1231"></child>
+        </children>
+    </item>
+    <item nodeId="node-1231">
+        <command xml:space="preserve">x creamy enveloppe</command>
+        <result xml:space="preserve">I only understood you as far as wanting to examine the creamy envelope.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>
