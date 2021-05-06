@@ -144,7 +144,11 @@ Chinese Workshop is a room. Chinese Workshop is west of Wuhan. The description o
 
 - Yes, of course, go ahead.".
 
-A rice paper is in the Chinese Workshop.
+The artisan is a person. He carries a rice paper. 
+
+Instead of taking the paper:
+	say "You thank the old man for the paper, and now you have something to write on!";
+	move the rice paper to the player. 
 
 Understand the command "write" as something new.
 
