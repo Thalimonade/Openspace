@@ -122,7 +122,27 @@ Wuhan is a room. Wuhan is north of New Delhi. The description of Wuhan is "A new
 
 Futuristic Casino is a room. Futuristic Casino is east of Wuhan. The description of Futuristic Casino is "A milion colorful and blinking neon lights iluminate the corridors, and a pathway covered in a fluffy carpet leads you to the Black Jack table A robot serves you a drink as the crowd gathered around Black Jack table cheers.".
 
-Chinese Workshop is a room. Chinese Workshop is west of Wuhan. The description of the  Chinese Workshop is "A small and dusty room, with a little window that opens to a wide rice field. The air is tick and gloomy due to the arrival of the rain season. An old artisan wearing a straw hat and loose hemp clothes made is making rice paper at the back of the room.".
+A door is a kind of thing.
+A black jack is a door. It is south of the Futuristic Casino and north of the Yogi's Retreat. 
+A black jack is openable and unlocked. 
+
+Understand the command "play" as something new.
+
+Playing is an action applying to one thing.
+
+Understand "play [something]" as playing.
+
+Check playing:
+	if the noun is not a door:
+		say "This is not something you can play with."
+		
+Report playing: say "You won!! "
+
+Chinese Workshop is a room. Chinese Workshop is west of Wuhan. The description of the  Chinese Workshop is "A small and dusty room, with a little window that opens to a wide rice field. The air is tick and gloomy due to the arrival of the rain season. An old artisan wearing a straw hat and loose hemp clothes made is making rice paper at the back of the room. You slowly approach the man and, after bending towards in sign of respect, you ask him: 
+
+- Sir, may I borrow one of these please?
+
+- Yes, of course, go ahead.".
 
 A rice paper is in the Chinese Workshop.
 
