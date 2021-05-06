@@ -120,7 +120,7 @@ Section 5 - China
 
 Wuhan is a room. Wuhan is north of New Delhi. The description of Wuhan is "A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!".
 
-Futuristic Casino is a room. Futuristic Casino is east of Wuhan. The description of Futuristic Casino is "A milion colorful and blinking neon lights iluminate the corridors, and a pathway covered in a fluffy carpet leads you to the Black Jack table A robot serves you a drink as the crowd gathered around  Black Jack table cheers".
+Futuristic Casino is a room. Futuristic Casino is east of Wuhan. The description of Futuristic Casino is "A milion colorful and blinking neon lights iluminate the corridors, and a pathway covered in a fluffy carpet leads you to the Black Jack table A robot serves you a drink as the crowd gathered around Black Jack table cheers.".
 
 Chinese Workshop is a room. Chinese Workshop is west of Wuhan. The description of the  Chinese Workshop is "A small and dusty room, with a little window that opens to a wide rice field. The air is tick and gloomy due to the arrival of the rain season. An old artisan wearing a straw hat and loose hemp clothes made is making rice paper at the back of the room.".
 
