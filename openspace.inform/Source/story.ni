@@ -1,9 +1,17 @@
-"Open Space" by Thalie Schmidt, Laura pippus, David Pavlik et Ludovic Rochat.
+"Open Space" by Thalie Schmidt, Laura Pippus, David Pavlik et Ludovic Rochat.
 
 section 1 - Objets
 
 A pen is a kind of things. 
 A Mont Blanc quill is a pen.
+
+A feather is a pen.
+
+An animal is a kind of things. 
+A Peacock is an animal. A peacock carries feathers. The carrying capacity of the peacock is 1000. The description of the peacock is "A big stuning colorful bird."
+
+A paper is a kind of things.
+Paper rice is a kind of paper.
 
 section 2 - Office
 
@@ -98,15 +106,35 @@ The outstanding door is a door. It is south of New Delhi and north of the office
 
 Yogi's retreat is a room. Yogi's retreat is east of New Delhi. The description of the Yogi's retreat is "the only community still standing in 20900's India".
 
-Maharaja's palace is a room. Maharaja's palace is west of New Delhi. The description of the  Maharaja's palace is "Magnificent gardens of prince Abdul the second".
+Maharaja's palace is a room. Maharaja's palace is west of New Delhi. The description of the  Maharaja's palace is "The imposing white marble palace is surrounded by the magnificent gardens of prince Abdul the second. Multiple fountains provide fresh water for the animals that reside in the gardens: birds of all colors and sizes that sing from dawn till dusk, little monkeys that jump from tree to tree and try to steal whatever you're eating, and beautiful colorful peacocks that turn around.
+
+Looking one of the peacocks, you think to yourself: I bet I could use one of its feathers as a pen..."
+
+A Peacock is in the Maharaja’s palace.
+
+Instead of touching the peacock:
+	say "You run after the peacock while it opens its plumage exhibiting the eye-looking pattern. It has so many feathers, but you only need one… After minutes running in the labyrinth-like garden under the sizzling sun, you manage to corner the peacock and you finally get your feather.";
+	move the feather to the player.
 
 Section 5 - China
 
-Wuhan is a room. Wuhan is north of New Delhi. The description of Wuhan is "The city center in February 2020 filled with covid patients".
+Wuhan is a room. Wuhan is north of New Delhi. The description of Wuhan is "A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!".
 
-Futuristic Casino is a room. Futuristic Casino is east of Wuhan. The description of Futuristic Casino is "A robot serves you a drink as the crowd gathered around de Black Jack table cheers".
+Futuristic Casino is a room. Futuristic Casino is east of Wuhan. The description of Futuristic Casino is "A milion colorful and blinking neon lights iluminate the corridors, and a pathway covered in a fluffy carpet leads you to the Black Jack table A robot serves you a drink as the crowd gathered around  Black Jack table cheers".
 
-Chinese Workshop is a room. Chinese Workshop is west of Wuhan. The description of the  Chinese Workshop is "An artisan is making rice paper at the back of the room, He's dressed in a very old fashioned way".
+Chinese Workshop is a room. Chinese Workshop is west of Wuhan. The description of the  Chinese Workshop is "A small and dusty room, with a little window that opens to a wide rice field. The air is tick and gloomy due to the arrival of the rain season. An old artisan wearing a straw hat and loose hemp clothes made is making rice paper at the back of the room.".
+
+A rice paper is in the Chinese Workshop.
+
+Understand the command "write" as something new.
+
+Writing is an action applying to two carried things. 
+
+Understand "write down on the [paper] using the [pen]" as writing.
+
+Check writing when the noun is not a pen: instead say "You cannot write down with this [noun]."
+
+Report writing: say "now you can write it down [noun] using [noun]".
 
 Section 6 - Latin America 
 

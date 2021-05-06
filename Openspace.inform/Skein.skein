@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 
-<Skein rootNode="node-1041">
+<Skein rootNode="node-1441">
     <generator>Inform Mac Client (Inform version )</generator>
-    <item nodeId="node-1041">
+    <item nodeId="node-1441">
         <command xml:space="preserve">Openspace</command>
         <result xml:space="preserve">
 
@@ -42,14 +42,14 @@ You can also see a big door here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1081"></child>
-            <child nodeId="node-1094"></child>
-            <child nodeId="node-1110"></child>
-            <child nodeId="node-1102"></child>
-            <child nodeId="node-1042"></child>
+        <children><child nodeId="node-1488"></child>
+            <child nodeId="node-1484"></child>
+            <child nodeId="node-1482"></child>
+            <child nodeId="node-1481"></child>
+            <child nodeId="node-1442"></child>
         </children>
     </item>
-    <item nodeId="node-1042">
+    <item nodeId="node-1442">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Savannah
@@ -57,11 +57,11 @@ Savannah today
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1075"></child>
-            <child nodeId="node-1043"></child>
+        <children><child nodeId="node-1475"></child>
+            <child nodeId="node-1443"></child>
         </children>
     </item>
-    <item nodeId="node-1043">
+    <item nodeId="node-1443">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Scientific Base Camp
@@ -71,12 +71,12 @@ You can see an entrance tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1073"></child>
-            <child nodeId="node-1056"></child>
-            <child nodeId="node-1044"></child>
+        <children><child nodeId="node-1473"></child>
+            <child nodeId="node-1456"></child>
+            <child nodeId="node-1444"></child>
         </children>
     </item>
-    <item nodeId="node-1044">
+    <item nodeId="node-1444">
         <command xml:space="preserve">down</command>
         <result xml:space="preserve">
 Igloo
@@ -86,103 +86,103 @@ You can see an entrance tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1055"></child>
-            <child nodeId="node-1054"></child>
-            <child nodeId="node-1049"></child>
-            <child nodeId="node-1047"></child>
-            <child nodeId="node-1045"></child>
+        <children><child nodeId="node-1455"></child>
+            <child nodeId="node-1454"></child>
+            <child nodeId="node-1449"></child>
+            <child nodeId="node-1447"></child>
+            <child nodeId="node-1445"></child>
         </children>
     </item>
-    <item nodeId="node-1045">
+    <item nodeId="node-1445">
         <command xml:space="preserve">x sleepind scientist</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1046"></child>
+        <children><child nodeId="node-1446"></child>
         </children>
     </item>
-    <item nodeId="node-1046">
+    <item nodeId="node-1446">
         <command xml:space="preserve">x sleeping scientist</command>
         <result xml:space="preserve">I only understood you as far as wanting to examine the sleeping person.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1047">
+    <item nodeId="node-1447">
         <command xml:space="preserve">x person</command>
         <result xml:space="preserve">The sleeping guy has papers and tools around him. It look like he is a scientist. He sleeps like a log.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1048"></child>
+        <children><child nodeId="node-1448"></child>
         </children>
     </item>
-    <item nodeId="node-1048">
+    <item nodeId="node-1448">
         <command xml:space="preserve">search the person</command>
         <result xml:space="preserve">There is nothing on the sleeping person.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1049">
+    <item nodeId="node-1449">
         <command xml:space="preserve">up</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1050"></child>
+        <children><child nodeId="node-1450"></child>
         </children>
     </item>
-    <item nodeId="node-1050">
+    <item nodeId="node-1450">
         <command xml:space="preserve">crawl</command>
         <result xml:space="preserve">You must supply a noun.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1051"></child>
+        <children><child nodeId="node-1451"></child>
         </children>
     </item>
-    <item nodeId="node-1051">
+    <item nodeId="node-1451">
         <command xml:space="preserve">crawl the tunnel</command>
         <result xml:space="preserve">I only understood you as far as wanting to crawl.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1052"></child>
+        <children><child nodeId="node-1452"></child>
         </children>
     </item>
-    <item nodeId="node-1052">
+    <item nodeId="node-1452">
         <command xml:space="preserve">down</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1053"></child>
+        <children><child nodeId="node-1453"></child>
         </children>
     </item>
-    <item nodeId="node-1053">
+    <item nodeId="node-1453">
         <command xml:space="preserve">x sleeping scientist</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1054">
+    <item nodeId="node-1454">
         <command xml:space="preserve">search person</command>
         <result xml:space="preserve">There is nothing on the sleeping person.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1055">
+    <item nodeId="node-1455">
         <command xml:space="preserve">open sleeping scientist</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1056">
+    <item nodeId="node-1456">
         <command xml:space="preserve">crawl</command>
         <result xml:space="preserve">(in the entrance tunnel)
 
@@ -193,76 +193,76 @@ You can see an entrance tunnel and a sleeping researcher here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1068"></child>
-            <child nodeId="node-1067"></child>
-            <child nodeId="node-1065"></child>
-            <child nodeId="node-1063"></child>
-            <child nodeId="node-1057"></child>
+        <children><child nodeId="node-1468"></child>
+            <child nodeId="node-1467"></child>
+            <child nodeId="node-1465"></child>
+            <child nodeId="node-1463"></child>
+            <child nodeId="node-1457"></child>
         </children>
     </item>
-    <item nodeId="node-1057">
+    <item nodeId="node-1457">
         <command xml:space="preserve">x person</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1058"></child>
+        <children><child nodeId="node-1458"></child>
         </children>
     </item>
-    <item nodeId="node-1058">
+    <item nodeId="node-1458">
         <command xml:space="preserve">search person</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1059"></child>
+        <children><child nodeId="node-1459"></child>
         </children>
     </item>
-    <item nodeId="node-1059">
+    <item nodeId="node-1459">
         <command xml:space="preserve">crawl</command>
         <result xml:space="preserve">What do you want to crawl in?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1060"></child>
+        <children><child nodeId="node-1460"></child>
         </children>
     </item>
-    <item nodeId="node-1060">
+    <item nodeId="node-1460">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1061"></child>
+        <children><child nodeId="node-1461"></child>
         </children>
     </item>
-    <item nodeId="node-1061">
+    <item nodeId="node-1461">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1062"></child>
+        <children><child nodeId="node-1462"></child>
         </children>
     </item>
-    <item nodeId="node-1062">
+    <item nodeId="node-1462">
         <command xml:space="preserve">crawl</command>
         <result xml:space="preserve">What do you want to crawl in?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1063">
+    <item nodeId="node-1463">
         <command xml:space="preserve">x</command>
         <result xml:space="preserve">(the entrance tunnel)
 You see nothing special about the entrance tunnel.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1064"></child>
+        <children><child nodeId="node-1464"></child>
         </children>
     </item>
-    <item nodeId="node-1064">
+    <item nodeId="node-1464">
         <command xml:space="preserve">go down</command>
         <result xml:space="preserve">
 Igloo
@@ -273,16 +273,16 @@ You can see an entrance tunnel here.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1065">
+    <item nodeId="node-1465">
         <command xml:space="preserve">search the researcher</command>
         <result xml:space="preserve">You lift the multiple layers of blankets and fur and after a quick search you see something shiny that catches your frozen eyes: a Mont Blanc quill! Exactly what your boss needs to sign the contract. After a brief discussion with your conscience, you decide to take it.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1066"></child>
+        <children><child nodeId="node-1466"></child>
         </children>
     </item>
-    <item nodeId="node-1066">
+    <item nodeId="node-1466">
         <command xml:space="preserve">i</command>
         <result xml:space="preserve">You are carrying:
   a Mont Blanc quill
@@ -290,7 +290,7 @@ You can see an entrance tunnel here.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1067">
+    <item nodeId="node-1467">
         <command xml:space="preserve">down</command>
         <result xml:space="preserve">
 Igloo
@@ -301,17 +301,17 @@ You can see an entrance tunnel here.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1068">
+    <item nodeId="node-1468">
         <command xml:space="preserve">crawl the entrance tunnel</command>
         <result xml:space="preserve">I only understood you as far as wanting to crawl.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1071"></child>
-            <child nodeId="node-1069"></child>
+        <children><child nodeId="node-1471"></child>
+            <child nodeId="node-1469"></child>
         </children>
     </item>
-    <item nodeId="node-1069">
+    <item nodeId="node-1469">
         <command xml:space="preserve">down</command>
         <result xml:space="preserve">
 Igloo
@@ -321,10 +321,10 @@ You can see an entrance tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1070"></child>
+        <children><child nodeId="node-1470"></child>
         </children>
     </item>
-    <item nodeId="node-1070">
+    <item nodeId="node-1470">
         <command xml:space="preserve">up</command>
         <result xml:space="preserve">
 Scientific base camp
@@ -335,39 +335,39 @@ You can see an entrance tunnel here.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1071">
+    <item nodeId="node-1471">
         <command xml:space="preserve">crawl</command>
         <result xml:space="preserve">You must supply a noun.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1072"></child>
+        <children><child nodeId="node-1472"></child>
         </children>
     </item>
-    <item nodeId="node-1072">
+    <item nodeId="node-1472">
         <command xml:space="preserve">crawl</command>
         <result xml:space="preserve">You must supply a noun.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1073">
+    <item nodeId="node-1473">
         <command xml:space="preserve"> crawl</command>
         <result xml:space="preserve">You must supply a noun.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1074"></child>
+        <children><child nodeId="node-1474"></child>
         </children>
     </item>
-    <item nodeId="node-1074">
+    <item nodeId="node-1474">
         <command xml:space="preserve">crawl the entrance tunnel</command>
         <result xml:space="preserve">I only understood you as far as wanting to crawl.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1075">
+    <item nodeId="node-1475">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">
 Office
@@ -393,10 +393,10 @@ You can see a back door, a familiar looking door, a Leather chair and a conferen
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1076"></child>
+        <children><child nodeId="node-1476"></child>
         </children>
     </item>
-    <item nodeId="node-1076">
+    <item nodeId="node-1476">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Savannah
@@ -404,10 +404,10 @@ Savannah today
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1077"></child>
+        <children><child nodeId="node-1477"></child>
         </children>
     </item>
-    <item nodeId="node-1077">
+    <item nodeId="node-1477">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Scientific base camp
@@ -417,10 +417,10 @@ You can see an entrance tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1078"></child>
+        <children><child nodeId="node-1478"></child>
         </children>
     </item>
-    <item nodeId="node-1078">
+    <item nodeId="node-1478">
         <command xml:space="preserve">down</command>
         <result xml:space="preserve">
 Igloo
@@ -430,76 +430,76 @@ You can see an entrance tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1079"></child>
+        <children><child nodeId="node-1479"></child>
         </children>
     </item>
-    <item nodeId="node-1079">
+    <item nodeId="node-1479">
         <command xml:space="preserve">x person</command>
         <result xml:space="preserve">The sleeping guy has papers and tools around him. It look like he is a scientist. He sleeps like a log.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1080"></child>
+        <children><child nodeId="node-1480"></child>
         </children>
     </item>
-    <item nodeId="node-1080">
+    <item nodeId="node-1480">
         <command xml:space="preserve">search person</command>
         <result xml:space="preserve">There is nothing on the sleeping person.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1102">
+    <item nodeId="node-1481">
         <command xml:space="preserve">open big door</command>
         <result xml:space="preserve">Scientifique Base Camp
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1110">
+    <item nodeId="node-1482">
         <command xml:space="preserve">look table</command>
         <result xml:space="preserve">This table is unnecessary large for the number of people it is currently hosting. Since it is made out of glass, you can still perfectly see the traces your sweaty fingers laid of it earlier.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1113"></child>
+        <children><child nodeId="node-1483"></child>
         </children>
     </item>
-    <item nodeId="node-1113">
+    <item nodeId="node-1483">
         <command xml:space="preserve">open door</command>
         <result xml:space="preserve">Which do you mean, the shiny door, the outstanding door, the back door, the familiar looking door or the big door?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1094">
+    <item nodeId="node-1484">
         <command xml:space="preserve">look big door</command>
         <result xml:space="preserve">it is your only way out of the room. Something tells you you should be quick to open it and get on that paper and pen hunt of yours. 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1095"></child>
+        <children><child nodeId="node-1485"></child>
         </children>
     </item>
-    <item nodeId="node-1095">
+    <item nodeId="node-1485">
         <command xml:space="preserve"></command>
         <result xml:space="preserve">I beg your pardon?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1096"></child>
+        <children><child nodeId="node-1486"></child>
         </children>
     </item>
-    <item nodeId="node-1096">
+    <item nodeId="node-1486">
         <command xml:space="preserve">open big oor</command>
         <result xml:space="preserve">I only understood you as far as wanting to open the big door.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1097"></child>
+        <children><child nodeId="node-1487"></child>
         </children>
     </item>
-    <item nodeId="node-1097">
+    <item nodeId="node-1487">
         <command xml:space="preserve">open big door</command>
         <result xml:space="preserve">Scientific Base Camp
 The only thing you see beyond the camp's igloos is ice and extracted ice caps. You don't want to spend too much time here unless you always wanted to be a human ice cream. The igloos are scattered over a large area, but one is not far away. If you want to go inside, you'll have to crawl through the entrance tunnel.
@@ -509,16 +509,16 @@ You can see an entrance tunnel here.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1081">
+    <item nodeId="node-1488">
         <command xml:space="preserve">go to back door</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1082"></child>
+        <children><child nodeId="node-1489"></child>
         </children>
     </item>
-    <item nodeId="node-1082">
+    <item nodeId="node-1489">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Savannah
@@ -526,10 +526,10 @@ Savannah today
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1083"></child>
+        <children><child nodeId="node-1490"></child>
         </children>
     </item>
-    <item nodeId="node-1083">
+    <item nodeId="node-1490">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Scientific base camp
@@ -539,10 +539,10 @@ You can see an entrance tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1084"></child>
+        <children><child nodeId="node-1491"></child>
         </children>
     </item>
-    <item nodeId="node-1084">
+    <item nodeId="node-1491">
         <command xml:space="preserve">go down</command>
         <result xml:space="preserve">
 Igloo
@@ -552,10 +552,10 @@ You can see an entrance tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1085"></child>
+        <children><child nodeId="node-1492"></child>
         </children>
     </item>
-    <item nodeId="node-1085">
+    <item nodeId="node-1492">
         <command xml:space="preserve">up</command>
         <result xml:space="preserve">
 Scientific base camp
@@ -565,19 +565,19 @@ You can see an entrance tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1086"></child>
+        <children><child nodeId="node-1493"></child>
         </children>
     </item>
-    <item nodeId="node-1086">
+    <item nodeId="node-1493">
         <command xml:space="preserve">up</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1087"></child>
+        <children><child nodeId="node-1494"></child>
         </children>
     </item>
-    <item nodeId="node-1087">
+    <item nodeId="node-1494">
         <command xml:space="preserve">down</command>
         <result xml:space="preserve">
 Igloo
@@ -587,10 +587,10 @@ You can see an entrance tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1088"></child>
+        <children><child nodeId="node-1495"></child>
         </children>
     </item>
-    <item nodeId="node-1088">
+    <item nodeId="node-1495">
         <command xml:space="preserve">x sleeping scientist</command>
         <result xml:space="preserve">You can't see any such thing.
 
