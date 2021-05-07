@@ -5,6 +5,8 @@ section 1 - Objets
 A pen is a kind of things. 
 A Mont Blanc quill is a pen.
 
+A key is a kind of things.
+
 A feather is a pen.
 
 An animal is a kind of things. 
@@ -99,9 +101,9 @@ Report reading: say "you squinkt your eyes: '[The label of the noun]'  mmmh..."
 
 section 4 - India 
 
-New Delhi is a room. The description of the New Delhi is "The city center today".
+New Delhi is a room. The description of the New Delhi is "You are now in the city center of New Dehli nowadays: your senses are flooded with all kinds of informations. The smells of a thousand spices assault your nostrils from a street market on your right hand and their colors fill up your soul like flowers in the spring, birds are singing and market sellers seems to be answering them prices of their marchandises, the whole thing is wrapped up in a whirlwind of scooters and tuktuk that add a deeply human touch to the frenzy of the moment."
 
-The outstanding door is a door. It is south of New Delhi and north of the office. The outstanding door is lockable and locked.  "[if the player is in New Delhi]A big and modern glass door. You know, that opaque kind of glass which looks very expensive. Of course you'd know, your office has the same ones.[otherwise]- No paper, no pens, is this really it? The office of the future?[end if]"
+The returning door is a door. It is south of New Delhi and north of the office. The returning door is lockable and locked.  "[if the player is in New Delhi]Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn't seem to belong here: a modern glass door. You know, that opaque kind of glass which looks very expensive. Of course you'd know, your office has the same ones.[otherwise]- No paper, no pens, is this really it? The office of the future?[end if]"
 
 
 Yogi's retreat is a room. Yogi's retreat is east of New Delhi. The description of the Yogi's retreat is "the only community still standing in 20900's India".
@@ -164,7 +166,22 @@ Section 6 - Latin America
 
 Mexico City is a room. Mexico City is north of Wuhan. The description of Mexico City is "Gunshots pierce the sky as you cross the road of today's Mexico. It is getting quite dark and you don't want any trouble. You see four similarly unwellcoming alleyways each leading in different directions: south, north, east and west.".
 
-Scorpion's nest is a room. Scorpion's nest is east of Mexico City. The description of the  Scorpion's nest is "As time past, a lot of species went extinct. Not scorpions though, scorpions got bigger. Unfortunately, way bigger than you."
+
+Scorpion World is a room. Scorpion World is east of Mexico City. The description of the Scorpion World is "Here you step into the future of Latin America. As time passed, a lot of species went extinct. Not scorpions though, scorpions got bigger. Unfortunately, way bigger than you. The whole contient mutated into a huge conurbation of enormous scorpion nests: you are in the middle of it. In front of you is one of those scorpion nest."
+
+A nest is an openable container. It is open. It is in Scorpion World. "The nest is swarming with 'little' scorpions, as big as your head. One of the baby scorpion – that you surprisingly find cute with its sharp little claws, its hairy exoskeleton and its menacing scorpion's tail dancing gently in the warm wind - comes to you, certainly interested by your delicious monkey shape. Violence is never an answer – but now that you are in front of the scorpion that keeps coming closer, saliva dripping from its lips, I would suggest you to attack it!'"
+
+A baby scorpion is a person in the nest. Understand "scorpion" as baby scorpion. The baby carries a scorpion's tail.
+
+A scorpion's tail is a pen. 
+
+instead of attacking the scorpion:
+	try searching the scorpion.
+	
+Instead of searching the scorpion when the scorpion carries the scorpion's tail:
+	say "After an epic battle in which you found yourself without trousers because your belt was the only weapon you could find, you finally manage to finish off the baby scorpion that passes away looking you right in the eyes. To honor this proud and mighty enemy, you decide to craft a pen out of it's tail.";
+	move the scorpion's tail to the player.
+
 
 Aztec temple is a room. Aztec temple is west of Mexico City. The description of Aztec temple is "The humming of a ritual chant bounces on the stone walls, you came right on time for the human sacrifice !".
 
@@ -172,17 +189,19 @@ Section 7 - Antarctica
 
 Antarctica is a region. Ice, stars and wind is a backdrop. Ice, stars and wind is in Antartica. 
 
-Scientific Base Camp is a room in Antarctica. Scientific base camp is north of Mexico City. The description of Scientific base camp is "The only thing you see beyond the camp's igloos is ice and extracted ice caps. You don't want to spend too much time here unless you always wanted to be a human ice cream. The igloos are scattered over a large area, but one is not far away. If you want to go inside, you'll have to crawl through the entrance tunnel."
+Scientific Base Camp is a room in Antarctica. Scientific base camp is north of Mexico City. The description of Scientific base camp is "Present of Antarctica. The only thing you see beyond the camp's igloos is ice and extracted ice caps. You don't want to spend too much time here unless you always wanted to be a human ice cream. The igloos are scattered over a large area, but one is not far away. If you want to go inside, you'll have to crawl through the tunnel."
 
-The entrance tunnel is an unopenable open door. It is down from the Scientific Base Camp and up from the Igloo.
+The tunnel is an unopenable open door. It is down from the Scientific Base Camp and up from the Igloo.
 
 Understand "crawl in/into [something]" as going.
 
 An Igloo is a room in Antarctica. It is down from the Scientifique Base Camp. The description of Igloo is "You cannot see much, but a dying fire sufficiently illuminates the place to be able to see the room made of ice. At the back of the igloo, you see a sleeping person. He looks like a researcher, he certainly writes things down everyday..."
 
+Understand "crawl in/into [something]" as going.
+
 A sleeping researcher is a person in the Igloo. The description is "This sleeping guy has papers and tools around him. It looks like he is a researcher. He sleeps like a log." Understand "researcher" as sleeping researcher. The researcher carries a Mont Blanc quill.
 
-A Mont Blanc quill is a pen. The description is "an old Mont Blanc quill plagued by damp and cold, but it still work." 
+A Mont Blanc quill is a pen. The description is "an old Mont Blanc quill plagued by damp and cold, but it still works." 
 
 Instead of searching the researcher when the researcher carries the Mont Blanc quill:
 	say "You lift the multiple layers of blankets and fur and after a quick search you see something shiny that catches your frozen eyes: a Mont Blanc quill! Exactly what your boss needs to sign the contract. After a brief discussion with your conscience, you decide to take it.";
