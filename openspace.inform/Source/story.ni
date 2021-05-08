@@ -102,7 +102,6 @@ Report reading: say "you squinkt your eyes: '[The label of the noun]'  mmmh..."
 section 4 - India 
 
 New Delhi is a room. The description of the New Delhi is "You are now in the city center of New Dehli nowadays: your senses are flooded with all kinds of informations. The smells of a thousand spices assault your nostrils from a street market on your right hand and their colors fill up your soul like flowers in the spring, birds are singing and market sellers seems to be answering them prices of their marchandises, the whole thing is wrapped up in a whirlwind of scooters and tuktuk that add a deeply human touch to the frenzy of the moment."
-<<<<<<< HEAD
 
 The modern glass door is a door. It is south of New Delhi and north of the office. The modern glass door is lockable and locked.  "[if the player is in New Delhi]Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn't seem to belong here: a modern glass door. You know, that opaque kind of glass which looks very expensive. Of course you'd know, your office has the same ones.[otherwise]- No paper, no pens, is this really it? The office of the future?[end if]"
 
@@ -113,17 +112,6 @@ Maharaja's palace is a room. Maharaja's palace is west of New Delhi. The descrip
 
 Looking one of the peacocks, you think to yourself: I bet I could use one of its feathers as a pen..."
 
-=======
-
-The returning door is a door. It is south of New Delhi and north of the office. The returning door is lockable and locked.  "[if the player is in New Delhi]Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn't seem to belong here: a modern glass door. You know, that opaque kind of glass which looks very expensive. Of course you'd know, your office has the same ones.[otherwise]- No paper, no pens, is this really it? The office of the future?[end if]"
-
-Yogi's retreat is a room. Yogi's retreat is east of New Delhi. The description of the Yogi's retreat is "The only community still standing in 20900's India. This sanctuary is filled with trees, and in the network of streams that run around, you can see huge red, orange and white carps. Yoga matresses are pretty much everywhere, and the smell of the incense is just delightful. You feel a big sense of inner peace... if you stay too long here, you might never leave.".
-
-Maharaja's palace is a room. Maharaja's palace is west of New Delhi. The description of the  Maharaja's palace is "The imposing white marble palace is surrounded by the magnificent gardens of prince Abdul the second. Multiple fountains provide fresh water for the animals that reside in the gardens: birds of all colors and sizes that sing from dawn till dusk, little monkeys that jump from tree to tree and try to steal whatever you're eating, and beautiful colorful peacocks that turn around.
-
-Looking one of the peacocks, you think to yourself: I bet I could use one of its feathers as a pen..."
-
->>>>>>> parent of d7744b2 (coucou)
 A Peacock is in the Maharaja’s palace.
 
 Instead of touching the peacock:
@@ -155,7 +143,6 @@ Report playing: say "You won!!".
 Chinese Workshop is a room. Chinese Workshop is west of Wuhan. The description of the  Chinese Workshop is "A small and dusty room, with a little window that opens to a wide rice field. The air is tick and gloomy due to the arrival of the rain season. An old artisan wearing a straw hat and loose hemp clothes made is making rice paper at the back of the room. You slowly approach the man and, after bending towards in sign of respect, you ask him: 
 
 - Sir, may I borrow one of these please?
-<<<<<<< HEAD
 
 - Yes, of course, go ahead.".
 
@@ -169,21 +156,6 @@ Understand the command "write" as something new.
 
 Writing is an action applying to two carried things. 
 
-=======
-
-- Yes, of course, go ahead.".
-
-The artisan is a person. He carries a rice paper. 
-
-Instead of taking the paper:
-	say "You thank the old man for the paper, and now you have something to write on!";
-	move the rice paper to the player. 
-
-Understand the command "write" as something new.
-
-Writing is an action applying to two carried things. 
-
->>>>>>> parent of d7744b2 (coucou)
 Understand "write down on the [paper] using the [pen]" as writing.
 
 Check writing when the noun is not a pen: instead say "You cannot write down with this [noun]."
