@@ -103,7 +103,8 @@ section 4 - India
 
 New Delhi is a room. The description of the New Delhi is "You are now in the city center of New Dehli nowadays: your senses are flooded with all kinds of informations. The smells of a thousand spices assault your nostrils from a street market on your right hand and their colors fill up your soul like flowers in the spring, birds are singing and market sellers seems to be answering them prices of their marchandises, the whole thing is wrapped up in a whirlwind of scooters and tuktuk that add a deeply human touch to the frenzy of the moment."
 
-The returning door is a door. It is south of New Delhi and north of the office. The returning door is lockable and locked.  "[if the player is in New Delhi]Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn't seem to belong here: a modern glass door. You know, that opaque kind of glass which looks very expensive. Of course you'd know, your office has the same ones.[otherwise]- No paper, no pens, is this really it? The office of the future?[end if]"
+The modern glass door is a door. It is south of New Delhi and north of the office. The modern glass door is lockable and locked.  "[if the player is in New Delhi]Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn't seem to belong here: a modern glass door. You know, that opaque kind of glass which looks very expensive. Of course you'd know, your office has the same ones.[otherwise]- No paper, no pens, is this really it? The office of the future?[end if]"
+
 
 Yogi's retreat is a room. Yogi's retreat is east of New Delhi. The description of the Yogi's retreat is "The only community still standing in 20900's India. This sanctuary is filled with trees, and in the network of streams that run around, you can see huge red, orange and white carps. Yoga matresses are pretty much everywhere, and the smell of the incense is just delightful. You feel a big sense of inner peace... if you stay too long here, you might never leave.".
 
@@ -163,10 +164,12 @@ Report writing: say "now you can write it down [noun] using [noun]".
 
 Section 6 - Latin America 
 
-Mexico City is a room. Mexico City is north of Wuhan. The description of Mexico City is "Gunshots pierce the sky as you cross the road of today's Mexico. It is getting quite dark and you don't want any trouble. You see four similarly unwellcoming alleyways each leading in different directions: south, north, east and west.".
+Latin America is a region. 
+
+Mexico City is a room in Latin America. Mexico City is north of Wuhan. The description of Mexico City is "Gunshots pierce the sky as you cross the road of today's Mexico. It is getting quite dark and you don't want any trouble. You see four similarly unwellcoming alleyways each leading in different directions: south, north, east and west.".
 
 
-Scorpion World is a room. Scorpion World is east of Mexico City. The description of the Scorpion World is "Here you step into the future of Latin America. As time passed, a lot of species went extinct. Not scorpions though, scorpions got bigger. Unfortunately, way bigger than you. The whole contient mutated into a huge conurbation of enormous scorpion nests: you are in the middle of it. In front of you is one of those scorpion nest."
+Scorpion World is a room in Latin America. Scorpion World is east of Mexico City. The description of the Scorpion World is "Here you step into the future of Latin America. As time passed, a lot of species went extinct. Not scorpions though, scorpions got bigger. Unfortunately, way bigger than you. The whole contient mutated into a huge conurbation of enormous scorpion nests: you are in the middle of it. In front of you is one of those scorpion nest."
 
 A nest is an openable container. It is open. It is in Scorpion World. "The nest is swarming with 'little' scorpions, as big as your head. One of the baby scorpion – that you surprisingly find cute with its sharp little claws, its hairy exoskeleton and its menacing scorpion's tail dancing gently in the warm wind - comes to you, certainly interested by your delicious monkey shape. Violence is never an answer – but now that you are in front of the scorpion that keeps coming closer, saliva dripping from its lips, I would suggest you to attack it!'"
 
@@ -182,7 +185,16 @@ Instead of searching the scorpion when the scorpion carries the scorpion's tail:
 	move the scorpion's tail to the player.
 
 
-Aztec temple is a room. Aztec temple is west of Mexico City. The description of Aztec temple is "The humming of a ritual chant bounces on the stone walls, you came right on time for the human sacrifice !".
+Aztec Temple is a room in Latin America. Aztec Temple is west of Mexico City. The description of Aztec temple is "The humming of a ritual chant bounces on the stone walls, you came right on time for the human sacrifice ! It seems like you landed in the past of Latin America and that the great Aztec civilization is at its peak."
+
+An Astec Statue is a supporter in the Aztec Temple. The description of the Astec Statue is "A representation of Quetzalcóatl, the snake-god. It is cubical and stable. It stands just in front of a wall, behind which is a strange place that looks like a landfill site but instead of broken washing machines and old lamps, a lot of yellow-white sticks and balls with wholes are laying there..."
+
+A wall is a thing. It is in the Astec Temple. "A middle sized wall built in a strangely intelligent way with huge stones. It is too big for you to climb.."
+
+Ritual Waste is a room in Latin America. It is up from Astec Temple. "This place reminds you why you dont like BBQ: mostly because of the smell... While you are wondering why you got up here, your eyes are caught by what seems to be a human collarbone. It is strangely sharp, it almost look like a pen.."
+
+Understand "climb [direction]" as going.
+
 
 Section 7 - Antarctica  
 
