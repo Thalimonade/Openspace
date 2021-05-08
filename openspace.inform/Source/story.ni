@@ -126,7 +126,7 @@ The entrance tunnel is an unopenable open door. It is down from the Scientific B
 
 Understand "crawl in/into [something]" as going.
 
-An Igloo is a room in Antarctica. It is down from the Scientifique Base Camp. The description of Igloo is "You cannot see much, but a dying fire sufficiently illuminates the place to be able to see the room made of ice. At the back of the igloo, you see a sleeping person. He looks like a researcher, he certainly writes things down everyday..."
+An Igloo is a room in Antarctica. The description of Igloo is "You cannot see much, but a dying fire sufficiently illuminates the place to be able to see the room made of ice. At the back of the igloo, you see a sleeping person. He looks like a researcher, he certainly writes things down everyday..."
 
 A sleeping researcher is a person in the Igloo. The description is "This sleeping guy has papers and tools around him. It looks like he is a researcher. He sleeps like a log." Understand "researcher" as sleeping researcher. The researcher carries a Mont Blanc quill.
 
