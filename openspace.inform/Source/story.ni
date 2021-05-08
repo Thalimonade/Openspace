@@ -236,6 +236,10 @@ There are 100 books in Alexandria's Library.
 A Book is a kind of thing. The description of a Book is "You can browse it if you want to. You might find some useful info here.".
 A Blank Page is a thing.
 
+Browsing is an action applying to one thing. Check browsing: if the noun is not a Book, say "[The noun] cannot be browsed." instead.
+Understand "browse [something]" as browsing.
+
+
 Carry out browsing a book:
 	if a random chance of 1 in 10 succeeds:
 		say "There is a Blank Page in the book. You tear it and put it in your pocket.";
