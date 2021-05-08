@@ -102,6 +102,7 @@ Report reading: say "you squinkt your eyes: '[The label of the noun]'  mmmh..."
 section 4 - India 
 
 New Delhi is a room. The description of the New Delhi is "You are now in the city center of New Dehli nowadays: your senses are flooded with all kinds of informations. The smells of a thousand spices assault your nostrils from a street market on your right hand and their colors fill up your soul like flowers in the spring, birds are singing and market sellers seems to be answering them prices of their marchandises, the whole thing is wrapped up in a whirlwind of scooters and tuktuk that add a deeply human touch to the frenzy of the moment."
+<<<<<<< HEAD
 
 The modern glass door is a door. It is south of New Delhi and north of the office. The modern glass door is lockable and locked.  "[if the player is in New Delhi]Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn't seem to belong here: a modern glass door. You know, that opaque kind of glass which looks very expensive. Of course you'd know, your office has the same ones.[otherwise]- No paper, no pens, is this really it? The office of the future?[end if]"
 
@@ -112,6 +113,17 @@ Maharaja's palace is a room. Maharaja's palace is west of New Delhi. The descrip
 
 Looking one of the peacocks, you think to yourself: I bet I could use one of its feathers as a pen..."
 
+=======
+
+The returning door is a door. It is south of New Delhi and north of the office. The returning door is lockable and locked.  "[if the player is in New Delhi]Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn't seem to belong here: a modern glass door. You know, that opaque kind of glass which looks very expensive. Of course you'd know, your office has the same ones.[otherwise]- No paper, no pens, is this really it? The office of the future?[end if]"
+
+Yogi's retreat is a room. Yogi's retreat is east of New Delhi. The description of the Yogi's retreat is "The only community still standing in 20900's India. This sanctuary is filled with trees, and in the network of streams that run around, you can see huge red, orange and white carps. Yoga matresses are pretty much everywhere, and the smell of the incense is just delightful. You feel a big sense of inner peace... if you stay too long here, you might never leave.".
+
+Maharaja's palace is a room. Maharaja's palace is west of New Delhi. The description of the  Maharaja's palace is "The imposing white marble palace is surrounded by the magnificent gardens of prince Abdul the second. Multiple fountains provide fresh water for the animals that reside in the gardens: birds of all colors and sizes that sing from dawn till dusk, little monkeys that jump from tree to tree and try to steal whatever you're eating, and beautiful colorful peacocks that turn around.
+
+Looking one of the peacocks, you think to yourself: I bet I could use one of its feathers as a pen..."
+
+>>>>>>> parent of d7744b2 (coucou)
 A Peacock is in the Maharaja’s palace.
 
 Instead of touching the peacock:
@@ -143,6 +155,7 @@ Report playing: say "You won!!".
 Chinese Workshop is a room. Chinese Workshop is west of Wuhan. The description of the  Chinese Workshop is "A small and dusty room, with a little window that opens to a wide rice field. The air is tick and gloomy due to the arrival of the rain season. An old artisan wearing a straw hat and loose hemp clothes made is making rice paper at the back of the room. You slowly approach the man and, after bending towards in sign of respect, you ask him: 
 
 - Sir, may I borrow one of these please?
+<<<<<<< HEAD
 
 - Yes, of course, go ahead.".
 
@@ -156,6 +169,21 @@ Understand the command "write" as something new.
 
 Writing is an action applying to two carried things. 
 
+=======
+
+- Yes, of course, go ahead.".
+
+The artisan is a person. He carries a rice paper. 
+
+Instead of taking the paper:
+	say "You thank the old man for the paper, and now you have something to write on!";
+	move the rice paper to the player. 
+
+Understand the command "write" as something new.
+
+Writing is an action applying to two carried things. 
+
+>>>>>>> parent of d7744b2 (coucou)
 Understand "write down on the [paper] using the [pen]" as writing.
 
 Check writing when the noun is not a pen: instead say "You cannot write down with this [noun]."
@@ -206,7 +234,7 @@ The tunnel is an unopenable open door. It is down from the Scientific Base Camp 
 
 Understand "crawl in/into [something]" as going.
 
-An Igloo is a room in Antarctica. It is down from the Scientifique Base Camp. The description of Igloo is "You cannot see much, but a dying fire sufficiently illuminates the place to be able to see the room made of ice. At the back of the igloo, you see a sleeping person. He looks like a researcher, he certainly writes things down everyday..."
+An Igloo is a room in Antarctica. The description of Igloo is "You cannot see much, but a dying fire sufficiently illuminates the place to be able to see the room made of ice. At the back of the igloo, you see a sleeping person. He looks like a researcher, he certainly writes things down everyday..."
 
 Understand "crawl in/into [something]" as going.
 
@@ -230,11 +258,38 @@ Savannah is a room. Savannah is north of Scientific base camp. The description o
 The shiny door is a door. It is south of the office and north of Savannah. The shiny door is lockable and locked.  "[if the player is in Savannah]A big and modern glass door. You know, that opaque kind of glass which looks very expensive.[otherwise]Now out of your [leather chair], you take a last look at the [conference table]. You think to yourself:[end if]"
  
 
-Alexandria's Library is a room. Alexandria's Library is west of Savannah. The description of the Alexandria's Library is "Cars finally float on air cushions and plants co-exist with skyscrapers in a friendly and aesthetic way. ".
+Alexandria's Library is a room. Alexandria's Library is west of Savannah. The description of the Alexandria's Library is "This is probably the greatest sanctuary of knowledge of all time. There are tons of books in there. They don't seem to be arranged in any specific order. You realize just how much looking up stuff was an elephantine task before the Internet.".
+There are 100 books in Alexandria's Library.
+
+A Book is a kind of thing. The description of a Book is "You can browse it if you want to. You might find some useful info here.".
+A Blank Page is a thing.
+
+Carry out browsing a book:
+	if a random chance of 1 in 10 succeeds:
+		say "There is a Blank Page in the book. You tear it and put it in your pocket.";
+		now the player has a Blank Page;
+	if  a random chance of 1 in 20 succeeds:
+		say "This looks like ancient Greek. Your are able to decipher a few lines mentioning time travel and a golden key. The next page tells the story of a rich merchant and a chest full of invaluable treasures. On the top of the page, some Arabic numerals indicate the number 1717.";
+	otherwise:
+		say "The book is written in an ancient language you have never seen before. You don't understand anything. Try another one.";
+
 
 Souk Ruins is a room. Souk Ruins is east of Savannah. The description of Souk Ruins is "A labyrinthine series of corridors unfolds in front of you. The stones that pave the ground reflect the dazzling sunlight".
+The Chest is in the Souk Ruins.
+The Oil Lamp is in the Chest.
+The Golden Key is in the Oil Lamp.
 
+The Oil Lamp is an unopenable opaque container. The description of the Oil Lamp is "An old clay Oil Lamp. The outer surface is covered with intricate designs, faded out by centuries. It evidently belonged to some indecently rich sultan of old.". 
 
+The Chest is a locked opaque container. The description of the Chest is "A beautifully ornate Chest. Flowery twines of gold run across shiny pieces of mahogany and tangle with various inlays of ivory and pearl. There is a complex mechanism resembling an astrolabe instead of a keyhole.".
+
+The Astrolabe is a thing. The Astrolabe is part of the Chest. The description of the Astrolabe is "The Astrolabe is looks like a dial with a wavy golden arrow pointing at signs vaguely related to modern Arabic numerals. You can spin the Astrolabe to any of those numbers.".
+
+Spinning it to is an action applying to one thing and one number. Check spinning it to: if the noun is not the Astrolabe, say "[The noun] is not spinnable." instead. Report spinning: say "Click! Nothing happens."
+
+After spinning the Astrolabe to 1717: now the Chest is unlocked; say "The Astrolabe produces a symphony of mysterious creaking noises." 
+
+Understand "spin [something] to [a number]" as spinning it to.
 
 
 
