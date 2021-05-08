@@ -1,5 +1,9 @@
 Debugging log of Inform 7
+<<<<<<< HEAD
 Inform called as: /Applications/Inform.app/Contents/MacOS/ni -internal /Applications/Inform.app/Contents/Resources/Internal -external /Users/davlokpavid/Library/Inform -project /Users/davlokpavid/Desktop/Openspace/Openspace.inform -format=ulx
+=======
+Inform called as: /Applications/Inform.app/Contents/MacOS/ni -internal /Applications/Inform.app/Contents/Resources/Internal -external /Users/thaliesch/Library/Inform -project /Users/thaliesch/Documents/GitHub/Openspace/Openspace.inform -format=ulx
+>>>>>>> b581021fb176e6f37a7317c1ceda9c3fca1cda80
 Found language bundle 'German' (built in)
 Found language bundle 'Italian' (built in)
 Found language bundle 'English' (built in)
@@ -14,7 +18,11 @@ Reading language definition from </Applications/Inform.app/Contents/Resources/In
 Phase I ... Lexical analysis
 -----------------------------------------------------
 
+<<<<<<< HEAD
 I've now read your source text, which is 3422 words long.
+=======
+I've now read your source text, which is 2291 words long.
+>>>>>>> b581021fb176e6f37a7317c1ceda9c3fca1cda80
 
 
 -----------------------------------------------------
@@ -53,6 +61,7 @@ Phase VI ... Semantic analysis III
 Phase VII ... First pass through assertions
 -----------------------------------------------------
 
+<<<<<<< HEAD
     Regional: CONSTANT_VNT'latin america'-region()(I100'latin america')
      == region
     Regional: CONSTANT_VNT'latin america'-region()(I100'latin america')
@@ -68,6 +77,15 @@ Phase VII ... First pass through assertions
     Regional: CONSTANT_VNT'the antarctica'-region()(I111'antarctica')
      == region
     Regional: CONSTANT_VNT'antarctica'-region()(I111'antarctica')
+=======
+    Regional: CONSTANT_VNT'antarctica'-region()(I97'antarctica')
+     == region
+    Regional: CONSTANT_VNT'antarctica'-region()(I97'antarctica')
+     == region
+    Regional: CONSTANT_VNT'the antarctica'-region()(I97'antarctica')
+     == region
+    Regional: CONSTANT_VNT'antarctica'-region()(I97'antarctica')
+>>>>>>> b581021fb176e6f37a7317c1ceda9c3fca1cda80
      == region
 
 
@@ -190,8 +208,13 @@ Providing for a total heap of 8192, given requirement of 8192
 Phase XIII ... Compilation now complete
 -----------------------------------------------------
 
+<<<<<<< HEAD
 Total of 104 files written as streams.
-CPU time: 125 centiseconds
+CPU time: 128 centiseconds
+=======
+Total of 102 files written as streams.
+CPU time: 76 centiseconds
+>>>>>>> b581021fb176e6f37a7317c1ceda9c3fca1cda80
 
 
 That concludes the debugging log from this run of Inform.
