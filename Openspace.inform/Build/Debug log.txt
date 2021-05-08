@@ -14,7 +14,7 @@ Reading language definition from </Applications/Inform.app/Contents/Resources/In
 Phase I ... Lexical analysis
 -----------------------------------------------------
 
-I've now read your source text, which is 3831 words long.
+I've now read your source text, which is 3860 words long.
 
 
 -----------------------------------------------------
@@ -93,33 +93,106 @@ Phase X ... Tables and grammar
 Phase XI ... Phrases and rules
 -----------------------------------------------------
 
-PHUD: <carry out browsing a book>: rule attachment mode RULE_IN_RULEBOOK_EFF
-  Rule preamble: <carry out browsing a book>
-  Rule parameter: <browsing a book>
-  Owned by rulebook: Rulebook 22 (carry out)
-  Placement: MIDDLE_PLACEMENT
-Bad action pattern: browsing a book =   [Invalid]  Action: unspecified
-
-PAP failure reason: 2
-Problem PM_APWithNoParticiple issued from inform7/Chapter 28/Phrase Usage.w, line 779
-
-In Section 8 - Africa:
-
-
-  >--> You wrote 'Carry out browsing a book' (source text, line 239), which
-    seems to introduce a rule taking effect only 'browsing a book'. But this
-    does not look like an action, since there is no sign of a participle ending
-    '-ing' (as in 'taking the brick', say) - which makes me think I have badly
-    misunderstood what you intended.
-
 
 
 -----------------------------------------------------
-Phase XII ... Compilation now complete
+Phase XII ... Code generation
 -----------------------------------------------------
 
-Total of 4 files written as streams.
-CPU time: 27 centiseconds
+
+
+==== Phase XII.1 ... Compiling the storage for the model world ====
+
+
+
+==== Phase XII.2 ... Compiling the tables ====
+
+
+
+==== Phase XII.3 ... Compiling the equations ====
+
+
+
+==== Phase XII.4 ... Compiling the named action patterns ====
+
+
+
+==== Phase XII.5 ... Compiling the action routines ====
+
+
+
+==== Phase XII.6 ... Compiling first block of phrases ====
+
+0 = object. 1 = number
+
+
+==== Phase XII.7 ... Compiling the rulebooks ====
+
+
+
+==== Phase XII.8 ... Compiling scene details ====
+
+
+
+==== Phase XII.9 ... CTNL ====
+
+
+
+==== Phase XII.10 ... Slashing grammar (G1) ====
+
+
+
+==== Phase XII.11 ... Determining grammar (G2) ====
+
+
+
+==== Phase XII.12 ... Compiling GPR tokens for parsing various kinds of value ====
+
+
+
+==== Phase XII.13 ... Compiling second block of phrases ====
+
+
+
+==== Phase XII.14 ... Compiling noun and scope filter tokens ====
+
+
+
+==== Phase XII.15 ... Compiling chronology ====
+
+
+
+==== Phase XII.16 ... Compiling I6 Verb directives ====
+
+
+
+==== Phase XII.17 ... Slashing grammar (G1) ====
+
+
+
+==== Phase XII.18 ... Determining grammar (G2) ====
+
+
+
+==== Phase XII.19 ... Sorting and compiling non-value grammar (G3, G4) ====
+
+
+
+==== Phase XII.20 ... Compiling noun and scope filter tokens ====
+
+
+
+==== Phase XII.21 ... Compiling routines from predicate calculus ====
+
+Providing for a total heap of 8192, given requirement of 8192
+
+
+-----------------------------------------------------
+Phase XIII ... Compilation now complete
+-----------------------------------------------------
+
+Total of 106 files written as streams.
+CPU time: 82 centiseconds
 
 
 That concludes the debugging log from this run of Inform.
