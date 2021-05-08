@@ -3,63 +3,63 @@
 <plist version="1.0"><dict>
     <key>Application Version</key><string>6M62</string>
     <key>0</key><dict>
-        <key>Filename</key><string>/Users/davlokpavid/Desktop/Openspace/Openspace.inform/Source/story.ni</string>
+        <key>Filename</key><string>/Users/thaliesch/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
         <key>Line</key><integer>1</integer>
         <key>Title</key><string>"Open Space" by Thalie Schmidt, Laura Pippus, David Pavlik et Ludovic Rochat</string>
         <key>Level</key><integer>0</integer>
         <key>Indentation</key><integer>0</integer>
     </dict>
     <key>1</key><dict>
-        <key>Filename</key><string>/Users/davlokpavid/Desktop/Openspace/Openspace.inform/Source/story.ni</string>
+        <key>Filename</key><string>/Users/thaliesch/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
         <key>Line</key><integer>3</integer>
         <key>Title</key><string>section 1 - Objets</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>2</key><dict>
-        <key>Filename</key><string>/Users/davlokpavid/Desktop/Openspace/Openspace.inform/Source/story.ni</string>
+        <key>Filename</key><string>/Users/thaliesch/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
         <key>Line</key><integer>18</integer>
         <key>Title</key><string>section 2 - Office</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>3</key><dict>
-        <key>Filename</key><string>/Users/davlokpavid/Desktop/Openspace/Openspace.inform/Source/story.ni</string>
+        <key>Filename</key><string>/Users/thaliesch/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
         <key>Line</key><integer>48</integer>
         <key>Title</key><string>section 3 - Europe</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>4</key><dict>
-        <key>Filename</key><string>/Users/davlokpavid/Desktop/Openspace/Openspace.inform/Source/story.ni</string>
+        <key>Filename</key><string>/Users/thaliesch/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
         <key>Line</key><integer>102</integer>
         <key>Title</key><string>section 4 - India</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>5</key><dict>
-        <key>Filename</key><string>/Users/davlokpavid/Desktop/Openspace/Openspace.inform/Source/story.ni</string>
+        <key>Filename</key><string>/Users/thaliesch/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
         <key>Line</key><integer>121</integer>
         <key>Title</key><string>Section 5 - China</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>6</key><dict>
-        <key>Filename</key><string>/Users/davlokpavid/Desktop/Openspace/Openspace.inform/Source/story.ni</string>
+        <key>Filename</key><string>/Users/thaliesch/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
         <key>Line</key><integer>165</integer>
         <key>Title</key><string>Section 6 - Latin America</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>7</key><dict>
-        <key>Filename</key><string>/Users/davlokpavid/Desktop/Openspace/Openspace.inform/Source/story.ni</string>
+        <key>Filename</key><string>/Users/thaliesch/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
         <key>Line</key><integer>199</integer>
         <key>Title</key><string>Section 7 - Antarctica</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>8</key><dict>
-        <key>Filename</key><string>/Users/davlokpavid/Desktop/Openspace/Openspace.inform/Source/story.ni</string>
+        <key>Filename</key><string>/Users/thaliesch/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
         <key>Line</key><integer>226</integer>
         <key>Title</key><string>Section 8 - Africa</string>
         <key>Level</key><integer>5</integer>
