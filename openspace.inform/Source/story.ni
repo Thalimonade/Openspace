@@ -151,7 +151,7 @@ The shiny door is a door. It is south of the office and north of Savannah. The s
 Alexandria's Library is a room. Alexandria's Library is west of Savannah. The description of the Alexandria's Library is "This is probably the greatest sanctuary of knowledge of all time. There are tons of books in there. They don't seem to be arranged in any specific order. You realize just how much looking up stuff was an elephantine task before the Internet.".
 There are 100 books in Alexandria's Library.
 
-A Book is a kind of thing. The description of a Book is "You can browse it if you want to.".
+A Book is a kind of thing. The description of a Book is "You can browse it if you want to. You might find some useful info here.".
 A Blank Page is a thing.
 
 Carry out browsing a book:
