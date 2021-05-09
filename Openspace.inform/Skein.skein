@@ -452,8 +452,8 @@ You can see an entrance tunnel here.
     </item>
     <item nodeId="node-1042">
         <command xml:space="preserve">open big door</command>
-        <result xml:space="preserve">Yogi's retreat
-The only community still standing in 20900"s India. This sanctuary is filled with trees, and in the network of streams that run around, you can see huge red, orange and white carps. Yoga matresses are pretty much everywhere, and the smell of the incense is just delightful. You feel a big sense of inner peace... if you stay too long here, you might never leave.
+        <result xml:space="preserve">Futuristic Casino
+A milion colorful and blinking neon lights iluminate the corridors, and a pathway covered in a fluffy carpet leads you to the Black Jack table A robot serves you a drink as the crowd gathered around Black Jack table cheers.
 
 You can see a black jack here.
 
@@ -1313,8 +1313,8 @@ After an epic battle in which you found yourself without trousers because your b
     <item nodeId="node-1173">
         <command xml:space="preserve">past</command>
         <result xml:space="preserve">
-Mexico City
-Gunshots pierce the sky as you cross the road of today's Mexico. It is getting quite dark and you don't want any trouble. You see four similarly unwellcoming alleyways each leading in different directions: south, north, east and west.
+Wuhan
+A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
@@ -1380,7 +1380,8 @@ You can also see an Aztec Statue here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1179"></child>
+        <children><child nodeId="node-1365"></child>
+            <child nodeId="node-1179"></child>
         </children>
     </item>
     <item nodeId="node-1179">
@@ -1413,6 +1414,47 @@ You can also see an Aztec Statue here.
     <item nodeId="node-1182">
         <command xml:space="preserve">climb up</command>
         <result xml:space="preserve">Don't even try, you are ridiculously small in front of this wall.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1365">
+        <command xml:space="preserve">get on statue</command>
+        <result xml:space="preserve">You get onto the Aztec Statue.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1366"></child>
+        </children>
+    </item>
+    <item nodeId="node-1366">
+        <command xml:space="preserve">climb wall</command>
+        <result xml:space="preserve">(first getting off the Aztec Statue)
+As you are not an athlete, this operation is proving very difficult; but you manage to pull yourself up.
+
+Ritual Waste
+This place reminds you why you dont like BBQ: mostly because of the smell... While you are wondering why you got up here, your eyes are caught by what seems to be a human collarbone. It is strangely sharp, it almost look like a pen..
+
+You can see a sharp collarbone here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1367"></child>
+        </children>
+    </item>
+    <item nodeId="node-1367">
+        <command xml:space="preserve">take collarbone</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1368"></child>
+        </children>
+    </item>
+    <item nodeId="node-1368">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a sharp collarbone
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>

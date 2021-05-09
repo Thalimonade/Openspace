@@ -234,7 +234,9 @@ Instead of searching the researcher when the researcher carries the Mont Blanc q
 	move the Mont Blanc quill to the player.
 
 
-Utopian City is a room in the Antarctica. Utopian City is east of Scientific base camp. The description of the Utopian City is "Cars finally float on air cushions and plants co-exist with skyscrapers in a friendly and aesthetic way. ".
+Utopian City is a room in the Antarctica. Utopian City is east of Scientific base camp. The description of the Utopian City is "Cars finally float on air cushions and plants co-exist with skyscrapers in a friendly and aesthetic way. "
+
+A car is a kind. A Floating Car is a kind of car.
 
 Blizzard is a room in Antarctica. Blizzard is west of Scientific base camp. The description of Blizzard is "Leave this place, you are in a primitive icy storm. The wind pierces your clothes and shut your eyes closed. You don't want to spend too much time in here. As you are reading this, your toes are getting frozen and threatens to fall. With your office clothes, you don't stand a chance. If you stay here few more seconds, you'll never see your beloved office again."
 
