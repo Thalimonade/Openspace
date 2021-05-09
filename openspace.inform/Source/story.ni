@@ -2,18 +2,17 @@
 
 section 1 - Objets
 
-A pen is a kind of things. 
-A Mont Blanc quill is a pen.
-
 A key is a kind of things.
+A pen is a kind of things. 
+A paper is a kind of things.
 
+Paper rice is a kind of paper.
+
+A Mont Blanc quill is a pen.
 A feather is a pen.
 
 An animal is a kind of things. 
 A Peacock is an animal. A peacock carries feathers. The carrying capacity of the peacock is 1000. The description of the peacock is "A big stuning colorful bird."
-
-A paper is a kind of things.
-Paper rice is a kind of paper.
 
 Understand "futur" as east. 
 Understand "past" as west.
@@ -236,7 +235,13 @@ Instead of searching the researcher when the researcher carries the Mont Blanc q
 
 Utopian City is a room in the Antarctica. Utopian City is east of Scientific base camp. The description of the Utopian City is "Cars finally float on air cushions and plants co-exist with skyscrapers in a friendly and aesthetic way. "
 
-A car is a kind. A Floating Car is a kind of car.
+The floating car is a vehicle in the Utopian City. "A flying car is floating in front of you." The description is "The flying car goes up and down in a very fluide way. It is completely made of glass and its shape is oval and sleek." Understand "car" as the floating car. 
+The car contains a  universal magnetic pass. A universal magnetic is a key. Understand "pass" as universal magnetic pass. 
+
+Instead of taking the pass:
+	say "The moment you touch the magnectic pass, the car elevates and you are instantly 1000 feets above the ground. Seconds that follows reminds you of that one time in a theme park where you wanted to show off in front of the girl you were seeing, and you finished puking exactly on her head from 20 feet high. This time, the cars flies at what seems to be a very high speed, but you don't feel anything. After few seconds, it lands at the exact same place you found it. You carfully take the pass, taking care not to press on it and you get off the car.";
+	move the pass to the player.
+
 
 Blizzard is a room in Antarctica. Blizzard is west of Scientific base camp. The description of Blizzard is "Leave this place, you are in a primitive icy storm. The wind pierces your clothes and shut your eyes closed. You don't want to spend too much time in here. As you are reading this, your toes are getting frozen and threatens to fall. With your office clothes, you don't stand a chance. If you stay here few more seconds, you'll never see your beloved office again."
 

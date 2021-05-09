@@ -452,8 +452,8 @@ You can see an entrance tunnel here.
     </item>
     <item nodeId="node-1042">
         <command xml:space="preserve">open big door</command>
-        <result xml:space="preserve">Futuristic Casino
-A milion colorful and blinking neon lights iluminate the corridors, and a pathway covered in a fluffy carpet leads you to the Black Jack table A robot serves you a drink as the crowd gathered around Black Jack table cheers.
+        <result xml:space="preserve">Yogi's retreat
+The only community still standing in 20900"s India. This sanctuary is filled with trees, and in the network of streams that run around, you can see huge red, orange and white carps. Yoga matresses are pretty much everywhere, and the smell of the incense is just delightful. You feel a big sense of inner peace... if you stay too long here, you might never leave.
 
 You can see a black jack here.
 
@@ -1813,11 +1813,136 @@ The nest is swarming with "little" scorpions, as big as your head. Inside your h
     </item>
     <item nodeId="node-1171">
         <command xml:space="preserve">futur</command>
-        <result xml:space="preserve">
-Savannah
-Savannah today
+        <result xml:space="preserve">You can't go that way.
 
-A big and modern glass door. You know, that opaque kind of glass which looks very expensive.
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1371"></child>
+        </children>
+    </item>
+    <item nodeId="node-1371">
+        <command xml:space="preserve">pas</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1372"></child>
+        </children>
+    </item>
+    <item nodeId="node-1372">
+        <command xml:space="preserve">pasr</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1373"></child>
+        </children>
+    </item>
+    <item nodeId="node-1373">
+        <command xml:space="preserve">past</command>
+        <result xml:space="preserve">
+New Delhi
+You are now in the city center of New Dehli nowadays: your senses are flooded with all kinds of informations. The smells of a thousand spices assault your nostrils from a street market on your right hand and their colors fill up your soul like flowers in the spring, birds are singing and market sellers seems to be answering them prices of their marchandises; the whole thing is wrapped up in a whirlwind of scooters and tuktuk, adding a deeply human touch to the frenzy of the moment.
+
+Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn't seem to belong here: a modern glass door. You know, that opaque kind of glass which looks very expensive. Of course you'd know, your office has the same ones.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1374"></child>
+        </children>
+    </item>
+    <item nodeId="node-1374">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">
+Wuhan
+A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1375"></child>
+        </children>
+    </item>
+    <item nodeId="node-1375">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">
+Mexico City
+Gunshots pierce the sky as you cross the road of today's Mexico. It is getting quite dark and you don't want any trouble. You see four similarly unwellcoming alleyways each leading in different directions: south, north, east and west.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1376"></child>
+        </children>
+    </item>
+    <item nodeId="node-1376">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">
+Scientific Base Camp
+Present of Antarctica. The only thing you see beyond the camp's igloos is ice and extracted ice caps. You don't want to spend too much time here unless you always wanted to be a human ice cream. The igloos are scattered over a large area, but one is not far away. If you want to go inside, you'll have to crawl through the tunnel.
+
+You can see a tunnel here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1377"></child>
+        </children>
+    </item>
+    <item nodeId="node-1377">
+        <command xml:space="preserve">futur</command>
+        <result xml:space="preserve">
+Utopian City
+Cars finally float on air cushions and plants co-exist with skyscrapers in a friendly and aesthetic way. 
+
+A flying car is floating in front of you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1378"></child>
+        </children>
+    </item>
+    <item nodeId="node-1378">
+        <command xml:space="preserve">x car</command>
+        <result xml:space="preserve">The flying car goes up and down in a very fluide way. It is completely made of glass and its shape is oval and sleek.
+
+In the floating car is an universal magnetic pass.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1379"></child>
+        </children>
+    </item>
+    <item nodeId="node-1379">
+        <command xml:space="preserve">go in car</command>
+        <result xml:space="preserve">You get into the floating car.
+
+In the floating car you can see an universal magnetic pass.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1380"></child>
+        </children>
+    </item>
+    <item nodeId="node-1380">
+        <command xml:space="preserve">take pass</command>
+        <result xml:space="preserve">The moment you touch the magnectic pass, the car elevates and you are instantly 1000 feets above the ground. Seconds that follows reminds you of that one time in a theme park where you wanted to show off in front of the girl you were seeing, and you finished puking exactly on her head from 20 feet high. This time, the cars flies at what seems to be a very high speed, but you don't feel anything. After few seconds, it lands at the exact same place you found it. You carfully take the pass, taking care not to press on it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1381"></child>
+        </children>
+    </item>
+    <item nodeId="node-1381">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  an universal magnetic pass
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1382"></child>
+        </children>
+    </item>
+    <item nodeId="node-1382">
+        <command xml:space="preserve">get off car</command>
+        <result xml:space="preserve">But you aren't on the floating car at the moment.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>

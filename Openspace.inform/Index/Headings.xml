@@ -18,49 +18,49 @@
     </dict>
     <key>2</key><dict>
         <key>Filename</key><string>/Users/davlokpavid/Desktop/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>21</integer>
+        <key>Line</key><integer>20</integer>
         <key>Title</key><string>section 2 - Office</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>3</key><dict>
         <key>Filename</key><string>/Users/davlokpavid/Desktop/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>51</integer>
+        <key>Line</key><integer>50</integer>
         <key>Title</key><string>section 3 - Europe</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>4</key><dict>
         <key>Filename</key><string>/Users/davlokpavid/Desktop/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>105</integer>
+        <key>Line</key><integer>104</integer>
         <key>Title</key><string>section 4 - India</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>5</key><dict>
         <key>Filename</key><string>/Users/davlokpavid/Desktop/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>124</integer>
+        <key>Line</key><integer>123</integer>
         <key>Title</key><string>Section 5 - China</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>6</key><dict>
         <key>Filename</key><string>/Users/davlokpavid/Desktop/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>168</integer>
+        <key>Line</key><integer>167</integer>
         <key>Title</key><string>Section 6 - Latin America</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>7</key><dict>
         <key>Filename</key><string>/Users/davlokpavid/Desktop/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>214</integer>
+        <key>Line</key><integer>213</integer>
         <key>Title</key><string>Section 7 - Antarctica</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>8</key><dict>
         <key>Filename</key><string>/Users/davlokpavid/Desktop/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>243</integer>
+        <key>Line</key><integer>248</integer>
         <key>Title</key><string>Section 8 - Africa</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
