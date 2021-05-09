@@ -14,7 +14,7 @@ Reading language definition from </Applications/Inform.app/Contents/Resources/In
 Phase I ... Lexical analysis
 -----------------------------------------------------
 
-I've now read your source text, which is 3867 words long.
+I've now read your source text, which is 3983 words long.
 
 
 -----------------------------------------------------
@@ -61,13 +61,13 @@ Phase VII ... First pass through assertions
      == region
     Regional: CONSTANT_VNT'latin america'-region()(I100'latin america')
      == region
-    Regional: CONSTANT_VNT'antarctica'-region()(I110'antarctica')
+    Regional: CONSTANT_VNT'antarctica'-region()(I111'antarctica')
      == region
-    Regional: CONSTANT_VNT'antarctica'-region()(I110'antarctica')
+    Regional: CONSTANT_VNT'antarctica'-region()(I111'antarctica')
      == region
-    Regional: CONSTANT_VNT'the antarctica'-region()(I110'antarctica')
+    Regional: CONSTANT_VNT'the antarctica'-region()(I111'antarctica')
      == region
-    Regional: CONSTANT_VNT'antarctica'-region()(I110'antarctica')
+    Regional: CONSTANT_VNT'antarctica'-region()(I111'antarctica')
      == region
 
 
@@ -192,7 +192,7 @@ Phase XIII ... Compilation now complete
 -----------------------------------------------------
 
 Total of 106 files written as streams.
-CPU time: 115 centiseconds
+CPU time: 117 centiseconds
 
 
 That concludes the debugging log from this run of Inform.

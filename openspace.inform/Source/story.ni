@@ -190,13 +190,25 @@ Instead of searching the scorpion when the scorpion carries the scorpion's tail:
 
 Aztec Temple is a room in Latin America. Aztec Temple is west of Mexico City. The description of Aztec temple is "The humming of a ritual chant bounces on the stone walls, you came right on time for the human sacrifice ! It seems like you landed in the past of Latin America and that the great Aztec civilization is at its peak."
 
-An Astec Statue is a supporter in the Aztec Temple. The description of the Astec Statue is "A representation of Quetzalcóatl, the snake-god. It is cubical and stable. It stands just in front of a wall, behind which is a strange place that looks like a landfill site but instead of broken washing machines and old lamps, a lot of yellow-white sticks and balls with wholes are laying there..."
+An Aztec Statue is a enterable supporter in the Aztec Temple. The description of the Aztec Statue is "A representation of Quetzalcóatl, the snake-god. It is cubical and stable. It stands just in front of the wall, behind which is a strange place that looks like a landfill site but instead of broken washing machines and old lamps, a lot of yellow-white sticks and balls with wholes are laying there...". Understand "statue" as Aztec Statue.
 
 A wall is a thing. It is in the Aztec Temple. "A middle sized wall built in a strangely intelligent way with huge stones. It is too big for you to climb.."
 
 Ritual Waste is a room in Latin America. It is up from Aztec Temple. "This place reminds you why you dont like BBQ: mostly because of the smell... While you are wondering why you got up here, your eyes are caught by what seems to be a human collarbone. It is strangely sharp, it almost look like a pen.."
 
-Understand "climb [direction]" as going.
+Instead of climbing the wall:
+	try going up.
+	
+Carry out going up to the Ritual Waste:
+	say "As you are not an athlete, this operation is proving very difficult; but you manage to pull yourself up."
+	
+Carry out going down from the Ritual Waste:
+	say "You jump from the wall on the statue and then on the ground. You hurry up because you can hear the ritual chant getting closer!"
+
+Instead of going up when the actor is in the Aztec Temple and the actor is not on the statue:
+	say "Don't even try, you are ridiculously small in front of this wall."
+	
+The sharp collarbone is a pen. It is in the Ritual Waste.
 
 
 Section 7 - Antarctica  
