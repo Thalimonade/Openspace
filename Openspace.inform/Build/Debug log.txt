@@ -1,5 +1,5 @@
 Debugging log of Inform 7
-Inform called as: /Applications/Inform.app/Contents/MacOS/ni -internal /Applications/Inform.app/Contents/Resources/Internal -external /Users/thaliesch/Library/Inform -project /Users/thaliesch/Documents/GitHub/Openspace/Openspace.inform -format=ulx
+Inform called as: /Applications/Inform.app/Contents/MacOS/ni -internal /Applications/Inform.app/Contents/Resources/Internal -external /Users/davlokpavid/Library/Inform -project /Users/davlokpavid/Desktop/Openspace/Openspace.inform -format=ulx
 Found language bundle 'German' (built in)
 Found language bundle 'Italian' (built in)
 Found language bundle 'English' (built in)
@@ -14,7 +14,7 @@ Reading language definition from </Applications/Inform.app/Contents/Resources/In
 Phase I ... Lexical analysis
 -----------------------------------------------------
 
-I've now read your source text, which is 3860 words long.
+I've now read your source text, which is 3859 words long.
 
 
 -----------------------------------------------------
@@ -61,13 +61,13 @@ Phase VII ... First pass through assertions
      == region
     Regional: CONSTANT_VNT'latin america'-region()(I100'latin america')
      == region
-    Regional: CONSTANT_VNT'antarctica'-region()(I111'antarctica')
+    Regional: CONSTANT_VNT'antarctica'-region()(I110'antarctica')
      == region
-    Regional: CONSTANT_VNT'antarctica'-region()(I111'antarctica')
+    Regional: CONSTANT_VNT'antarctica'-region()(I110'antarctica')
      == region
-    Regional: CONSTANT_VNT'the antarctica'-region()(I111'antarctica')
+    Regional: CONSTANT_VNT'the antarctica'-region()(I110'antarctica')
      == region
-    Regional: CONSTANT_VNT'antarctica'-region()(I111'antarctica')
+    Regional: CONSTANT_VNT'antarctica'-region()(I110'antarctica')
      == region
 
 
@@ -192,7 +192,7 @@ Phase XIII ... Compilation now complete
 -----------------------------------------------------
 
 Total of 106 files written as streams.
-CPU time: 82 centiseconds
+CPU time: 115 centiseconds
 
 
 That concludes the debugging log from this run of Inform.

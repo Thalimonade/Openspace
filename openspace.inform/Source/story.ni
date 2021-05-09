@@ -101,7 +101,7 @@ Report reading: say "you squinkt your eyes: '[The label of the noun]'  mmmh..."
 
 section 4 - India 
 
-New Delhi is a room. The description of the New Delhi is "You are now in the city center of New Dehli nowadays: your senses are flooded with all kinds of informations. The smells of a thousand spices assault your nostrils from a street market on your right hand and their colors fill up your soul like flowers in the spring, birds are singing and market sellers seems to be answering them prices of their marchandises, the whole thing is wrapped up in a whirlwind of scooters and tuktuk that add a deeply human touch to the frenzy of the moment."
+New Delhi is a room. The description of the New Delhi is "You are now in the city center of New Dehli nowadays: your senses are flooded with all kinds of informations. The smells of a thousand spices assault your nostrils from a street market on your right hand and their colors fill up your soul like flowers in the spring, birds are singing and market sellers seems to be answering them prices of their marchandises; the whole thing is wrapped up in a whirlwind of scooters and tuktuk, adding a deeply human touch to the frenzy of the moment."
 
 The modern glass door is a door. It is south of New Delhi and north of the office. The modern glass door is lockable and locked.  "[if the player is in New Delhi]Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn't seem to belong here: a modern glass door. You know, that opaque kind of glass which looks very expensive. Of course you'd know, your office has the same ones.[otherwise]- No paper, no pens, is this really it? The office of the future?[end if]"
 
@@ -189,9 +189,9 @@ Aztec Temple is a room in Latin America. Aztec Temple is west of Mexico City. Th
 
 An Astec Statue is a supporter in the Aztec Temple. The description of the Astec Statue is "A representation of Quetzalcóatl, the snake-god. It is cubical and stable. It stands just in front of a wall, behind which is a strange place that looks like a landfill site but instead of broken washing machines and old lamps, a lot of yellow-white sticks and balls with wholes are laying there..."
 
-A wall is a thing. It is in the Astec Temple. "A middle sized wall built in a strangely intelligent way with huge stones. It is too big for you to climb.."
+A wall is a thing. It is in the Aztec Temple. "A middle sized wall built in a strangely intelligent way with huge stones. It is too big for you to climb.."
 
-Ritual Waste is a room in Latin America. It is up from Astec Temple. "This place reminds you why you dont like BBQ: mostly because of the smell... While you are wondering why you got up here, your eyes are caught by what seems to be a human collarbone. It is strangely sharp, it almost look like a pen.."
+Ritual Waste is a room in Latin America. It is up from Aztec Temple. "This place reminds you why you dont like BBQ: mostly because of the smell... While you are wondering why you got up here, your eyes are caught by what seems to be a human collarbone. It is strangely sharp, it almost look like a pen.."
 
 Understand "climb [direction]" as going.
 
