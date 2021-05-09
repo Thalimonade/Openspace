@@ -15,6 +15,9 @@ A Peacock is an animal. A peacock carries feathers. The carrying capacity of the
 A paper is a kind of things.
 Paper rice is a kind of paper.
 
+Understand "futur" as east. 
+Understand "past" as west.
+
 section 2 - Office
 
 Office is a room. The description of the Office is "Your boss and yourself are in the midst of stormy negotiations with new potential associates. The atmosphere is tense, so much so that you can feel sweat beads dripping down your tailored shirt as your sticky hands pound on your laptop keyboard. Your boss sits at your left while two other gentlemen sit straight across from you both. All of you have been in here, bargaining over contract terms, for quite a while now and you wrists are staring to ache as you write and erase what the others tell you to. The shadows you cast on the white office walls gently shift as the sun goes down,  you wish they had come up to an agreement by now.

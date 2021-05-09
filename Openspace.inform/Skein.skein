@@ -452,15 +452,16 @@ You can see an entrance tunnel here.
     </item>
     <item nodeId="node-1042">
         <command xml:space="preserve">open big door</command>
-        <result xml:space="preserve">Aztec Temple
-The humming of a ritual chant bounces on the stone walls, you came right on time for the human sacrifice ! It seems like you landed in the past of Latin America and that the great Aztec civilization is at its peak.
+        <result xml:space="preserve">Alexandria's Library
+This is probably the greatest sanctuary of knowledge of all time. There are tons of books in there. They don't seem to be arranged in any specific order. You realize just how much looking up stuff was an elephantine task before the Internet.
 
-You can see an Astec Statue here.
+You can see 100 books here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
         <children><child nodeId="node-1146"></child>
             <child nodeId="node-1134"></child>
+            <child nodeId="node-1171"></child>
             <child nodeId="node-1115"></child>
             <child nodeId="node-1109"></child>
             <child nodeId="node-1066"></child>
@@ -1447,6 +1448,17 @@ The nest is swarming with "little" scorpions, as big as your head. Inside your h
         <command xml:space="preserve">i</command>
         <result xml:space="preserve">You are carrying:
   a scorpion's tail
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1171">
+        <command xml:space="preserve">futur</command>
+        <result xml:space="preserve">
+Savannah
+Savannah today
+
+A big and modern glass door. You know, that opaque kind of glass which looks very expensive.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>

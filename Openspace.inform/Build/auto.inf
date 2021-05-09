@@ -11091,7 +11091,7 @@ Object I57_east "" Compass
     with IK3_Count 6
     with IK3_Link I58_west
     with KD_Count 3
-    with name 'east' 'directions//p' 'e//' 
+    with name 'east' 'directions//p' 'e//' 'futur' 
     with parse_name Parse_Name_GV7
     with action_bitmap 0 0 0 0 0 0 
     with list_together BC_162
@@ -11107,7 +11107,7 @@ Object I58_west "" Compass
     with IK3_Count 7
     with IK3_Link I59_up
     with KD_Count 3
-    with name 'west' 'directions//p' 'w//' 
+    with name 'west' 'directions//p' 'w//' 'past' 
     with parse_name Parse_Name_GV8
     with action_bitmap 0 0 0 0 0 0 
     with list_together BC_166
