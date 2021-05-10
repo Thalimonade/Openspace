@@ -1150,6 +1150,7 @@ You can also see an Aztec Statue here.
 
 One has to be careful with what he wishes for nowadays... Wherever you land, you better find your way back to your meeting, fast, and with the correct supplies.
 
+<<<<<<< HEAD
 Aztec temple
 In the future is Mexico City.
  The humming of a ritual chant bounces on the stone walls, you came right on time for the human sacrifice ! It seems like you landed in the past of Latin America and that the great Aztec civilization is at its peak.
@@ -1175,6 +1176,30 @@ You can also see an Aztec Statue here.
             <child nodeId="node-1112"></child>
             <child nodeId="node-1109"></child>
             <child nodeId="node-1107"></child>
+=======
+Scientific Base Camp
+Present of Antarctica. The only thing you see beyond the camp's igloos is ice and extracted ice caps. You don't want to spend too much time here unless you always wanted to be a human ice cream. The igloos are scattered over a large area, but one is not far away. If you want to go inside, you'll have to crawl through the tunnel.
+
+You can see a tunnel here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2640"></child>
+            <child nodeId="node-2628"></child>
+            <child nodeId="node-2615"></child>
+            <child nodeId="node-2712"></child>
+            <child nodeId="node-2700"></child>
+            <child nodeId="node-2607"></child>
+            <child nodeId="node-2593"></child>
+            <child nodeId="node-2523"></child>
+            <child nodeId="node-2497"></child>
+            <child nodeId="node-2491"></child>
+            <child nodeId="node-2476"></child>
+            <child nodeId="node-2423"></child>
+            <child nodeId="node-2405"></child>
+            <child nodeId="node-2402"></child>
+            <child nodeId="node-2400"></child>
+>>>>>>> 2097a4ce4f0a08a2fcd6c867d9b9d8bac174c97b
         </children>
     </item>
     <item nodeId="node-1107">
@@ -3706,6 +3731,7 @@ You can also see an Aligator (on which is a scaly skin) and a long wooden stick 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
+<<<<<<< HEAD
     <item nodeId="node-1410">
         <command xml:space="preserve">future</command>
         <result xml:space="preserve">
@@ -3759,6 +3785,31 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
         <commentary xml:space="preserve"></commentary>
     </item>
     <item nodeId="node-1323">
+=======
+    <item nodeId="node-2712">
+        <command xml:space="preserve">go east</command>
+        <result xml:space="preserve">
+Utopian City
+Cars finally float on air cushions and plants co-exist with skyscrapers in a friendly and aesthetic way. 
+
+A flying car is floating in front of you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2713"></child>
+        </children>
+    </item>
+    <item nodeId="node-2713">
+        <command xml:space="preserve">look car</command>
+        <result xml:space="preserve">The flying car goes up and down in a very fluide way. It is completely made of glass and its shape is oval and sleek.
+
+In the floating car is an universal magnetic pass.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2615">
+>>>>>>> 2097a4ce4f0a08a2fcd6c867d9b9d8bac174c97b
         <command xml:space="preserve">futur</command>
         <result xml:space="preserve">You can't go that way.
 
