@@ -1143,20 +1143,23 @@ You can also see an Aztec Statue here.
     </item>
     <item nodeId="node-2399">
         <command xml:space="preserve">open big door</command>
-        <result xml:space="preserve">The shaking ground gets you out of your reveries. is it an earthquake ? is it a bomb ? In any case you hold on to that door knob with all your strength. Too bad, a strong wind sucks you inward before you can gasp for help.  
+        <result xml:space="preserve">The shaking ground gets you out of your reveries. Is it an earthquake ? Is it a bomb ? In any case you hold on to that door knob with all your strength. Too bad, a strong wind sucks you inward before you can gasp for help.  
 
  Well well, dear player, the dimesions heard you and sent you quite far away. As you just entered a time and space traveling journey you ought to know that taking a strall to the east fast forwards you to the futur, the west brings you back to the past. As for north and south, they will change your location, letting you roam threw different continents.  
 
 One has to be careful with what he wishes for nowadays... Wherever you land, you better find your way back to your meeting, fast, and with the correct supplies.
 
-Wuhan
-A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!
+Scientific Base Camp
+Present of Antarctica. The only thing you see beyond the camp's igloos is ice and extracted ice caps. You don't want to spend too much time here unless you always wanted to be a human ice cream. The igloos are scattered over a large area, but one is not far away. If you want to go inside, you'll have to crawl through the tunnel.
+
+You can see a tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
         <children><child nodeId="node-2640"></child>
             <child nodeId="node-2628"></child>
             <child nodeId="node-2615"></child>
+            <child nodeId="node-2712"></child>
             <child nodeId="node-2700"></child>
             <child nodeId="node-2607"></child>
             <child nodeId="node-2593"></child>
@@ -3436,6 +3439,28 @@ You can also see an Aligator (on which is a scaly skin) and a long wooden stick 
     <item nodeId="node-2700">
         <command xml:space="preserve">go left</command>
         <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2712">
+        <command xml:space="preserve">go east</command>
+        <result xml:space="preserve">
+Utopian City
+Cars finally float on air cushions and plants co-exist with skyscrapers in a friendly and aesthetic way. 
+
+A flying car is floating in front of you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2713"></child>
+        </children>
+    </item>
+    <item nodeId="node-2713">
+        <command xml:space="preserve">look car</command>
+        <result xml:space="preserve">The flying car goes up and down in a very fluide way. It is completely made of glass and its shape is oval and sleek.
+
+In the floating car is an universal magnetic pass.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
