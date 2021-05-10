@@ -14,7 +14,7 @@ Reading language definition from </Applications/Inform.app/Contents/Resources/In
 Phase I ... Lexical analysis
 -----------------------------------------------------
 
-I've now read your source text, which is 4402 words long.
+I've now read your source text, which is 4431 words long.
 
 
 -----------------------------------------------------
@@ -53,21 +53,21 @@ Phase VI ... Semantic analysis III
 Phase VII ... First pass through assertions
 -----------------------------------------------------
 
-    Regional: CONSTANT_VNT'latin america'-region()(I102'latin america')
+    Regional: CONSTANT_VNT'latin america'-region()(I103'latin america')
      == region
-    Regional: CONSTANT_VNT'latin america'-region()(I102'latin america')
+    Regional: CONSTANT_VNT'latin america'-region()(I103'latin america')
      == region
-    Regional: CONSTANT_VNT'latin america'-region()(I102'latin america')
+    Regional: CONSTANT_VNT'latin america'-region()(I103'latin america')
      == region
-    Regional: CONSTANT_VNT'latin america'-region()(I102'latin america')
+    Regional: CONSTANT_VNT'latin america'-region()(I103'latin america')
      == region
-    Regional: CONSTANT_VNT'antarctica'-region()(I113'antarctica')
+    Regional: CONSTANT_VNT'antarctica'-region()(I114'antarctica')
      == region
-    Regional: CONSTANT_VNT'antarctica'-region()(I113'antarctica')
+    Regional: CONSTANT_VNT'antarctica'-region()(I114'antarctica')
      == region
-    Regional: CONSTANT_VNT'the antarctica'-region()(I113'antarctica')
+    Regional: CONSTANT_VNT'the antarctica'-region()(I114'antarctica')
      == region
-    Regional: CONSTANT_VNT'antarctica'-region()(I113'antarctica')
+    Regional: CONSTANT_VNT'antarctica'-region()(I114'antarctica')
      == region
 
 
@@ -192,7 +192,7 @@ Phase XIII ... Compilation now complete
 -----------------------------------------------------
 
 Total of 106 files written as streams.
-CPU time: 81 centiseconds
+CPU time: 84 centiseconds
 
 
 That concludes the debugging log from this run of Inform.

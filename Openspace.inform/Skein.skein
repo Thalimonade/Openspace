@@ -11,7 +11,7 @@ Open Space
 An Interactive Fiction by Thalie Schmidt, Laura Pippus, David Pavlik et Ludovic Rochat
 Release 1 / Serial number 210510 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
 
-Office
+The office
 Your boss and yourself are in the midst of stormy negotiations with new potential associates. The atmosphere is tense, so much so that you can feel sweat beads dripping down your tailored shirt as your sticky hands pound on your laptop keyboard. Your boss sits at your left while two other gentlemen sit straight across from you both. All of you have been in here, bargaining over contract terms, for quite a while now and you wrists are staring to ache as you write and erase what the others tell you to. The shadows you cast on the white office walls gently shift as the sun goes down,  you wish they had come up to an agreement by now.
 
 Suddenly, either out of weariness or out of boldness, one of your guests leans in towards you and suggests a daring idea. You see a spark light up everybody else's as the idea sinks a little deeper in all of your minds.
@@ -30,15 +30,7 @@ You look around but can't seem to find any paper laying around. New ideas flood 
 
 -Yes, of course. you respond as you quickly get up. 
 
-Now out of your Leather chair, you take a last look at the conference table. You think to yourself:
-
-- No paper, no pens, is this really it? The office of the future?
-
-It can't be. All it is, is a realm of shiny metals and cold greatings. Your buzzing laptop the stainless glass door, the cold coffee you drink, everything you lay your eyes on is chilling.
-
-Going for a strawl could be exactly what you need. Suddenly, you catch yourself hoping for a paper shortage in the whole damn building or, better even, in the whole damn town. So you'd have an excuse to put some miles between you and this place.
-
-You can also see a big door here.
+You can see a big door, a Leather chair and a conference table here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
@@ -47,6 +39,7 @@ You can also see a big door here.
             <child nodeId="node-1220"></child>
             <child nodeId="node-1203"></child>
             <child nodeId="node-1199"></child>
+            <child nodeId="node-2259"></child>
             <child nodeId="node-1197"></child>
             <child nodeId="node-1045"></child>
             <child nodeId="node-1297"></child>
@@ -1150,8 +1143,8 @@ You can also see an Aztec Statue here.
     </item>
     <item nodeId="node-1045">
         <command xml:space="preserve">open big door</command>
-        <result xml:space="preserve">Wuhan
-A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!
+        <result xml:space="preserve">Scorpion World
+Here you step into the future of Latin America. As time passed, a lot of species went extinct. Not scorpions though, scorpions got bigger. Unfortunately, way bigger than you. The whole contient mutated into a huge conurbation of enormous scorpion nests: you are in the middle of it. In front of you is one of those scorpion nest.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
@@ -2511,13 +2504,7 @@ The nest is swarming with "little" scorpions, as big as your head. Inside your h
     </item>
     <item nodeId="node-1823">
         <command xml:space="preserve">go west</command>
-        <result xml:space="preserve">
-Chinese Workshop
-A small and dusty room, with a little window that opens to a wide rice field. The air is tick and gloomy due to the arrival of the rain season. An old artisan wearing a straw hat and loose hemp clothes made is making rice paper at the back of the room. You slowly approach the man and, after bending towards in sign of respect, you ask him:
-
-- Sir, may I borrow one of these please?
-
-- Yes, of course, go ahead.
+        <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
@@ -2527,8 +2514,7 @@ A small and dusty room, with a little window that opens to a wide rice field. Th
     </item>
     <item nodeId="node-1929">
         <command xml:space="preserve">go west</command>
-        <result xml:space="preserve">(first opening the back door)
-this door looks locked and you have a feeling only magic could help you get threw it.
+        <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
@@ -2537,8 +2523,7 @@ this door looks locked and you have a feeling only magic could help you get thre
     </item>
     <item nodeId="node-1930">
         <command xml:space="preserve">go south</command>
-        <result xml:space="preserve">(first opening the shiny door)
-It seems to be locked.
+        <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
@@ -2547,8 +2532,7 @@ It seems to be locked.
     </item>
     <item nodeId="node-1931">
         <command xml:space="preserve">go south</command>
-        <result xml:space="preserve">(first opening the shiny door)
-It seems to be locked.
+        <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
@@ -2557,8 +2541,7 @@ It seems to be locked.
     </item>
     <item nodeId="node-1932">
         <command xml:space="preserve">go south</command>
-        <result xml:space="preserve">(first opening the shiny door)
-It seems to be locked.
+        <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
@@ -2567,13 +2550,137 @@ It seems to be locked.
     </item>
     <item nodeId="node-1933">
         <command xml:space="preserve">go south</command>
-        <result xml:space="preserve">(first opening the shiny door)
-It seems to be locked.
+        <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
         <children><child nodeId="node-1934"></child>
+            <child nodeId="node-2077"></child>
         </children>
+    </item>
+    <item nodeId="node-2077">
+        <command xml:space="preserve">take rounded jar¨</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2078"></child>
+        </children>
+    </item>
+    <item nodeId="node-2078">
+        <command xml:space="preserve">take rounded jar</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2079"></child>
+        </children>
+    </item>
+    <item nodeId="node-2079">
+        <command xml:space="preserve">read</command>
+        <result xml:space="preserve">What do you want to read?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2080"></child>
+        </children>
+    </item>
+    <item nodeId="node-2080">
+        <command xml:space="preserve">open</command>
+        <result xml:space="preserve">What do you want to open?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2081"></child>
+        </children>
+    </item>
+    <item nodeId="node-2081">
+        <command xml:space="preserve">drink blue</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2082"></child>
+        </children>
+    </item>
+    <item nodeId="node-2082">
+        <command xml:space="preserve">take pear</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2083"></child>
+        </children>
+    </item>
+    <item nodeId="node-2083">
+        <command xml:space="preserve">read</command>
+        <result xml:space="preserve">What do you want to read?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2084"></child>
+        </children>
+    </item>
+    <item nodeId="node-2084">
+        <command xml:space="preserve">read pear shaped¨</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2085"></child>
+        </children>
+    </item>
+    <item nodeId="node-2085">
+        <command xml:space="preserve">read pear shaped</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2086"></child>
+        </children>
+    </item>
+    <item nodeId="node-2086">
+        <command xml:space="preserve">open</command>
+        <result xml:space="preserve">What do you want to open?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2087"></child>
+        </children>
+    </item>
+    <item nodeId="node-2087">
+        <command xml:space="preserve">open pear</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2088"></child>
+        </children>
+    </item>
+    <item nodeId="node-2088">
+        <command xml:space="preserve">drink</command>
+        <result xml:space="preserve">What do you want to drink?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2089"></child>
+        </children>
+    </item>
+    <item nodeId="node-2089">
+        <command xml:space="preserve">drink pink liquuid</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2090"></child>
+        </children>
+    </item>
+    <item nodeId="node-2090">
+        <command xml:space="preserve">drink pink liquid</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
     </item>
     <item nodeId="node-1934">
         <command xml:space="preserve">go south</command>
@@ -3539,6 +3646,63 @@ You can see an entrance tunnel and a sleeping researcher here.
     <item nodeId="node-1198">
         <command xml:space="preserve">open door</command>
         <result xml:space="preserve">Which do you mean, the shiny door, the outstanding door, the back door, the familiar looking door or the big door?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2259">
+        <command xml:space="preserve">look starting</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2260"></child>
+        </children>
+    </item>
+    <item nodeId="node-2260">
+        <command xml:space="preserve">look office</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2261"></child>
+        </children>
+    </item>
+    <item nodeId="node-2261">
+        <command xml:space="preserve">look table</command>
+        <result xml:space="preserve">This table is unnecessary large for the number of people it is currently hosting. Since it is made out of glass, you can still perfectly see the traces your sweaty fingers laid of it earlier.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2262"></child>
+        </children>
+    </item>
+    <item nodeId="node-2262">
+        <command xml:space="preserve">look chair</command>
+        <result xml:space="preserve">Very fashionnable, although you find it a bit rigid. Maybe it's because you sat on it for too long.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2263"></child>
+        </children>
+    </item>
+    <item nodeId="node-2263">
+        <command xml:space="preserve">open</command>
+        <result xml:space="preserve">What do you want to open?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2264"></child>
+        </children>
+    </item>
+    <item nodeId="node-2264">
+        <command xml:space="preserve">door</command>
+        <result xml:space="preserve">Aztec temple
+The humming of a ritual chant bounces on the stone walls, you came right on time for the human sacrifice ! It seems like you landed in the past of Latin America and that the great Aztec civilization is at its peak.
+
+A middle sized wall built in a strangely intelligent way with huge stones. It is too big for you to climb..
+
+You can also see an Aztec Statue here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>

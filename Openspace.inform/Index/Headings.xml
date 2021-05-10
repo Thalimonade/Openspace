@@ -19,48 +19,48 @@
     <key>2</key><dict>
         <key>Filename</key><string>/Users/thaliesch/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
         <key>Line</key><integer>20</integer>
-        <key>Title</key><string>section 2 - Office</string>
+        <key>Title</key><string>section 2 - Sarting office</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>3</key><dict>
         <key>Filename</key><string>/Users/thaliesch/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>50</integer>
+        <key>Line</key><integer>55</integer>
         <key>Title</key><string>section 3 - Europe</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>4</key><dict>
         <key>Filename</key><string>/Users/thaliesch/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>128</integer>
+        <key>Line</key><integer>133</integer>
         <key>Title</key><string>section 4 - India</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>5</key><dict>
         <key>Filename</key><string>/Users/thaliesch/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>147</integer>
+        <key>Line</key><integer>152</integer>
         <key>Title</key><string>Section 5 - China</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>6</key><dict>
         <key>Filename</key><string>/Users/thaliesch/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>191</integer>
+        <key>Line</key><integer>196</integer>
         <key>Title</key><string>Section 6 - Latin America</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>7</key><dict>
         <key>Filename</key><string>/Users/thaliesch/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>237</integer>
+        <key>Line</key><integer>242</integer>
         <key>Title</key><string>Section 7 - Antarctica</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>8</key><dict>
         <key>Filename</key><string>/Users/thaliesch/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>273</integer>
+        <key>Line</key><integer>278</integer>
         <key>Title</key><string>Section 8 - Africa</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>

@@ -17,9 +17,9 @@ A Peacock is an animal. A peacock carries feathers. The carrying capacity of the
 Understand "futur" as east. 
 Understand "past" as west.
 
-section 2 - Office
+section 2 - Sarting office
 
-Office is a room. The description of the Office is "Your boss and yourself are in the midst of stormy negotiations with new potential associates. The atmosphere is tense, so much so that you can feel sweat beads dripping down your tailored shirt as your sticky hands pound on your laptop keyboard. Your boss sits at your left while two other gentlemen sit straight across from you both. All of you have been in here, bargaining over contract terms, for quite a while now and you wrists are staring to ache as you write and erase what the others tell you to. The shadows you cast on the white office walls gently shift as the sun goes down,  you wish they had come up to an agreement by now.
+Start is a room. The printed name of the start is "The office". The description of the start is "Your boss and yourself are in the midst of stormy negotiations with new potential associates. The atmosphere is tense, so much so that you can feel sweat beads dripping down your tailored shirt as your sticky hands pound on your laptop keyboard. Your boss sits at your left while two other gentlemen sit straight across from you both. All of you have been in here, bargaining over contract terms, for quite a while now and you wrists are staring to ache as you write and erase what the others tell you to. The shadows you cast on the white office walls gently shift as the sun goes down,  you wish they had come up to an agreement by now.
 
 Suddenly, either out of weariness or out of boldness, one of your guests leans in towards you and suggests a daring idea. You see a spark light up everybody else's as the idea sinks a little deeper in all of your minds. 
 
@@ -37,15 +37,20 @@ You look around but can't seem to find any paper laying around. New ideas flood 
 
 -Yes, of course. you respond as you quickly get up. ".
 
-The big door is a thing in the Office. The description of the big door is "it is your only way out of the room. Something tells you you should be quick to open it and get on that paper and pen hunt of yours. "
+The big door is a thing in the start. The description of the big door is "it is your only way out of the room. Something tells you you should be quick to open it and get on that paper and pen hunt of yours. "
 
 Instead of opening the big door:
-	now the player is in a random room.
+	let next space be a random room adjacent to Mexico city;
+	move the player to the next space.
 
-The Leather chair is an enterable supporter in the Office.  The Leather is not portable.  It is pushable between rooms.  The description of the Leather chair is "Very fashionnable, although you find it a bit rigid. Maybe it's because you sat on it for too long."
+The Leather chair is an enterable supporter in the start.  The Leather is not portable.  It is pushable between rooms.  The description of the Leather chair is "Very fashionnable, although you find it a bit rigid. Maybe it's because you sat on it for too long."
 
-The conference table is in the Office.  Your laptop and several coffee mugs are on the conference table. The description of the conference table is "This table is unnecessary large for the number of people it is currently hosting. Since it is made out of glass, you can still perfectly see the traces your sweaty fingers laid of it earlier."
+The conference table is in the start.  Your laptop and several coffee mugs are on the conference table. The description of the conference table is "This table is unnecessary large for the number of people it is currently hosting. Since it is made out of glass, you can still perfectly see the traces your sweaty fingers laid of it earlier."
 Your laptop and several coffee mugs are scenery.
+
+Understand "office" as start.
+
+The office is a room.  
 
 section 3 - Europe
 
