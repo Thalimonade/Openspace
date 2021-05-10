@@ -41,18 +41,21 @@ The big door is a thing in the start. The description of the big door is "it is 
 
 Instead of opening the big door:
 	let next space be a random room adjacent to Mexico city;
-	move the player to the next space.
+	move the player to the next space;
+	say "Wait a minute, how did you end up here?  [paragraph break] Well well, the dimesions heard you and sent you quite far away. You just entered a time and space traveling journey taking a strall to the east fast forwards you to the futur, the west brings you back to the past. As for north and south, they change your current geographical location.  [paragraph break]One has to be careful of what he wishes for nowadays... you better find your way back to your meeting, fast, and with the correct supplies.".
 
 The Leather chair is an enterable supporter in the start.  The Leather is not portable.  It is pushable between rooms.  The description of the Leather chair is "Very fashionnable, although you find it a bit rigid. Maybe it's because you sat on it for too long."
 
-The conference table is in the start.  Your laptop and several coffee mugs are on the conference table. The description of the conference table is "This table is unnecessary large for the number of people it is currently hosting. Since it is made out of glass, you can still perfectly see the traces your sweaty fingers laid of it earlier."
+The conference table is in the start. Your laptop and several coffee mugs are on the conference table. The description of the conference table is "This table is unnecessary large for the number of people it is currently hosting. Since it is made out of glass, you can still perfectly see the traces your sweaty fingers laid of it earlier."
 Your laptop and several coffee mugs are scenery.
 
 Understand "office" as start.
 
+section 3 - the ending office 
+
 The office is a room.  
 
-section 3 - Europe
+section 4 - Europe
 
 Swamps is a room. Swamps is north of Souk Ruins and south of Yogi's retreat. The description of the swamps is "The air here is breezy. It is hard for you to move comfortably because your feet are plunged in water, or is it silt ? Vegetation is quite dense, reeds and weeds pave your way. If you look west, you can see the framework of a door in the distance. Strangely enough, it looks like the one form your office. There are poorly lit openings in the trees leading either to the north or the south. "
 
@@ -130,7 +133,7 @@ Understand "label" as the jar.
 
 Report reading: say "you squinkt your eyes: '[The label of the noun]'  mmmh..."
 
-section 4 - India 
+section 5 - India 
 
 New Delhi is a room. The description of the New Delhi is "You are now in the city center of New Dehli nowadays: your senses are flooded with all kinds of informations. The smells of a thousand spices assault your nostrils from a street market on your right hand and their colors fill up your soul like flowers in the spring, birds are singing and market sellers seems to be answering them prices of their marchandises; the whole thing is wrapped up in a whirlwind of scooters and tuktuk, adding a deeply human touch to the frenzy of the moment."
 
@@ -149,7 +152,7 @@ Instead of touching the peacock:
 	say "You run after the peacock while it opens its plumage exhibiting the eye-looking pattern. It has so many feathers, but you only need one… After minutes running in the labyrinth-like garden under the sizzling sun, you manage to corner the peacock and you finally get your feather.";
 	move the feather to the player.
 
-Section 5 - China
+Section 6 - China
 
 Wuhan is a room. Wuhan is north of New Delhi. The description of Wuhan is "A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!".
 
@@ -193,7 +196,7 @@ Check writing when the noun is not a pen: instead say "You cannot write down wit
 
 Report writing: say "now you can write it down [noun] using [noun]".
 
-Section 6 - Latin America 
+Section 7 - Latin America 
 
 Latin America is a region. 
 
@@ -239,7 +242,7 @@ Instead of going up when the actor is in the Aztec Temple and the actor is not o
 The sharp collarbone is a pen. It is in the Ritual Waste.
 
 
-Section 7 - Antarctica  
+Section 8 - Antarctica  
 
 Antarctica is a region. Ice, stars and wind is a backdrop. Ice, stars and wind is in Antartica. 
 
@@ -275,7 +278,7 @@ Instead of taking the pass:
 
 Blizzard is a room in Antarctica. Blizzard is west of Scientific base camp and north of Aztec temple. The description of Blizzard is "Leave this place, you are in a primitive icy storm. The wind pierces your clothes and shut your eyes closed. You don't want to spend too much time in here. As you are reading this, your toes are getting frozen and threatens to fall. With your office clothes, you don't stand a chance. If you stay here few more seconds, you'll never see your beloved office again."
 
-Section 8 - Africa 
+Section 9 - Africa 
 
 Savannah is a room. Savannah is north of Scientific base camp. The description of the Savannah is "Savannah today".
 
