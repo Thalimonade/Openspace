@@ -32,35 +32,35 @@
     </dict>
     <key>4</key><dict>
         <key>Filename</key><string>/Users/thaliesch/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>104</integer>
+        <key>Line</key><integer>128</integer>
         <key>Title</key><string>section 4 - India</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>5</key><dict>
         <key>Filename</key><string>/Users/thaliesch/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>123</integer>
+        <key>Line</key><integer>147</integer>
         <key>Title</key><string>Section 5 - China</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>6</key><dict>
         <key>Filename</key><string>/Users/thaliesch/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>167</integer>
+        <key>Line</key><integer>191</integer>
         <key>Title</key><string>Section 6 - Latin America</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>7</key><dict>
         <key>Filename</key><string>/Users/thaliesch/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>213</integer>
+        <key>Line</key><integer>237</integer>
         <key>Title</key><string>Section 7 - Antarctica</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>8</key><dict>
         <key>Filename</key><string>/Users/thaliesch/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>249</integer>
+        <key>Line</key><integer>273</integer>
         <key>Title</key><string>Section 8 - Africa</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>

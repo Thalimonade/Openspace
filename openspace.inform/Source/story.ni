@@ -59,7 +59,14 @@ The familiar looking door is a door. It is east of the office and west of the sw
 
 Druid's tent is a room. Druid's tent is north of Alexandria's Library and south of Maharaja's palace . The description of the Druid's tent is "an old Celtic druid's tent, just like you imagined them. Drapy curtens frame passageways going north and south, they are too thick for you to see threw them. At the very back of the tent, behind all of the mess, you see a [back door]. Strangely enough, it looks like the one form your office ".
 
-The back door is a door. It is west of the office and east of the Druid's tent. The back door is lockable and locked.  "[if the player is in Druid's tent]A big and modern glass door. You know, that opaque kind of glass which looks very expensive.[otherwise]It can't be. All it is, is a realm of shiny metals and cold greatings. Your buzzing laptop the stainless glass door, the cold coffee you drink, everything you lay your eyes on is chilling.[end if]"
+The back door is a door. It is west of the office and east of the Druid's tent. The back door is lockable and locked.  "[if the player is in Druid's tent]A big and modern glass door. You know, that opaque kind of glass which looks very expensive.[otherwise]It can't be. All it is, is a realm of shiny metals and cold greatings. Your buzzing laptop the stainless glass door, the cold coffee you drink, everything you lay your eyes on is chilling.[end if]".
+
+ 
+Instead of opening the back door when the player carries the empty skinny jar:
+	say " The same fuzz you felt before now runs threw your fingertips. As you touch the door nob you hear the lock pop and the big door slam open. ";
+	move the player to the office.
+Instead of opening the back door when the player carries the full skinny jar:
+	say " Wasn't there a special potion you had in store for these kinds of situations..?".
 
 The shelves are a supporter in the Druid's tent.  "The tent is cramped with peculiar shelves. They are made of thick lumber on which rests an army of glass jars filled with colorful liquids. Each jar is labeled with small srips of paper filled with a handwriting you can bearly decipher."
 
@@ -68,32 +75,49 @@ Understand "bookshelf" or "shelf" or "shelves" as shelves.
 The small altar is a supporter in the Druid's tent.  It is fixed in place.
 The cauldron is in the Druid's tent.  It is fixed in place.
 
-A jar is a kind of container.  A jar is usually openable and closed.  A jar has a text called the label.
+A jar is a kind of container.  A jar is usually openable and closed.  A jar can be full or empty. A jar is usually full. A jar has a text called the label.
 
 A liquid is a kind of thing.
- 
-Instead of drinking the liquid: 
-    say "You feel ancestral powers fuzzing threw you."
+the pink liquid is a kind of liquid.
+the orange liquid is a kind of liquid.
+the blue liquid is a kind of liquid.
+
+instead of drinking a jar :
+	say "try drinking the liquid instead...".
+	
+Instead of drinking the orange liquid:
+	say "You feel ancestral powers fuzzing threw you.";
+	now the skinny jar is empty.
+	instead of examining the skinny jar:
+		say "an empty skinny jar";
+		
+Instead of drinking the blue liquid:
+	say "I wouldn't drink that one if I were you"
+	
+Instead of drinking the pink liquid:
+	say "You are straying from your mission..."	
 
 The rounded jar, the skinny jar, and pear shaped jar are jars on the small altar.
 
 The description of the rounded jar is "A bubbly blue liquid fills it up half way. The liquid seems to reacts as you touch the glass, coagulating at the tips of your fingers.".
 The label of the rounded jar is "Jellied bat blood: good for making potions".
-In the rounded jar is a liquid. 
+In the rounded jar is a blue liquid. 
 
 The description of the skinny jar is "A vibrant orange liquid gently heats up the glass, making the jar foggy."
 The label of the skinny jar is "tears of sunshine: good for opening doors".
-In the skinny jar is a liquid. 
+In the skinny jar is a orange liquid. 
 
 The description of the pear shaped jar is "A voluptuous and warmn pink slim slides and covers all the walls of that jar.  As you look a it you realise it draws eight shapes all across the glass."
 The label of the pear shaped jar is "youth foutain splashes: good for finding love".
-In the pear shaped jar is a liquid. 
+In the pear shaped jar is a pink liquid. 
 
 Understand the command "read" as something new.
 
 Reading is an action applying to one carried thing.
 
 Understand "read [something]" as reading.
+
+Understand "read the label of [something]" as reading.
 
 Check reading when the noun is not a jar: instead say "You can only read labels."
 
@@ -193,7 +217,7 @@ An Aztec Statue is a enterable supporter in the Aztec Temple. The description of
 
 A wall is a thing. It is in the Aztec Temple. "A middle sized wall built in a strangely intelligent way with huge stones. It is too big for you to climb.."
 
-Ritual Waste is a room in Latin America. It is up from Aztec Temple. "This place reminds you why you dont like BBQ: mostly because of the smell... While you are wondering why you got up here, your eyes are caught by what seems to be a human collarbone. It is strangely sharp, it almost look like a pen.."
+Ritual Waste is a room in Latin America. It is up from Aztec Temple. "This place reminds you why you dont like BBQs: mostly because of the smell... While you are wondering why you got up here, your eyes are caught by what seems to be a human collarbone. It is strangely sharp, it almost look like a pen.."
 
 Instead of climbing the wall:
 	try going up.
