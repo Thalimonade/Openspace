@@ -29,7 +29,7 @@ Suddenly, either out of weariness or out of boldness, one of your guests leans i
 
 - You're right, this can't appear on the records. Put that computer aside and grab a piece of paper! he adds. 
 
-You look around but can't seem to find any paper laying around. New ideas flood the room and you are not able the write any of them down. Your painfully interrupt this flow thoughts: 
+You look around but can't seem to find any paper laying around. New ideas flood the room and you are not able the write any of them down. You painfully interrupt this flow of thoughts: 
 
 -Sir, I don't think we have any paper nor any pens. The bubbly brainstorm turns into three heavy stairs, the kind of stairs that strip you from your will to disagree. 
 
@@ -55,9 +55,9 @@ The Aligator is in the Swamps.  A scaly skin is on the Aligator. The description
 
 The long wooden stick is in the Swamps. The description of the long wooden stick is "Looks studry."
 
-The familiar looking door is a door. It is east of the office and west of the swamps. The familiar looking door is lockable and locked.  "[if the player is in Swamps]A big and modern glass door. You know, that opaque kind of glass which looks very expensive.[otherwise]Going for a strawl could be exactly what you need. Suddenly, you catch yourself hoping for a paper shortage in the whole damn building or, better even, in the whole damn town. So you'd have an excuse to put some miles between you and this place.[end if]" 
+The familiar looking door is a door. It is east of the office and west of the swamps. The familiar looking door is lockable and locked. The matching key of the familiar looking door is the universal magnetic pass. "[if the player is in Swamps]A big and modern glass door. You know, that opaque kind of glass which looks very expensive.[otherwise]Going for a strawl could be exactly what you need. Suddenly, you catch yourself hoping for a paper shortage in the whole damn building or, better even, in the whole damn town. So you'd have an excuse to put some miles between you and this place.[end if]" 
 
-Druid's tent is a room. Druid's tent is north of Alexandria's Library and south of Maharaja's palace . The description of the Druid's tent is "an old Celtic druid's tent, just like you imagined them. Drapy curtens frame passageways going north and south, they are too thick for you to see threw them. At the very back of the tent, behind all of the mess, you see a door. Strangely enough, it looks like the one form your office ".
+Druid's tent is a room. Druid's tent is north of Alexandria's Library and south of Maharaja's palace . The description of the Druid's tent is "an old Celtic druid's tent, just like you imagined them. Drapy curtens frame passageways going north and south, they are too thick for you to see threw them. At the very back of the tent, behind all of the mess, you see a [back door]. Strangely enough, it looks like the one form your office ".
 
 The back door is a door. It is west of the office and east of the Druid's tent. The back door is lockable and locked.  "[if the player is in Druid's tent]A big and modern glass door. You know, that opaque kind of glass which looks very expensive.[otherwise]It can't be. All it is, is a realm of shiny metals and cold greatings. Your buzzing laptop the stainless glass door, the cold coffee you drink, everything you lay your eyes on is chilling.[end if]"
 
@@ -142,7 +142,7 @@ Check playing:
 		
 Report playing: say "You won!!".
 
-Chinese Workshop is a room. Chinese Workshop is west of Wuhan. The description of the  Chinese Workshop is "A small and dusty room, with a little window that opens to a wide rice field. The air is tick and gloomy due to the arrival of the rain season. An old artisan wearing a straw hat and loose hemp clothes made is making rice paper at the back of the room. You slowly approach the man and, after bending towards in sign of respect, you ask him: 
+Chinese Workshop is a room. Chinese Workshop is west of Wuhan, south of Aztec temple and north of Maharaja's palace. The description of the  Chinese Workshop is "A small and dusty room, with a little window that opens to a wide rice field. The air is tick and gloomy due to the arrival of the rain season. An old artisan wearing a straw hat and loose hemp clothes made is making rice paper at the back of the room. You slowly approach the man and, after bending towards in sign of respect, you ask him: 
 
 - Sir, may I borrow one of these please?
 
@@ -171,9 +171,9 @@ Latin America is a region.
 Mexico City is a room in Latin America. Mexico City is north of Wuhan. The description of Mexico City is "Gunshots pierce the sky as you cross the road of today's Mexico. It is getting quite dark and you don't want any trouble. You see four similarly unwellcoming alleyways each leading in different directions: south, north, east and west.".
 
 
-Scorpion World is a room in Latin America. Scorpion World is east of Mexico City. The description of the Scorpion World is "Here you step into the future of Latin America. As time passed, a lot of species went extinct. Not scorpions though, scorpions got bigger. Unfortunately, way bigger than you. The whole contient mutated into a huge conurbation of enormous scorpion nests: you are in the middle of it. In front of you is one of those scorpion nest."
+Scorpion World is a room in Latin America. Scorpion World is east of Mexico City, south of Utopian City and north of futuristic casino. The description of the Scorpion World is "Here you step into the future of Latin America. As time passed, a lot of species went extinct. Not scorpions though, scorpions got bigger. Unfortunately, way bigger than you. The whole contient mutated into a huge conurbation of enormous scorpion nests: you are in the middle of it. In front of you is one of those scorpion nest."
 
-A nest is an openable container. It is open. It is in Scorpion World. "The nest is swarming with 'little' scorpions, as big as your head. One of the baby scorpion – that you surprisingly find cute with its sharp little claws, its hairy exoskeleton and its menacing scorpion's tail dancing gently in the warm wind - comes to you, certainly interested by your delicious monkey shape. Violence is never an answer – but now that you are in front of the scorpion that keeps coming closer, saliva dripping from its lips, I would suggest you to attack it!'"
+A nest is an openable container. It is open. It is scenery in Scorpion World. "The nest is swarming with 'little' scorpions, as big as your head. One of the baby scorpion – that you surprisingly find cute with its sharp little claws, its hairy exoskeleton and its menacing scorpion's tail dancing gently in the warm wind - comes to you, certainly interested by your delicious monkey shape. Violence is never an answer – but now that you are in front of the scorpion that keeps coming closer, saliva dripping from its lips, I would suggest you to attack it!'"
 
 A baby scorpion is a person in the nest. Understand "scorpion" as baby scorpion. The baby carries a scorpion's tail.
 
@@ -233,17 +233,18 @@ Instead of searching the researcher when the researcher carries the Mont Blanc q
 	move the Mont Blanc quill to the player.
 
 
-Utopian City is a room in the Antarctica. Utopian City is east of Scientific base camp. The description of the Utopian City is "Cars finally float on air cushions and plants co-exist with skyscrapers in a friendly and aesthetic way. "
+Utopian City is a room in the Antarctica. Utopian City is east of Scientific base camp and south of souk ruins. The description of the Utopian City is "Cars finally float on air cushions and plants co-exist with skyscrapers in a friendly and aesthetic way. "
 
-The floating car is a vehicle in the Utopian City. "A flying car is floating in front of you." The description is "The flying car goes up and down in a very fluide way. It is completely made of glass and its shape is oval and sleek." Understand "car" as the floating car. 
-The car contains a  universal magnetic pass. A universal magnetic is a key. Understand "pass" as universal magnetic pass. 
+The floating car is a vehicle in the Utopian City. "A flying car is floating in front of you." The description is "The flying car goes up and down in a very fluide way. It is completely made of glass and its shape is oval and sleek." 
+
+The car contains a  universal magnetic pass. A universal magnetic pass is a key. Understand "pass" as universal magnetic pass. 
 
 Instead of taking the pass:
-	say "The moment you touch the magnectic pass, the car elevates and you are instantly 1000 feets above the ground. Seconds that follows reminds you of that one time in a theme park where you wanted to show off in front of the girl you were seeing, and you finished puking exactly on her head from 20 feet high. This time, the cars flies at what seems to be a very high speed, but you don't feel anything. After few seconds, it lands at the exact same place you found it. You carfully take the pass, taking care not to press on it and you get off the car.";
+	say "The moment you touch the magnectic pass, the car elevates and you are instantly 1000 feets above the ground. the seconds that follows remind you of that one time in a theme park where you wanted to show off in front of the girl you were seeing, and you finished puking exactly on her head from 20 feet high. This time, the cars flies at what seems to be a very high speed, but you don't feel anything. After few seconds, it lands at the exact same place you found it. You carfully take the pass, taking care not to press on it and you get off the car.";
 	move the pass to the player.
 
 
-Blizzard is a room in Antarctica. Blizzard is west of Scientific base camp. The description of Blizzard is "Leave this place, you are in a primitive icy storm. The wind pierces your clothes and shut your eyes closed. You don't want to spend too much time in here. As you are reading this, your toes are getting frozen and threatens to fall. With your office clothes, you don't stand a chance. If you stay here few more seconds, you'll never see your beloved office again."
+Blizzard is a room in Antarctica. Blizzard is west of Scientific base camp and north of Aztec temple. The description of Blizzard is "Leave this place, you are in a primitive icy storm. The wind pierces your clothes and shut your eyes closed. You don't want to spend too much time in here. As you are reading this, your toes are getting frozen and threatens to fall. With your office clothes, you don't stand a chance. If you stay here few more seconds, you'll never see your beloved office again."
 
 Section 8 - Africa 
 
@@ -252,7 +253,7 @@ Savannah is a room. Savannah is north of Scientific base camp. The description o
 The shiny door is a door. It is south of the office and north of Savannah. The shiny door is lockable and locked.  "[if the player is in Savannah]A big and modern glass door. You know, that opaque kind of glass which looks very expensive.[otherwise]Now out of your [leather chair], you take a last look at the [conference table]. You think to yourself:[end if]"
  
 
-Alexandria's Library is a room. Alexandria's Library is west of Savannah. The description of the Alexandria's Library is "This is probably the greatest sanctuary of knowledge of all time. There are tons of books in there. They don't seem to be arranged in any specific order. You realize just how much looking up stuff was an elephantine task before the Internet.".
+Alexandria's Library is a room. Alexandria's Library is west of Savannah and north of Blizzard. The description of the Alexandria's Library is "This is probably the greatest sanctuary of knowledge of all time. There are tons of books in there. They don't seem to be arranged in any specific order. You realize just how much looking up stuff was an elephantine task before the Internet.".
 There are 100 books in Alexandria's Library.
 
 A Book is a kind of thing. The description of a Book is "You can browse it if you want to. You might find some useful info here.".
