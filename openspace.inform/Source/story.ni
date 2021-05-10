@@ -40,9 +40,10 @@ You look around but can't seem to find any paper laying around. New ideas flood 
 The big door is a thing in the start. The description of the big door is "it is your only way out of the room. Something tells you you should be quick to open it and get on that paper and pen hunt of yours. "
 
 Instead of opening the big door:
+	say "The shaking ground gets you out of your reveries. is it an earthquake ? is it a bomb ? In any case you hold on to that door knob with all your strength. Too bad, a strong wind sucks you inward before you can gasp for help.  [paragraph break] Well well, dear player, the dimesions heard you and sent you quite far away. As you just entered a time and space traveling journey you ought to know that taking a strall to the east fast forwards you to the futur, the west brings you back to the past. As for north and south, they will change your location, letting you roam threw different continents.  [paragraph break]One has to be careful with what he wishes for nowadays... Wherever you land, you better find your way back to your meeting, fast, and with the correct supplies.";
 	let next space be a random room adjacent to Mexico city;
 	move the player to the next space;
-	say "Wait a minute, how did you end up here?  [paragraph break] Well well, the dimesions heard you and sent you quite far away. You just entered a time and space traveling journey taking a strall to the east fast forwards you to the futur, the west brings you back to the past. As for north and south, they change your current geographical location.  [paragraph break]One has to be careful of what he wishes for nowadays... you better find your way back to your meeting, fast, and with the correct supplies.".
+		
 
 The Leather chair is an enterable supporter in the start.  The Leather is not portable.  It is pushable between rooms.  The description of the Leather chair is "Very fashionnable, although you find it a bit rigid. Maybe it's because you sat on it for too long."
 

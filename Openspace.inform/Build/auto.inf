@@ -14090,18 +14090,18 @@ Array ActionHappened --> 0 0 0 0 0 0;
     if ((((action ==##Open) &&  (actor==player) && ((noun == I134_big_door) && (true))))) { ! Runs only when pattern matches
     self = noun;
     if (debug_rules) DB_Rule(R_799, 799);
-    ! [2: let next space be a random room adjacent to mexico city]
+    ! [2: say ~The shaking ground gets you out of your reveries. is it an earthquake ? is it a bomb ? In any case you hold on to that door knob with all your strength. Too bad, a strong wind sucks you inward before you can gasp for help.  [paragraph break] Well well, dear player, the dimesions heard you and sent you quite far away. As you just entered a time and space traveling journey you ought to know that taking a strall to the east fast forwards you to the futur, the west brings you back to the past. As for north and south, they will change your location, letting you roam threw different continents.  [paragraph break]One has to be careful with what he wishes for nowadays... Wherever you land, you better find your way back to your meeting, fast, and with the correct supplies.~]
+    say__p=1;! [3: ~The shaking ground gets you out of your reveries. is it an earthquake ? is it a bomb ? In any case you hold on to that door knob with all your strength. Too bad, a strong wind sucks you inward before you can gasp for help.  ~]
+    ParaContent(); print "The shaking ground gets you out of your reveries. is it an earthquake ? is it a bomb ? In any case you hold on to that door knob with all your strength. Too bad, a strong wind sucks you inward before you can gasp for help.  ";! [4: paragraph break]
+    ParaContent(); DivideParagraphPoint(); new_line;! [5: ~ Well well, dear player, the dimesions heard you and sent you quite far away. As you just entered a time and space traveling journey you ought to know that taking a strall to the east fast forwards you to the futur, the west brings you back to the past. As for north and south, they will change your location, letting you roam threw different continents.  ~]
+    ParaContent(); print " Well well, dear player, the dimesions heard you and sent you quite far away. As you just entered a time and space traveling journey you ought to know that taking a strall to the east fast forwards you to the futur, the west brings you back to the past. As for north and south, they will change your location, letting you roam threw different continents.  ";! [6: paragraph break]
+    ParaContent(); DivideParagraphPoint(); new_line;! [7: ~One has to be careful with what he wishes for nowadays... Wherever you land, you better find your way back to your meeting, fast, and with the correct supplies.~]
+    ParaContent(); print "One has to be careful with what he wishes for nowadays... Wherever you land, you better find your way back to your meeting, fast, and with the correct supplies."; new_line; .L_Say8; .L_SayX8;! [8: let next space be a random room adjacent to mexico city]
 
     		tmp_0 = (Prop_1());
-    ! [3: move the player to the next space]
+    ! [9: move the player to the next space]
     MoveObject(player, tmp_0, 0, false);
-    ! [4: say ~Wait a minute, how did you end up here?  [paragraph break] Well well, the dimesions heard you and sent you quite far away. You just entered a time and space traveling journey taking a strall to the east fast forwards you to the futur, the west brings you back to the past. As for north and south, they change your current geographical location.  [paragraph break]One has to be careful of what he wishes for nowadays... you better find your way back to your meeting, fast, and with the correct supplies.~]
-    say__p=1;! [5: ~Wait a minute, how did you end up here?  ~]
-    ParaContent(); print "Wait a minute, how did you end up here?  ";! [6: paragraph break]
-    ParaContent(); DivideParagraphPoint(); new_line;! [7: ~ Well well, the dimesions heard you and sent you quite far away. You just entered a time and space traveling journey taking a strall to the east fast forwards you to the futur, the west brings you back to the past. As for north and south, they change your current geographical location.  ~]
-    ParaContent(); print " Well well, the dimesions heard you and sent you quite far away. You just entered a time and space traveling journey taking a strall to the east fast forwards you to the futur, the west brings you back to the past. As for north and south, they change your current geographical location.  ";! [8: paragraph break]
-    ParaContent(); DivideParagraphPoint(); new_line;! [9: ~One has to be careful of what he wishes for nowadays... you better find your way back to your meeting, fast, and with the correct supplies.~]
-    ParaContent(); print "One has to be careful of what he wishes for nowadays... you better find your way back to your meeting, fast, and with the correct supplies."; new_line; .L_Say8; .L_SayX8;RulebookFails(); rtrue;
+    RulebookFails(); rtrue;
     } else if (debug_rules > 1) DB_Rule(R_799, 799, 'action');
     rfalse;
 ];
