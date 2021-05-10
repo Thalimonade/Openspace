@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 
-<Skein rootNode="node-2295">
+<Skein rootNode="node-1002">
     <generator>Inform Mac Client (Inform version )</generator>
-    <item nodeId="node-2295">
+    <item nodeId="node-1002">
         <command xml:space="preserve">Openspace</command>
         <result xml:space="preserve">
 
@@ -34,20 +34,21 @@ You can see a big door, a Leather chair and a conference table here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2673"></child>
-            <child nodeId="node-2668"></child>
-            <child nodeId="node-2663"></child>
-            <child nodeId="node-2655"></child>
-            <child nodeId="node-2651"></child>
-            <child nodeId="node-2645"></child>
-            <child nodeId="node-2643"></child>
-            <child nodeId="node-2399"></child>
-            <child nodeId="node-2342"></child>
-            <child nodeId="node-2335"></child>
-            <child nodeId="node-2296"></child>
+        <children><child nodeId="node-1381"></child>
+            <child nodeId="node-1376"></child>
+            <child nodeId="node-1371"></child>
+            <child nodeId="node-1363"></child>
+            <child nodeId="node-1359"></child>
+            <child nodeId="node-1353"></child>
+            <child nodeId="node-1351"></child>
+            <child nodeId="node-1452"></child>
+            <child nodeId="node-1106"></child>
+            <child nodeId="node-1049"></child>
+            <child nodeId="node-1042"></child>
+            <child nodeId="node-1003"></child>
         </children>
     </item>
-    <item nodeId="node-2296">
+    <item nodeId="node-1003">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Savannah
@@ -55,11 +56,11 @@ Savannah today
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2329"></child>
-            <child nodeId="node-2297"></child>
+        <children><child nodeId="node-1036"></child>
+            <child nodeId="node-1004"></child>
         </children>
     </item>
-    <item nodeId="node-2297">
+    <item nodeId="node-1004">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Scientific Base Camp
@@ -69,12 +70,12 @@ You can see an entrance tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2327"></child>
-            <child nodeId="node-2310"></child>
-            <child nodeId="node-2298"></child>
+        <children><child nodeId="node-1034"></child>
+            <child nodeId="node-1017"></child>
+            <child nodeId="node-1005"></child>
         </children>
     </item>
-    <item nodeId="node-2298">
+    <item nodeId="node-1005">
         <command xml:space="preserve">down</command>
         <result xml:space="preserve">
 Igloo
@@ -84,103 +85,103 @@ You can see an entrance tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2309"></child>
-            <child nodeId="node-2308"></child>
-            <child nodeId="node-2303"></child>
-            <child nodeId="node-2301"></child>
-            <child nodeId="node-2299"></child>
+        <children><child nodeId="node-1016"></child>
+            <child nodeId="node-1015"></child>
+            <child nodeId="node-1010"></child>
+            <child nodeId="node-1008"></child>
+            <child nodeId="node-1006"></child>
         </children>
     </item>
-    <item nodeId="node-2299">
+    <item nodeId="node-1006">
         <command xml:space="preserve">x sleepind scientist</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2300"></child>
+        <children><child nodeId="node-1007"></child>
         </children>
     </item>
-    <item nodeId="node-2300">
+    <item nodeId="node-1007">
         <command xml:space="preserve">x sleeping scientist</command>
         <result xml:space="preserve">I only understood you as far as wanting to examine the sleeping person.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2301">
+    <item nodeId="node-1008">
         <command xml:space="preserve">x person</command>
         <result xml:space="preserve">The sleeping guy has papers and tools around him. It look like he is a scientist. He sleeps like a log.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2302"></child>
+        <children><child nodeId="node-1009"></child>
         </children>
     </item>
-    <item nodeId="node-2302">
+    <item nodeId="node-1009">
         <command xml:space="preserve">search the person</command>
         <result xml:space="preserve">There is nothing on the sleeping person.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2303">
+    <item nodeId="node-1010">
         <command xml:space="preserve">up</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2304"></child>
+        <children><child nodeId="node-1011"></child>
         </children>
     </item>
-    <item nodeId="node-2304">
+    <item nodeId="node-1011">
         <command xml:space="preserve">crawl</command>
         <result xml:space="preserve">You must supply a noun.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2305"></child>
+        <children><child nodeId="node-1012"></child>
         </children>
     </item>
-    <item nodeId="node-2305">
+    <item nodeId="node-1012">
         <command xml:space="preserve">crawl the tunnel</command>
         <result xml:space="preserve">I only understood you as far as wanting to crawl.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2306"></child>
+        <children><child nodeId="node-1013"></child>
         </children>
     </item>
-    <item nodeId="node-2306">
+    <item nodeId="node-1013">
         <command xml:space="preserve">down</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2307"></child>
+        <children><child nodeId="node-1014"></child>
         </children>
     </item>
-    <item nodeId="node-2307">
+    <item nodeId="node-1014">
         <command xml:space="preserve">x sleeping scientist</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2308">
+    <item nodeId="node-1015">
         <command xml:space="preserve">search person</command>
         <result xml:space="preserve">There is nothing on the sleeping person.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2309">
+    <item nodeId="node-1016">
         <command xml:space="preserve">open sleeping scientist</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2310">
+    <item nodeId="node-1017">
         <command xml:space="preserve">crawl</command>
         <result xml:space="preserve">(in the entrance tunnel)
 
@@ -191,76 +192,76 @@ You can see an entrance tunnel and a sleeping researcher here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2322"></child>
-            <child nodeId="node-2321"></child>
-            <child nodeId="node-2319"></child>
-            <child nodeId="node-2317"></child>
-            <child nodeId="node-2311"></child>
+        <children><child nodeId="node-1029"></child>
+            <child nodeId="node-1028"></child>
+            <child nodeId="node-1026"></child>
+            <child nodeId="node-1024"></child>
+            <child nodeId="node-1018"></child>
         </children>
     </item>
-    <item nodeId="node-2311">
+    <item nodeId="node-1018">
         <command xml:space="preserve">x person</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2312"></child>
+        <children><child nodeId="node-1019"></child>
         </children>
     </item>
-    <item nodeId="node-2312">
+    <item nodeId="node-1019">
         <command xml:space="preserve">search person</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2313"></child>
+        <children><child nodeId="node-1020"></child>
         </children>
     </item>
-    <item nodeId="node-2313">
+    <item nodeId="node-1020">
         <command xml:space="preserve">crawl</command>
         <result xml:space="preserve">What do you want to crawl in?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2314"></child>
+        <children><child nodeId="node-1021"></child>
         </children>
     </item>
-    <item nodeId="node-2314">
+    <item nodeId="node-1021">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2315"></child>
+        <children><child nodeId="node-1022"></child>
         </children>
     </item>
-    <item nodeId="node-2315">
+    <item nodeId="node-1022">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2316"></child>
+        <children><child nodeId="node-1023"></child>
         </children>
     </item>
-    <item nodeId="node-2316">
+    <item nodeId="node-1023">
         <command xml:space="preserve">crawl</command>
         <result xml:space="preserve">What do you want to crawl in?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2317">
+    <item nodeId="node-1024">
         <command xml:space="preserve">x</command>
         <result xml:space="preserve">(the entrance tunnel)
 You see nothing special about the entrance tunnel.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2318"></child>
+        <children><child nodeId="node-1025"></child>
         </children>
     </item>
-    <item nodeId="node-2318">
+    <item nodeId="node-1025">
         <command xml:space="preserve">go down</command>
         <result xml:space="preserve">
 Igloo
@@ -271,16 +272,16 @@ You can see an entrance tunnel here.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2319">
+    <item nodeId="node-1026">
         <command xml:space="preserve">search the researcher</command>
         <result xml:space="preserve">You lift the multiple layers of blankets and fur and after a quick search you see something shiny that catches your frozen eyes: a Mont Blanc quill! Exactly what your boss needs to sign the contract. After a brief discussion with your conscience, you decide to take it.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2320"></child>
+        <children><child nodeId="node-1027"></child>
         </children>
     </item>
-    <item nodeId="node-2320">
+    <item nodeId="node-1027">
         <command xml:space="preserve">i</command>
         <result xml:space="preserve">You are carrying:
   a Mont Blanc quill
@@ -288,7 +289,7 @@ You can see an entrance tunnel here.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2321">
+    <item nodeId="node-1028">
         <command xml:space="preserve">down</command>
         <result xml:space="preserve">
 Igloo
@@ -299,17 +300,17 @@ You can see an entrance tunnel here.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2322">
+    <item nodeId="node-1029">
         <command xml:space="preserve">crawl the entrance tunnel</command>
         <result xml:space="preserve">I only understood you as far as wanting to crawl.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2325"></child>
-            <child nodeId="node-2323"></child>
+        <children><child nodeId="node-1032"></child>
+            <child nodeId="node-1030"></child>
         </children>
     </item>
-    <item nodeId="node-2323">
+    <item nodeId="node-1030">
         <command xml:space="preserve">down</command>
         <result xml:space="preserve">
 Igloo
@@ -319,10 +320,10 @@ You can see an entrance tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2324"></child>
+        <children><child nodeId="node-1031"></child>
         </children>
     </item>
-    <item nodeId="node-2324">
+    <item nodeId="node-1031">
         <command xml:space="preserve">up</command>
         <result xml:space="preserve">
 Scientific base camp
@@ -333,39 +334,39 @@ You can see an entrance tunnel here.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2325">
+    <item nodeId="node-1032">
         <command xml:space="preserve">crawl</command>
         <result xml:space="preserve">You must supply a noun.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2326"></child>
+        <children><child nodeId="node-1033"></child>
         </children>
     </item>
-    <item nodeId="node-2326">
+    <item nodeId="node-1033">
         <command xml:space="preserve">crawl</command>
         <result xml:space="preserve">You must supply a noun.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2327">
+    <item nodeId="node-1034">
         <command xml:space="preserve"> crawl</command>
         <result xml:space="preserve">You must supply a noun.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2328"></child>
+        <children><child nodeId="node-1035"></child>
         </children>
     </item>
-    <item nodeId="node-2328">
+    <item nodeId="node-1035">
         <command xml:space="preserve">crawl the entrance tunnel</command>
         <result xml:space="preserve">I only understood you as far as wanting to crawl.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2329">
+    <item nodeId="node-1036">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">
 Office
@@ -391,10 +392,10 @@ You can see a back door, a familiar looking door, a Leather chair and a conferen
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2330"></child>
+        <children><child nodeId="node-1037"></child>
         </children>
     </item>
-    <item nodeId="node-2330">
+    <item nodeId="node-1037">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Savannah
@@ -402,10 +403,10 @@ Savannah today
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2331"></child>
+        <children><child nodeId="node-1038"></child>
         </children>
     </item>
-    <item nodeId="node-2331">
+    <item nodeId="node-1038">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Scientific base camp
@@ -415,10 +416,10 @@ You can see an entrance tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2332"></child>
+        <children><child nodeId="node-1039"></child>
         </children>
     </item>
-    <item nodeId="node-2332">
+    <item nodeId="node-1039">
         <command xml:space="preserve">down</command>
         <result xml:space="preserve">
 Igloo
@@ -428,53 +429,53 @@ You can see an entrance tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2333"></child>
+        <children><child nodeId="node-1040"></child>
         </children>
     </item>
-    <item nodeId="node-2333">
+    <item nodeId="node-1040">
         <command xml:space="preserve">x person</command>
         <result xml:space="preserve">The sleeping guy has papers and tools around him. It look like he is a scientist. He sleeps like a log.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2334"></child>
+        <children><child nodeId="node-1041"></child>
         </children>
     </item>
-    <item nodeId="node-2334">
+    <item nodeId="node-1041">
         <command xml:space="preserve">search person</command>
         <result xml:space="preserve">There is nothing on the sleeping person.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2335">
+    <item nodeId="node-1042">
         <command xml:space="preserve">run away</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2336"></child>
+        <children><child nodeId="node-1043"></child>
         </children>
     </item>
-    <item nodeId="node-2336">
+    <item nodeId="node-1043">
         <command xml:space="preserve">door</command>
         <result xml:space="preserve">That's not a verb I recognise.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2337"></child>
+        <children><child nodeId="node-1044"></child>
         </children>
     </item>
-    <item nodeId="node-2337">
+    <item nodeId="node-1044">
         <command xml:space="preserve">catch</command>
         <result xml:space="preserve">That's not a verb I recognise.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2338"></child>
+        <children><child nodeId="node-1045"></child>
         </children>
     </item>
-    <item nodeId="node-2338">
+    <item nodeId="node-1045">
         <command xml:space="preserve">look</command>
         <result xml:space="preserve">Office
 Your boss and yourself are in the midst of stormy negotiations with new potential associates. The atmosphere is tense, so much so that you can feel sweat beads dripping down your tailored shirt as your sticky hands pound on your laptop keyboard. Your boss sits at your left while two other gentlemen sit straight across from you both. All of you have been in here, bargaining over contract terms, for quite a while now and you wrists are staring to ache as you write and erase what the others tell you to. The shadows you cast on the white office walls gently shift as the sun goes down,  you wish they had come up to an agreement by now.
@@ -507,44 +508,44 @@ You can also see a big door here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2339"></child>
+        <children><child nodeId="node-1046"></child>
         </children>
     </item>
-    <item nodeId="node-2339">
+    <item nodeId="node-1046">
         <command xml:space="preserve">open</command>
         <result xml:space="preserve">What do you want to open?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2340"></child>
+        <children><child nodeId="node-1047"></child>
         </children>
     </item>
-    <item nodeId="node-2340">
+    <item nodeId="node-1047">
         <command xml:space="preserve">door</command>
         <result xml:space="preserve">Which do you mean, the shiny door, the modern glass door, the back door, the familiar looking door or the big door?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2341"></child>
+        <children><child nodeId="node-1048"></child>
         </children>
     </item>
-    <item nodeId="node-2341">
+    <item nodeId="node-1048">
         <command xml:space="preserve">open door</command>
         <result xml:space="preserve">Which do you mean, the shiny door, the modern glass door, the back door, the familiar looking door or the big door?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2342">
+    <item nodeId="node-1049">
         <command xml:space="preserve">open door</command>
         <result xml:space="preserve">Which do you mean, the shiny door, the modern glass door, the back door, the familiar looking door or the big door?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2343"></child>
+        <children><child nodeId="node-1050"></child>
         </children>
     </item>
-    <item nodeId="node-2343">
+    <item nodeId="node-1050">
         <command xml:space="preserve">open big door</command>
         <result xml:space="preserve">Office
 Your boss and yourself are in the midst of stormy negotiations with new potential associates. The atmosphere is tense, so much so that you can feel sweat beads dripping down your tailored shirt as your sticky hands pound on your laptop keyboard. Your boss sits at your left while two other gentlemen sit straight across from you both. All of you have been in here, bargaining over contract terms, for quite a while now and you wrists are staring to ache as you write and erase what the others tell you to. The shadows you cast on the white office walls gently shift as the sun goes down,  you wish they had come up to an agreement by now.
@@ -577,239 +578,239 @@ You can also see a big door here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2344"></child>
+        <children><child nodeId="node-1051"></child>
         </children>
     </item>
-    <item nodeId="node-2344">
+    <item nodeId="node-1051">
         <command xml:space="preserve">look scorpions nest</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2345"></child>
+        <children><child nodeId="node-1052"></child>
         </children>
     </item>
-    <item nodeId="node-2345">
+    <item nodeId="node-1052">
         <command xml:space="preserve">look at nest</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2346"></child>
+        <children><child nodeId="node-1053"></child>
         </children>
     </item>
-    <item nodeId="node-2346">
+    <item nodeId="node-1053">
         <command xml:space="preserve">go north</command>
         <result xml:space="preserve">(first opening the modern glass door)
 It seems to be locked.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2347"></child>
+        <children><child nodeId="node-1054"></child>
         </children>
     </item>
-    <item nodeId="node-2347">
+    <item nodeId="node-1054">
         <command xml:space="preserve">look flying car</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2348"></child>
+        <children><child nodeId="node-1055"></child>
         </children>
     </item>
-    <item nodeId="node-2348">
+    <item nodeId="node-1055">
         <command xml:space="preserve">look car</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2349"></child>
+        <children><child nodeId="node-1056"></child>
         </children>
     </item>
-    <item nodeId="node-2349">
+    <item nodeId="node-1056">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">(first opening the shiny door)
 It seems to be locked.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2350"></child>
+        <children><child nodeId="node-1057"></child>
         </children>
     </item>
-    <item nodeId="node-2350">
+    <item nodeId="node-1057">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">(first opening the shiny door)
 It seems to be locked.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2351"></child>
+        <children><child nodeId="node-1058"></child>
         </children>
     </item>
-    <item nodeId="node-2351">
+    <item nodeId="node-1058">
         <command xml:space="preserve">go east</command>
         <result xml:space="preserve">(first opening the familiar looking door)
 It seems to be locked.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2352"></child>
+        <children><child nodeId="node-1059"></child>
         </children>
     </item>
-    <item nodeId="node-2352">
+    <item nodeId="node-1059">
         <command xml:space="preserve">go west</command>
         <result xml:space="preserve">(first opening the back door)
 this door looks locked and you have a feeling only magic could help you get threw it.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2353"></child>
+        <children><child nodeId="node-1060"></child>
         </children>
     </item>
-    <item nodeId="node-2353">
+    <item nodeId="node-1060">
         <command xml:space="preserve">go east</command>
         <result xml:space="preserve">(first opening the familiar looking door)
 It seems to be locked.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2354"></child>
+        <children><child nodeId="node-1061"></child>
         </children>
     </item>
-    <item nodeId="node-2354">
+    <item nodeId="node-1061">
         <command xml:space="preserve">go east</command>
         <result xml:space="preserve">(first opening the familiar looking door)
 It seems to be locked.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2355"></child>
+        <children><child nodeId="node-1062"></child>
         </children>
     </item>
-    <item nodeId="node-2355">
+    <item nodeId="node-1062">
         <command xml:space="preserve">look at floating car</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2356"></child>
+        <children><child nodeId="node-1063"></child>
         </children>
     </item>
-    <item nodeId="node-2356">
+    <item nodeId="node-1063">
         <command xml:space="preserve">look at car</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2357"></child>
+        <children><child nodeId="node-1064"></child>
         </children>
     </item>
-    <item nodeId="node-2357">
+    <item nodeId="node-1064">
         <command xml:space="preserve">take pass</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2358"></child>
+        <children><child nodeId="node-1065"></child>
         </children>
     </item>
-    <item nodeId="node-2358">
+    <item nodeId="node-1065">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">(first opening the shiny door)
 It seems to be locked.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2359"></child>
+        <children><child nodeId="node-1066"></child>
         </children>
     </item>
-    <item nodeId="node-2359">
+    <item nodeId="node-1066">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">(first opening the shiny door)
 It seems to be locked.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2360"></child>
+        <children><child nodeId="node-1067"></child>
         </children>
     </item>
-    <item nodeId="node-2360">
+    <item nodeId="node-1067">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">(first opening the shiny door)
 It seems to be locked.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2361"></child>
+        <children><child nodeId="node-1068"></child>
         </children>
     </item>
-    <item nodeId="node-2361">
+    <item nodeId="node-1068">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">(first opening the shiny door)
 It seems to be locked.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2362"></child>
+        <children><child nodeId="node-1069"></child>
         </children>
     </item>
-    <item nodeId="node-2362">
+    <item nodeId="node-1069">
         <command xml:space="preserve">open door</command>
         <result xml:space="preserve">Which do you mean, the shiny door, the modern glass door, the back door, the familiar looking door or the big door?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2363"></child>
+        <children><child nodeId="node-1070"></child>
         </children>
     </item>
-    <item nodeId="node-2363">
+    <item nodeId="node-1070">
         <command xml:space="preserve">unlock door</command>
         <result xml:space="preserve">Which do you mean, the shiny door, the modern glass door, the back door, the familiar looking door or the big door?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2364"></child>
+        <children><child nodeId="node-1071"></child>
         </children>
     </item>
-    <item nodeId="node-2364">
+    <item nodeId="node-1071">
         <command xml:space="preserve">open door</command>
         <result xml:space="preserve">Which do you mean, the shiny door, the modern glass door, the back door, the familiar looking door or the big door?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2365"></child>
+        <children><child nodeId="node-1072"></child>
         </children>
     </item>
-    <item nodeId="node-2365">
+    <item nodeId="node-1072">
         <command xml:space="preserve">go west</command>
         <result xml:space="preserve">(first opening the back door)
 this door looks locked and you have a feeling only magic could help you get threw it.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2366"></child>
+        <children><child nodeId="node-1073"></child>
         </children>
     </item>
-    <item nodeId="node-2366">
+    <item nodeId="node-1073">
         <command xml:space="preserve"></command>
         <result xml:space="preserve">I beg your pardon?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2367"></child>
+        <children><child nodeId="node-1074"></child>
         </children>
     </item>
-    <item nodeId="node-2367">
+    <item nodeId="node-1074">
         <command xml:space="preserve">go north</command>
         <result xml:space="preserve">(first opening the modern glass door)
 It seems to be locked.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2368"></child>
+        <children><child nodeId="node-1075"></child>
         </children>
     </item>
-    <item nodeId="node-2368">
+    <item nodeId="node-1075">
         <command xml:space="preserve">open big door</command>
         <result xml:space="preserve">Druid's tent
 an old Celtic druid's tent, just like you imagined them. Drapy curtens frame passageways going north and south, they are too thick for you to see threw them. At the very back of the tent, behind all of the mess, you see a back door. Strangely enough, it looks like the one form your office 
@@ -820,10 +821,10 @@ You can also see a small altar (on which are a rounded jar (closed), a skinny ja
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2369"></child>
+        <children><child nodeId="node-1076"></child>
         </children>
     </item>
-    <item nodeId="node-2369">
+    <item nodeId="node-1076">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Alexandria's Library
@@ -833,10 +834,10 @@ You can see 100 books here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2370"></child>
+        <children><child nodeId="node-1077"></child>
         </children>
     </item>
-    <item nodeId="node-2370">
+    <item nodeId="node-1077">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Blizzard
@@ -844,10 +845,10 @@ Leave this place, you are in a primitive icy storm. The wind pierces your clothe
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2371"></child>
+        <children><child nodeId="node-1078"></child>
         </children>
     </item>
-    <item nodeId="node-2371">
+    <item nodeId="node-1078">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Aztec temple
@@ -859,10 +860,10 @@ You can also see an Aztec Statue here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2372"></child>
+        <children><child nodeId="node-1079"></child>
         </children>
     </item>
-    <item nodeId="node-2372">
+    <item nodeId="node-1079">
         <command xml:space="preserve">go east</command>
         <result xml:space="preserve">
 Mexico City
@@ -870,19 +871,19 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2373"></child>
+        <children><child nodeId="node-1080"></child>
         </children>
     </item>
-    <item nodeId="node-2373">
+    <item nodeId="node-1080">
         <command xml:space="preserve">look at black jack</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2374"></child>
+        <children><child nodeId="node-1081"></child>
         </children>
     </item>
-    <item nodeId="node-2374">
+    <item nodeId="node-1081">
         <command xml:space="preserve">go west</command>
         <result xml:space="preserve">
 Aztec temple
@@ -894,37 +895,37 @@ You can also see an Aztec Statue here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2375"></child>
+        <children><child nodeId="node-1082"></child>
         </children>
     </item>
-    <item nodeId="node-2375">
+    <item nodeId="node-1082">
         <command xml:space="preserve">look at black jack</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2376"></child>
+        <children><child nodeId="node-1083"></child>
         </children>
     </item>
-    <item nodeId="node-2376">
+    <item nodeId="node-1083">
         <command xml:space="preserve">go west</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2377"></child>
+        <children><child nodeId="node-1084"></child>
         </children>
     </item>
-    <item nodeId="node-2377">
+    <item nodeId="node-1084">
         <command xml:space="preserve">go west</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2378"></child>
+        <children><child nodeId="node-1085"></child>
         </children>
     </item>
-    <item nodeId="node-2378">
+    <item nodeId="node-1085">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Chinese Workshop
@@ -936,10 +937,10 @@ A small and dusty room, with a little window that opens to a wide rice field. Th
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2379"></child>
+        <children><child nodeId="node-1086"></child>
         </children>
     </item>
-    <item nodeId="node-2379">
+    <item nodeId="node-1086">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Maharaja's palace
@@ -951,91 +952,91 @@ You can see a Peacock here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2380"></child>
+        <children><child nodeId="node-1087"></child>
         </children>
     </item>
-    <item nodeId="node-2380">
+    <item nodeId="node-1087">
         <command xml:space="preserve">take skinny</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2381"></child>
+        <children><child nodeId="node-1088"></child>
         </children>
     </item>
-    <item nodeId="node-2381">
+    <item nodeId="node-1088">
         <command xml:space="preserve">read skinny</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2382"></child>
+        <children><child nodeId="node-1089"></child>
         </children>
     </item>
-    <item nodeId="node-2382">
+    <item nodeId="node-1089">
         <command xml:space="preserve">read label of skinny</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2383"></child>
+        <children><child nodeId="node-1090"></child>
         </children>
     </item>
-    <item nodeId="node-2383">
+    <item nodeId="node-1090">
         <command xml:space="preserve">read what's on skinny jar</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2384"></child>
+        <children><child nodeId="node-1091"></child>
         </children>
     </item>
-    <item nodeId="node-2384">
+    <item nodeId="node-1091">
         <command xml:space="preserve">read skinny jar¨</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2385"></child>
+        <children><child nodeId="node-1092"></child>
         </children>
     </item>
-    <item nodeId="node-2385">
+    <item nodeId="node-1092">
         <command xml:space="preserve">read skinny jar</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2386"></child>
+        <children><child nodeId="node-1093"></child>
         </children>
     </item>
-    <item nodeId="node-2386">
+    <item nodeId="node-1093">
         <command xml:space="preserve">open jar</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2387"></child>
+        <children><child nodeId="node-1094"></child>
         </children>
     </item>
-    <item nodeId="node-2387">
+    <item nodeId="node-1094">
         <command xml:space="preserve">drink liquid</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2388"></child>
+        <children><child nodeId="node-1095"></child>
         </children>
     </item>
-    <item nodeId="node-2388">
+    <item nodeId="node-1095">
         <command xml:space="preserve">read label skinny</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2389"></child>
+        <children><child nodeId="node-1096"></child>
         </children>
     </item>
-    <item nodeId="node-2389">
+    <item nodeId="node-1096">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Druid's tent
@@ -1047,10 +1048,10 @@ You can also see a small altar (on which are a rounded jar (closed), a skinny ja
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2390"></child>
+        <children><child nodeId="node-1097"></child>
         </children>
     </item>
-    <item nodeId="node-2390">
+    <item nodeId="node-1097">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Alexandria's Library
@@ -1060,10 +1061,10 @@ You can see 100 books here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2391"></child>
+        <children><child nodeId="node-1098"></child>
         </children>
     </item>
-    <item nodeId="node-2391">
+    <item nodeId="node-1098">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Blizzard
@@ -1071,10 +1072,10 @@ Leave this place, you are in a primitive icy storm. The wind pierces your clothe
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2392"></child>
+        <children><child nodeId="node-1099"></child>
         </children>
     </item>
-    <item nodeId="node-2392">
+    <item nodeId="node-1099">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Aztec temple
@@ -1086,154 +1087,239 @@ You can also see an Aztec Statue here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2393"></child>
+        <children><child nodeId="node-1100"></child>
         </children>
     </item>
-    <item nodeId="node-2393">
+    <item nodeId="node-1100">
         <command xml:space="preserve">take skinny</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2394"></child>
+        <children><child nodeId="node-1101"></child>
         </children>
     </item>
-    <item nodeId="node-2394">
+    <item nodeId="node-1101">
         <command xml:space="preserve">read label of skinny</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2395"></child>
+        <children><child nodeId="node-1102"></child>
         </children>
     </item>
-    <item nodeId="node-2395">
+    <item nodeId="node-1102">
         <command xml:space="preserve">read the label of skinny</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2396"></child>
+        <children><child nodeId="node-1103"></child>
         </children>
     </item>
-    <item nodeId="node-2396">
+    <item nodeId="node-1103">
         <command xml:space="preserve">open skinnny</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2397"></child>
+        <children><child nodeId="node-1104"></child>
         </children>
     </item>
-    <item nodeId="node-2397">
+    <item nodeId="node-1104">
         <command xml:space="preserve">open skinny jar</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2398"></child>
+        <children><child nodeId="node-1105"></child>
         </children>
     </item>
-    <item nodeId="node-2398">
+    <item nodeId="node-1105">
         <command xml:space="preserve">examine skinny jar</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2399">
+    <item nodeId="node-1106">
         <command xml:space="preserve">open big door</command>
-        <result xml:space="preserve">The shaking ground gets you out of your reveries. is it an earthquake ? is it a bomb ? In any case you hold on to that door knob with all your strength. Too bad, a strong wind sucks you inward before you can gasp for help.  
+        <result xml:space="preserve">The shaking ground gets you out of your reveries. Is it an earthquake ? Is it a bomb ? In any case you hold on to that door knob with all your strength. Too bad, a strong wind sucks you inward before you can gasp for help.  
 
  Well well, dear player, the dimesions heard you and sent you quite far away. As you just entered a time and space traveling journey you ought to know that taking a strall to the east fast forwards you to the futur, the west brings you back to the past. As for north and south, they will change your location, letting you roam threw different continents.  
 
 One has to be careful with what he wishes for nowadays... Wherever you land, you better find your way back to your meeting, fast, and with the correct supplies.
 
-Wuhan
-A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!
+Aztec temple
+In the future is Mexico City.
+ The humming of a ritual chant bounces on the stone walls, you came right on time for the human sacrifice ! It seems like you landed in the past of Latin America and that the great Aztec civilization is at its peak.
+
+A middle sized wall built in a strangely intelligent way with huge stones. It is too big for you to climb..
+
+You can also see an Aztec Statue here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2640"></child>
-            <child nodeId="node-2628"></child>
-            <child nodeId="node-2615"></child>
-            <child nodeId="node-2700"></child>
-            <child nodeId="node-2607"></child>
-            <child nodeId="node-2593"></child>
-            <child nodeId="node-2523"></child>
-            <child nodeId="node-2497"></child>
-            <child nodeId="node-2491"></child>
-            <child nodeId="node-2476"></child>
-            <child nodeId="node-2423"></child>
-            <child nodeId="node-2405"></child>
-            <child nodeId="node-2402"></child>
-            <child nodeId="node-2400"></child>
+        <children><child nodeId="node-1348"></child>
+            <child nodeId="node-1336"></child>
+            <child nodeId="node-1323"></child>
+            <child nodeId="node-1410"></child>
+            <child nodeId="node-1322"></child>
+            <child nodeId="node-1314"></child>
+            <child nodeId="node-1300"></child>
+            <child nodeId="node-1230"></child>
+            <child nodeId="node-1204"></child>
+            <child nodeId="node-1198"></child>
+            <child nodeId="node-1183"></child>
+            <child nodeId="node-1130"></child>
+            <child nodeId="node-1112"></child>
+            <child nodeId="node-1109"></child>
+            <child nodeId="node-1107"></child>
         </children>
     </item>
-    <item nodeId="node-2400">
+    <item nodeId="node-1107">
         <command xml:space="preserve">x nest</command>
         <result xml:space="preserve">In the nest is a baby scorpion.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2401"></child>
+        <children><child nodeId="node-1108"></child>
         </children>
     </item>
-    <item nodeId="node-2401">
+    <item nodeId="node-1108">
         <command xml:space="preserve">x baby</command>
         <result xml:space="preserve">One of the baby scorpion - that you surprisingly find cute with its sharp little claws, its hairy exoskeleton and its menacing scorpion's tail dancing gently in the warm wind - comes to you, certainly interested by your delicious monkey shape. Violence is never an answer - but now that you are in front of the scorpion that keeps coming closer, saliva dripping from its lips, I would suggest you to attack it!
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2402">
+    <item nodeId="node-1109">
         <command xml:space="preserve">x</command>
-        <result xml:space="preserve">(the Astec Statue)
-A representation of Quetzalcóatl, the snake-god. It is cubical and stable. It stands just in front of a wall, behind which is a strange place that looks like a landfill site but instead of broken washing machines and old lamps, a lot of yellow-white sticks and balls with wholes are laying there...
+        <result xml:space="preserve">What do you want to examine?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2403"></child>
+        <children><child nodeId="node-1110"></child>
+            <child nodeId="node-1415"></child>
         </children>
     </item>
-    <item nodeId="node-2403">
+    <item nodeId="node-1415">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">What do you want to examine?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1416"></child>
+        </children>
+    </item>
+    <item nodeId="node-1416">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">What do you want to examine?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1417"></child>
+        </children>
+    </item>
+    <item nodeId="node-1417">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">What do you want to examine?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1418"></child>
+        </children>
+    </item>
+    <item nodeId="node-1418">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">What do you want to examine?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1419"></child>
+        </children>
+    </item>
+    <item nodeId="node-1419">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">What do you want to examine?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1420"></child>
+        </children>
+    </item>
+    <item nodeId="node-1420">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">What do you want to examine?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1421"></child>
+        </children>
+    </item>
+    <item nodeId="node-1421">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">What do you want to examine?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1422"></child>
+        </children>
+    </item>
+    <item nodeId="node-1422">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">What do you want to examine?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1423"></child>
+        </children>
+    </item>
+    <item nodeId="node-1423">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">What do you want to examine?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1110">
         <command xml:space="preserve">climb</command>
         <result xml:space="preserve">What do you want to climb?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2404"></child>
+        <children><child nodeId="node-1111"></child>
         </children>
     </item>
-    <item nodeId="node-2404">
+    <item nodeId="node-1111">
         <command xml:space="preserve">climb the wall</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2405">
+    <item nodeId="node-1112">
         <command xml:space="preserve">west</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2412"></child>
-            <child nodeId="node-2408"></child>
-            <child nodeId="node-2406"></child>
+        <children><child nodeId="node-1119"></child>
+            <child nodeId="node-1115"></child>
+            <child nodeId="node-1113"></child>
         </children>
     </item>
-    <item nodeId="node-2406">
+    <item nodeId="node-1113">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">(first opening the shiny door)
 It seems to be locked.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2407"></child>
+        <children><child nodeId="node-1114"></child>
         </children>
     </item>
-    <item nodeId="node-2407">
+    <item nodeId="node-1114">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">(first opening the familiar looking door)
 It seems to be locked.
@@ -1241,7 +1327,7 @@ It seems to be locked.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2408">
+    <item nodeId="node-1115">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">
 Scientific Base Camp
@@ -1251,10 +1337,10 @@ You can see a tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2409"></child>
+        <children><child nodeId="node-1116"></child>
         </children>
     </item>
-    <item nodeId="node-2409">
+    <item nodeId="node-1116">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Mexico City
@@ -1262,10 +1348,10 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2410"></child>
+        <children><child nodeId="node-1117"></child>
         </children>
     </item>
-    <item nodeId="node-2410">
+    <item nodeId="node-1117">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Wuhan
@@ -1273,10 +1359,10 @@ A new, deadly virus was detected for the first time here. The city center is des
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2411"></child>
+        <children><child nodeId="node-1118"></child>
         </children>
     </item>
-    <item nodeId="node-2411">
+    <item nodeId="node-1118">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 New Delhi
@@ -1287,7 +1373,7 @@ A big and modern glass door. You know, that opaque kind of glass which looks ver
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2412">
+    <item nodeId="node-1119">
         <command xml:space="preserve">crawl</command>
         <result xml:space="preserve">(in the entrance tunnel)
 
@@ -1298,19 +1384,19 @@ You can see an entrance tunnel and a sleeping researcher here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2413"></child>
+        <children><child nodeId="node-1120"></child>
         </children>
     </item>
-    <item nodeId="node-2413">
+    <item nodeId="node-1120">
         <command xml:space="preserve">crawl</command>
         <result xml:space="preserve">What do you want to crawl in?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2414"></child>
+        <children><child nodeId="node-1121"></child>
         </children>
     </item>
-    <item nodeId="node-2414">
+    <item nodeId="node-1121">
         <command xml:space="preserve">up</command>
         <result xml:space="preserve">
 Scientific Base Camp
@@ -1320,10 +1406,10 @@ You can see an entrance tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2415"></child>
+        <children><child nodeId="node-1122"></child>
         </children>
     </item>
-    <item nodeId="node-2415">
+    <item nodeId="node-1122">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Mexico City
@@ -1331,10 +1417,10 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2416"></child>
+        <children><child nodeId="node-1123"></child>
         </children>
     </item>
-    <item nodeId="node-2416">
+    <item nodeId="node-1123">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">
 Scorpion World
@@ -1344,28 +1430,28 @@ The nest is swarming with "little" scorpions, as big as your head. Inside your h
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2417"></child>
+        <children><child nodeId="node-1124"></child>
         </children>
     </item>
-    <item nodeId="node-2417">
+    <item nodeId="node-1124">
         <command xml:space="preserve">x nest</command>
         <result xml:space="preserve">In the nest is a baby scorpion.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2418"></child>
+        <children><child nodeId="node-1125"></child>
         </children>
     </item>
-    <item nodeId="node-2418">
+    <item nodeId="node-1125">
         <command xml:space="preserve">x baby</command>
         <result xml:space="preserve">You see nothing special about the baby scorpion.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2419"></child>
+        <children><child nodeId="node-1126"></child>
         </children>
     </item>
-    <item nodeId="node-2419">
+    <item nodeId="node-1126">
         <command xml:space="preserve">west</command>
         <result xml:space="preserve">
 Mexico City
@@ -1373,10 +1459,10 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2420"></child>
+        <children><child nodeId="node-1127"></child>
         </children>
     </item>
-    <item nodeId="node-2420">
+    <item nodeId="node-1127">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">
 Scientific Base Camp
@@ -1386,10 +1472,10 @@ You can see an entrance tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2421"></child>
+        <children><child nodeId="node-1128"></child>
         </children>
     </item>
-    <item nodeId="node-2421">
+    <item nodeId="node-1128">
         <command xml:space="preserve">crawl</command>
         <result xml:space="preserve">(in the entrance tunnel)
 
@@ -1400,10 +1486,10 @@ You can see an entrance tunnel and a sleeping researcher here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2422"></child>
+        <children><child nodeId="node-1129"></child>
         </children>
     </item>
-    <item nodeId="node-2422">
+    <item nodeId="node-1129">
         <command xml:space="preserve">crawl in the entrance tunnel</command>
         <result xml:space="preserve">
 Scientific Base Camp
@@ -1414,47 +1500,102 @@ You can see an entrance tunnel here.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2423">
+    <item nodeId="node-1130">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
-Swamps
-The air here is breezy. It is hard for you to move comfortably because your feet are plunged in water, or is it silt ? Vegetation is quite dense, reeds and weeds pave your way. If you look west, you can see the framework of a door in the distance. Strangely enough, it looks like the one form your office. There are poorly lit openings in the trees leading either to the north or the south. 
+Chinese Workshop
+In the future is Wuhan.
+This workshop is A small and dusty room, with a little window that opens to a wide rice field. The air is tick and gloomy due to the arrival of the rain season. An old artisan wearing a straw hat and loose hemp clothes made is making rice paper at the back of the room. You slowly approach the man and, after bending towards in sign of respect, you ask him:
 
-A big and modern glass door. You know, that opaque kind of glass which looks very expensive.
+- Sir, may I borrow one of these please?
 
-You can also see an Aligator (on which is a scaly skin) and a long wooden stick here.
+- Yes, of course, go ahead.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2470"></child>
-            <child nodeId="node-2444"></child>
-            <child nodeId="node-2424"></child>
+        <children><child nodeId="node-1177"></child>
+            <child nodeId="node-1450"></child>
+            <child nodeId="node-1151"></child>
+            <child nodeId="node-1131"></child>
         </children>
     </item>
-    <item nodeId="node-2424">
+    <item nodeId="node-1131">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
-Souk Ruins
-A labyrinthine series of corridors unfolds in front of you. The stones that pave the ground reflect the dazzling sunlight
+Wuhan
+In the future is a Futuristic Casino and in the past is a Chinese Workshop.
+A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!
 
-You can see a Chest (closed) here.
+You can see a virus here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2435"></child>
-            <child nodeId="node-2425"></child>
+        <children><child nodeId="node-1142"></child>
+            <child nodeId="node-1132"></child>
+            <child nodeId="node-1444"></child>
         </children>
     </item>
-    <item nodeId="node-2425">
+    <item nodeId="node-1444">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the virus)
+You are positive; not in the good way.
+
+
+
+    *** The End ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1445"></child>
+        </children>
+    </item>
+    <item nodeId="node-1445">
+        <command xml:space="preserve">restart</command>
+        <result xml:space="preserve">
+
+
+Open Space
+An Interactive Fiction by Thalie Schmidt, Laura Pippus, David Pavlik et Ludovic Rochat
+Release 1 / Serial number 210510 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+The office
+Your boss and yourself are in the midst of stormy negotiations with new potential associates. The atmosphere is tense, so much so that you can feel sweat beads dripping down your tailored shirt as your sticky hands pound on your laptop keyboard. Your boss sits at your left while two other gentlemen sit straight across from you both. All of you have been in here, bargaining over contract terms, for quite a while now and you wrists are staring to ache as you write and erase what the others tell you to. The shadows you cast on the white office walls gently shift as the sun goes down,  you wish they had come up to an agreement by now.
+
+Suddenly, either out of weariness or out of boldness, one of your guests leans in towards you and suggests a daring idea. You see a spark light up everybody else's as the idea sinks a little deeper in all of your minds.
+
+-This is great ..! says your boss.
+
+- This is illegal. you respond. Completely astonished by the nature of such suggestions.
+
+- You're right, this can't appear on the records. Put that computer aside and grab a piece of paper! he adds.
+
+You look around but can't seem to find any paper laying around. New ideas flood the room and you are not able the write any of them down. You painfully interrupt this flow of thoughts:
+
+-Sir, I don't think we have any paper nor any pens. The bubbly brainstorm turns into three heavy stairs, the kind of stairs that strip you from your will to disagree.
+
+- Would you be so kind as to go and fetch some for us ? asks the scarier of the two guest.
+
+-Yes, of course. you respond as you quickly get up. 
+
+You can see a big door, a Leather chair and a conference table here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1132">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2426"></child>
+        <children><child nodeId="node-1133"></child>
         </children>
     </item>
-    <item nodeId="node-2426">
+    <item nodeId="node-1133">
         <command xml:space="preserve">past</command>
         <result xml:space="preserve">
 Savannah
@@ -1464,10 +1605,10 @@ A big and modern glass door. You know, that opaque kind of glass which looks ver
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2427"></child>
+        <children><child nodeId="node-1134"></child>
         </children>
     </item>
-    <item nodeId="node-2427">
+    <item nodeId="node-1134">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Scientific Base Camp
@@ -1477,10 +1618,10 @@ You can see a tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2428"></child>
+        <children><child nodeId="node-1135"></child>
         </children>
     </item>
-    <item nodeId="node-2428">
+    <item nodeId="node-1135">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Mexico City
@@ -1488,10 +1629,10 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2429"></child>
+        <children><child nodeId="node-1136"></child>
         </children>
     </item>
-    <item nodeId="node-2429">
+    <item nodeId="node-1136">
         <command xml:space="preserve">past</command>
         <result xml:space="preserve">
 Aztec Temple
@@ -1503,37 +1644,37 @@ You can also see an Aztec Statue here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2430"></child>
+        <children><child nodeId="node-1137"></child>
         </children>
     </item>
-    <item nodeId="node-2430">
+    <item nodeId="node-1137">
         <command xml:space="preserve">x statue</command>
         <result xml:space="preserve">A representation of Quetzalcóatl, the snake-god. It is cubical and stable. It stands just in front of the wall, behind which is a strange place that looks like a landfill site but instead of broken washing machines and old lamps, a lot of yellow-white sticks and balls with wholes are laying there...
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2431"></child>
+        <children><child nodeId="node-1138"></child>
         </children>
     </item>
-    <item nodeId="node-2431">
+    <item nodeId="node-1138">
         <command xml:space="preserve">get on statue</command>
         <result xml:space="preserve">You get onto the Aztec Statue.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2432"></child>
+        <children><child nodeId="node-1139"></child>
         </children>
     </item>
-    <item nodeId="node-2432">
+    <item nodeId="node-1139">
         <command xml:space="preserve">climb up</command>
         <result xml:space="preserve">You must name something more substantial.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2433"></child>
+        <children><child nodeId="node-1140"></child>
         </children>
     </item>
-    <item nodeId="node-2433">
+    <item nodeId="node-1140">
         <command xml:space="preserve">climb the wall</command>
         <result xml:space="preserve">(first getting off the Aztec Statue)
 As you are not an athlete, this operation is proving very difficult; but you manage to pull yourself up.
@@ -1543,10 +1684,10 @@ This place reminds you why you dont like BBQ: mostly because of the smell... Whi
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2434"></child>
+        <children><child nodeId="node-1141"></child>
         </children>
     </item>
-    <item nodeId="node-2434">
+    <item nodeId="node-1141">
         <command xml:space="preserve">go down</command>
         <result xml:space="preserve">You jump from the wall on the statue and then on the ground. You hurry up because you can hear the ritual chant getting closer!
 
@@ -1560,16 +1701,16 @@ You can also see an Aztec Statue here.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2435">
+    <item nodeId="node-1142">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2436"></child>
+        <children><child nodeId="node-1143"></child>
         </children>
     </item>
-    <item nodeId="node-2436">
+    <item nodeId="node-1143">
         <command xml:space="preserve">west</command>
         <result xml:space="preserve">
 Savannah
@@ -1579,10 +1720,10 @@ A big and modern glass door. You know, that opaque kind of glass which looks ver
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2437"></child>
+        <children><child nodeId="node-1144"></child>
         </children>
     </item>
-    <item nodeId="node-2437">
+    <item nodeId="node-1144">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Scientific Base Camp
@@ -1592,10 +1733,10 @@ You can see a tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2438"></child>
+        <children><child nodeId="node-1145"></child>
         </children>
     </item>
-    <item nodeId="node-2438">
+    <item nodeId="node-1145">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Mexico City
@@ -1603,10 +1744,10 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2439"></child>
+        <children><child nodeId="node-1146"></child>
         </children>
     </item>
-    <item nodeId="node-2439">
+    <item nodeId="node-1146">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">
 Scorpion World
@@ -1616,19 +1757,19 @@ The nest is swarming with "little" scorpions, as big as your head. Inside your h
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2440"></child>
+        <children><child nodeId="node-1147"></child>
         </children>
     </item>
-    <item nodeId="node-2440">
+    <item nodeId="node-1147">
         <command xml:space="preserve">x nest</command>
         <result xml:space="preserve">In the nest is a baby scorpion.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2441"></child>
+        <children><child nodeId="node-1148"></child>
         </children>
     </item>
-    <item nodeId="node-2441">
+    <item nodeId="node-1148">
         <command xml:space="preserve">west</command>
         <result xml:space="preserve">
 Mexico City
@@ -1636,10 +1777,10 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2442"></child>
+        <children><child nodeId="node-1149"></child>
         </children>
     </item>
-    <item nodeId="node-2442">
+    <item nodeId="node-1149">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">
 Scorpion World
@@ -1649,17 +1790,17 @@ The nest is swarming with "little" scorpions, as big as your head. Inside your h
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2443"></child>
+        <children><child nodeId="node-1150"></child>
         </children>
     </item>
-    <item nodeId="node-2443">
+    <item nodeId="node-1150">
         <command xml:space="preserve">attack baby</command>
         <result xml:space="preserve">After an epic battle in which you found yourself without trousers because your belt was the only weapon you could find, you finally manage to finish off the baby scorpion that passes away looking you right in the eyes. To honor this proud and mighty enemy, you decide to craft a pen out of it's tail.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2444">
+    <item nodeId="node-1151">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">
 Wuhan
@@ -1667,10 +1808,10 @@ A new, deadly virus was detected for the first time here. The city center is des
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2445"></child>
+        <children><child nodeId="node-1152"></child>
         </children>
     </item>
-    <item nodeId="node-2445">
+    <item nodeId="node-1152">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">
 Mexico City
@@ -1678,20 +1819,20 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2466"></child>
-            <child nodeId="node-2446"></child>
+        <children><child nodeId="node-1173"></child>
+            <child nodeId="node-1153"></child>
         </children>
     </item>
-    <item nodeId="node-2446">
+    <item nodeId="node-1153">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2447"></child>
+        <children><child nodeId="node-1154"></child>
         </children>
     </item>
-    <item nodeId="node-2447">
+    <item nodeId="node-1154">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">
 New Delhi
@@ -1701,10 +1842,10 @@ Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2448"></child>
+        <children><child nodeId="node-1155"></child>
         </children>
     </item>
-    <item nodeId="node-2448">
+    <item nodeId="node-1155">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">
 Wuhan
@@ -1712,10 +1853,10 @@ A new, deadly virus was detected for the first time here. The city center is des
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2449"></child>
+        <children><child nodeId="node-1156"></child>
         </children>
     </item>
-    <item nodeId="node-2449">
+    <item nodeId="node-1156">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">
 Mexico City
@@ -1723,28 +1864,28 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2450"></child>
+        <children><child nodeId="node-1157"></child>
         </children>
     </item>
-    <item nodeId="node-2450">
+    <item nodeId="node-1157">
         <command xml:space="preserve">nortjh</command>
         <result xml:space="preserve">That's not a verb I recognise.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2451"></child>
+        <children><child nodeId="node-1158"></child>
         </children>
     </item>
-    <item nodeId="node-2451">
+    <item nodeId="node-1158">
         <command xml:space="preserve"></command>
         <result xml:space="preserve">I beg your pardon?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2452"></child>
+        <children><child nodeId="node-1159"></child>
         </children>
     </item>
-    <item nodeId="node-2452">
+    <item nodeId="node-1159">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">
 Scientific Base Camp
@@ -1754,10 +1895,10 @@ You can see a tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2453"></child>
+        <children><child nodeId="node-1160"></child>
         </children>
     </item>
-    <item nodeId="node-2453">
+    <item nodeId="node-1160">
         <command xml:space="preserve">crawl</command>
         <result xml:space="preserve">(in the tunnel)
 
@@ -1768,48 +1909,48 @@ You can see a tunnel and a sleeping researcher here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2454"></child>
+        <children><child nodeId="node-1161"></child>
         </children>
     </item>
-    <item nodeId="node-2454">
+    <item nodeId="node-1161">
         <command xml:space="preserve">x researcher</command>
         <result xml:space="preserve">This sleeping guy has papers and tools around him. It looks like he is a researcher. He sleeps like a log.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2455"></child>
+        <children><child nodeId="node-1162"></child>
         </children>
     </item>
-    <item nodeId="node-2455">
+    <item nodeId="node-1162">
         <command xml:space="preserve">search researcher</command>
         <result xml:space="preserve">You lift the multiple layers of blankets and fur and after a quick search you see something shiny that catches your frozen eyes: a Mont Blanc quill! Exactly what your boss needs to sign the contract. After a brief discussion with your conscience, you decide to take it.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2456"></child>
+        <children><child nodeId="node-1163"></child>
         </children>
     </item>
-    <item nodeId="node-2456">
+    <item nodeId="node-1163">
         <command xml:space="preserve">i</command>
         <result xml:space="preserve">You are carrying:
   a Mont Blanc quill
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2457"></child>
+        <children><child nodeId="node-1164"></child>
         </children>
     </item>
-    <item nodeId="node-2457">
+    <item nodeId="node-1164">
         <command xml:space="preserve">crawl</command>
         <result xml:space="preserve">(in the Mont Blanc quill)
 You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2458"></child>
+        <children><child nodeId="node-1165"></child>
         </children>
     </item>
-    <item nodeId="node-2458">
+    <item nodeId="node-1165">
         <command xml:space="preserve">crawl into the tunnel</command>
         <result xml:space="preserve">
 Scientific Base Camp
@@ -1819,10 +1960,10 @@ You can see a tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2459"></child>
+        <children><child nodeId="node-1166"></child>
         </children>
     </item>
-    <item nodeId="node-2459">
+    <item nodeId="node-1166">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">
 Savannah
@@ -1832,10 +1973,10 @@ A big and modern glass door. You know, that opaque kind of glass which looks ver
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2460"></child>
+        <children><child nodeId="node-1167"></child>
         </children>
     </item>
-    <item nodeId="node-2460">
+    <item nodeId="node-1167">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Scientific Base Camp
@@ -1845,10 +1986,10 @@ You can see a tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2461"></child>
+        <children><child nodeId="node-1168"></child>
         </children>
     </item>
-    <item nodeId="node-2461">
+    <item nodeId="node-1168">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Mexico City
@@ -1856,10 +1997,10 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2462"></child>
+        <children><child nodeId="node-1169"></child>
         </children>
     </item>
-    <item nodeId="node-2462">
+    <item nodeId="node-1169">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Wuhan
@@ -1867,10 +2008,10 @@ A new, deadly virus was detected for the first time here. The city center is des
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2463"></child>
+        <children><child nodeId="node-1170"></child>
         </children>
     </item>
-    <item nodeId="node-2463">
+    <item nodeId="node-1170">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 New Delhi
@@ -1880,26 +2021,26 @@ Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2464"></child>
+        <children><child nodeId="node-1171"></child>
         </children>
     </item>
-    <item nodeId="node-2464">
+    <item nodeId="node-1171">
         <command xml:space="preserve">x door</command>
         <result xml:space="preserve">You see nothing special about the returning door.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2465"></child>
+        <children><child nodeId="node-1172"></child>
         </children>
     </item>
-    <item nodeId="node-2465">
+    <item nodeId="node-1172">
         <command xml:space="preserve">open door</command>
         <result xml:space="preserve">It seems to be locked.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2466">
+    <item nodeId="node-1173">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">
 Scorpion World
@@ -1909,10 +2050,10 @@ The nest is swarming with "little" scorpions, as big as your head. One of the ba
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2467"></child>
+        <children><child nodeId="node-1174"></child>
         </children>
     </item>
-    <item nodeId="node-2467">
+    <item nodeId="node-1174">
         <command xml:space="preserve">west</command>
         <result xml:space="preserve">
 Mexico City
@@ -1920,10 +2061,10 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2468"></child>
+        <children><child nodeId="node-1175"></child>
         </children>
     </item>
-    <item nodeId="node-2468">
+    <item nodeId="node-1175">
         <command xml:space="preserve">west</command>
         <result xml:space="preserve">
 Aztec Temple
@@ -1933,17 +2074,46 @@ You can see an Astec Statue here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2469"></child>
+        <children><child nodeId="node-1176"></child>
         </children>
     </item>
-    <item nodeId="node-2469">
+    <item nodeId="node-1176">
         <command xml:space="preserve">x statue</command>
         <result xml:space="preserve">A representation of Quetzalcóatl, the snake-god. It is cubical and stable. It is just in front a strange place that looks like a landfill site but instead of broken washing machines and old lamps, a lot of yellow-white sticks and balls with wholes...
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2470">
+    <item nodeId="node-1450">
+        <command xml:space="preserve">future</command>
+        <result xml:space="preserve">
+Wuhan
+In the future is a Futuristic Casino and in the past is a Chinese Workshop.
+A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!
+
+You can see a virus here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1451"></child>
+        </children>
+    </item>
+    <item nodeId="node-1451">
+        <command xml:space="preserve">search</command>
+        <result xml:space="preserve">(the virus)
+If you insist
+
+
+    *** The End ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1177">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">
 Savannah
@@ -1953,18 +2123,18 @@ A big and modern glass door. You know, that opaque kind of glass which looks ver
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2472"></child>
-            <child nodeId="node-2471"></child>
+        <children><child nodeId="node-1179"></child>
+            <child nodeId="node-1178"></child>
         </children>
     </item>
-    <item nodeId="node-2471">
+    <item nodeId="node-1178">
         <command xml:space="preserve">x nest</command>
         <result xml:space="preserve">In the nest is a scorpion's tail.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2472">
+    <item nodeId="node-1179">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Scientific Base Camp
@@ -1974,10 +2144,10 @@ You can see a tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2473"></child>
+        <children><child nodeId="node-1180"></child>
         </children>
     </item>
-    <item nodeId="node-2473">
+    <item nodeId="node-1180">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Mexico City
@@ -1985,10 +2155,10 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2474"></child>
+        <children><child nodeId="node-1181"></child>
         </children>
     </item>
-    <item nodeId="node-2474">
+    <item nodeId="node-1181">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">
 Scorpion World
@@ -1998,10 +2168,10 @@ The nest is swarming with "little" scorpions, as big as your head. One of the ba
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2475"></child>
+        <children><child nodeId="node-1182"></child>
         </children>
     </item>
-    <item nodeId="node-2475">
+    <item nodeId="node-1182">
         <command xml:space="preserve">attack</command>
         <result xml:space="preserve">(the nest)
 After an epic battle in which you found yourself without trousers because your belt was the only weapon you could find, you finally manage to finish off the baby scorpion that passes away looking you right in the eyes. To honor this proud and mighty enemy, you decide to craft a pen out of it's tail.
@@ -2009,7 +2179,7 @@ After an epic battle in which you found yourself without trousers because your b
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2476">
+    <item nodeId="node-1183">
         <command xml:space="preserve">past</command>
         <result xml:space="preserve">
 Wuhan
@@ -2017,12 +2187,12 @@ A new, deadly virus was detected for the first time here. The city center is des
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2490"></child>
-            <child nodeId="node-2480"></child>
-            <child nodeId="node-2477"></child>
+        <children><child nodeId="node-1197"></child>
+            <child nodeId="node-1187"></child>
+            <child nodeId="node-1184"></child>
         </children>
     </item>
-    <item nodeId="node-2477">
+    <item nodeId="node-1184">
         <command xml:space="preserve">past</command>
         <result xml:space="preserve">
 Aztec Temple
@@ -2034,19 +2204,19 @@ You can also see an Aztec Statue here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2478"></child>
+        <children><child nodeId="node-1185"></child>
         </children>
     </item>
-    <item nodeId="node-2478">
+    <item nodeId="node-1185">
         <command xml:space="preserve">get on statue</command>
         <result xml:space="preserve">You get onto the Aztec Statue.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2479"></child>
+        <children><child nodeId="node-1186"></child>
         </children>
     </item>
-    <item nodeId="node-2479">
+    <item nodeId="node-1186">
         <command xml:space="preserve">climb wall</command>
         <result xml:space="preserve">(first getting off the Aztec Statue)
 
@@ -2056,7 +2226,7 @@ This place reminds you why you dont like BBQ: mostly because of the smell... Whi
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2480">
+    <item nodeId="node-1187">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">
 Mexico City
@@ -2064,10 +2234,10 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2481"></child>
+        <children><child nodeId="node-1188"></child>
         </children>
     </item>
-    <item nodeId="node-2481">
+    <item nodeId="node-1188">
         <command xml:space="preserve">past</command>
         <result xml:space="preserve">
 Aztec Temple
@@ -2079,54 +2249,54 @@ You can also see an Aztec Statue here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2486"></child>
-            <child nodeId="node-2482"></child>
+        <children><child nodeId="node-1193"></child>
+            <child nodeId="node-1189"></child>
         </children>
     </item>
-    <item nodeId="node-2482">
+    <item nodeId="node-1189">
         <command xml:space="preserve">x statue</command>
         <result xml:space="preserve">A representation of Quetzalcóatl, the snake-god. It is cubical and stable. It stands just in front of a wall, behind which is a strange place that looks like a landfill site but instead of broken washing machines and old lamps, a lot of yellow-white sticks and balls with wholes are laying there...
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2483"></child>
+        <children><child nodeId="node-1190"></child>
         </children>
     </item>
-    <item nodeId="node-2483">
+    <item nodeId="node-1190">
         <command xml:space="preserve">get on the statue</command>
         <result xml:space="preserve">That's not something you can enter.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2484"></child>
+        <children><child nodeId="node-1191"></child>
         </children>
     </item>
-    <item nodeId="node-2484">
+    <item nodeId="node-1191">
         <command xml:space="preserve">get on statue</command>
         <result xml:space="preserve">That's not something you can enter.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2485"></child>
+        <children><child nodeId="node-1192"></child>
         </children>
     </item>
-    <item nodeId="node-2485">
+    <item nodeId="node-1192">
         <command xml:space="preserve">climb up</command>
         <result xml:space="preserve">Don't even try, you are ridiculously small in front of this wall.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2486">
+    <item nodeId="node-1193">
         <command xml:space="preserve">get on statue</command>
         <result xml:space="preserve">You get onto the Aztec Statue.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2487"></child>
+        <children><child nodeId="node-1194"></child>
         </children>
     </item>
-    <item nodeId="node-2487">
+    <item nodeId="node-1194">
         <command xml:space="preserve">climb wall</command>
         <result xml:space="preserve">(first getting off the Aztec Statue)
 As you are not an athlete, this operation is proving very difficult; but you manage to pull yourself up.
@@ -2138,19 +2308,19 @@ You can see a sharp collarbone here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2488"></child>
+        <children><child nodeId="node-1195"></child>
         </children>
     </item>
-    <item nodeId="node-2488">
+    <item nodeId="node-1195">
         <command xml:space="preserve">take collarbone</command>
         <result xml:space="preserve">Taken.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2489"></child>
+        <children><child nodeId="node-1196"></child>
         </children>
     </item>
-    <item nodeId="node-2489">
+    <item nodeId="node-1196">
         <command xml:space="preserve">i</command>
         <result xml:space="preserve">You are carrying:
   a sharp collarbone
@@ -2158,7 +2328,7 @@ You can see a sharp collarbone here.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2490">
+    <item nodeId="node-1197">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">
 Yogi's retreat
@@ -2169,7 +2339,7 @@ You can see a black jack here.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2491">
+    <item nodeId="node-1198">
         <command xml:space="preserve">open big door</command>
         <result xml:space="preserve">Scientific Base Camp
 Present of Antarctica. The only thing you see beyond the camp's igloos is ice and extracted ice caps. You don't want to spend too much time here unless you always wanted to be a human ice cream. The igloos are scattered over a large area, but one is not far away. If you want to go inside, you'll have to crawl through the tunnel.
@@ -2178,10 +2348,10 @@ You can see a tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2492"></child>
+        <children><child nodeId="node-1199"></child>
         </children>
     </item>
-    <item nodeId="node-2492">
+    <item nodeId="node-1199">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Mexico City
@@ -2189,10 +2359,10 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2493"></child>
+        <children><child nodeId="node-1200"></child>
         </children>
     </item>
-    <item nodeId="node-2493">
+    <item nodeId="node-1200">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">
 Scorpion World
@@ -2202,48 +2372,51 @@ The nest is swarming with "little" scorpions, as big as your head. One of the ba
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2494"></child>
+        <children><child nodeId="node-1201"></child>
         </children>
     </item>
-    <item nodeId="node-2494">
+    <item nodeId="node-1201">
         <command xml:space="preserve">attack</command>
         <result xml:space="preserve">(the nest)
 Violence isn't the answer to this one.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2495"></child>
+        <children><child nodeId="node-1202"></child>
         </children>
     </item>
-    <item nodeId="node-2495">
+    <item nodeId="node-1202">
         <command xml:space="preserve">attck the baby</command>
         <result xml:space="preserve">That's not a verb I recognise.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2496"></child>
+        <children><child nodeId="node-1203"></child>
         </children>
     </item>
-    <item nodeId="node-2496">
+    <item nodeId="node-1203">
         <command xml:space="preserve">attack the baby</command>
         <result xml:space="preserve">After an epic battle in which you found yourself without trousers because your belt was the only weapon you could find, you finally manage to finish off the baby scorpion that passes away looking you right in the eyes. To honor this proud and mighty enemy, you decide to craft a pen out of it's tail.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2497">
+    <item nodeId="node-1204">
         <command xml:space="preserve">north</command>
-        <result xml:space="preserve">(first opening the shiny door)
-It seems to be locked.
+        <result xml:space="preserve">
+Savannah
+Savannah today
+
+A big and modern glass door. You know, that opaque kind of glass which looks very expensive.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2510"></child>
-            <child nodeId="node-2505"></child>
-            <child nodeId="node-2498"></child>
+        <children><child nodeId="node-1217"></child>
+            <child nodeId="node-1212"></child>
+            <child nodeId="node-1205"></child>
         </children>
     </item>
-    <item nodeId="node-2498">
+    <item nodeId="node-1205">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Scientific Base Camp
@@ -2253,21 +2426,114 @@ You can see a tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2499"></child>
+        <children><child nodeId="node-1206"></child>
         </children>
     </item>
-    <item nodeId="node-2499">
+    <item nodeId="node-1206">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Mexico City
+In the future is Scorpion's World and in the past is an Aztec Temple.
 Gunshots pierce the sky as you cross the road of today's Mexico. It is getting quite dark and you don't want any trouble. You see four similarly unwellcoming alleyways each leading in different directions: south, north, east and west.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2500"></child>
+        <children><child nodeId="node-1207"></child>
+            <child nodeId="node-1431"></child>
         </children>
     </item>
-    <item nodeId="node-2500">
+    <item nodeId="node-1431">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+Wuhan
+In the future is a Futuristic Casino and in the past is a Chinese Workshop.
+A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1432"></child>
+        </children>
+    </item>
+    <item nodeId="node-1432">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You jump on the spot.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1433"></child>
+        </children>
+    </item>
+    <item nodeId="node-1433">
+        <command xml:space="preserve">open</command>
+        <result xml:space="preserve">What do you want to open?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1434"></child>
+        </children>
+    </item>
+    <item nodeId="node-1434">
+        <command xml:space="preserve">go</command>
+        <result xml:space="preserve">You'll have to say which compass direction to go in.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1435"></child>
+        </children>
+    </item>
+    <item nodeId="node-1435">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">What do you want to examine?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1436"></child>
+        </children>
+    </item>
+    <item nodeId="node-1436">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">What do you want to examine?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1437"></child>
+        </children>
+    </item>
+    <item nodeId="node-1437">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">What do you want to examine?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1438"></child>
+        </children>
+    </item>
+    <item nodeId="node-1438">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">What do you want to examine?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1439"></child>
+        </children>
+    </item>
+    <item nodeId="node-1439">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">What do you want to examine?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1440"></child>
+        </children>
+    </item>
+    <item nodeId="node-1440">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">What do you want to examine?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1207">
         <command xml:space="preserve">futur</command>
         <result xml:space="preserve">
 Scorpion World
@@ -2277,10 +2543,10 @@ The nest is swarming with "little" scorpions, as big as your head. One of the ba
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2501"></child>
+        <children><child nodeId="node-1208"></child>
         </children>
     </item>
-    <item nodeId="node-2501">
+    <item nodeId="node-1208">
         <command xml:space="preserve">past</command>
         <result xml:space="preserve">
 Mexico City
@@ -2288,10 +2554,10 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2502"></child>
+        <children><child nodeId="node-1209"></child>
         </children>
     </item>
-    <item nodeId="node-2502">
+    <item nodeId="node-1209">
         <command xml:space="preserve">past</command>
         <result xml:space="preserve">
 Aztec Temple
@@ -2303,26 +2569,26 @@ You can also see an Aztec Statue here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2503"></child>
+        <children><child nodeId="node-1210"></child>
         </children>
     </item>
-    <item nodeId="node-2503">
+    <item nodeId="node-1210">
         <command xml:space="preserve">get on statue</command>
         <result xml:space="preserve">That's not something you can enter.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2504"></child>
+        <children><child nodeId="node-1211"></child>
         </children>
     </item>
-    <item nodeId="node-2504">
+    <item nodeId="node-1211">
         <command xml:space="preserve">climb wall</command>
         <result xml:space="preserve">Don't even try, you are ridiculously small in front of this wall.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2505">
+    <item nodeId="node-1212">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">
 Maharaja's palace
@@ -2334,10 +2600,10 @@ You can see a Peacock here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2506"></child>
+        <children><child nodeId="node-1213"></child>
         </children>
     </item>
-    <item nodeId="node-2506">
+    <item nodeId="node-1213">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">
 New Delhi
@@ -2347,34 +2613,34 @@ Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2509"></child>
-            <child nodeId="node-2507"></child>
+        <children><child nodeId="node-1216"></child>
+            <child nodeId="node-1214"></child>
         </children>
     </item>
-    <item nodeId="node-2507">
+    <item nodeId="node-1214">
         <command xml:space="preserve">x nest</command>
         <result xml:space="preserve">In the nest is a baby scorpion.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2508"></child>
+        <children><child nodeId="node-1215"></child>
         </children>
     </item>
-    <item nodeId="node-2508">
+    <item nodeId="node-1215">
         <command xml:space="preserve">fight the baby</command>
         <result xml:space="preserve">Violence isn't the answer to this one.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2509">
+    <item nodeId="node-1216">
         <command xml:space="preserve">open door</command>
         <result xml:space="preserve">It seems to be locked.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2510">
+    <item nodeId="node-1217">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">
 New Delhi
@@ -2384,11 +2650,11 @@ A big and modern glass door. You know, that opaque kind of glass which looks ver
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2517"></child>
-            <child nodeId="node-2511"></child>
+        <children><child nodeId="node-1224"></child>
+            <child nodeId="node-1218"></child>
         </children>
     </item>
-    <item nodeId="node-2511">
+    <item nodeId="node-1218">
         <command xml:space="preserve">west</command>
         <result xml:space="preserve">
 New Delhi
@@ -2398,10 +2664,10 @@ A big and modern glass door. You know, that opaque kind of glass which looks ver
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2512"></child>
+        <children><child nodeId="node-1219"></child>
         </children>
     </item>
-    <item nodeId="node-2512">
+    <item nodeId="node-1219">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">
 Wuhan
@@ -2409,10 +2675,10 @@ A new, deadly virus was detected for the first time here. The city center is des
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2513"></child>
+        <children><child nodeId="node-1220"></child>
         </children>
     </item>
-    <item nodeId="node-2513">
+    <item nodeId="node-1220">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">
 Mexico City
@@ -2420,10 +2686,10 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2514"></child>
+        <children><child nodeId="node-1221"></child>
         </children>
     </item>
-    <item nodeId="node-2514">
+    <item nodeId="node-1221">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">
 Scorpion World
@@ -2431,26 +2697,26 @@ Here you step into the future of Latin America. As time past, a lot of species w
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2515"></child>
+        <children><child nodeId="node-1222"></child>
         </children>
     </item>
-    <item nodeId="node-2515">
+    <item nodeId="node-1222">
         <command xml:space="preserve">x</command>
         <result xml:space="preserve">What do you want to examine?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2516"></child>
+        <children><child nodeId="node-1223"></child>
         </children>
     </item>
-    <item nodeId="node-2516">
+    <item nodeId="node-1223">
         <command xml:space="preserve">x nest</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2517">
+    <item nodeId="node-1224">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">
 Wuhan
@@ -2458,10 +2724,10 @@ A new, deadly virus was detected for the first time here. The city center is des
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2518"></child>
+        <children><child nodeId="node-1225"></child>
         </children>
     </item>
-    <item nodeId="node-2518">
+    <item nodeId="node-1225">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">
 Mexico City
@@ -2469,10 +2735,10 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2519"></child>
+        <children><child nodeId="node-1226"></child>
         </children>
     </item>
-    <item nodeId="node-2519">
+    <item nodeId="node-1226">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">
 Scorpion World
@@ -2482,27 +2748,27 @@ The nest is swarming with "little" scorpions, as big as your head. Inside your h
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2520"></child>
+        <children><child nodeId="node-1227"></child>
         </children>
     </item>
-    <item nodeId="node-2520">
+    <item nodeId="node-1227">
         <command xml:space="preserve">x nest</command>
         <result xml:space="preserve">In the nest is a baby scorpion.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2521"></child>
+        <children><child nodeId="node-1228"></child>
         </children>
     </item>
-    <item nodeId="node-2521">
+    <item nodeId="node-1228">
         <command xml:space="preserve">attack baby</command>
         <result xml:space="preserve">skirt
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2522"></child>
+        <children><child nodeId="node-1229"></child>
         </children>
     </item>
-    <item nodeId="node-2522">
+    <item nodeId="node-1229">
         <command xml:space="preserve">i</command>
         <result xml:space="preserve">You are carrying:
   a scorpion's tail
@@ -2510,240 +2776,240 @@ The nest is swarming with "little" scorpions, as big as your head. Inside your h
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2523">
+    <item nodeId="node-1230">
         <command xml:space="preserve">go west</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2549"></child>
-            <child nodeId="node-2524"></child>
+        <children><child nodeId="node-1256"></child>
+            <child nodeId="node-1231"></child>
         </children>
     </item>
-    <item nodeId="node-2524">
+    <item nodeId="node-1231">
         <command xml:space="preserve">go west</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2525"></child>
+        <children><child nodeId="node-1232"></child>
         </children>
     </item>
-    <item nodeId="node-2525">
+    <item nodeId="node-1232">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2526"></child>
+        <children><child nodeId="node-1233"></child>
         </children>
     </item>
-    <item nodeId="node-2526">
+    <item nodeId="node-1233">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2527"></child>
+        <children><child nodeId="node-1234"></child>
         </children>
     </item>
-    <item nodeId="node-2527">
+    <item nodeId="node-1234">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2528"></child>
+        <children><child nodeId="node-1235"></child>
         </children>
     </item>
-    <item nodeId="node-2528">
+    <item nodeId="node-1235">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2543"></child>
-            <child nodeId="node-2529"></child>
+        <children><child nodeId="node-1250"></child>
+            <child nodeId="node-1236"></child>
         </children>
     </item>
-    <item nodeId="node-2529">
+    <item nodeId="node-1236">
         <command xml:space="preserve">take rounded jar¨</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2530"></child>
+        <children><child nodeId="node-1237"></child>
         </children>
     </item>
-    <item nodeId="node-2530">
+    <item nodeId="node-1237">
         <command xml:space="preserve">take rounded jar</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2531"></child>
+        <children><child nodeId="node-1238"></child>
         </children>
     </item>
-    <item nodeId="node-2531">
+    <item nodeId="node-1238">
         <command xml:space="preserve">read</command>
         <result xml:space="preserve">What do you want to read?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2532"></child>
+        <children><child nodeId="node-1239"></child>
         </children>
     </item>
-    <item nodeId="node-2532">
+    <item nodeId="node-1239">
         <command xml:space="preserve">open</command>
         <result xml:space="preserve">What do you want to open?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2533"></child>
+        <children><child nodeId="node-1240"></child>
         </children>
     </item>
-    <item nodeId="node-2533">
+    <item nodeId="node-1240">
         <command xml:space="preserve">drink blue</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2534"></child>
+        <children><child nodeId="node-1241"></child>
         </children>
     </item>
-    <item nodeId="node-2534">
+    <item nodeId="node-1241">
         <command xml:space="preserve">take pear</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2535"></child>
+        <children><child nodeId="node-1242"></child>
         </children>
     </item>
-    <item nodeId="node-2535">
+    <item nodeId="node-1242">
         <command xml:space="preserve">read</command>
         <result xml:space="preserve">What do you want to read?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2536"></child>
+        <children><child nodeId="node-1243"></child>
         </children>
     </item>
-    <item nodeId="node-2536">
+    <item nodeId="node-1243">
         <command xml:space="preserve">read pear shaped¨</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2537"></child>
+        <children><child nodeId="node-1244"></child>
         </children>
     </item>
-    <item nodeId="node-2537">
+    <item nodeId="node-1244">
         <command xml:space="preserve">read pear shaped</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2538"></child>
+        <children><child nodeId="node-1245"></child>
         </children>
     </item>
-    <item nodeId="node-2538">
+    <item nodeId="node-1245">
         <command xml:space="preserve">open</command>
         <result xml:space="preserve">What do you want to open?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2539"></child>
+        <children><child nodeId="node-1246"></child>
         </children>
     </item>
-    <item nodeId="node-2539">
+    <item nodeId="node-1246">
         <command xml:space="preserve">open pear</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2540"></child>
+        <children><child nodeId="node-1247"></child>
         </children>
     </item>
-    <item nodeId="node-2540">
+    <item nodeId="node-1247">
         <command xml:space="preserve">drink</command>
         <result xml:space="preserve">What do you want to drink?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2541"></child>
+        <children><child nodeId="node-1248"></child>
         </children>
     </item>
-    <item nodeId="node-2541">
+    <item nodeId="node-1248">
         <command xml:space="preserve">drink pink liquuid</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2542"></child>
+        <children><child nodeId="node-1249"></child>
         </children>
     </item>
-    <item nodeId="node-2542">
+    <item nodeId="node-1249">
         <command xml:space="preserve">drink pink liquid</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2543">
+    <item nodeId="node-1250">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">(first opening the shiny door)
 It seems to be locked.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2544"></child>
+        <children><child nodeId="node-1251"></child>
         </children>
     </item>
-    <item nodeId="node-2544">
+    <item nodeId="node-1251">
         <command xml:space="preserve">look skinny jar</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2545"></child>
+        <children><child nodeId="node-1252"></child>
         </children>
     </item>
-    <item nodeId="node-2545">
+    <item nodeId="node-1252">
         <command xml:space="preserve">take skinny</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2546"></child>
+        <children><child nodeId="node-1253"></child>
         </children>
     </item>
-    <item nodeId="node-2546">
+    <item nodeId="node-1253">
         <command xml:space="preserve">open skinny</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2547"></child>
+        <children><child nodeId="node-1254"></child>
         </children>
     </item>
-    <item nodeId="node-2547">
+    <item nodeId="node-1254">
         <command xml:space="preserve">drink skinny</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2548"></child>
+        <children><child nodeId="node-1255"></child>
         </children>
     </item>
-    <item nodeId="node-2548">
+    <item nodeId="node-1255">
         <command xml:space="preserve">look skinny</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2549">
+    <item nodeId="node-1256">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Maharaja's palace
@@ -2755,29 +3021,29 @@ You can see a Peacock here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2569"></child>
-            <child nodeId="node-2550"></child>
+        <children><child nodeId="node-1276"></child>
+            <child nodeId="node-1257"></child>
         </children>
     </item>
-    <item nodeId="node-2550">
+    <item nodeId="node-1257">
         <command xml:space="preserve">go up</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2551"></child>
+        <children><child nodeId="node-1258"></child>
         </children>
     </item>
-    <item nodeId="node-2551">
+    <item nodeId="node-1258">
         <command xml:space="preserve">go down</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2552"></child>
+        <children><child nodeId="node-1259"></child>
         </children>
     </item>
-    <item nodeId="node-2552">
+    <item nodeId="node-1259">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Aztec temple
@@ -2789,10 +3055,10 @@ You can also see an Aztec Statue here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2553"></child>
+        <children><child nodeId="node-1260"></child>
         </children>
     </item>
-    <item nodeId="node-2553">
+    <item nodeId="node-1260">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Chinese Workshop
@@ -2804,10 +3070,10 @@ A small and dusty room, with a little window that opens to a wide rice field. Th
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2554"></child>
+        <children><child nodeId="node-1261"></child>
         </children>
     </item>
-    <item nodeId="node-2554">
+    <item nodeId="node-1261">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Maharaja's palace
@@ -2819,55 +3085,55 @@ You can see a Peacock here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2555"></child>
+        <children><child nodeId="node-1262"></child>
         </children>
     </item>
-    <item nodeId="node-2555">
+    <item nodeId="node-1262">
         <command xml:space="preserve">take sinny jar</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2556"></child>
+        <children><child nodeId="node-1263"></child>
         </children>
     </item>
-    <item nodeId="node-2556">
+    <item nodeId="node-1263">
         <command xml:space="preserve">open skinny jar</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2557"></child>
+        <children><child nodeId="node-1264"></child>
         </children>
     </item>
-    <item nodeId="node-2557">
+    <item nodeId="node-1264">
         <command xml:space="preserve">drink skinny jar</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2558"></child>
+        <children><child nodeId="node-1265"></child>
         </children>
     </item>
-    <item nodeId="node-2558">
+    <item nodeId="node-1265">
         <command xml:space="preserve">drink liquid</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2559"></child>
+        <children><child nodeId="node-1266"></child>
         </children>
     </item>
-    <item nodeId="node-2559">
+    <item nodeId="node-1266">
         <command xml:space="preserve">look skinny jar</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2560"></child>
+        <children><child nodeId="node-1267"></child>
         </children>
     </item>
-    <item nodeId="node-2560">
+    <item nodeId="node-1267">
         <command xml:space="preserve">go north</command>
         <result xml:space="preserve">
 Chinese Workshop
@@ -2879,10 +3145,10 @@ A small and dusty room, with a little window that opens to a wide rice field. Th
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2561"></child>
+        <children><child nodeId="node-1268"></child>
         </children>
     </item>
-    <item nodeId="node-2561">
+    <item nodeId="node-1268">
         <command xml:space="preserve">go north</command>
         <result xml:space="preserve">
 Aztec temple
@@ -2894,71 +3160,71 @@ You can also see an Aztec Statue here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2562"></child>
+        <children><child nodeId="node-1269"></child>
         </children>
     </item>
-    <item nodeId="node-2562">
+    <item nodeId="node-1269">
         <command xml:space="preserve">take skinny</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2563"></child>
+        <children><child nodeId="node-1270"></child>
         </children>
     </item>
-    <item nodeId="node-2563">
+    <item nodeId="node-1270">
         <command xml:space="preserve">read skinny</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2564"></child>
+        <children><child nodeId="node-1271"></child>
         </children>
     </item>
-    <item nodeId="node-2564">
+    <item nodeId="node-1271">
         <command xml:space="preserve">look skinny</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2565"></child>
+        <children><child nodeId="node-1272"></child>
         </children>
     </item>
-    <item nodeId="node-2565">
+    <item nodeId="node-1272">
         <command xml:space="preserve">open skinny</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2566"></child>
+        <children><child nodeId="node-1273"></child>
         </children>
     </item>
-    <item nodeId="node-2566">
+    <item nodeId="node-1273">
         <command xml:space="preserve">drink skinny</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2567"></child>
+        <children><child nodeId="node-1274"></child>
         </children>
     </item>
-    <item nodeId="node-2567">
+    <item nodeId="node-1274">
         <command xml:space="preserve">drink liquid</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2568"></child>
+        <children><child nodeId="node-1275"></child>
         </children>
     </item>
-    <item nodeId="node-2568">
+    <item nodeId="node-1275">
         <command xml:space="preserve">look skinny</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2569">
+    <item nodeId="node-1276">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Druid's tent
@@ -2970,10 +3236,10 @@ You can also see a small altar (on which are a rounded jar (closed), a skinny ja
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2570"></child>
+        <children><child nodeId="node-1277"></child>
         </children>
     </item>
-    <item nodeId="node-2570">
+    <item nodeId="node-1277">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Alexandria's Library
@@ -2983,28 +3249,28 @@ You can see 100 books here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2571"></child>
+        <children><child nodeId="node-1278"></child>
         </children>
     </item>
-    <item nodeId="node-2571">
+    <item nodeId="node-1278">
         <command xml:space="preserve">take skinny jat</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2572"></child>
+        <children><child nodeId="node-1279"></child>
         </children>
     </item>
-    <item nodeId="node-2572">
+    <item nodeId="node-1279">
         <command xml:space="preserve">take the skinny jar</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2573"></child>
+        <children><child nodeId="node-1280"></child>
         </children>
     </item>
-    <item nodeId="node-2573">
+    <item nodeId="node-1280">
         <command xml:space="preserve">read</command>
         <result xml:space="preserve">(100 books)
 (first taking 100 books)
@@ -3012,66 +3278,66 @@ You can only read labels.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2574"></child>
+        <children><child nodeId="node-1281"></child>
         </children>
     </item>
-    <item nodeId="node-2574">
+    <item nodeId="node-1281">
         <command xml:space="preserve">open</command>
         <result xml:space="preserve">(100 books)
 It isn't something you can open.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2575"></child>
+        <children><child nodeId="node-1282"></child>
         </children>
     </item>
-    <item nodeId="node-2575">
+    <item nodeId="node-1282">
         <command xml:space="preserve">drink</command>
         <result xml:space="preserve">(100 books)
 There's nothing suitable to drink here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2576"></child>
+        <children><child nodeId="node-1283"></child>
         </children>
     </item>
-    <item nodeId="node-2576">
+    <item nodeId="node-1283">
         <command xml:space="preserve">drink the orange liquid</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2577"></child>
+        <children><child nodeId="node-1284"></child>
         </children>
     </item>
-    <item nodeId="node-2577">
+    <item nodeId="node-1284">
         <command xml:space="preserve">open bak door</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2578"></child>
+        <children><child nodeId="node-1285"></child>
         </children>
     </item>
-    <item nodeId="node-2578">
+    <item nodeId="node-1285">
         <command xml:space="preserve">open back door</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2579"></child>
+        <children><child nodeId="node-1286"></child>
         </children>
     </item>
-    <item nodeId="node-2579">
+    <item nodeId="node-1286">
         <command xml:space="preserve">go west</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2580"></child>
+        <children><child nodeId="node-1287"></child>
         </children>
     </item>
-    <item nodeId="node-2580">
+    <item nodeId="node-1287">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Blizzard
@@ -3079,10 +3345,10 @@ Leave this place, you are in a primitive icy storm. The wind pierces your clothe
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2581"></child>
+        <children><child nodeId="node-1288"></child>
         </children>
     </item>
-    <item nodeId="node-2581">
+    <item nodeId="node-1288">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Aztec temple
@@ -3094,28 +3360,28 @@ You can also see an Aztec Statue here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2582"></child>
+        <children><child nodeId="node-1289"></child>
         </children>
     </item>
-    <item nodeId="node-2582">
+    <item nodeId="node-1289">
         <command xml:space="preserve"></command>
         <result xml:space="preserve">I beg your pardon?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2583"></child>
+        <children><child nodeId="node-1290"></child>
         </children>
     </item>
-    <item nodeId="node-2583">
+    <item nodeId="node-1290">
         <command xml:space="preserve"></command>
         <result xml:space="preserve">I beg your pardon?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2584"></child>
+        <children><child nodeId="node-1291"></child>
         </children>
     </item>
-    <item nodeId="node-2584">
+    <item nodeId="node-1291">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Chinese Workshop
@@ -3127,10 +3393,10 @@ A small and dusty room, with a little window that opens to a wide rice field. Th
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2585"></child>
+        <children><child nodeId="node-1292"></child>
         </children>
     </item>
-    <item nodeId="node-2585">
+    <item nodeId="node-1292">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Maharaja's palace
@@ -3142,10 +3408,10 @@ You can see a Peacock here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2586"></child>
+        <children><child nodeId="node-1293"></child>
         </children>
     </item>
-    <item nodeId="node-2586">
+    <item nodeId="node-1293">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Druid's tent
@@ -3157,10 +3423,10 @@ You can also see a small altar (on which are a rounded jar (closed), a skinny ja
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2587"></child>
+        <children><child nodeId="node-1294"></child>
         </children>
     </item>
-    <item nodeId="node-2587">
+    <item nodeId="node-1294">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Alexandria's Library
@@ -3168,10 +3434,10 @@ This is probably the greatest sanctuary of knowledge of all time. There are tons
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2588"></child>
+        <children><child nodeId="node-1295"></child>
         </children>
     </item>
-    <item nodeId="node-2588">
+    <item nodeId="node-1295">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Blizzard
@@ -3179,169 +3445,169 @@ Leave this place, you are in a primitive icy storm. The wind pierces your clothe
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2589"></child>
+        <children><child nodeId="node-1296"></child>
         </children>
     </item>
-    <item nodeId="node-2589">
+    <item nodeId="node-1296">
         <command xml:space="preserve">take skinny jar</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2590"></child>
+        <children><child nodeId="node-1297"></child>
         </children>
     </item>
-    <item nodeId="node-2590">
+    <item nodeId="node-1297">
         <command xml:space="preserve">open</command>
         <result xml:space="preserve">(100 books)
 It isn't something you can open.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2591"></child>
+        <children><child nodeId="node-1298"></child>
         </children>
     </item>
-    <item nodeId="node-2591">
+    <item nodeId="node-1298">
         <command xml:space="preserve">drink liquid</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2592"></child>
+        <children><child nodeId="node-1299"></child>
         </children>
     </item>
-    <item nodeId="node-2592">
+    <item nodeId="node-1299">
         <command xml:space="preserve">open back door</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2593">
+    <item nodeId="node-1300">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2594"></child>
+        <children><child nodeId="node-1301"></child>
         </children>
     </item>
-    <item nodeId="node-2594">
+    <item nodeId="node-1301">
         <command xml:space="preserve">look skinny</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2595"></child>
+        <children><child nodeId="node-1302"></child>
         </children>
     </item>
-    <item nodeId="node-2595">
+    <item nodeId="node-1302">
         <command xml:space="preserve">open skinny</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2596"></child>
+        <children><child nodeId="node-1303"></child>
         </children>
     </item>
-    <item nodeId="node-2596">
+    <item nodeId="node-1303">
         <command xml:space="preserve">drink liquid</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2597"></child>
+        <children><child nodeId="node-1304"></child>
         </children>
     </item>
-    <item nodeId="node-2597">
+    <item nodeId="node-1304">
         <command xml:space="preserve">look skinny</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2598"></child>
+        <children><child nodeId="node-1305"></child>
         </children>
     </item>
-    <item nodeId="node-2598">
+    <item nodeId="node-1305">
         <command xml:space="preserve">go west</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2599"></child>
+        <children><child nodeId="node-1306"></child>
         </children>
     </item>
-    <item nodeId="node-2599">
+    <item nodeId="node-1306">
         <command xml:space="preserve">go west</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2600"></child>
+        <children><child nodeId="node-1307"></child>
         </children>
     </item>
-    <item nodeId="node-2600">
+    <item nodeId="node-1307">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2601"></child>
+        <children><child nodeId="node-1308"></child>
         </children>
     </item>
-    <item nodeId="node-2601">
+    <item nodeId="node-1308">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2602"></child>
+        <children><child nodeId="node-1309"></child>
         </children>
     </item>
-    <item nodeId="node-2602">
+    <item nodeId="node-1309">
         <command xml:space="preserve">look skinny</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2603"></child>
+        <children><child nodeId="node-1310"></child>
         </children>
     </item>
-    <item nodeId="node-2603">
+    <item nodeId="node-1310">
         <command xml:space="preserve">open skinny</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2604"></child>
+        <children><child nodeId="node-1311"></child>
         </children>
     </item>
-    <item nodeId="node-2604">
+    <item nodeId="node-1311">
         <command xml:space="preserve">drink skinny</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2605"></child>
+        <children><child nodeId="node-1312"></child>
         </children>
     </item>
-    <item nodeId="node-2605">
+    <item nodeId="node-1312">
         <command xml:space="preserve">drink liquid</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2606"></child>
+        <children><child nodeId="node-1313"></child>
         </children>
     </item>
-    <item nodeId="node-2606">
+    <item nodeId="node-1313">
         <command xml:space="preserve">look skinny</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2607">
+    <item nodeId="node-1314">
         <command xml:space="preserve">go north</command>
         <result xml:space="preserve">
 Savannah
@@ -3351,10 +3617,10 @@ A big and modern glass door. You know, that opaque kind of glass which looks ver
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2608"></child>
+        <children><child nodeId="node-1315"></child>
         </children>
     </item>
-    <item nodeId="node-2608">
+    <item nodeId="node-1315">
         <command xml:space="preserve">go west</command>
         <result xml:space="preserve">
 Alexandria's Library
@@ -3364,10 +3630,10 @@ You can see 100 books here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2609"></child>
+        <children><child nodeId="node-1316"></child>
         </children>
     </item>
-    <item nodeId="node-2609">
+    <item nodeId="node-1316">
         <command xml:space="preserve">go east</command>
         <result xml:space="preserve">
 Savannah
@@ -3377,10 +3643,10 @@ A big and modern glass door. You know, that opaque kind of glass which looks ver
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2610"></child>
+        <children><child nodeId="node-1317"></child>
         </children>
     </item>
-    <item nodeId="node-2610">
+    <item nodeId="node-1317">
         <command xml:space="preserve">go east</command>
         <result xml:space="preserve">
 Souk Ruins
@@ -3390,10 +3656,10 @@ You can see a Chest (closed) here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2611"></child>
+        <children><child nodeId="node-1318"></child>
         </children>
     </item>
-    <item nodeId="node-2611">
+    <item nodeId="node-1318">
         <command xml:space="preserve">go north</command>
         <result xml:space="preserve">
 Swamps
@@ -3405,69 +3671,121 @@ You can also see an Aligator (on which is a scaly skin) and a long wooden stick 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2612"></child>
+        <children><child nodeId="node-1319"></child>
         </children>
     </item>
-    <item nodeId="node-2612">
+    <item nodeId="node-1319">
         <command xml:space="preserve">open door</command>
         <result xml:space="preserve">It seems to be locked.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2613"></child>
+        <children><child nodeId="node-1320"></child>
         </children>
     </item>
-    <item nodeId="node-2613">
+    <item nodeId="node-1320">
         <command xml:space="preserve">unlock door</command>
         <result xml:space="preserve">What do you want to unlock the familiar looking door with?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2614"></child>
+        <children><child nodeId="node-1321"></child>
         </children>
     </item>
-    <item nodeId="node-2614">
+    <item nodeId="node-1321">
         <command xml:space="preserve">pass</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2700">
+    <item nodeId="node-1322">
         <command xml:space="preserve">go left</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2615">
+    <item nodeId="node-1410">
+        <command xml:space="preserve">future</command>
+        <result xml:space="preserve">
+Mexico City
+In the future is Scorpion's World and in the past is an Aztec Temple.
+Gunshots pierce the sky as you cross the road of today's Mexico. It is getting quite dark and you don't want any trouble. You see four similarly unwellcoming alleyways each leading in different directions: south, north, east and west.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1411"></child>
+            <child nodeId="node-1426"></child>
+        </children>
+    </item>
+    <item nodeId="node-1426">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">You are positive; not in the good way.
+
+
+
+    *** The End ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1411">
+        <command xml:space="preserve">furut</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1412"></child>
+        </children>
+    </item>
+    <item nodeId="node-1412">
+        <command xml:space="preserve">futur</command>
+        <result xml:space="preserve">You are positive; not in the good way.
+
+
+
+    *** The End ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1323">
         <command xml:space="preserve">futur</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2616"></child>
+        <children><child nodeId="node-1324"></child>
         </children>
     </item>
-    <item nodeId="node-2616">
+    <item nodeId="node-1324">
         <command xml:space="preserve">pas</command>
         <result xml:space="preserve">That's not a verb I recognise.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2617"></child>
+        <children><child nodeId="node-1325"></child>
         </children>
     </item>
-    <item nodeId="node-2617">
+    <item nodeId="node-1325">
         <command xml:space="preserve">pasr</command>
         <result xml:space="preserve">That's not a verb I recognise.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2618"></child>
+        <children><child nodeId="node-1326"></child>
         </children>
     </item>
-    <item nodeId="node-2618">
+    <item nodeId="node-1326">
         <command xml:space="preserve">past</command>
         <result xml:space="preserve">
 New Delhi
@@ -3477,10 +3795,10 @@ Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2619"></child>
+        <children><child nodeId="node-1327"></child>
         </children>
     </item>
-    <item nodeId="node-2619">
+    <item nodeId="node-1327">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">
 Wuhan
@@ -3488,10 +3806,10 @@ A new, deadly virus was detected for the first time here. The city center is des
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2620"></child>
+        <children><child nodeId="node-1328"></child>
         </children>
     </item>
-    <item nodeId="node-2620">
+    <item nodeId="node-1328">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">
 Mexico City
@@ -3499,10 +3817,10 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2621"></child>
+        <children><child nodeId="node-1329"></child>
         </children>
     </item>
-    <item nodeId="node-2621">
+    <item nodeId="node-1329">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">
 Scientific Base Camp
@@ -3512,10 +3830,10 @@ You can see a tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2622"></child>
+        <children><child nodeId="node-1330"></child>
         </children>
     </item>
-    <item nodeId="node-2622">
+    <item nodeId="node-1330">
         <command xml:space="preserve">futur</command>
         <result xml:space="preserve">
 Utopian City
@@ -3525,10 +3843,10 @@ A flying car is floating in front of you.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2623"></child>
+        <children><child nodeId="node-1331"></child>
         </children>
     </item>
-    <item nodeId="node-2623">
+    <item nodeId="node-1331">
         <command xml:space="preserve">x car</command>
         <result xml:space="preserve">The flying car goes up and down in a very fluide way. It is completely made of glass and its shape is oval and sleek.
 
@@ -3536,10 +3854,10 @@ In the floating car is an universal magnetic pass.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2624"></child>
+        <children><child nodeId="node-1332"></child>
         </children>
     </item>
-    <item nodeId="node-2624">
+    <item nodeId="node-1332">
         <command xml:space="preserve">go in car</command>
         <result xml:space="preserve">You get into the floating car.
 
@@ -3547,36 +3865,36 @@ In the floating car you can see an universal magnetic pass.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2625"></child>
+        <children><child nodeId="node-1333"></child>
         </children>
     </item>
-    <item nodeId="node-2625">
+    <item nodeId="node-1333">
         <command xml:space="preserve">take pass</command>
         <result xml:space="preserve">The moment you touch the magnectic pass, the car elevates and you are instantly 1000 feets above the ground. Seconds that follows reminds you of that one time in a theme park where you wanted to show off in front of the girl you were seeing, and you finished puking exactly on her head from 20 feet high. This time, the cars flies at what seems to be a very high speed, but you don't feel anything. After few seconds, it lands at the exact same place you found it. You carfully take the pass, taking care not to press on it.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2626"></child>
+        <children><child nodeId="node-1334"></child>
         </children>
     </item>
-    <item nodeId="node-2626">
+    <item nodeId="node-1334">
         <command xml:space="preserve">i</command>
         <result xml:space="preserve">You are carrying:
   an universal magnetic pass
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2627"></child>
+        <children><child nodeId="node-1335"></child>
         </children>
     </item>
-    <item nodeId="node-2627">
+    <item nodeId="node-1335">
         <command xml:space="preserve">get off car</command>
         <result xml:space="preserve">But you aren't on the floating car at the moment.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2628">
+    <item nodeId="node-1336">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">
 Mexico City
@@ -3584,19 +3902,19 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2633"></child>
-            <child nodeId="node-2630"></child>
-            <child nodeId="node-2629"></child>
+        <children><child nodeId="node-1341"></child>
+            <child nodeId="node-1338"></child>
+            <child nodeId="node-1337"></child>
         </children>
     </item>
-    <item nodeId="node-2629">
+    <item nodeId="node-1337">
         <command xml:space="preserve">x nest</command>
         <result xml:space="preserve">The nest is empty.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2630">
+    <item nodeId="node-1338">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Scientific Base Camp
@@ -3606,10 +3924,10 @@ You can see an entrance tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2631"></child>
+        <children><child nodeId="node-1339"></child>
         </children>
     </item>
-    <item nodeId="node-2631">
+    <item nodeId="node-1339">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Mexico City
@@ -3617,10 +3935,10 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2632"></child>
+        <children><child nodeId="node-1340"></child>
         </children>
     </item>
-    <item nodeId="node-2632">
+    <item nodeId="node-1340">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">
 Scorpion World
@@ -3631,7 +3949,7 @@ The nest is swarming with "little" scorpions. In your head, alongside your fear,
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2633">
+    <item nodeId="node-1341">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">
 Scorpion World
@@ -3641,28 +3959,28 @@ The nest is swarming with "little" scorpions, as big as your head. Inside your h
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2634"></child>
+        <children><child nodeId="node-1342"></child>
         </children>
     </item>
-    <item nodeId="node-2634">
+    <item nodeId="node-1342">
         <command xml:space="preserve">x nest</command>
         <result xml:space="preserve">In the nest is a baby scorpion.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2635"></child>
+        <children><child nodeId="node-1343"></child>
         </children>
     </item>
-    <item nodeId="node-2635">
+    <item nodeId="node-1343">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2636"></child>
+        <children><child nodeId="node-1344"></child>
         </children>
     </item>
-    <item nodeId="node-2636">
+    <item nodeId="node-1344">
         <command xml:space="preserve">west</command>
         <result xml:space="preserve">
 Mexico City
@@ -3670,10 +3988,10 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2637"></child>
+        <children><child nodeId="node-1345"></child>
         </children>
     </item>
-    <item nodeId="node-2637">
+    <item nodeId="node-1345">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">
 Scientific Base Camp
@@ -3683,10 +4001,10 @@ You can see a tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2638"></child>
+        <children><child nodeId="node-1346"></child>
         </children>
     </item>
-    <item nodeId="node-2638">
+    <item nodeId="node-1346">
         <command xml:space="preserve">crawl</command>
         <result xml:space="preserve">(in the tunnel)
 
@@ -3697,26 +4015,26 @@ You can see a tunnel and a sleeping researcher here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2639"></child>
+        <children><child nodeId="node-1347"></child>
         </children>
     </item>
-    <item nodeId="node-2639">
+    <item nodeId="node-1347">
         <command xml:space="preserve">search researcher</command>
         <result xml:space="preserve">You lift the multiple layers of blankets and fur and after a quick search you see something shiny that catches your frozen eyes: a Mont Blanc quill! Exactly what your boss needs to sign the contract. After a brief discussion with your conscience, you decide to take it.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2640">
+    <item nodeId="node-1348">
         <command xml:space="preserve">crawl</command>
         <result xml:space="preserve">What do you want to crawl in?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2641"></child>
+        <children><child nodeId="node-1349"></child>
         </children>
     </item>
-    <item nodeId="node-2641">
+    <item nodeId="node-1349">
         <command xml:space="preserve">up</command>
         <result xml:space="preserve">
 Scientific Base Camp
@@ -3726,10 +4044,10 @@ You can see an entrance tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2642"></child>
+        <children><child nodeId="node-1350"></child>
         </children>
     </item>
-    <item nodeId="node-2642">
+    <item nodeId="node-1350">
         <command xml:space="preserve">crawl</command>
         <result xml:space="preserve">(in the entrance tunnel)
 
@@ -3741,68 +4059,131 @@ You can see an entrance tunnel and a sleeping researcher here.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2643">
+    <item nodeId="node-1452">
+        <command xml:space="preserve">open big doo</command>
+        <result xml:space="preserve">I only understood you as far as wanting to open the big door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1453"></child>
+        </children>
+    </item>
+    <item nodeId="node-1453">
+        <command xml:space="preserve">open big door</command>
+        <result xml:space="preserve">The shaking ground gets you out of your reveries. Is it an earthquake ? Is it a bomb ? In any case you hold on to that door knob with all your strength. Too bad, a strong wind sucks you inward before you can gasp for help.  
+
+ Well well, dear player, the dimesions heard you and sent you quite far away. As you just entered a time and space traveling journey you ought to know that taking a strall to the east fast forwards you to the futur, the west brings you back to the past. As for north and south, they will change your location, letting you roam threw different continents.  
+
+One has to be careful with what he wishes for nowadays... Wherever you land, you better find your way back to your meeting, fast, and with the correct supplies.
+
+Wuhan
+In the future is a Futuristic Casino and in the past is a Chinese Workshop.
+A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!
+
+You can see a virus here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1454"></child>
+        </children>
+    </item>
+    <item nodeId="node-1454">
+        <command xml:space="preserve">attack</command>
+        <result xml:space="preserve">(the virus)
+Violence isn't the answer to this one.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1455"></child>
+        </children>
+    </item>
+    <item nodeId="node-1455">
+        <command xml:space="preserve">climb</command>
+        <result xml:space="preserve">(the virus)
+Little is to be achieved by that.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1456"></child>
+        </children>
+    </item>
+    <item nodeId="node-1456">
+        <command xml:space="preserve">search</command>
+        <result xml:space="preserve">(the virus)
+If you insist
+
+
+    *** The End ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1351">
         <command xml:space="preserve">look table</command>
         <result xml:space="preserve">This table is unnecessary large for the number of people it is currently hosting. Since it is made out of glass, you can still perfectly see the traces your sweaty fingers laid of it earlier.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2644"></child>
+        <children><child nodeId="node-1352"></child>
         </children>
     </item>
-    <item nodeId="node-2644">
+    <item nodeId="node-1352">
         <command xml:space="preserve">open door</command>
         <result xml:space="preserve">Which do you mean, the shiny door, the outstanding door, the back door, the familiar looking door or the big door?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2645">
+    <item nodeId="node-1353">
         <command xml:space="preserve">look starting</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2646"></child>
+        <children><child nodeId="node-1354"></child>
         </children>
     </item>
-    <item nodeId="node-2646">
+    <item nodeId="node-1354">
         <command xml:space="preserve">look office</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2647"></child>
+        <children><child nodeId="node-1355"></child>
         </children>
     </item>
-    <item nodeId="node-2647">
+    <item nodeId="node-1355">
         <command xml:space="preserve">look table</command>
         <result xml:space="preserve">This table is unnecessary large for the number of people it is currently hosting. Since it is made out of glass, you can still perfectly see the traces your sweaty fingers laid of it earlier.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2648"></child>
+        <children><child nodeId="node-1356"></child>
         </children>
     </item>
-    <item nodeId="node-2648">
+    <item nodeId="node-1356">
         <command xml:space="preserve">look chair</command>
         <result xml:space="preserve">Very fashionnable, although you find it a bit rigid. Maybe it's because you sat on it for too long.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2649"></child>
+        <children><child nodeId="node-1357"></child>
         </children>
     </item>
-    <item nodeId="node-2649">
+    <item nodeId="node-1357">
         <command xml:space="preserve">open</command>
         <result xml:space="preserve">What do you want to open?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2650"></child>
+        <children><child nodeId="node-1358"></child>
         </children>
     </item>
-    <item nodeId="node-2650">
+    <item nodeId="node-1358">
         <command xml:space="preserve">door</command>
         <result xml:space="preserve">Aztec temple
 The humming of a ritual chant bounces on the stone walls, you came right on time for the human sacrifice ! It seems like you landed in the past of Latin America and that the great Aztec civilization is at its peak.
@@ -3814,34 +4195,34 @@ You can also see an Aztec Statue here.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2651">
+    <item nodeId="node-1359">
         <command xml:space="preserve">look big door</command>
         <result xml:space="preserve">it is your only way out of the room. Something tells you you should be quick to open it and get on that paper and pen hunt of yours. 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2652"></child>
+        <children><child nodeId="node-1360"></child>
         </children>
     </item>
-    <item nodeId="node-2652">
+    <item nodeId="node-1360">
         <command xml:space="preserve"></command>
         <result xml:space="preserve">I beg your pardon?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2653"></child>
+        <children><child nodeId="node-1361"></child>
         </children>
     </item>
-    <item nodeId="node-2653">
+    <item nodeId="node-1361">
         <command xml:space="preserve">open big oor</command>
         <result xml:space="preserve">I only understood you as far as wanting to open the big door.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2654"></child>
+        <children><child nodeId="node-1362"></child>
         </children>
     </item>
-    <item nodeId="node-2654">
+    <item nodeId="node-1362">
         <command xml:space="preserve">open big door</command>
         <result xml:space="preserve">Scientific Base Camp
 The only thing you see beyond the camp's igloos is ice and extracted ice caps. You don't want to spend too much time here unless you always wanted to be a human ice cream. The igloos are scattered over a large area, but one is not far away. If you want to go inside, you'll have to crawl through the entrance tunnel.
@@ -3851,16 +4232,16 @@ You can see an entrance tunnel here.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2655">
+    <item nodeId="node-1363">
         <command xml:space="preserve">go to back door</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2656"></child>
+        <children><child nodeId="node-1364"></child>
         </children>
     </item>
-    <item nodeId="node-2656">
+    <item nodeId="node-1364">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Savannah
@@ -3868,10 +4249,10 @@ Savannah today
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2657"></child>
+        <children><child nodeId="node-1365"></child>
         </children>
     </item>
-    <item nodeId="node-2657">
+    <item nodeId="node-1365">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Scientific base camp
@@ -3881,10 +4262,10 @@ You can see an entrance tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2658"></child>
+        <children><child nodeId="node-1366"></child>
         </children>
     </item>
-    <item nodeId="node-2658">
+    <item nodeId="node-1366">
         <command xml:space="preserve">go down</command>
         <result xml:space="preserve">
 Igloo
@@ -3894,10 +4275,10 @@ You can see an entrance tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2659"></child>
+        <children><child nodeId="node-1367"></child>
         </children>
     </item>
-    <item nodeId="node-2659">
+    <item nodeId="node-1367">
         <command xml:space="preserve">up</command>
         <result xml:space="preserve">
 Scientific base camp
@@ -3907,19 +4288,19 @@ You can see an entrance tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2660"></child>
+        <children><child nodeId="node-1368"></child>
         </children>
     </item>
-    <item nodeId="node-2660">
+    <item nodeId="node-1368">
         <command xml:space="preserve">up</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2661"></child>
+        <children><child nodeId="node-1369"></child>
         </children>
     </item>
-    <item nodeId="node-2661">
+    <item nodeId="node-1369">
         <command xml:space="preserve">down</command>
         <result xml:space="preserve">
 Igloo
@@ -3929,44 +4310,44 @@ You can see an entrance tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2662"></child>
+        <children><child nodeId="node-1370"></child>
         </children>
     </item>
-    <item nodeId="node-2662">
+    <item nodeId="node-1370">
         <command xml:space="preserve">x sleeping scientist</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2663">
+    <item nodeId="node-1371">
         <command xml:space="preserve">$</command>
         <result xml:space="preserve">That's not a verb I recognise.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2664"></child>
+        <children><child nodeId="node-1372"></child>
         </children>
     </item>
-    <item nodeId="node-2664">
+    <item nodeId="node-1372">
         <command xml:space="preserve">look around</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2665"></child>
+        <children><child nodeId="node-1373"></child>
         </children>
     </item>
-    <item nodeId="node-2665">
+    <item nodeId="node-1373">
         <command xml:space="preserve">examine office</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2666"></child>
+        <children><child nodeId="node-1374"></child>
         </children>
     </item>
-    <item nodeId="node-2666">
+    <item nodeId="node-1374">
         <command xml:space="preserve">open big door</command>
         <result xml:space="preserve">Chinese Workshop
 A small and dusty room, with a little window that opens to a wide rice field. The air is tick and gloomy due to the arrival of the rain season. An old artisan wearing a straw hat and loose hemp clothes made is making rice paper at the back of the room. You slowly approach the man and, after bending towards in sign of respect, you ask him:
@@ -3977,10 +4358,10 @@ A small and dusty room, with a little window that opens to a wide rice field. Th
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2667"></child>
+        <children><child nodeId="node-1375"></child>
         </children>
     </item>
-    <item nodeId="node-2667">
+    <item nodeId="node-1375">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Maharaja's palace
@@ -3993,17 +4374,17 @@ You can see a Peacock here.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2668">
+    <item nodeId="node-1376">
         <command xml:space="preserve"> open big door</command>
         <result xml:space="preserve">Wuhan
 A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2669"></child>
+        <children><child nodeId="node-1377"></child>
         </children>
     </item>
-    <item nodeId="node-2669">
+    <item nodeId="node-1377">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">
 Mexico City
@@ -4011,10 +4392,10 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2670"></child>
+        <children><child nodeId="node-1378"></child>
         </children>
     </item>
-    <item nodeId="node-2670">
+    <item nodeId="node-1378">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">
 Scorpion World
@@ -4024,55 +4405,55 @@ The nest is swarming with "little" scorpions, as big as your head. Inside your h
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2671"></child>
+        <children><child nodeId="node-1379"></child>
         </children>
     </item>
-    <item nodeId="node-2671">
+    <item nodeId="node-1379">
         <command xml:space="preserve">x nest</command>
         <result xml:space="preserve">In the nest is a baby scorpion.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2672"></child>
+        <children><child nodeId="node-1380"></child>
         </children>
     </item>
-    <item nodeId="node-2672">
+    <item nodeId="node-1380">
         <command xml:space="preserve">attack scorpion</command>
         <result xml:space="preserve">You find nothing of interest.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2673">
+    <item nodeId="node-1381">
         <command xml:space="preserve"></command>
         <result xml:space="preserve">I beg your pardon?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2687"></child>
-            <child nodeId="node-2674"></child>
+        <children><child nodeId="node-1395"></child>
+            <child nodeId="node-1382"></child>
         </children>
     </item>
-    <item nodeId="node-2674">
+    <item nodeId="node-1382">
         <command xml:space="preserve">open big door¨</command>
         <result xml:space="preserve">I only understood you as far as wanting to open the big door.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2675"></child>
+        <children><child nodeId="node-1383"></child>
         </children>
     </item>
-    <item nodeId="node-2675">
+    <item nodeId="node-1383">
         <command xml:space="preserve">open big door</command>
         <result xml:space="preserve">Scorpion World
 Here you step into the future of Latin America. As time passed, a lot of species went extinct. Not scorpions though, scorpions got bigger. Unfortunately, way bigger than you. The whole contient mutated into a huge conurbation of enormous scorpion nests: you are in the middle of it. In front of you is one of those scorpion nest.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2676"></child>
+        <children><child nodeId="node-1384"></child>
         </children>
     </item>
-    <item nodeId="node-2676">
+    <item nodeId="node-1384">
         <command xml:space="preserve">go west</command>
         <result xml:space="preserve">
 Mexico City
@@ -4080,10 +4461,10 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2677"></child>
+        <children><child nodeId="node-1385"></child>
         </children>
     </item>
-    <item nodeId="node-2677">
+    <item nodeId="node-1385">
         <command xml:space="preserve">go west</command>
         <result xml:space="preserve">
 Aztec temple
@@ -4095,10 +4476,10 @@ You can also see an Aztec Statue here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2678"></child>
+        <children><child nodeId="node-1386"></child>
         </children>
     </item>
-    <item nodeId="node-2678">
+    <item nodeId="node-1386">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Chinese Workshop
@@ -4110,10 +4491,10 @@ A small and dusty room, with a little window that opens to a wide rice field. Th
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2679"></child>
+        <children><child nodeId="node-1387"></child>
         </children>
     </item>
-    <item nodeId="node-2679">
+    <item nodeId="node-1387">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Maharaja's palace
@@ -4125,10 +4506,10 @@ You can see a Peacock here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2680"></child>
+        <children><child nodeId="node-1388"></child>
         </children>
     </item>
-    <item nodeId="node-2680">
+    <item nodeId="node-1388">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Druid's tent
@@ -4140,10 +4521,10 @@ You can also see a small altar (on which are a rounded jar (closed), a skinny ja
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2681"></child>
+        <children><child nodeId="node-1389"></child>
         </children>
     </item>
-    <item nodeId="node-2681">
+    <item nodeId="node-1389">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Alexandria's Library
@@ -4153,10 +4534,10 @@ You can see 100 books here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2682"></child>
+        <children><child nodeId="node-1390"></child>
         </children>
     </item>
-    <item nodeId="node-2682">
+    <item nodeId="node-1390">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Blizzard
@@ -4164,63 +4545,63 @@ Leave this place, you are in a primitive icy storm. The wind pierces your clothe
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2683"></child>
+        <children><child nodeId="node-1391"></child>
         </children>
     </item>
-    <item nodeId="node-2683">
+    <item nodeId="node-1391">
         <command xml:space="preserve">take skinny jar</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2684"></child>
+        <children><child nodeId="node-1392"></child>
         </children>
     </item>
-    <item nodeId="node-2684">
+    <item nodeId="node-1392">
         <command xml:space="preserve">read the label</command>
         <result xml:space="preserve">What do you want to read the label of?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2685"></child>
+        <children><child nodeId="node-1393"></child>
         </children>
     </item>
-    <item nodeId="node-2685">
+    <item nodeId="node-1393">
         <command xml:space="preserve">open skinny</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2686"></child>
+        <children><child nodeId="node-1394"></child>
         </children>
     </item>
-    <item nodeId="node-2686">
+    <item nodeId="node-1394">
         <command xml:space="preserve">drink orange liquid</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-2687">
+    <item nodeId="node-1395">
         <command xml:space="preserve">open bif door</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2688"></child>
+        <children><child nodeId="node-1396"></child>
         </children>
     </item>
-    <item nodeId="node-2688">
+    <item nodeId="node-1396">
         <command xml:space="preserve">open big door</command>
         <result xml:space="preserve">Mexico City
 Gunshots pierce the sky as you cross the road of today's Mexico. It is getting quite dark and you don't want any trouble. You see four similarly unwellcoming alleyways each leading in different directions: south, north, east and west.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2689"></child>
+        <children><child nodeId="node-1397"></child>
         </children>
     </item>
-    <item nodeId="node-2689">
+    <item nodeId="node-1397">
         <command xml:space="preserve">go west</command>
         <result xml:space="preserve">
 Aztec temple
@@ -4232,10 +4613,10 @@ You can also see an Aztec Statue here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2690"></child>
+        <children><child nodeId="node-1398"></child>
         </children>
     </item>
-    <item nodeId="node-2690">
+    <item nodeId="node-1398">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Chinese Workshop
@@ -4247,10 +4628,10 @@ A small and dusty room, with a little window that opens to a wide rice field. Th
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2691"></child>
+        <children><child nodeId="node-1399"></child>
         </children>
     </item>
-    <item nodeId="node-2691">
+    <item nodeId="node-1399">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Maharaja's palace
@@ -4262,10 +4643,10 @@ You can see a Peacock here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2692"></child>
+        <children><child nodeId="node-1400"></child>
         </children>
     </item>
-    <item nodeId="node-2692">
+    <item nodeId="node-1400">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Druid's tent
@@ -4277,28 +4658,28 @@ You can also see a small altar (on which are a rounded jar (closed), a skinny ja
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2693"></child>
+        <children><child nodeId="node-1401"></child>
         </children>
     </item>
-    <item nodeId="node-2693">
+    <item nodeId="node-1401">
         <command xml:space="preserve">take skinny jar</command>
         <result xml:space="preserve">Taken.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2694"></child>
+        <children><child nodeId="node-1402"></child>
         </children>
     </item>
-    <item nodeId="node-2694">
+    <item nodeId="node-1402">
         <command xml:space="preserve">open skinny</command>
         <result xml:space="preserve">You open the skinny jar, revealing an orange liquid.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2695"></child>
+        <children><child nodeId="node-1403"></child>
         </children>
     </item>
-    <item nodeId="node-2695">
+    <item nodeId="node-1403">
         <command xml:space="preserve">drink liquid</command>
         <result xml:space="preserve">You feel ancestral powers fuzzing threw you.
 
@@ -4306,10 +4687,10 @@ You can also see a small altar (on which are a rounded jar (closed), a skinny ja
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-2696"></child>
+        <children><child nodeId="node-1404"></child>
         </children>
     </item>
-    <item nodeId="node-2696">
+    <item nodeId="node-1404">
         <command xml:space="preserve">examine empty jar</command>
         <result xml:space="preserve">You can't see any such thing.
 

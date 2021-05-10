@@ -14,7 +14,7 @@ A feather is a pen.
 An animal is a kind of things. 
 A Peacock is an animal. A peacock carries feathers. The carrying capacity of the peacock is 1000. The description of the peacock is "A big stuning colorful bird."
 
-Understand "futur" as east. 
+Understand "future" as east. 
 Understand "past" as west.
 
 section 2 - Starting office
@@ -136,14 +136,18 @@ Report reading: say "you squinkt your eyes: '[The label of the noun]'  mmmh..."
 
 section 5 - India 
 
-New Delhi is a room. The description of the New Delhi is "You are now in the city center of New Dehli nowadays: your senses are flooded with all kinds of informations. The smells of a thousand spices assault your nostrils from a street market on your right hand and their colors fill up your soul like flowers in the spring, birds are singing and market sellers seems to be answering them prices of their marchandises; the whole thing is wrapped up in a whirlwind of scooters and tuktuk, adding a deeply human touch to the frenzy of the moment."
+New Delhi is a room. The description of the New Delhi is "In the future is Yogi's retreat and in the past is Maharaja's palace. 
+You are now in the city center of New Dehli nowadays: your senses are flooded with all kinds of informations. The smells of a thousand spices assault your nostrils from a street market on your right hand and their colors fill up your soul like flowers in the spring, birds are singing and market sellers seems to be answering them prices of their marchandises; the whole thing is wrapped up in a whirlwind of scooters and tuktuk, adding a deeply human touch to the frenzy of the moment."
 
 The modern glass door is a door. It is south of New Delhi and north of the office. The modern glass door is lockable and locked.  "[if the player is in New Delhi]Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn't seem to belong here: a modern glass door. You know, that opaque kind of glass which looks very expensive. Of course you'd know, your office has the same ones.[otherwise]- No paper, no pens, is this really it? The office of the future?[end if]"
 
 
-Yogi's retreat is a room. Yogi's retreat is east of New Delhi. The description of the Yogi's retreat is "The only community still standing in 20900's India. This sanctuary is filled with trees, and in the network of streams that run around, you can see huge red, orange and white carps. Yoga matresses are pretty much everywhere, and the smell of the incense is just delightful. You feel a big sense of inner peace... if you stay too long here, you might never leave.".
+Yogi's retreat is a room. Yogi's retreat is east of New Delhi. The description of the Yogi's retreat is "In the past is the city center of New Delhi. 
+The only community still standing in 20900's India. This sanctuary is filled with trees, and in the network of streams that run around, you can see huge red, orange and white carps. Yoga matresses are pretty much everywhere, and the smell of the incense is just delightful. You feel a big sense of inner peace... if you stay too long here, you might never leave.".
 
-Maharaja's palace is a room. Maharaja's palace is west of New Delhi. The description of the  Maharaja's palace is "The imposing white marble palace is surrounded by the magnificent gardens of prince Abdul the second. Multiple fountains provide fresh water for the animals that reside in the gardens: birds of all colors and sizes that sing from dawn till dusk, little monkeys that jump from tree to tree and try to steal whatever you're eating, and beautiful colorful peacocks that turn around.
+
+Maharaja's palace is a room. Maharaja's palace is west of New Delhi. The description of the Maharaja's palace is "In the future is the city center of New Delhi. 
+The imposing white marble palace is surrounded by the magnificent gardens of prince Abdul the second. Multiple fountains provide fresh water for the animals that reside in the gardens: birds of all colors and sizes that sing from dawn till dusk, little monkeys that jump from tree to tree and try to steal whatever you're eating, and beautiful colorful peacocks that turn around.
 
 Looking one of the peacocks, you think to yourself: I bet I could use one of its feathers as a pen..."
 
@@ -155,9 +159,28 @@ Instead of touching the peacock:
 
 Section 6 - China
 
-Wuhan is a room. Wuhan is north of New Delhi. The description of Wuhan is "A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!".
+Wuhan is a room. Wuhan is north of New Delhi. The description of Wuhan is "In the future is a Futuristic Casino and in the past is a Chinese Workshop.[line break]A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!".
 
-Futuristic Casino is a room. Futuristic Casino is east of Wuhan. The description of Futuristic Casino is "A milion colorful and blinking neon lights iluminate the corridors, and a pathway covered in a fluffy carpet leads you to the Black Jack table A robot serves you a drink as the crowd gathered around Black Jack table cheers.".
+A virus is a thing. The virus is in Wuhan.
+
+Instead of searching in the presence of the virus: say "If you insist"; end the story.
+Instead of examining in the presence of the virus: say "If you insist"; end the story.
+Instead of Jumping in the presence of the virus: say "If you insist"; end the story.
+
+[Rule for printing the player's obituary:
+    say paragraph break;
+    center "In 2019, the human race lost thousand of people";
+    center "On the battlefield against the Corona Virus";
+    center "The first that were touch by the disease, were the people of Wuhan";
+    center "You were one of them";
+    say paragraph break;
+    wait for any key;
+    stop game abruptly;
+    rule succeeds]
+
+
+Futuristic Casino is a room. Futuristic Casino is east of Wuhan. The description of Futuristic Casino is "In the past is Wuhan.
+A milion colorful and blinking neon lights iluminate the corridors, and a pathway covered in a fluffy carpet leads you to the Black Jack table A robot serves you a drink as the crowd gathered around Black Jack table cheers.".
 
 A door is a kind of thing.
 A black jack is a door. It is south of the Futuristic Casino and north of the Yogi's Retreat. 
@@ -175,7 +198,8 @@ Check playing:
 		
 Report playing: say "You won!!".
 
-Chinese Workshop is a room. Chinese Workshop is west of Wuhan, south of Aztec temple and north of Maharaja's palace. The description of the  Chinese Workshop is "A small and dusty room, with a little window that opens to a wide rice field. The air is tick and gloomy due to the arrival of the rain season. An old artisan wearing a straw hat and loose hemp clothes made is making rice paper at the back of the room. You slowly approach the man and, after bending towards in sign of respect, you ask him: 
+
+Chinese Workshop is a room. Chinese Workshop is west of Wuhan, south of Aztec temple and north of Maharaja's palace. The description of the  Chinese Workshop is "In the future is Wuhan.[line break]This workshop is A small and dusty room, with a little window that opens to a wide rice field. The air is tick and gloomy due to the arrival of the rain season. An old artisan wearing a straw hat and loose hemp clothes made is making rice paper at the back of the room. You slowly approach the man and, after bending towards in sign of respect, you ask him: 
 
 - Sir, may I borrow one of these please?
 
@@ -201,10 +225,10 @@ Section 7 - Latin America
 
 Latin America is a region. 
 
-Mexico City is a room in Latin America. Mexico City is north of Wuhan. The description of Mexico City is "Gunshots pierce the sky as you cross the road of today's Mexico. It is getting quite dark and you don't want any trouble. You see four similarly unwellcoming alleyways each leading in different directions: south, north, east and west.".
+Mexico City is a room in Latin America. Mexico City is north of Wuhan. The description of Mexico City is "In the future is Scorpion's World and in the past is an Aztec Temple.[line break]Gunshots pierce the sky as you cross the road of today's Mexico. It is getting quite dark and you don't want any trouble. You see four similarly unwellcoming alleyways each leading in different directions: south, north, east and west.".
 
 
-Scorpion World is a room in Latin America. Scorpion World is east of Mexico City, south of Utopian City and north of futuristic casino. The description of the Scorpion World is "Here you step into the future of Latin America. As time passed, a lot of species went extinct. Not scorpions though, scorpions got bigger. Unfortunately, way bigger than you. The whole contient mutated into a huge conurbation of enormous scorpion nests: you are in the middle of it. In front of you is one of those scorpion nest."
+Scorpion World is a room in Latin America. Scorpion World is east of Mexico City, south of Utopian City and north of futuristic casino. The description of the Scorpion World is "In the past is Mexico City.[line break]Here you step into the future of Latin America. As time passed, a lot of species went extinct. Not scorpions though, scorpions got bigger. Unfortunately, way bigger than you. The whole contient mutated into a huge conurbation of enormous scorpion nests: you are in the middle of it. In front of you is one of those scorpion nest."
 
 A nest is an openable container. It is open. It is scenery in Scorpion World. "The nest is swarming with 'little' scorpions, as big as your head. One of the baby scorpion – that you surprisingly find cute with its sharp little claws, its hairy exoskeleton and its menacing scorpion's tail dancing gently in the warm wind - comes to you, certainly interested by your delicious monkey shape. Violence is never an answer – but now that you are in front of the scorpion that keeps coming closer, saliva dripping from its lips, I would suggest you to attack it!'"
 
@@ -220,7 +244,8 @@ Instead of searching the scorpion when the scorpion carries the scorpion's tail:
 	move the scorpion's tail to the player.
 
 
-Aztec Temple is a room in Latin America. Aztec Temple is west of Mexico City. The description of Aztec temple is "The humming of a ritual chant bounces on the stone walls, you came right on time for the human sacrifice ! It seems like you landed in the past of Latin America and that the great Aztec civilization is at its peak."
+Aztec Temple is a room in Latin America. Aztec Temple is west of Mexico City. The description of Aztec temple is "In the future is Mexico City.[line break]
+The humming of a ritual chant bounces on the stone walls, you came right on time for the human sacrifice ! It seems like you landed in the past of Latin America and that the great Aztec civilization is at its peak."
 
 An Aztec Statue is a enterable supporter in the Aztec Temple. The description of the Aztec Statue is "A representation of Quetzalcóatl, the snake-god. It is cubical and stable. It stands just in front of the wall, behind which is a strange place that looks like a landfill site but instead of broken washing machines and old lamps, a lot of yellow-white sticks and balls with wholes are laying there...". Understand "statue" as Aztec Statue.
 
