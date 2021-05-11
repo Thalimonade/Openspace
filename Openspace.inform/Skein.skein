@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 
-<Skein rootNode="node-1001">
+<Skein rootNode="node-3463">
     <generator>Inform Mac Client (Inform version )</generator>
-    <item nodeId="node-1001">
+    <item nodeId="node-3463">
         <command xml:space="preserve">Openspace</command>
         <result xml:space="preserve">
 
@@ -34,10 +34,10 @@ You can see a big door, a Leather chair and a conference table here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1004"></child>
+        <children><child nodeId="node-3464"></child>
         </children>
     </item>
-    <item nodeId="node-1004">
+    <item nodeId="node-3464">
         <command xml:space="preserve">open big door</command>
         <result xml:space="preserve">The shaking ground gets you out of your reveries. Is it an earthquake ? Is it a bomb ? In any case you hold on to that door knob with all your strength. Too bad, a strong wind sucks you inward before you can gasp for help.  
 
@@ -55,12 +55,12 @@ You can also see an Aztec Statue here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1009"></child>
-            <child nodeId="node-1005"></child>
-            <child nodeId="node-1013"></child>
+        <children><child nodeId="node-3471"></child>
+            <child nodeId="node-3468"></child>
+            <child nodeId="node-3465"></child>
         </children>
     </item>
-    <item nodeId="node-1013">
+    <item nodeId="node-3465">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Mexico City
@@ -69,10 +69,10 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1014"></child>
+        <children><child nodeId="node-3466"></child>
         </children>
     </item>
-    <item nodeId="node-1014">
+    <item nodeId="node-3466">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Wuhan
@@ -83,10 +83,10 @@ You can see a virus here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1015"></child>
+        <children><child nodeId="node-3467"></child>
         </children>
     </item>
-    <item nodeId="node-1015">
+    <item nodeId="node-3467">
         <command xml:space="preserve">jump</command>
         <result xml:space="preserve">If you insist.
 
@@ -101,7 +101,7 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
 &gt; </result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1005">
+    <item nodeId="node-3468">
         <command xml:space="preserve">past</command>
         <result xml:space="preserve">
 Mexico City
@@ -110,10 +110,10 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1006"></child>
+        <children><child nodeId="node-3469"></child>
         </children>
     </item>
-    <item nodeId="node-1006">
+    <item nodeId="node-3469">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Wuhan
@@ -124,10 +124,10 @@ You can see a virus here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1007"></child>
+        <children><child nodeId="node-3470"></child>
         </children>
     </item>
-    <item nodeId="node-1007">
+    <item nodeId="node-3470">
         <command xml:space="preserve">jump</command>
         <result xml:space="preserve">
 
@@ -140,7 +140,7 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
 &gt; </result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1009">
+    <item nodeId="node-3471">
         <command xml:space="preserve">future</command>
         <result xml:space="preserve">
 Mexico City
@@ -149,10 +149,10 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1010"></child>
+        <children><child nodeId="node-3472"></child>
         </children>
     </item>
-    <item nodeId="node-1010">
+    <item nodeId="node-3472">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Wuhan
@@ -163,11 +163,11 @@ You can see a virus here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1019"></child>
-            <child nodeId="node-1011"></child>
+        <children><child nodeId="node-3474"></child>
+            <child nodeId="node-3473"></child>
         </children>
     </item>
-    <item nodeId="node-1011">
+    <item nodeId="node-3473">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 New Delhi
@@ -178,7 +178,7 @@ Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1019">
+    <item nodeId="node-3474">
         <command xml:space="preserve">jump</command>
         <result xml:space="preserve">If you insist.
 On the battlefield against the Corono Virus
