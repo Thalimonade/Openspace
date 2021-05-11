@@ -163,20 +163,7 @@ Wuhan is a room. Wuhan is north of New Delhi. The description of Wuhan is "In th
 
 A virus is a thing. The virus is in Wuhan.
 
-Instead of searching in the presence of the virus: say "If you insist"; end the story.
-Instead of examining in the presence of the virus: say "If you insist"; end the story.
-Instead of Jumping in the presence of the virus: say "If you insist"; end the story.
-
-[Rule for printing the player's obituary:
-    say paragraph break;
-    center "In 2019, the human race lost thousand of people";
-    center "On the battlefield against the Corona Virus";
-    center "The first that were touch by the disease, were the people of Wuhan";
-    center "You were one of them";
-    say paragraph break;
-    wait for any key;
-    stop game abruptly;
-    rule succeeds]
+Instead of doing something other than going when the virus is in the location: say "If you insist.[line break][line break]On the battlefield against the Corono Virus[line break]The first that were touched by the disease, were the people of Wuhan[line break]You were one of them."; end the story.
 
 
 Futuristic Casino is a room. Futuristic Casino is east of Wuhan. The description of Futuristic Casino is "In the past is Wuhan.
