@@ -17,98 +17,57 @@
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>2</key><dict>
-<<<<<<< HEAD
         <key>Filename</key><string>/Users/laurapippus/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
         <key>Line</key><integer>21</integer>
-=======
-        <key>Filename</key><string>/Users/davlokpavid/Desktop/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>20</integer>
->>>>>>> 1a489593d79377ec3c0a6e9ef7485023078ed1f3
         <key>Title</key><string>section 2 - Starting office</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>3</key><dict>
-<<<<<<< HEAD
         <key>Filename</key><string>/Users/laurapippus/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
         <key>Line</key><integer>48</integer>
-        <key>Title</key><string>section 3 - Europe</string>
-=======
-        <key>Filename</key><string>/Users/davlokpavid/Desktop/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>55</integer>
         <key>Title</key><string>section 3 - the ending office</string>
->>>>>>> 1a489593d79377ec3c0a6e9ef7485023078ed1f3
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>4</key><dict>
-<<<<<<< HEAD
         <key>Filename</key><string>/Users/laurapippus/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>126</integer>
-        <key>Title</key><string>section 4 - India</string>
-=======
-        <key>Filename</key><string>/Users/davlokpavid/Desktop/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>59</integer>
+        <key>Line</key><integer>52</integer>
         <key>Title</key><string>section 4 - Europe</string>
->>>>>>> 1a489593d79377ec3c0a6e9ef7485023078ed1f3
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>5</key><dict>
-<<<<<<< HEAD
         <key>Filename</key><string>/Users/laurapippus/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>144</integer>
-        <key>Title</key><string>Section 5 - China</string>
-=======
-        <key>Filename</key><string>/Users/davlokpavid/Desktop/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>137</integer>
+        <key>Line</key><integer>130</integer>
         <key>Title</key><string>section 5 - India</string>
->>>>>>> 1a489593d79377ec3c0a6e9ef7485023078ed1f3
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>6</key><dict>
-<<<<<<< HEAD
         <key>Filename</key><string>/Users/laurapippus/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>186</integer>
-        <key>Title</key><string>Section 6 - Latin America</string>
-=======
-        <key>Filename</key><string>/Users/davlokpavid/Desktop/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>160</integer>
+        <key>Line</key><integer>152</integer>
         <key>Title</key><string>Section 6 - China</string>
->>>>>>> 1a489593d79377ec3c0a6e9ef7485023078ed1f3
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>7</key><dict>
-<<<<<<< HEAD
         <key>Filename</key><string>/Users/laurapippus/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>232</integer>
-        <key>Title</key><string>Section 7 - Antarctica</string>
-=======
-        <key>Filename</key><string>/Users/davlokpavid/Desktop/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>211</integer>
+        <key>Line</key><integer>191</integer>
         <key>Title</key><string>Section 7 - Latin America</string>
->>>>>>> 1a489593d79377ec3c0a6e9ef7485023078ed1f3
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>8</key><dict>
-<<<<<<< HEAD
         <key>Filename</key><string>/Users/laurapippus/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>268</integer>
-        <key>Title</key><string>Section 8 - Africa</string>
-=======
-        <key>Filename</key><string>/Users/davlokpavid/Desktop/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>258</integer>
+        <key>Line</key><integer>238</integer>
         <key>Title</key><string>Section 8 - Antarctica</string>
->>>>>>> 1a489593d79377ec3c0a6e9ef7485023078ed1f3
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>9</key><dict>
-        <key>Filename</key><string>/Users/davlokpavid/Desktop/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>294</integer>
+        <key>Filename</key><string>/Users/laurapippus/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
+        <key>Line</key><integer>274</integer>
         <key>Title</key><string>Section 9 - Africa</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>

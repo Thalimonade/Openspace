@@ -136,7 +136,7 @@ The modern glass door is a door. It is south of New Delhi and north of the offic
 
 
 Yogi's retreat is a room. Yogi's retreat is east of New Delhi. The description of the Yogi's retreat is "In the past is the city center of New Delhi. 
-The only community still standing in 20900's India. This sanctuary is filled with trees, and in the network of streams that run around, you can see huge red, orange and white carps. Yoga matresses are pretty much everywhere, and the smell of the incense is just delightful. You feel a big sense of inner peace... if you stay too long here, you might never leave.".
+Now, it is the only community still standing in 20900's India. This sanctuary is filled with trees, and in the network of streams that run around, you can see huge red, orange and white carps. Yoga matresses are pretty much everywhere, and the smell of the incense is just delightful. You feel a big sense of inner peace... if you stay too long here, you might never leave.".
 
 
 Maharaja's palace is a room. Maharaja's palace is west of New Delhi. The description of the Maharaja's palace is "In the future is the city center of New Delhi. 
@@ -158,8 +158,8 @@ A virus is a thing. The virus is in Wuhan.
 Instead of doing something other than going when the virus is in the location: say "If you insist.[line break][line break]On the battlefield against the Corono Virus[line break]The first that were touched by the disease, were the people of Wuhan[line break]You were one of them."; end the story.
 
 
-Futuristic Casino is a room. Futuristic Casino is east of Wuhan. The description of Futuristic Casino is "In the past is Wuhan.
-A milion colorful and blinking neon lights iluminate the corridors, and a pathway covered in a fluffy carpet leads you to the Black Jack table A robot serves you a drink as the crowd gathered around Black Jack table cheers.".
+Futuristic Casino is a room. Futuristic Casino is east of Wuhan. The description of Futuristic Casino is "In the past, Wuhan was here.
+But now, a milion colorful and blinking neon lights iluminate the corridors, and a pathway covered in a fluffy carpet leads you to the Black Jack table. A robot serves you a sparkling drink as the crowd gathered around Black Jack table cheers.".
 
 A door is a kind of thing.
 A black jack is a door. It is south of the Futuristic Casino and north of the Yogi's Retreat. 
@@ -185,18 +185,8 @@ Chinese Workshop is a room. Chinese Workshop is west of Wuhan, south of Aztec te
 The artisan is a person. He carries a rice paper. 
 
 Instead of taking the paper:
-	say "You thank the old man for the paper, and now you have something to write on!";
+	say "You thank the old man for the paper and[if the player carries a pen] you start to try to find your way back to the office.[otherwise] now you go look for the pen in order to go back to the office.[end if]";
 	move the rice paper to the player. 
-
-Understand the command "write" as something new.
-
-Writing is an action applying to two carried things. 
-
-Understand "write down on the [paper] using the [pen]" as writing.
-
-Check writing when the noun is not a pen: instead say "You cannot write down with this [noun]."
-
-Report writing: say "now you can write it down [noun] using [noun]".
 
 Section 7 - Latin America 
 
