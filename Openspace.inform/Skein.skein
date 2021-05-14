@@ -9,43 +9,20 @@
 
 Open Space
 An Interactive Fiction by Thalie Schmidt, Laura Pippus, David Pavlik et Ludovic Rochat
-Release 1 / Serial number 210507 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+Release 1 / Serial number 210510 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
 
-Office
-Your boss and yourself are in the midst of stormy negotiations with new potential associates. The atmosphere is tense, so much so that you can feel sweat beads dripping down your tailored shirt as your sticky hands pound on your laptop keyboard. Your boss sits at your left while two other gentlemen sit straight across from you both. All of you have been in here, bargaining over contract terms, for quite a while now and you wrists are staring to ache as you write and erase what the others tell you to. The shadows you cast on the white office walls gently shift as the sun goes down,  you wish they had come up to an agreement by now.
+The office
+Your boss and yourself are in the midst of stormy negotiations with new potential associates. The atmosphere is tense, so much so that you can feel sweat beads dripping down your tailored shirt as your sticky hands pound on your laptop keyboard. Your boss sits at your left while two other gentlemen sit straight across from you both. All of you have been in here, bargaining over contract terms, for quite a while now and you wrists are staring to ache as you write and erase what the others tell you to. The shadows you cast on the white office walls gently shift as the sun goes down,  you wish they had come up to an agreement by now. Suddenly, either out of weariness or out of boldness, one of your guests leans in towards you and suggests a daring idea. You see a spark light up everybody else's as the idea sinks a little deeper in all of your minds. -This is great ..! says your boss. - This is illegal. you respond. Completely astonished by the nature of such suggestions. - You're right, this can't appear on the records. Put that computer aside and grab a piece of paper! he adds. You look around but can't seem to find any paper laying around. New ideas flood the room and you are not able the write any of them down. You painfully interrupt this flow of thoughts: -Sir, I don't think we have any paper nor any pens. The bubbly brainstorm turns into three heavy stairs, the kind of stairs that strip you from your will to disagree. - Would you be so kind as to go and fetch some for us ? asks the scarier of the two guest. -Yes, of course. you respond as you quickly get up. 
 
-Suddenly, either out of weariness or out of boldness, one of your guests leans in towards you and suggests a daring idea. You see a spark light up everybody else's as the idea sinks a little deeper in all of your minds.
-
--This is great ..! says your boss.
-
-- This is illegal. you respond. Completely astonished by the nature of such suggestions.
-
-- You're right, this can't appear on the records. Put that computer aside and grab a piece of paper! he adds.
-
-You look around but can't seem to find any paper laying around. New ideas flood the room and you are not able the write any of them down. Your painfully interrupt this flow thoughts:
-
--Sir, I don't think we have any paper nor any pens. The bubbly brainstorm turns into three heavy stairs, the kind of stairs that strip you from your will to disagree.
-
-- Would you be so kind as to go and fetch some for us ? asks the scarier of the two guest.
-
--Yes, of course. you respond as you quickly get up. 
-
-Now out of your Leather chair, you take a last look at the conference table. You think to yourself:
-
-- No paper, no pens, is this really it? The office of the future?
-
-It can't be. All it is, is a realm of shiny metals and cold greatings. Your buzzing laptop the stainless glass door, the cold coffee you drink, everything you lay your eyes on is chilling.
-
-Going for a strawl could be exactly what you need. Suddenly, you catch yourself hoping for a paper shortage in the whole damn building or, better even, in the whole damn town. So you'd have an excuse to put some miles between you and this place.
-
-You can also see a big door here.
+You can see a big door, a Leather chair and a conference table here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1134"></child>
-            <child nodeId="node-1126"></child>
+        <children><child nodeId="node-1136"></child>
+            <child nodeId="node-1128"></child>
+            <child nodeId="node-1124"></child>
             <child nodeId="node-1122"></child>
-            <child nodeId="node-1120"></child>
+            <child nodeId="node-1044"></child>
             <child nodeId="node-1042"></child>
             <child nodeId="node-1003"></child>
         </children>
@@ -451,59 +428,80 @@ You can see an entrance tunnel here.
         <commentary xml:space="preserve"></commentary>
     </item>
     <item nodeId="node-1042">
+        <command xml:space="preserve">open door</command>
+        <result xml:space="preserve">Wuhan
+A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1043"></child>
+        </children>
+    </item>
+    <item nodeId="node-1043">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+New Delhi
+You are now in the city center of New Dehli nowadays: your senses are flooded with all kinds of informations. The smells of a thousand spices assault your nostrils from a street market on your right hand and their colors fill up your soul like flowers in the spring, birds are singing and market sellers seems to be answering them prices of their marchandises; the whole thing is wrapped up in a whirlwind of scooters and tuktuk, adding a deeply human touch to the frenzy of the moment.
+
+Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn't seem to belong here: a modern glass door. You know, that opaque kind of glass which looks very expensive. Of course you'd know, your office has the same ones.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1044">
         <command xml:space="preserve">open big door</command>
         <result xml:space="preserve">Alexandria's Library
 Cars finally float on air cushions and plants co-exist with skyscrapers in a friendly and aesthetic way. 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1117"></child>
-            <child nodeId="node-1105"></child>
-            <child nodeId="node-1086"></child>
-            <child nodeId="node-1080"></child>
-            <child nodeId="node-1063"></child>
+        <children><child nodeId="node-1119"></child>
+            <child nodeId="node-1107"></child>
+            <child nodeId="node-1088"></child>
+            <child nodeId="node-1082"></child>
+            <child nodeId="node-1065"></child>
+            <child nodeId="node-1047"></child>
             <child nodeId="node-1045"></child>
-            <child nodeId="node-1043"></child>
         </children>
     </item>
-    <item nodeId="node-1043">
+    <item nodeId="node-1045">
         <command xml:space="preserve">x nest</command>
         <result xml:space="preserve">In the nest is a baby scorpion.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1044"></child>
+        <children><child nodeId="node-1046"></child>
         </children>
     </item>
-    <item nodeId="node-1044">
+    <item nodeId="node-1046">
         <command xml:space="preserve">x baby</command>
         <result xml:space="preserve">One of the baby scorpion - that you surprisingly find cute with its sharp little claws, its hairy exoskeleton and its menacing scorpion's tail dancing gently in the warm wind - comes to you, certainly interested by your delicious monkey shape. Violence is never an answer - but now that you are in front of the scorpion that keeps coming closer, saliva dripping from its lips, I would suggest you to attack it!
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1045">
+    <item nodeId="node-1047">
         <command xml:space="preserve">west</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1052"></child>
+        <children><child nodeId="node-1054"></child>
+            <child nodeId="node-1050"></child>
             <child nodeId="node-1048"></child>
-            <child nodeId="node-1046"></child>
         </children>
     </item>
-    <item nodeId="node-1046">
+    <item nodeId="node-1048">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">(first opening the shiny door)
 It seems to be locked.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1047"></child>
+        <children><child nodeId="node-1049"></child>
         </children>
     </item>
-    <item nodeId="node-1047">
+    <item nodeId="node-1049">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">(first opening the familiar looking door)
 It seems to be locked.
@@ -511,7 +509,7 @@ It seems to be locked.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1048">
+    <item nodeId="node-1050">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">
 Scientific Base Camp
@@ -521,10 +519,10 @@ You can see a tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1049"></child>
+        <children><child nodeId="node-1051"></child>
         </children>
     </item>
-    <item nodeId="node-1049">
+    <item nodeId="node-1051">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Mexico City
@@ -532,10 +530,10 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1050"></child>
+        <children><child nodeId="node-1052"></child>
         </children>
     </item>
-    <item nodeId="node-1050">
+    <item nodeId="node-1052">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Wuhan
@@ -543,10 +541,10 @@ A new, deadly virus was detected for the first time here. The city center is des
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1051"></child>
+        <children><child nodeId="node-1053"></child>
         </children>
     </item>
-    <item nodeId="node-1051">
+    <item nodeId="node-1053">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 New Delhi
@@ -557,7 +555,7 @@ A big and modern glass door. You know, that opaque kind of glass which looks ver
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1052">
+    <item nodeId="node-1054">
         <command xml:space="preserve">crawl</command>
         <result xml:space="preserve">(in the entrance tunnel)
 
@@ -568,19 +566,19 @@ You can see an entrance tunnel and a sleeping researcher here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1053"></child>
+        <children><child nodeId="node-1055"></child>
         </children>
     </item>
-    <item nodeId="node-1053">
+    <item nodeId="node-1055">
         <command xml:space="preserve">crawl</command>
         <result xml:space="preserve">What do you want to crawl in?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1054"></child>
+        <children><child nodeId="node-1056"></child>
         </children>
     </item>
-    <item nodeId="node-1054">
+    <item nodeId="node-1056">
         <command xml:space="preserve">up</command>
         <result xml:space="preserve">
 Scientific Base Camp
@@ -590,10 +588,10 @@ You can see an entrance tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1055"></child>
+        <children><child nodeId="node-1057"></child>
         </children>
     </item>
-    <item nodeId="node-1055">
+    <item nodeId="node-1057">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Mexico City
@@ -601,10 +599,10 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1056"></child>
+        <children><child nodeId="node-1058"></child>
         </children>
     </item>
-    <item nodeId="node-1056">
+    <item nodeId="node-1058">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">
 Scorpion World
@@ -614,32 +612,12 @@ The nest is swarming with "little" scorpions, as big as your head. Inside your h
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1057"></child>
-        </children>
-    </item>
-    <item nodeId="node-1057">
-        <command xml:space="preserve">x nest</command>
-        <result xml:space="preserve">In the nest is a baby scorpion.
-
-&gt;</result>
-        <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1058"></child>
-        </children>
-    </item>
-    <item nodeId="node-1058">
-        <command xml:space="preserve">x baby</command>
-        <result xml:space="preserve">You see nothing special about the baby scorpion.
-
-&gt;</result>
-        <commentary xml:space="preserve"></commentary>
         <children><child nodeId="node-1059"></child>
         </children>
     </item>
     <item nodeId="node-1059">
-        <command xml:space="preserve">west</command>
-        <result xml:space="preserve">
-Mexico City
-Gunshots pierce the sky as you cross the road of today's Mexico. It is getting quite dark and you don't want any trouble. You see four similarly unwellcoming alleyways each leading in different directions: south, north, east and west.
+        <command xml:space="preserve">x nest</command>
+        <result xml:space="preserve">In the nest is a baby scorpion.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
@@ -647,6 +625,26 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
         </children>
     </item>
     <item nodeId="node-1060">
+        <command xml:space="preserve">x baby</command>
+        <result xml:space="preserve">You see nothing special about the baby scorpion.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1061"></child>
+        </children>
+    </item>
+    <item nodeId="node-1061">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">
+Mexico City
+Gunshots pierce the sky as you cross the road of today's Mexico. It is getting quite dark and you don't want any trouble. You see four similarly unwellcoming alleyways each leading in different directions: south, north, east and west.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1062"></child>
+        </children>
+    </item>
+    <item nodeId="node-1062">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">
 Scientific Base Camp
@@ -656,10 +654,10 @@ You can see an entrance tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1061"></child>
+        <children><child nodeId="node-1063"></child>
         </children>
     </item>
-    <item nodeId="node-1061">
+    <item nodeId="node-1063">
         <command xml:space="preserve">crawl</command>
         <result xml:space="preserve">(in the entrance tunnel)
 
@@ -670,10 +668,10 @@ You can see an entrance tunnel and a sleeping researcher here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1062"></child>
+        <children><child nodeId="node-1064"></child>
         </children>
     </item>
-    <item nodeId="node-1062">
+    <item nodeId="node-1064">
         <command xml:space="preserve">crawl in the entrance tunnel</command>
         <result xml:space="preserve">
 Scientific Base Camp
@@ -684,7 +682,7 @@ You can see an entrance tunnel here.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1063">
+    <item nodeId="node-1065">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Alexandria's Library
@@ -692,35 +690,13 @@ Cars finally float on air cushions and plants co-exist with skyscrapers in a fri
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1074"></child>
-            <child nodeId="node-1064"></child>
-        </children>
-    </item>
-    <item nodeId="node-1064">
-        <command xml:space="preserve">south</command>
-        <result xml:space="preserve">You can't go that way.
-
-&gt;</result>
-        <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1065"></child>
-        </children>
-    </item>
-    <item nodeId="node-1065">
-        <command xml:space="preserve">east</command>
-        <result xml:space="preserve">You can't go that way.
-
-&gt;</result>
-        <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1066"></child>
+        <children><child nodeId="node-1076"></child>
+            <child nodeId="node-1066"></child>
         </children>
     </item>
     <item nodeId="node-1066">
-        <command xml:space="preserve">west</command>
-        <result xml:space="preserve">
-Savannah
-Savannah today
-
-A big and modern glass door. You know, that opaque kind of glass which looks very expensive.
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
@@ -728,6 +704,28 @@ A big and modern glass door. You know, that opaque kind of glass which looks ver
         </children>
     </item>
     <item nodeId="node-1067">
+        <command xml:space="preserve">east</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1068"></child>
+        </children>
+    </item>
+    <item nodeId="node-1068">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">
+Savannah
+Savannah today
+
+A big and modern glass door. You know, that opaque kind of glass which looks very expensive.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1069"></child>
+        </children>
+    </item>
+    <item nodeId="node-1069">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Scientific Base Camp
@@ -737,10 +735,10 @@ You can see a tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1068"></child>
+        <children><child nodeId="node-1070"></child>
         </children>
     </item>
-    <item nodeId="node-1068">
+    <item nodeId="node-1070">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Mexico City
@@ -748,36 +746,16 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1069"></child>
+        <children><child nodeId="node-1071"></child>
         </children>
     </item>
-    <item nodeId="node-1069">
+    <item nodeId="node-1071">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">
 Scorpion World
 Here you step into the future of Latin America. As time passed, a lot of species went extinct. Not scorpions though, scorpions got bigger. Unfortunately, way bigger than you. The whole contient mutated into a huge conurbation of enormous scorpion nests: you are in the middle of it. In front of you is one of those scorpion nest.
 
 The nest is swarming with "little" scorpions, as big as your head. Inside your head precisely, alongside your fear, your pragmatic common sense tells you something like "don't you think that this baby scorpion's tail could do a marvellous pen?"
-
-&gt;</result>
-        <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1070"></child>
-        </children>
-    </item>
-    <item nodeId="node-1070">
-        <command xml:space="preserve">x nest</command>
-        <result xml:space="preserve">In the nest is a baby scorpion.
-
-&gt;</result>
-        <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1071"></child>
-        </children>
-    </item>
-    <item nodeId="node-1071">
-        <command xml:space="preserve">west</command>
-        <result xml:space="preserve">
-Mexico City
-Gunshots pierce the sky as you cross the road of today's Mexico. It is getting quite dark and you don't want any trouble. You see four similarly unwellcoming alleyways each leading in different directions: south, north, east and west.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
@@ -785,6 +763,26 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
         </children>
     </item>
     <item nodeId="node-1072">
+        <command xml:space="preserve">x nest</command>
+        <result xml:space="preserve">In the nest is a baby scorpion.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1073"></child>
+        </children>
+    </item>
+    <item nodeId="node-1073">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">
+Mexico City
+Gunshots pierce the sky as you cross the road of today's Mexico. It is getting quite dark and you don't want any trouble. You see four similarly unwellcoming alleyways each leading in different directions: south, north, east and west.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1074"></child>
+        </children>
+    </item>
+    <item nodeId="node-1074">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">
 Scorpion World
@@ -794,17 +792,17 @@ The nest is swarming with "little" scorpions, as big as your head. Inside your h
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1073"></child>
+        <children><child nodeId="node-1075"></child>
         </children>
     </item>
-    <item nodeId="node-1073">
+    <item nodeId="node-1075">
         <command xml:space="preserve">attack baby</command>
         <result xml:space="preserve">After an epic battle in which you found yourself without trousers because your belt was the only weapon you could find, you finally manage to finish off the baby scorpion that passes away looking you right in the eyes. To honor this proud and mighty enemy, you decide to craft a pen out of it's tail.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1074">
+    <item nodeId="node-1076">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">
 Savannah
@@ -814,18 +812,18 @@ A big and modern glass door. You know, that opaque kind of glass which looks ver
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1076"></child>
-            <child nodeId="node-1075"></child>
+        <children><child nodeId="node-1078"></child>
+            <child nodeId="node-1077"></child>
         </children>
     </item>
-    <item nodeId="node-1075">
+    <item nodeId="node-1077">
         <command xml:space="preserve">x nest</command>
         <result xml:space="preserve">In the nest is a scorpion's tail.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1076">
+    <item nodeId="node-1078">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Scientific Base Camp
@@ -835,10 +833,10 @@ You can see a tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1077"></child>
+        <children><child nodeId="node-1079"></child>
         </children>
     </item>
-    <item nodeId="node-1077">
+    <item nodeId="node-1079">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Mexico City
@@ -846,10 +844,10 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1078"></child>
+        <children><child nodeId="node-1080"></child>
         </children>
     </item>
-    <item nodeId="node-1078">
+    <item nodeId="node-1080">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">
 Scorpion World
@@ -859,10 +857,10 @@ The nest is swarming with "little" scorpions, as big as your head. One of the ba
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1079"></child>
+        <children><child nodeId="node-1081"></child>
         </children>
     </item>
-    <item nodeId="node-1079">
+    <item nodeId="node-1081">
         <command xml:space="preserve">attack</command>
         <result xml:space="preserve">(the nest)
 After an epic battle in which you found yourself without trousers because your belt was the only weapon you could find, you finally manage to finish off the baby scorpion that passes away looking you right in the eyes. To honor this proud and mighty enemy, you decide to craft a pen out of it's tail.
@@ -870,7 +868,7 @@ After an epic battle in which you found yourself without trousers because your b
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1080">
+    <item nodeId="node-1082">
         <command xml:space="preserve">open big door</command>
         <result xml:space="preserve">Scientific Base Camp
 Present of Antarctica. The only thing you see beyond the camp's igloos is ice and extracted ice caps. You don't want to spend too much time here unless you always wanted to be a human ice cream. The igloos are scattered over a large area, but one is not far away. If you want to go inside, you'll have to crawl through the tunnel.
@@ -879,10 +877,10 @@ You can see a tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1081"></child>
+        <children><child nodeId="node-1083"></child>
         </children>
     </item>
-    <item nodeId="node-1081">
+    <item nodeId="node-1083">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Mexico City
@@ -890,10 +888,10 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1082"></child>
+        <children><child nodeId="node-1084"></child>
         </children>
     </item>
-    <item nodeId="node-1082">
+    <item nodeId="node-1084">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">
 Scorpion World
@@ -903,36 +901,36 @@ The nest is swarming with "little" scorpions, as big as your head. One of the ba
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1083"></child>
+        <children><child nodeId="node-1085"></child>
         </children>
     </item>
-    <item nodeId="node-1083">
+    <item nodeId="node-1085">
         <command xml:space="preserve">attack</command>
         <result xml:space="preserve">(the nest)
 Violence isn't the answer to this one.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1084"></child>
+        <children><child nodeId="node-1086"></child>
         </children>
     </item>
-    <item nodeId="node-1084">
+    <item nodeId="node-1086">
         <command xml:space="preserve">attck the baby</command>
         <result xml:space="preserve">That's not a verb I recognise.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1085"></child>
+        <children><child nodeId="node-1087"></child>
         </children>
     </item>
-    <item nodeId="node-1085">
+    <item nodeId="node-1087">
         <command xml:space="preserve">attack the baby</command>
         <result xml:space="preserve">After an epic battle in which you found yourself without trousers because your belt was the only weapon you could find, you finally manage to finish off the baby scorpion that passes away looking you right in the eyes. To honor this proud and mighty enemy, you decide to craft a pen out of it's tail.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1086">
+    <item nodeId="node-1088">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">
 Druid's tent
@@ -946,11 +944,11 @@ You can also see a small altar (on which are a rounded jar (closed), a skinny ja
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1092"></child>
-            <child nodeId="node-1087"></child>
+        <children><child nodeId="node-1094"></child>
+            <child nodeId="node-1089"></child>
         </children>
     </item>
-    <item nodeId="node-1087">
+    <item nodeId="node-1089">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">
 Maharaja's palace
@@ -962,10 +960,10 @@ You can see a Peacock here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1088"></child>
+        <children><child nodeId="node-1090"></child>
         </children>
     </item>
-    <item nodeId="node-1088">
+    <item nodeId="node-1090">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">
 New Delhi
@@ -975,34 +973,34 @@ Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1091"></child>
-            <child nodeId="node-1089"></child>
+        <children><child nodeId="node-1093"></child>
+            <child nodeId="node-1091"></child>
         </children>
     </item>
-    <item nodeId="node-1089">
+    <item nodeId="node-1091">
         <command xml:space="preserve">x nest</command>
         <result xml:space="preserve">In the nest is a baby scorpion.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1090"></child>
+        <children><child nodeId="node-1092"></child>
         </children>
     </item>
-    <item nodeId="node-1090">
+    <item nodeId="node-1092">
         <command xml:space="preserve">fight the baby</command>
         <result xml:space="preserve">Violence isn't the answer to this one.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1091">
+    <item nodeId="node-1093">
         <command xml:space="preserve">open door</command>
         <result xml:space="preserve">It seems to be locked.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1092">
+    <item nodeId="node-1094">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">
 New Delhi
@@ -1012,11 +1010,11 @@ A big and modern glass door. You know, that opaque kind of glass which looks ver
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1099"></child>
-            <child nodeId="node-1093"></child>
+        <children><child nodeId="node-1101"></child>
+            <child nodeId="node-1095"></child>
         </children>
     </item>
-    <item nodeId="node-1093">
+    <item nodeId="node-1095">
         <command xml:space="preserve">west</command>
         <result xml:space="preserve">
 New Delhi
@@ -1026,36 +1024,14 @@ A big and modern glass door. You know, that opaque kind of glass which looks ver
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1094"></child>
-        </children>
-    </item>
-    <item nodeId="node-1094">
-        <command xml:space="preserve">north</command>
-        <result xml:space="preserve">
-Wuhan
-A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!
-
-&gt;</result>
-        <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1095"></child>
-        </children>
-    </item>
-    <item nodeId="node-1095">
-        <command xml:space="preserve">north</command>
-        <result xml:space="preserve">
-Mexico City
-Gunshots pierce the sky as you cross the road of today's Mexico. It is getting quite dark and you don't want any trouble. You see four similarly unwellcoming alleyways each leading in different directions: south, north, east and west.
-
-&gt;</result>
-        <commentary xml:space="preserve"></commentary>
         <children><child nodeId="node-1096"></child>
         </children>
     </item>
     <item nodeId="node-1096">
-        <command xml:space="preserve">east</command>
+        <command xml:space="preserve">north</command>
         <result xml:space="preserve">
-Scorpion World
-Here you step into the future of Latin America. As time past, a lot of species went extinct. Not scorpions though, scorpions got bigger. Unfortunately, way bigger than you. The whole contient mutated into a huge nest of enormous scorpions: you are in the middle of it.
+Wuhan
+A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
@@ -1063,33 +1039,6 @@ Here you step into the future of Latin America. As time past, a lot of species w
         </children>
     </item>
     <item nodeId="node-1097">
-        <command xml:space="preserve">x</command>
-        <result xml:space="preserve">What do you want to examine?
-
-&gt;</result>
-        <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1098"></child>
-        </children>
-    </item>
-    <item nodeId="node-1098">
-        <command xml:space="preserve">x nest</command>
-        <result xml:space="preserve">You can't see any such thing.
-
-&gt;</result>
-        <commentary xml:space="preserve"></commentary>
-    </item>
-    <item nodeId="node-1099">
-        <command xml:space="preserve">north</command>
-        <result xml:space="preserve">
-Wuhan
-A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!
-
-&gt;</result>
-        <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1100"></child>
-        </children>
-    </item>
-    <item nodeId="node-1100">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">
 Mexico City
@@ -1097,10 +1046,59 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1101"></child>
+        <children><child nodeId="node-1098"></child>
         </children>
     </item>
+    <item nodeId="node-1098">
+        <command xml:space="preserve">east</command>
+        <result xml:space="preserve">
+Scorpion World
+Here you step into the future of Latin America. As time past, a lot of species went extinct. Not scorpions though, scorpions got bigger. Unfortunately, way bigger than you. The whole contient mutated into a huge nest of enormous scorpions: you are in the middle of it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1099"></child>
+        </children>
+    </item>
+    <item nodeId="node-1099">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">What do you want to examine?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1100"></child>
+        </children>
+    </item>
+    <item nodeId="node-1100">
+        <command xml:space="preserve">x nest</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
     <item nodeId="node-1101">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">
+Wuhan
+A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1102"></child>
+        </children>
+    </item>
+    <item nodeId="node-1102">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">
+Mexico City
+Gunshots pierce the sky as you cross the road of today's Mexico. It is getting quite dark and you don't want any trouble. You see four similarly unwellcoming alleyways each leading in different directions: south, north, east and west.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1103"></child>
+        </children>
+    </item>
+    <item nodeId="node-1103">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">
 Scorpion World
@@ -1110,27 +1108,27 @@ The nest is swarming with "little" scorpions, as big as your head. Inside your h
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1102"></child>
+        <children><child nodeId="node-1104"></child>
         </children>
     </item>
-    <item nodeId="node-1102">
+    <item nodeId="node-1104">
         <command xml:space="preserve">x nest</command>
         <result xml:space="preserve">In the nest is a baby scorpion.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1103"></child>
+        <children><child nodeId="node-1105"></child>
         </children>
     </item>
-    <item nodeId="node-1103">
+    <item nodeId="node-1105">
         <command xml:space="preserve">attack baby</command>
         <result xml:space="preserve">skirt
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1104"></child>
+        <children><child nodeId="node-1106"></child>
         </children>
     </item>
-    <item nodeId="node-1104">
+    <item nodeId="node-1106">
         <command xml:space="preserve">i</command>
         <result xml:space="preserve">You are carrying:
   a scorpion's tail
@@ -1138,7 +1136,7 @@ The nest is swarming with "little" scorpions, as big as your head. Inside your h
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1105">
+    <item nodeId="node-1107">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">
 Mexico City
@@ -1146,19 +1144,19 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1110"></child>
-            <child nodeId="node-1107"></child>
-            <child nodeId="node-1106"></child>
+        <children><child nodeId="node-1112"></child>
+            <child nodeId="node-1109"></child>
+            <child nodeId="node-1108"></child>
         </children>
     </item>
-    <item nodeId="node-1106">
+    <item nodeId="node-1108">
         <command xml:space="preserve">x nest</command>
         <result xml:space="preserve">The nest is empty.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1107">
+    <item nodeId="node-1109">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Scientific Base Camp
@@ -1168,10 +1166,10 @@ You can see an entrance tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1108"></child>
+        <children><child nodeId="node-1110"></child>
         </children>
     </item>
-    <item nodeId="node-1108">
+    <item nodeId="node-1110">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Mexico City
@@ -1179,10 +1177,10 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1109"></child>
+        <children><child nodeId="node-1111"></child>
         </children>
     </item>
-    <item nodeId="node-1109">
+    <item nodeId="node-1111">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">
 Scorpion World
@@ -1193,7 +1191,7 @@ The nest is swarming with "little" scorpions. In your head, alongside your fear,
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1110">
+    <item nodeId="node-1112">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">
 Scorpion World
@@ -1203,32 +1201,12 @@ The nest is swarming with "little" scorpions, as big as your head. Inside your h
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1111"></child>
-        </children>
-    </item>
-    <item nodeId="node-1111">
-        <command xml:space="preserve">x nest</command>
-        <result xml:space="preserve">In the nest is a baby scorpion.
-
-&gt;</result>
-        <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1112"></child>
-        </children>
-    </item>
-    <item nodeId="node-1112">
-        <command xml:space="preserve">north</command>
-        <result xml:space="preserve">You can't go that way.
-
-&gt;</result>
-        <commentary xml:space="preserve"></commentary>
         <children><child nodeId="node-1113"></child>
         </children>
     </item>
     <item nodeId="node-1113">
-        <command xml:space="preserve">west</command>
-        <result xml:space="preserve">
-Mexico City
-Gunshots pierce the sky as you cross the road of today's Mexico. It is getting quite dark and you don't want any trouble. You see four similarly unwellcoming alleyways each leading in different directions: south, north, east and west.
+        <command xml:space="preserve">x nest</command>
+        <result xml:space="preserve">In the nest is a baby scorpion.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
@@ -1236,6 +1214,26 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
         </children>
     </item>
     <item nodeId="node-1114">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1115"></child>
+        </children>
+    </item>
+    <item nodeId="node-1115">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">
+Mexico City
+Gunshots pierce the sky as you cross the road of today's Mexico. It is getting quite dark and you don't want any trouble. You see four similarly unwellcoming alleyways each leading in different directions: south, north, east and west.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1116"></child>
+        </children>
+    </item>
+    <item nodeId="node-1116">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">
 Scientific Base Camp
@@ -1245,10 +1243,10 @@ You can see a tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1115"></child>
+        <children><child nodeId="node-1117"></child>
         </children>
     </item>
-    <item nodeId="node-1115">
+    <item nodeId="node-1117">
         <command xml:space="preserve">crawl</command>
         <result xml:space="preserve">(in the tunnel)
 
@@ -1259,26 +1257,26 @@ You can see a tunnel and a sleeping researcher here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1116"></child>
+        <children><child nodeId="node-1118"></child>
         </children>
     </item>
-    <item nodeId="node-1116">
+    <item nodeId="node-1118">
         <command xml:space="preserve">search researcher</command>
         <result xml:space="preserve">You lift the multiple layers of blankets and fur and after a quick search you see something shiny that catches your frozen eyes: a Mont Blanc quill! Exactly what your boss needs to sign the contract. After a brief discussion with your conscience, you decide to take it.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1117">
+    <item nodeId="node-1119">
         <command xml:space="preserve">crawl</command>
         <result xml:space="preserve">What do you want to crawl in?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1118"></child>
+        <children><child nodeId="node-1120"></child>
         </children>
     </item>
-    <item nodeId="node-1118">
+    <item nodeId="node-1120">
         <command xml:space="preserve">up</command>
         <result xml:space="preserve">
 Scientific Base Camp
@@ -1288,10 +1286,10 @@ You can see an entrance tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1119"></child>
+        <children><child nodeId="node-1121"></child>
         </children>
     </item>
-    <item nodeId="node-1119">
+    <item nodeId="node-1121">
         <command xml:space="preserve">crawl</command>
         <result xml:space="preserve">(in the entrance tunnel)
 
@@ -1303,25 +1301,9 @@ You can see an entrance tunnel and a sleeping researcher here.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1120">
+    <item nodeId="node-1122">
         <command xml:space="preserve">look table</command>
         <result xml:space="preserve">This table is unnecessary large for the number of people it is currently hosting. Since it is made out of glass, you can still perfectly see the traces your sweaty fingers laid of it earlier.
-
-&gt;</result>
-        <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1121"></child>
-        </children>
-    </item>
-    <item nodeId="node-1121">
-        <command xml:space="preserve">open door</command>
-        <result xml:space="preserve">Which do you mean, the shiny door, the outstanding door, the back door, the familiar looking door or the big door?
-
-&gt;</result>
-        <commentary xml:space="preserve"></commentary>
-    </item>
-    <item nodeId="node-1122">
-        <command xml:space="preserve">look big door</command>
-        <result xml:space="preserve">it is your only way out of the room. Something tells you you should be quick to open it and get on that paper and pen hunt of yours. 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
@@ -1329,17 +1311,15 @@ You can see an entrance tunnel and a sleeping researcher here.
         </children>
     </item>
     <item nodeId="node-1123">
-        <command xml:space="preserve"></command>
-        <result xml:space="preserve">I beg your pardon?
+        <command xml:space="preserve">open door</command>
+        <result xml:space="preserve">Which do you mean, the shiny door, the outstanding door, the back door, the familiar looking door or the big door?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1124"></child>
-        </children>
     </item>
     <item nodeId="node-1124">
-        <command xml:space="preserve">open big oor</command>
-        <result xml:space="preserve">I only understood you as far as wanting to open the big door.
+        <command xml:space="preserve">look big door</command>
+        <result xml:space="preserve">it is your only way out of the room. Something tells you you should be quick to open it and get on that paper and pen hunt of yours. 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
@@ -1347,6 +1327,24 @@ You can see an entrance tunnel and a sleeping researcher here.
         </children>
     </item>
     <item nodeId="node-1125">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1126"></child>
+        </children>
+    </item>
+    <item nodeId="node-1126">
+        <command xml:space="preserve">open big oor</command>
+        <result xml:space="preserve">I only understood you as far as wanting to open the big door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1127"></child>
+        </children>
+    </item>
+    <item nodeId="node-1127">
         <command xml:space="preserve">open big door</command>
         <result xml:space="preserve">Scientific Base Camp
 The only thing you see beyond the camp's igloos is ice and extracted ice caps. You don't want to spend too much time here unless you always wanted to be a human ice cream. The igloos are scattered over a large area, but one is not far away. If you want to go inside, you'll have to crawl through the entrance tunnel.
@@ -1356,33 +1354,9 @@ You can see an entrance tunnel here.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1126">
+    <item nodeId="node-1128">
         <command xml:space="preserve">go to back door</command>
         <result xml:space="preserve">You can't see any such thing.
-
-&gt;</result>
-        <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1127"></child>
-        </children>
-    </item>
-    <item nodeId="node-1127">
-        <command xml:space="preserve">go south</command>
-        <result xml:space="preserve">
-Savannah
-Savannah today
-
-&gt;</result>
-        <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1128"></child>
-        </children>
-    </item>
-    <item nodeId="node-1128">
-        <command xml:space="preserve">go south</command>
-        <result xml:space="preserve">
-Scientific base camp
-The only thing you see beyond the camp's igloos is ice and extracted ice caps. You don't want to spend too much time here unless you always wanted to be a human ice cream. The igloos are scattered over a large area, but one is not far away. If you want to go inside, you'll have to crawl through the entrance tunnel.
-
-You can see an entrance tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
@@ -1390,12 +1364,10 @@ You can see an entrance tunnel here.
         </children>
     </item>
     <item nodeId="node-1129">
-        <command xml:space="preserve">go down</command>
+        <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
-Igloo
-You cannot see much, but on your right is a sleeping scientist.
-
-You can see an entrance tunnel here.
+Savannah
+Savannah today
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
@@ -1403,7 +1375,7 @@ You can see an entrance tunnel here.
         </children>
     </item>
     <item nodeId="node-1130">
-        <command xml:space="preserve">up</command>
+        <command xml:space="preserve">go south</command>
         <result xml:space="preserve">
 Scientific base camp
 The only thing you see beyond the camp's igloos is ice and extracted ice caps. You don't want to spend too much time here unless you always wanted to be a human ice cream. The igloos are scattered over a large area, but one is not far away. If you want to go inside, you'll have to crawl through the entrance tunnel.
@@ -1416,8 +1388,12 @@ You can see an entrance tunnel here.
         </children>
     </item>
     <item nodeId="node-1131">
-        <command xml:space="preserve">up</command>
-        <result xml:space="preserve">You can't go that way.
+        <command xml:space="preserve">go down</command>
+        <result xml:space="preserve">
+Igloo
+You cannot see much, but on your right is a sleeping scientist.
+
+You can see an entrance tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
@@ -1425,10 +1401,10 @@ You can see an entrance tunnel here.
         </children>
     </item>
     <item nodeId="node-1132">
-        <command xml:space="preserve">down</command>
+        <command xml:space="preserve">up</command>
         <result xml:space="preserve">
-Igloo
-You cannot see much, but on your right is a sleeping scientist.
+Scientific base camp
+The only thing you see beyond the camp's igloos is ice and extracted ice caps. You don't want to spend too much time here unless you always wanted to be a human ice cream. The igloos are scattered over a large area, but one is not far away. If you want to go inside, you'll have to crawl through the entrance tunnel.
 
 You can see an entrance tunnel here.
 
@@ -1438,16 +1414,21 @@ You can see an entrance tunnel here.
         </children>
     </item>
     <item nodeId="node-1133">
-        <command xml:space="preserve">x sleeping scientist</command>
-        <result xml:space="preserve">You can't see any such thing.
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1134"></child>
+        </children>
     </item>
     <item nodeId="node-1134">
-        <command xml:space="preserve"> open big door</command>
-        <result xml:space="preserve">Wuhan
-A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!
+        <command xml:space="preserve">down</command>
+        <result xml:space="preserve">
+Igloo
+You cannot see much, but on your right is a sleeping scientist.
+
+You can see an entrance tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
@@ -1455,6 +1436,23 @@ A new, deadly virus was detected for the first time here. The city center is des
         </children>
     </item>
     <item nodeId="node-1135">
+        <command xml:space="preserve">x sleeping scientist</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1136">
+        <command xml:space="preserve"> open big door</command>
+        <result xml:space="preserve">Wuhan
+A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1137"></child>
+        </children>
+    </item>
+    <item nodeId="node-1137">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">
 Mexico City
@@ -1462,10 +1460,10 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1136"></child>
+        <children><child nodeId="node-1138"></child>
         </children>
     </item>
-    <item nodeId="node-1136">
+    <item nodeId="node-1138">
         <command xml:space="preserve">east</command>
         <result xml:space="preserve">
 Scorpion World
@@ -1475,19 +1473,19 @@ The nest is swarming with "little" scorpions, as big as your head. Inside your h
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1137"></child>
+        <children><child nodeId="node-1139"></child>
         </children>
     </item>
-    <item nodeId="node-1137">
+    <item nodeId="node-1139">
         <command xml:space="preserve">x nest</command>
         <result xml:space="preserve">In the nest is a baby scorpion.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1138"></child>
+        <children><child nodeId="node-1140"></child>
         </children>
     </item>
-    <item nodeId="node-1138">
+    <item nodeId="node-1140">
         <command xml:space="preserve">attack scorpion</command>
         <result xml:space="preserve">You find nothing of interest.
 
