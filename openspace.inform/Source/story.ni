@@ -6,8 +6,11 @@ section 1 - Objets
 A key is a kind of things.
 A pen is a kind of things. 
 A paper is a kind of things.
+A gun is a kind of things.
 
-Paper rice is a kind of paper.
+A pistol is a gun.
+
+Paper rice is a paper.
 
 A Mont Blanc quill is a pen.
 A feather is a pen.
@@ -161,8 +164,7 @@ Instead of doing something other than going when the virus is in the location: s
 Futuristic Casino is a room. Futuristic Casino is east of Wuhan. The description of Futuristic Casino is "In the past, Wuhan was here.
 But now, a milion colorful and blinking neon lights iluminate the corridors, and a pathway covered in a fluffy carpet leads you to the Black Jack table. A robot serves you a sparkling drink as the crowd gathered around Black Jack table cheers.".
 
-A door is a kind of thing.
-A black jack is a door. It is south of the Futuristic Casino and north of the Yogi's Retreat. 
+A black jack is a container. A black jack contains a pistol. 
 A black jack is openable and unlocked. 
 
 Understand the command "play" as something new.
@@ -172,10 +174,11 @@ Playing is an action applying to one thing.
 Understand "play [something]" as playing.
 
 Check playing:
-	if the noun is not a door:
+	if the noun is not a black jack:
 		say "This is not something you can play with."
 		
-Report playing: say "You won!!".
+Report playing: say "You won!!";
+	move the pistol to the player.
 
 
 Chinese Workshop is a room. Chinese Workshop is west of Wuhan, south of Aztec temple and north of Maharaja's palace. The description of the  Chinese Workshop is "In the future is Wuhan.[line break]This workshop is A small and dusty room, with a little window that opens to a wide rice field. The air is tick and gloomy due to the arrival of the rain season. An old artisan wearing a straw hat and loose hemp clothes made is making rice paper at the back of the room. You slowly approach the man and, after bending towards in sign of respect, you ask him: 

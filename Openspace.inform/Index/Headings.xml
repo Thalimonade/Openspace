@@ -18,56 +18,56 @@
     </dict>
     <key>2</key><dict>
         <key>Filename</key><string>/Users/laurapippus/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>21</integer>
+        <key>Line</key><integer>24</integer>
         <key>Title</key><string>section 2 - Starting office</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>3</key><dict>
         <key>Filename</key><string>/Users/laurapippus/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>48</integer>
+        <key>Line</key><integer>51</integer>
         <key>Title</key><string>section 3 - the ending office</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>4</key><dict>
         <key>Filename</key><string>/Users/laurapippus/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>52</integer>
+        <key>Line</key><integer>55</integer>
         <key>Title</key><string>section 4 - Europe</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>5</key><dict>
         <key>Filename</key><string>/Users/laurapippus/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>130</integer>
+        <key>Line</key><integer>133</integer>
         <key>Title</key><string>section 5 - India</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>6</key><dict>
         <key>Filename</key><string>/Users/laurapippus/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>152</integer>
+        <key>Line</key><integer>155</integer>
         <key>Title</key><string>Section 6 - China</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>7</key><dict>
         <key>Filename</key><string>/Users/laurapippus/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>191</integer>
+        <key>Line</key><integer>194</integer>
         <key>Title</key><string>Section 7 - Latin America</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>8</key><dict>
         <key>Filename</key><string>/Users/laurapippus/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>238</integer>
+        <key>Line</key><integer>241</integer>
         <key>Title</key><string>Section 8 - Antarctica</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>9</key><dict>
         <key>Filename</key><string>/Users/laurapippus/Documents/GitHub/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>274</integer>
+        <key>Line</key><integer>277</integer>
         <key>Title</key><string>Section 9 - Africa</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
