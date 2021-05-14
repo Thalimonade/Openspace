@@ -17,15 +17,28 @@ A Peacock is an animal. A peacock carries feathers. The carrying capacity of the
 
 Understand "future" as east. 
 Understand "past" as west.
+<<<<<<< HEAD
 
 section 2 - Starting office
+=======
+
+section 2 - Starting office
+
+Start is a room. The printed name of the start is "The office". The description of the start is "Your boss and yourself are in the midst of stormy negotiations with new potential associates. The atmosphere is tense, so much so that you can feel sweat beads dripping down your tailored shirt as your sticky hands pound on your laptop keyboard. Your boss sits at your left while two other gentlemen sit straight across from you both. All of you have been in here, bargaining over contract terms, for quite a while now and you wrists are staring to ache as you write and erase what the others tell you to. The shadows you cast on the white office walls gently shift as the sun goes down,  you wish they had come up to an agreement by now.
+>>>>>>> 1a489593d79377ec3c0a6e9ef7485023078ed1f3
 
 Start is a room. The printed name of the start is "The office". The description of the start is "Your boss and yourself are in the midst of stormy negotiations with new potential associates. The atmosphere is tense, so much so that you can feel sweat beads dripping down your tailored shirt as your sticky hands pound on your laptop keyboard. Your boss sits at your left while two other gentlemen sit straight across from you both. All of you have been in here, bargaining over contract terms, for quite a while now and you wrists are staring to ache as you write and erase what the others tell you to. The shadows you cast on the white office walls gently shift as the sun goes down,  you wish they had come up to an agreement by now.
 Suddenly, either out of weariness or out of boldness, one of your guests leans in towards you and suggests a daring idea. You see a spark light up everybody else's as the idea sinks a little deeper in all of your minds. 
 -This is great ..! says your boss.
 - This is illegal. you respond. Completely astonished by the nature of such suggestions.  
 - You're right, this can't appear on the records. Put that computer aside and grab a piece of paper! he adds. 
+<<<<<<< HEAD
 You look around but can't seem to find any paper laying around. New ideas flood the room and you are not able the write any of them down. You painfully interrupt this flow of thoughts: 
+=======
+
+You look around but can't seem to find any paper laying around. New ideas flood the room and you are not able the write any of them down. You painfully interrupt this flow of thoughts: 
+
+>>>>>>> 1a489593d79377ec3c0a6e9ef7485023078ed1f3
 -Sir, I don't think we have any paper nor any pens. The bubbly brainstorm turns into three heavy stairs, the kind of stairs that strip you from your will to disagree. 
 - Would you be so kind as to go and fetch some for us ? asks the scarier of the two guest.
 -Yes, of course. you respond as you quickly get up. ".
@@ -58,11 +71,19 @@ The Aligator is in the Swamps.  A scaly skin is on the Aligator. The description
 The long wooden stick is in the Swamps. The description of the long wooden stick is "Looks studry."
 
 The familiar looking door is a door. It is east of the office and west of the swamps. The familiar looking door is lockable and locked. The matching key of the familiar looking door is the universal magnetic pass. "[if the player is in Swamps]A big and modern glass door. You know, that opaque kind of glass which looks very expensive.[otherwise]Going for a strawl could be exactly what you need. Suddenly, you catch yourself hoping for a paper shortage in the whole damn building or, better even, in the whole damn town. So you'd have an excuse to put some miles between you and this place.[end if]" 
+<<<<<<< HEAD
 
 Druid's tent is a room. Druid's tent is north of Alexandria's Library and south of Maharaja's palace . The description of the Druid's tent is "an old Celtic druid's tent, just like you imagined them. Drapy curtens frame passageways going north and south, they are too thick for you to see threw them. At the very back of the tent, behind all of the mess, you see a [back door]. Strangely enough, it looks like the one form your office ".
 
 The back door is a door. It is west of the office and east of the Druid's tent. The back door is lockable and locked.  "[if the player is in Druid's tent]A big and modern glass door. You know, that opaque kind of glass which looks very expensive.[otherwise]It can't be. All it is, is a realm of shiny metals and cold greatings. Your buzzing laptop the stainless glass door, the cold coffee you drink, everything you lay your eyes on is chilling.[end if]".
 
+=======
+
+Druid's tent is a room. Druid's tent is north of Alexandria's Library and south of Maharaja's palace . The description of the Druid's tent is "an old Celtic druid's tent, just like you imagined them. Drapy curtens frame passageways going north and south, they are too thick for you to see threw them. At the very back of the tent, behind all of the mess, you see a [back door]. Strangely enough, it looks like the one form your office ".
+
+The back door is a door. It is west of the office and east of the Druid's tent. The back door is lockable and locked.  "[if the player is in Druid's tent]A big and modern glass door. You know, that opaque kind of glass which looks very expensive.[otherwise]It can't be. All it is, is a realm of shiny metals and cold greatings. Your buzzing laptop the stainless glass door, the cold coffee you drink, everything you lay your eyes on is chilling.[end if]".
+
+>>>>>>> 1a489593d79377ec3c0a6e9ef7485023078ed1f3
  
 Instead of opening the back door when the player carries the empty skinny jar:
 	say " The same fuzz you felt before now runs threw your fingertips. As you touch the door nob you hear the lock pop and the big door slam open. ";
@@ -138,6 +159,12 @@ The modern glass door is a door. It is south of New Delhi and north of the offic
 Yogi's retreat is a room. Yogi's retreat is east of New Delhi. The description of the Yogi's retreat is "In the past is the city center of New Delhi. 
 The only community still standing in 20900's India. This sanctuary is filled with trees, and in the network of streams that run around, you can see huge red, orange and white carps. Yoga matresses are pretty much everywhere, and the smell of the incense is just delightful. You feel a big sense of inner peace... if you stay too long here, you might never leave.".
 
+<<<<<<< HEAD
+=======
+
+Maharaja's palace is a room. Maharaja's palace is west of New Delhi. The description of the Maharaja's palace is "In the future is the city center of New Delhi. 
+The imposing white marble palace is surrounded by the magnificent gardens of prince Abdul the second. Multiple fountains provide fresh water for the animals that reside in the gardens: birds of all colors and sizes that sing from dawn till dusk, little monkeys that jump from tree to tree and try to steal whatever you're eating, and beautiful colorful peacocks that turn around.
+>>>>>>> 1a489593d79377ec3c0a6e9ef7485023078ed1f3
 
 Maharaja's palace is a room. Maharaja's palace is west of New Delhi. The description of the Maharaja's palace is "In the future is the city center of New Delhi. 
 The imposing white marble palace is surrounded by the magnificent gardens of prince Abdul the second. Multiple fountains provide fresh water for the animals that reside in the gardens: birds of all colors and sizes that sing from dawn till dusk, little monkeys that jump from tree to tree and try to steal whatever you're eating, and beautiful colorful peacocks that turn around.
@@ -150,6 +177,7 @@ Instead of touching the peacock:
 	move the feather to the player.
 
 Section 6 - China
+<<<<<<< HEAD
 
 Wuhan is a room. Wuhan is north of New Delhi. The description of Wuhan is "In the future is a Futuristic Casino and in the past is a Chinese Workshop.[line break]A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!".
 
@@ -157,6 +185,15 @@ A virus is a thing. The virus is in Wuhan.
 
 Instead of doing something other than going when the virus is in the location: say "If you insist.[line break][line break]On the battlefield against the Corono Virus[line break]The first that were touched by the disease, were the people of Wuhan[line break]You were one of them."; end the story.
 
+=======
+
+Wuhan is a room. Wuhan is north of New Delhi. The description of Wuhan is "In the future is a Futuristic Casino and in the past is a Chinese Workshop.[line break]A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!".
+
+A virus is a thing. The virus is in Wuhan.
+
+Instead of doing something other than going when the virus is in the location: say "If you insist.[line break][line break]On the battlefield against the Corono Virus[line break]The first that were touched by the disease, were the people of Wuhan[line break]You were one of them."; end the story.
+
+>>>>>>> 1a489593d79377ec3c0a6e9ef7485023078ed1f3
 
 Futuristic Casino is a room. Futuristic Casino is east of Wuhan. The description of Futuristic Casino is "In the past is Wuhan.
 A milion colorful and blinking neon lights iluminate the corridors, and a pathway covered in a fluffy carpet leads you to the Black Jack table A robot serves you a drink as the crowd gathered around Black Jack table cheers.".
@@ -177,6 +214,11 @@ Check playing:
 		
 Report playing: say "You won!!".
 
+<<<<<<< HEAD
+=======
+
+Chinese Workshop is a room. Chinese Workshop is west of Wuhan, south of Aztec temple and north of Maharaja's palace. The description of the  Chinese Workshop is "In the future is Wuhan.[line break]This workshop is A small and dusty room, with a little window that opens to a wide rice field. The air is tick and gloomy due to the arrival of the rain season. An old artisan wearing a straw hat and loose hemp clothes made is making rice paper at the back of the room. You slowly approach the man and, after bending towards in sign of respect, you ask him: 
+>>>>>>> 1a489593d79377ec3c0a6e9ef7485023078ed1f3
 
 Chinese Workshop is a room. Chinese Workshop is west of Wuhan, south of Aztec temple and north of Maharaja's palace. The description of the  Chinese Workshop is "In the future is Wuhan.[line break]This workshop is A small and dusty room, with a little window that opens to a wide rice field. The air is tick and gloomy due to the arrival of the rain season. An old artisan wearing a straw hat and loose hemp clothes made is making rice paper at the back of the room. You slowly approach the man and, after bending towards in sign of respect, you ask him: 
 - Sir, may I borrow one of these please?
@@ -199,14 +241,26 @@ Check writing when the noun is not a pen: instead say "You cannot write down wit
 Report writing: say "now you can write it down [noun] using [noun]".
 
 Section 7 - Latin America 
+<<<<<<< HEAD
+
+Latin America is a region. 
+=======
 
 Latin America is a region. 
 
 Mexico City is a room in Latin America. Mexico City is north of Wuhan. The description of Mexico City is "In the future is Scorpion's World and in the past is an Aztec Temple.[line break]Gunshots pierce the sky as you cross the road of today's Mexico. It is getting quite dark and you don't want any trouble. You see four similarly unwellcoming alleyways each leading in different directions: south, north, east and west.".
+>>>>>>> 1a489593d79377ec3c0a6e9ef7485023078ed1f3
 
+Mexico City is a room in Latin America. Mexico City is north of Wuhan. The description of Mexico City is "In the future is Scorpion's World and in the past is an Aztec Temple.[line break]Gunshots pierce the sky as you cross the road of today's Mexico. It is getting quite dark and you don't want any trouble. You see four similarly unwellcoming alleyways each leading in different directions: south, north, east and west.".
+
+<<<<<<< HEAD
 
 Scorpion World is a room in Latin America. Scorpion World is east of Mexico City, south of Utopian City and north of futuristic casino. The description of the Scorpion World is "In the past is Mexico City.[line break]Here you step into the future of Latin America. As time passed, a lot of species went extinct. Not scorpions though, scorpions got bigger. Unfortunately, way bigger than you. The whole contient mutated into a huge conurbation of enormous scorpion nests: you are in the middle of it. In front of you is one of those scorpion nest."
 
+=======
+Scorpion World is a room in Latin America. Scorpion World is east of Mexico City, south of Utopian City and north of futuristic casino. The description of the Scorpion World is "In the past is Mexico City.[line break]Here you step into the future of Latin America. As time passed, a lot of species went extinct. Not scorpions though, scorpions got bigger. Unfortunately, way bigger than you. The whole contient mutated into a huge conurbation of enormous scorpion nests: you are in the middle of it. In front of you is one of those scorpion nest."
+
+>>>>>>> 1a489593d79377ec3c0a6e9ef7485023078ed1f3
 A nest is an openable container. It is open. It is scenery in Scorpion World. "The nest is swarming with 'little' scorpions, as big as your head. One of the baby scorpion – that you surprisingly find cute with its sharp little claws, its hairy exoskeleton and its menacing scorpion's tail dancing gently in the warm wind - comes to you, certainly interested by your delicious monkey shape. Violence is never an answer – but now that you are in front of the scorpion that keeps coming closer, saliva dripping from its lips, I would suggest you to attack it!'"
 
 A baby scorpion is a person in the nest. Understand "scorpion" as baby scorpion. The baby carries a scorpion's tail.
@@ -223,9 +277,15 @@ Instead of searching the scorpion when the scorpion carries the scorpion's tail:
 
 Aztec Temple is a room in Latin America. Aztec Temple is west of Mexico City. The description of Aztec temple is "In the future is Mexico City.[line break]
 The humming of a ritual chant bounces on the stone walls, you came right on time for the human sacrifice ! It seems like you landed in the past of Latin America and that the great Aztec civilization is at its peak."
+<<<<<<< HEAD
 
 An Aztec Statue is a enterable supporter in the Aztec Temple. The description of the Aztec Statue is "A representation of Quetzalcóatl, the snake-god. It is cubical and stable. It stands just in front of the wall, behind which is a strange place that looks like a landfill site but instead of broken washing machines and old lamps, a lot of yellow-white sticks and balls with wholes are laying there...". Understand "statue" as Aztec Statue.
 
+=======
+
+An Aztec Statue is a enterable supporter in the Aztec Temple. The description of the Aztec Statue is "A representation of Quetzalcóatl, the snake-god. It is cubical and stable. It stands just in front of the wall, behind which is a strange place that looks like a landfill site but instead of broken washing machines and old lamps, a lot of yellow-white sticks and balls with wholes are laying there...". Understand "statue" as Aztec Statue.
+
+>>>>>>> 1a489593d79377ec3c0a6e9ef7485023078ed1f3
 A wall is a thing. It is in the Aztec Temple. "A middle sized wall built in a strangely intelligent way with huge stones. It is too big for you to climb.."
 
 Ritual Waste is a room in Latin America. It is up from Aztec Temple. "This place reminds you why you dont like BBQs: mostly because of the smell... While you are wondering why you got up here, your eyes are caught by what seems to be a human collarbone. It is strangely sharp, it almost look like a pen.."

@@ -1,14 +1,15 @@
 <?xml version="1.0"?>
 
-<Skein rootNode="node-1002">
+<Skein rootNode="node-3463">
     <generator>Inform Mac Client (Inform version )</generator>
-    <item nodeId="node-1002">
+    <item nodeId="node-3463">
         <command xml:space="preserve">Openspace</command>
         <result xml:space="preserve">
 
 
 Open Space
 An Interactive Fiction by Thalie Schmidt, Laura Pippus, David Pavlik et Ludovic Rochat
+<<<<<<< HEAD
 Release 1 / Serial number 210510 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
 
 The office
@@ -355,11 +356,26 @@ Suddenly, either out of weariness or out of boldness, one of your guests leans i
 
 -This is great ..! says your boss.
 
+=======
+Release 1 / Serial number 210511 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+The office
+Your boss and yourself are in the midst of stormy negotiations with new potential associates. The atmosphere is tense, so much so that you can feel sweat beads dripping down your tailored shirt as your sticky hands pound on your laptop keyboard. Your boss sits at your left while two other gentlemen sit straight across from you both. All of you have been in here, bargaining over contract terms, for quite a while now and you wrists are staring to ache as you write and erase what the others tell you to. The shadows you cast on the white office walls gently shift as the sun goes down,  you wish they had come up to an agreement by now.
+
+Suddenly, either out of weariness or out of boldness, one of your guests leans in towards you and suggests a daring idea. You see a spark light up everybody else's as the idea sinks a little deeper in all of your minds.
+
+-This is great ..! says your boss.
+
+>>>>>>> 1a489593d79377ec3c0a6e9ef7485023078ed1f3
 - This is illegal. you respond. Completely astonished by the nature of such suggestions.
 
 - You're right, this can't appear on the records. Put that computer aside and grab a piece of paper! he adds.
 
+<<<<<<< HEAD
 You look around but can't seem to find any paper laying around. New ideas flood the room and you are not able the write any of them down. Your painfully interrupt this flow thoughts:
+=======
+You look around but can't seem to find any paper laying around. New ideas flood the room and you are not able the write any of them down. You painfully interrupt this flow of thoughts:
+>>>>>>> 1a489593d79377ec3c0a6e9ef7485023078ed1f3
 
 -Sir, I don't think we have any paper nor any pens. The bubbly brainstorm turns into three heavy stairs, the kind of stairs that strip you from your will to disagree.
 
@@ -367,6 +383,7 @@ You look around but can't seem to find any paper laying around. New ideas flood 
 
 -Yes, of course. you respond as you quickly get up. 
 
+<<<<<<< HEAD
 You can see a back door, a familiar looking door, a Leather chair and a conference table (on which are your laptop and several coffee mugs) here.
 
 &gt;</result>
@@ -1005,9 +1022,24 @@ Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn
         <result xml:space="preserve">
 New Delhi
 The city center today
+=======
+You can see a big door, a Leather chair and a conference table here.
 
-A big and modern glass door. You know, that opaque kind of glass which looks very expensive. Of course you'd know, your office has the same ones.
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3464"></child>
+        </children>
+    </item>
+    <item nodeId="node-3464">
+        <command xml:space="preserve">open big door</command>
+        <result xml:space="preserve">The shaking ground gets you out of your reveries. Is it an earthquake ? Is it a bomb ? In any case you hold on to that door knob with all your strength. Too bad, a strong wind sucks you inward before you can gasp for help.  
 
+ Well well, dear player, the dimesions heard you and sent you quite far away. As you just entered a time and space traveling journey you ought to know that taking a strall to the east fast forwards you to the futur, the west brings you back to the past. As for north and south, they will change your location, letting you roam threw different continents.  
+>>>>>>> 1a489593d79377ec3c0a6e9ef7485023078ed1f3
+
+One has to be careful with what he wishes for nowadays... Wherever you land, you better find your way back to your meeting, fast, and with the correct supplies.
+
+<<<<<<< HEAD
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
         <children><child nodeId="node-1101"></child>
@@ -1019,9 +1051,15 @@ A big and modern glass door. You know, that opaque kind of glass which looks ver
         <result xml:space="preserve">
 New Delhi
 The city center today
+=======
+Aztec temple
+In the future is Mexico City.
+ The humming of a ritual chant bounces on the stone walls, you came right on time for the human sacrifice ! It seems like you landed in the past of Latin America and that the great Aztec civilization is at its peak.
+>>>>>>> 1a489593d79377ec3c0a6e9ef7485023078ed1f3
 
-A big and modern glass door. You know, that opaque kind of glass which looks very expensive. Of course you'd know, your office has the same ones.
+A middle sized wall built in a strangely intelligent way with huge stones. It is too big for you to climb..
 
+<<<<<<< HEAD
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
         <children><child nodeId="node-1096"></child>
@@ -1040,21 +1078,45 @@ A new, deadly virus was detected for the first time here. The city center is des
     </item>
     <item nodeId="node-1097">
         <command xml:space="preserve">north</command>
+=======
+You can also see an Aztec Statue here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3471"></child>
+            <child nodeId="node-3468"></child>
+            <child nodeId="node-3465"></child>
+        </children>
+    </item>
+    <item nodeId="node-3465">
+        <command xml:space="preserve">south</command>
+>>>>>>> 1a489593d79377ec3c0a6e9ef7485023078ed1f3
         <result xml:space="preserve">
 Mexico City
+In the future is Scorpion's World and in the past is an Aztec Temple.
 Gunshots pierce the sky as you cross the road of today's Mexico. It is getting quite dark and you don't want any trouble. You see four similarly unwellcoming alleyways each leading in different directions: south, north, east and west.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
+<<<<<<< HEAD
         <children><child nodeId="node-1098"></child>
         </children>
     </item>
     <item nodeId="node-1098">
         <command xml:space="preserve">east</command>
+=======
+        <children><child nodeId="node-3466"></child>
+        </children>
+    </item>
+    <item nodeId="node-3466">
+        <command xml:space="preserve">south</command>
+>>>>>>> 1a489593d79377ec3c0a6e9ef7485023078ed1f3
         <result xml:space="preserve">
-Scorpion World
-Here you step into the future of Latin America. As time past, a lot of species went extinct. Not scorpions though, scorpions got bigger. Unfortunately, way bigger than you. The whole contient mutated into a huge nest of enormous scorpions: you are in the middle of it.
+Wuhan
+In the future is a Futuristic Casino and in the past is a Chinese Workshop.
+A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!
 
+<<<<<<< HEAD
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
         <children><child nodeId="node-1099"></child>
@@ -1103,9 +1165,25 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
         <result xml:space="preserve">
 Scorpion World
 Here you step into the future of Latin America. As time past, a lot of species went extinct. Not scorpions though, scorpions got bigger. Unfortunately, way bigger than you. The whole contient mutated into a huge conurbation of enormous scorpion nests: you are in the middle of it. In front of you is one of those scorpion nest.
+=======
+You can see a virus here.
 
-The nest is swarming with "little" scorpions, as big as your head. Inside your head precisely, alongside your fear, your pragmatic common sense tells you something like "don't you think that this baby scorpion's tail could do a marvellous pen?"
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3467"></child>
+        </children>
+    </item>
+    <item nodeId="node-3467">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">If you insist.
 
+
+
+    *** The End ***
+>>>>>>> 1a489593d79377ec3c0a6e9ef7485023078ed1f3
+
+
+<<<<<<< HEAD
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
         <children><child nodeId="node-1104"></child>
@@ -1132,18 +1210,29 @@ The nest is swarming with "little" scorpions, as big as your head. Inside your h
         <command xml:space="preserve">i</command>
         <result xml:space="preserve">You are carrying:
   a scorpion's tail
+=======
 
-&gt;</result>
+>>>>>>> 1a489593d79377ec3c0a6e9ef7485023078ed1f3
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
         <commentary xml:space="preserve"></commentary>
     </item>
+<<<<<<< HEAD
     <item nodeId="node-1107">
         <command xml:space="preserve">east</command>
+=======
+    <item nodeId="node-3468">
+        <command xml:space="preserve">past</command>
+>>>>>>> 1a489593d79377ec3c0a6e9ef7485023078ed1f3
         <result xml:space="preserve">
 Mexico City
+In the future is Scorpion's World and in the past is an Aztec Temple.
 Gunshots pierce the sky as you cross the road of today's Mexico. It is getting quite dark and you don't want any trouble. You see four similarly unwellcoming alleyways each leading in different directions: south, north, east and west.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
+<<<<<<< HEAD
         <children><child nodeId="node-1112"></child>
             <child nodeId="node-1109"></child>
             <child nodeId="node-1108"></child>
@@ -1157,13 +1246,19 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
         <commentary xml:space="preserve"></commentary>
     </item>
     <item nodeId="node-1109">
+=======
+        <children><child nodeId="node-3469"></child>
+        </children>
+    </item>
+    <item nodeId="node-3469">
+>>>>>>> 1a489593d79377ec3c0a6e9ef7485023078ed1f3
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
-Scientific Base Camp
-Present of Antarctica. The only thing you see beyond the camp's igloos is ice and extracted ice caps. You don't want to spend too much time here unless you always wanted to be a human ice cream. The igloos are scattered over a large area, but one is not far away. If you want to go inside, you'll have to crawl through the entrance tunnel.
+Wuhan
+In the future is a Futuristic Casino and in the past is a Chinese Workshop.
+A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!
 
-You can see an entrance tunnel here.
-
+<<<<<<< HEAD
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
         <children><child nodeId="node-1110"></child>
@@ -1182,12 +1277,20 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
     </item>
     <item nodeId="node-1111">
         <command xml:space="preserve">east</command>
+=======
+You can see a virus here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3470"></child>
+        </children>
+    </item>
+    <item nodeId="node-3470">
+        <command xml:space="preserve">jump</command>
+>>>>>>> 1a489593d79377ec3c0a6e9ef7485023078ed1f3
         <result xml:space="preserve">
-Scorpion World
-Here you step into the future of Latin America. As time past, a lot of species went extinct. Not scorpions though, scorpions got bigger. Unfortunately, way bigger than you. The whole contient mutated into a huge nest of enormous scorpions: you are in the middle of it.
 
-The nest is swarming with "little" scorpions. In your head, alongside your fear, your pragmatic common sense tells you something like "don't you think that this baby scorpion's could do a marvellous pen?"
-
+<<<<<<< HEAD
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
@@ -1196,9 +1299,12 @@ The nest is swarming with "little" scorpions. In your head, alongside your fear,
         <result xml:space="preserve">
 Scorpion World
 Here you step into the future of Latin America. As time past, a lot of species went extinct. Not scorpions though, scorpions got bigger. Unfortunately, way bigger than you. The whole contient mutated into a huge conurbation of enormous scorpion nests: you are in the middle of it. In front of you is one of those scorpion nest.
+=======
+    *** The End ***
+>>>>>>> 1a489593d79377ec3c0a6e9ef7485023078ed1f3
 
-The nest is swarming with "little" scorpions, as big as your head. Inside your head precisely, alongside your fear, your pragmatic common sense tells you something like "don't you think that this baby scorpion's tail could do a marvellous pen?"
 
+<<<<<<< HEAD
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
         <children><child nodeId="node-1113"></child>
@@ -1216,20 +1322,32 @@ The nest is swarming with "little" scorpions, as big as your head. Inside your h
     <item nodeId="node-1114">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">You can't go that way.
+=======
 
-&gt;</result>
+>>>>>>> 1a489593d79377ec3c0a6e9ef7485023078ed1f3
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
         <commentary xml:space="preserve"></commentary>
+<<<<<<< HEAD
         <children><child nodeId="node-1115"></child>
         </children>
     </item>
     <item nodeId="node-1115">
         <command xml:space="preserve">west</command>
+=======
+    </item>
+    <item nodeId="node-3471">
+        <command xml:space="preserve">future</command>
+>>>>>>> 1a489593d79377ec3c0a6e9ef7485023078ed1f3
         <result xml:space="preserve">
 Mexico City
+In the future is Scorpion's World and in the past is an Aztec Temple.
 Gunshots pierce the sky as you cross the road of today's Mexico. It is getting quite dark and you don't want any trouble. You see four similarly unwellcoming alleyways each leading in different directions: south, north, east and west.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
+<<<<<<< HEAD
         <children><child nodeId="node-1116"></child>
         </children>
     </item>
@@ -1402,12 +1520,19 @@ You can see an entrance tunnel here.
     </item>
     <item nodeId="node-1132">
         <command xml:space="preserve">up</command>
+=======
+        <children><child nodeId="node-3472"></child>
+        </children>
+    </item>
+    <item nodeId="node-3472">
+        <command xml:space="preserve">south</command>
+>>>>>>> 1a489593d79377ec3c0a6e9ef7485023078ed1f3
         <result xml:space="preserve">
-Scientific base camp
-The only thing you see beyond the camp's igloos is ice and extracted ice caps. You don't want to spend too much time here unless you always wanted to be a human ice cream. The igloos are scattered over a large area, but one is not far away. If you want to go inside, you'll have to crawl through the entrance tunnel.
+Wuhan
+In the future is a Futuristic Casino and in the past is a Chinese Workshop.
+A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!
 
-You can see an entrance tunnel here.
-
+<<<<<<< HEAD
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
         <children><child nodeId="node-1133"></child>
@@ -1424,14 +1549,27 @@ You can see an entrance tunnel here.
     </item>
     <item nodeId="node-1134">
         <command xml:space="preserve">down</command>
-        <result xml:space="preserve">
-Igloo
-You cannot see much, but on your right is a sleeping scientist.
-
-You can see an entrance tunnel here.
+=======
+You can see a virus here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3474"></child>
+            <child nodeId="node-3473"></child>
+        </children>
+    </item>
+    <item nodeId="node-3473">
+        <command xml:space="preserve">south</command>
+>>>>>>> 1a489593d79377ec3c0a6e9ef7485023078ed1f3
+        <result xml:space="preserve">
+New Delhi
+In the future is Yogi's retreat and in the past is Maharaja's palace. You are now in the city center of New Dehli nowadays: your senses are flooded with all kinds of informations. The smells of a thousand spices assault your nostrils from a street market on your right hand and their colors fill up your soul like flowers in the spring, birds are singing and market sellers seems to be answering them prices of their marchandises; the whole thing is wrapped up in a whirlwind of scooters and tuktuk, adding a deeply human touch to the frenzy of the moment.
+
+Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn't seem to belong here: a modern glass door. You know, that opaque kind of glass which looks very expensive. Of course you'd know, your office has the same ones.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+<<<<<<< HEAD
         <children><child nodeId="node-1135"></child>
         </children>
     </item>
@@ -1468,9 +1606,22 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
         <result xml:space="preserve">
 Scorpion World
 Here you step into the future of Latin America. As time past, a lot of species went extinct. Not scorpions though, scorpions got bigger. Unfortunately, way bigger than you. The whole contient mutated into a huge conurbation of enormous scorpion nests: you are in the middle of it. In front of you is one of those scorpion nest.
+=======
+    </item>
+    <item nodeId="node-3474">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">If you insist.
+On the battlefield against the Corono Virus
+The first that were touched by the disease, were the people of Wuhan
+You were one of them.
 
-The nest is swarming with "little" scorpions, as big as your head. Inside your head precisely, alongside your fear, your pragmatic common sense tells you something like "don't you think that this baby scorpion's tail could do a marvellous pen?"
 
+
+    *** The End ***
+>>>>>>> 1a489593d79377ec3c0a6e9ef7485023078ed1f3
+
+
+<<<<<<< HEAD
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
         <children><child nodeId="node-1139"></child>
@@ -1488,8 +1639,12 @@ The nest is swarming with "little" scorpions, as big as your head. Inside your h
     <item nodeId="node-1140">
         <command xml:space="preserve">attack scorpion</command>
         <result xml:space="preserve">You find nothing of interest.
+=======
 
-&gt;</result>
+>>>>>>> 1a489593d79377ec3c0a6e9ef7485023078ed1f3
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
         <commentary xml:space="preserve"></commentary>
     </item>
 </Skein>
