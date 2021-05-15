@@ -49,7 +49,7 @@ Understand "office" as start.
 
 section 3 - the ending office 
 
-The office is a room. The player can enter the office only if he carries a pen and a paper. 
+The office is a room. 
 
 section 4 - Europe
 
@@ -184,6 +184,10 @@ The pistol unlocks the modern glass door.
 The pistol unlocks the back door.
 The pistol unlocks the big door.
 
+Instead of unlocking the door with the pistol: 
+	say "Pfffffff BOOM!! The bullet destroys the door, and now you can go back to the office";
+	move the player to the office.
+	
 Chinese Workshop is a room. Chinese Workshop is west of Wuhan, south of Aztec temple and north of Maharaja's palace. The description of the  Chinese Workshop is "In the future is Wuhan.[line break]This workshop is A small and dusty room, with a little window that opens to a wide rice field. The air is tick and gloomy due to the arrival of the rain season. An old artisan wearing a straw hat and loose hemp clothes made is making rice paper at the back of the room. You slowly approach the man and, after bending towards in sign of respect, you ask him: 
 - Sir, may I borrow one of these please?
 - Yes, of course, go ahead.".
