@@ -1,3 +1,4 @@
+
 "Open Space" by Thalie Schmidt, Laura Pippus, David Pavlik et Ludovic Rochat.
 
 section 1 - Objets
@@ -6,7 +7,9 @@ A key is a kind of things.
 A pen is a kind of things. 
 A paper is a kind of things.
 
-Paper rice is a kind of paper.
+A pistol is a key. 
+
+Paper rice is a paper.
 
 A Mont Blanc quill is a pen.
 A feather is a pen.
@@ -20,21 +23,13 @@ Understand "past" as west.
 section 2 - Starting office
 
 Start is a room. The printed name of the start is "The office". The description of the start is "Your boss and yourself are in the midst of stormy negotiations with new potential associates. The atmosphere is tense, so much so that you can feel sweat beads dripping down your tailored shirt as your sticky hands pound on your laptop keyboard. Your boss sits at your left while two other gentlemen sit straight across from you both. All of you have been in here, bargaining over contract terms, for quite a while now and you wrists are staring to ache as you write and erase what the others tell you to. The shadows you cast on the white office walls gently shift as the sun goes down,  you wish they had come up to an agreement by now.
-
 Suddenly, either out of weariness or out of boldness, one of your guests leans in towards you and suggests a daring idea. You see a spark light up everybody else's as the idea sinks a little deeper in all of your minds. 
-
 -This is great ..! says your boss.
-
 - This is illegal. you respond. Completely astonished by the nature of such suggestions.  
-
 - You're right, this can't appear on the records. Put that computer aside and grab a piece of paper! he adds. 
-
 You look around but can't seem to find any paper laying around. New ideas flood the room and you are not able the write any of them down. You painfully interrupt this flow of thoughts: 
-
 -Sir, I don't think we have any paper nor any pens. The bubbly brainstorm turns into three heavy stairs, the kind of stairs that strip you from your will to disagree. 
-
 - Would you be so kind as to go and fetch some for us ? asks the scarier of the two guest.
-
 -Yes, of course. you respond as you quickly get up. ".
 
 The big door is a thing in the start. The description of the big door is "it is your only way out of the room. Something tells you you should be quick to open it and get on that paper and pen hunt of yours. "
@@ -54,7 +49,7 @@ Understand "office" as start.
 
 section 3 - the ending office 
 
-The office is a room.  
+The office is a room. 
 
 section 4 - Europe
 
@@ -143,12 +138,11 @@ The modern glass door is a door. It is south of New Delhi and north of the offic
 
 
 Yogi's retreat is a room. Yogi's retreat is east of New Delhi. The description of the Yogi's retreat is "In the past is the city center of New Delhi. 
-The only community still standing in 20900's India. This sanctuary is filled with trees, and in the network of streams that run around, you can see huge red, orange and white carps. Yoga matresses are pretty much everywhere, and the smell of the incense is just delightful. You feel a big sense of inner peace... if you stay too long here, you might never leave.".
+Now, it is the only community still standing in 20900's India. This sanctuary is filled with trees, and in the network of streams that run around, you can see huge red, orange and white carps. Yoga matresses are pretty much everywhere, and the smell of the incense is just delightful. You feel a big sense of inner peace... if you stay too long here, you might never leave.".
 
 
 Maharaja's palace is a room. Maharaja's palace is west of New Delhi. The description of the Maharaja's palace is "In the future is the city center of New Delhi. 
 The imposing white marble palace is surrounded by the magnificent gardens of prince Abdul the second. Multiple fountains provide fresh water for the animals that reside in the gardens: birds of all colors and sizes that sing from dawn till dusk, little monkeys that jump from tree to tree and try to steal whatever you're eating, and beautiful colorful peacocks that turn around.
-
 Looking one of the peacocks, you think to yourself: I bet I could use one of its feathers as a pen..."
 
 A Peacock is in the Maharaja’s palace.
@@ -166,12 +160,12 @@ A virus is a thing. The virus is in Wuhan.
 Instead of doing something other than going when the virus is in the location: say "If you insist.[line break][line break]On the battlefield against the Corono Virus[line break]The first that were touched by the disease, were the people of Wuhan[line break]You were one of them."; end the story.
 
 
-Futuristic Casino is a room. Futuristic Casino is east of Wuhan. The description of Futuristic Casino is "In the past is Wuhan.
-A milion colorful and blinking neon lights iluminate the corridors, and a pathway covered in a fluffy carpet leads you to the Black Jack table A robot serves you a drink as the crowd gathered around Black Jack table cheers.".
+Futuristic Casino is a room. Futuristic Casino is east of Wuhan. The description of Futuristic Casino is "In the past, Wuhan was here.
+But now, a milion colorful and blinking neon lights iluminate the corridors, and a pathway covered in a fluffy carpet leads you to the Black Jack table. A robot serves you a sparkling drink as the crowd gathered around Black Jack table cheers. You overhear a conversation and it seems like the winner gets a pistol, which could be very useful in opening doors... Since you are here, you might want to try your luck playing the Black Jack. ".
 
-A door is a kind of thing.
-A black jack is a door. It is south of the Futuristic Casino and north of the Yogi's Retreat. 
-A black jack is openable and unlocked. 
+A Black Jack table is a thing. 
+A Black Jack table contains a pistol.  
+A Black Jack table is in the Futuristic Casino. 
 
 Understand the command "play" as something new.
 
@@ -180,33 +174,32 @@ Playing is an action applying to one thing.
 Understand "play [something]" as playing.
 
 Check playing:
-	if the noun is not a door:
+	if the noun is not a Black Jack table:
 		say "This is not something you can play with."
 		
-Report playing: say "You won!!".
+Report playing: say "You won the pistol!";
+	move the pistol to the player.
+	
+The pistol unlocks the modern glass door.
+The pistol unlocks the back door.
+The pistol unlocks the big door.
 
-
+Instead of unlocking the door with the pistol: 
+	say "Pfffffff BOOM!! The bullet destroys the door, and now you can go back to the office.";
+	move the player to the office;
+		say "[If the player carries a pen]You got the pen, but where are the people supposed to sign on?[otherwise]Shouldn't you bring back a pen?[end if]";
+		say "[If the player carries a paper]You got the paper, but with what are the people supposed to sign with?[otherwise]Shouldn't you bring back a paper?[end if]".
+	
 Chinese Workshop is a room. Chinese Workshop is west of Wuhan, south of Aztec temple and north of Maharaja's palace. The description of the  Chinese Workshop is "In the future is Wuhan.[line break]This workshop is A small and dusty room, with a little window that opens to a wide rice field. The air is tick and gloomy due to the arrival of the rain season. An old artisan wearing a straw hat and loose hemp clothes made is making rice paper at the back of the room. You slowly approach the man and, after bending towards in sign of respect, you ask him: 
-
-- Sir, may I borrow one of these please?
-
+- Sir, may I borrow one of these papers please?
 - Yes, of course, go ahead.".
 
 The artisan is a person. He carries a rice paper. 
+The artisan is in the Chinese Workshop. 
 
 Instead of taking the paper:
-	say "You thank the old man for the paper, and now you have something to write on!";
+	say "You thank the old man for the paper and[if the player carries a pen] you start to try to find your way back to the office.[otherwise] now you go look for the pen in order to go back to the office.[end if]";
 	move the rice paper to the player. 
-
-Understand the command "write" as something new.
-
-Writing is an action applying to two carried things. 
-
-Understand "write down on the [paper] using the [pen]" as writing.
-
-Check writing when the noun is not a pen: instead say "You cannot write down with this [noun]."
-
-Report writing: say "now you can write it down [noun] using [noun]".
 
 Section 7 - Latin America 
 
@@ -334,13 +327,3 @@ Spinning it to is an action applying to one thing and one number. Check spinning
 After spinning the Astrolabe to 1717: now the Chest is unlocked; say "The Astrolabe produces a symphony of mysterious creaking noises." 
 
 Understand "spin [something] to [a number]" as spinning it to.
-
-
-
-
-
-
-
-
-
-
