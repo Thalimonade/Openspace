@@ -6,9 +6,8 @@ section 1 - Objets
 A key is a kind of things.
 A pen is a kind of things. 
 A paper is a kind of things.
-A gun is a kind of things.
 
-A pistol is a gun.
+A pistol is a key. 
 
 Paper rice is a paper.
 
@@ -177,7 +176,7 @@ Check playing:
 	if the noun is not a black jack:
 		say "This is not something you can play with."
 		
-Report playing: say "You won!!";
+Report playing: say "You won the pistol!";
 	move the pistol to the player.
 
 
