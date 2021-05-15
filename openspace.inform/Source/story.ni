@@ -181,7 +181,6 @@ Report playing: say "You won the pistol!";
 	move the pistol to the player.
 	
 The pistol unlocks the modern glass door.
-The pistol unlocks the familiar door.
 The pistol unlocks the back door.
 The pistol unlocks the big door.
 
