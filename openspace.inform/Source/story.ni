@@ -180,7 +180,10 @@ Check playing:
 Report playing: say "You won the pistol!";
 	move the pistol to the player.
 	
-The pistol unlocks the doors of the office.
+The pistol unlocks the modern glass door.
+The pistol unlocks the familiar door.
+The pistol unlocks the back door.
+The pistol unlocks the big door.
 
 Chinese Workshop is a room. Chinese Workshop is west of Wuhan, south of Aztec temple and north of Maharaja's palace. The description of the  Chinese Workshop is "In the future is Wuhan.[line break]This workshop is A small and dusty room, with a little window that opens to a wide rice field. The air is tick and gloomy due to the arrival of the rain season. An old artisan wearing a straw hat and loose hemp clothes made is making rice paper at the back of the room. You slowly approach the man and, after bending towards in sign of respect, you ask him: 
 - Sir, may I borrow one of these please?
