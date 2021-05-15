@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 
-<Skein rootNode="node-1434">
+<Skein rootNode="node-1535">
     <generator>Inform Mac Client (Inform version )</generator>
-    <item nodeId="node-1434">
+    <item nodeId="node-1535">
         <command xml:space="preserve">Openspace</command>
         <result xml:space="preserve">
 
@@ -18,130 +18,10 @@ You can see a big door, a Leather chair and a conference table here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1435"></child>
+        <children><child nodeId="node-1536"></child>
         </children>
     </item>
-    <item nodeId="node-1435">
-        <command xml:space="preserve">open door</command>
-        <result xml:space="preserve">The shaking ground gets you out of your reveries. Is it an earthquake ? Is it a bomb ? In any case you hold on to that door knob with all your strength. Too bad, a strong wind sucks you inward before you can gasp for help.  
-
- Well well, dear player, the dimesions heard you and sent you quite far away. As you just entered a time and space traveling journey you ought to know that taking a strall to the east fast forwards you to the futur, the west brings you back to the past. As for north and south, they will change your location, letting you roam threw different continents.  
-
-One has to be careful with what he wishes for nowadays... Wherever you land, you better find your way back to your meeting, fast, and with the correct supplies.
-
-Scientific Base Camp
-Present of Antarctica. The only thing you see beyond the camp's igloos is ice and extracted ice caps. You don't want to spend too much time here unless you always wanted to be a human ice cream. The igloos are scattered over a large area, but one is not far away. If you want to go inside, you'll have to crawl through the tunnel.
-
-You can see a tunnel here.
-
-&gt;</result>
-        <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1438"></child>
-            <child nodeId="node-1436"></child>
-        </children>
-    </item>
-    <item nodeId="node-1436">
-        <command xml:space="preserve">undo</command>
-        <result xml:space="preserve">The office
-[Previous turn undone.]
-
-&gt;</result>
-        <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1437"></child>
-        </children>
-    </item>
-    <item nodeId="node-1437">
-        <command xml:space="preserve">open door</command>
-        <result xml:space="preserve">The shaking ground gets you out of your reveries. Is it an earthquake ? Is it a bomb ? In any case you hold on to that door knob with all your strength. Too bad, a strong wind sucks you inward before you can gasp for help.  
-
- Well well, dear player, the dimesions heard you and sent you quite far away. As you just entered a time and space traveling journey you ought to know that taking a strall to the east fast forwards you to the futur, the west brings you back to the past. As for north and south, they will change your location, letting you roam threw different continents.  
-
-One has to be careful with what he wishes for nowadays... Wherever you land, you better find your way back to your meeting, fast, and with the correct supplies.
-
-Scientific Base Camp
-Present of Antarctica. The only thing you see beyond the camp's igloos is ice and extracted ice caps. You don't want to spend too much time here unless you always wanted to be a human ice cream. The igloos are scattered over a large area, but one is not far away. If you want to go inside, you'll have to crawl through the tunnel.
-
-You can see a tunnel here.
-
-&gt;</result>
-        <commentary xml:space="preserve"></commentary>
-    </item>
-    <item nodeId="node-1438">
-        <command xml:space="preserve">s</command>
-        <result xml:space="preserve">
-Mexico City
-In the future is Scorpion's World and in the past is an Aztec Temple.
-Gunshots pierce the sky as you cross the road of today's Mexico. It is getting quite dark and you don't want any trouble. You see four similarly unwellcoming alleyways each leading in different directions: south, north, east and west.
-
-&gt;</result>
-        <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1472"></child>
-            <child nodeId="node-1515"></child>
-            <child nodeId="node-1452"></child>
-            <child nodeId="node-1439"></child>
-        </children>
-    </item>
-    <item nodeId="node-1439">
-        <command xml:space="preserve">w</command>
-        <result xml:space="preserve">Please give one of the answers above.
-
-Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
-&gt; </result>
-        <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1440"></child>
-        </children>
-    </item>
-    <item nodeId="node-1440">
-        <command xml:space="preserve">e</command>
-        <result xml:space="preserve">Please give one of the answers above.
-
-Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
-&gt; </result>
-        <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1441"></child>
-        </children>
-    </item>
-    <item nodeId="node-1441">
-        <command xml:space="preserve">e</command>
-        <result xml:space="preserve">Please give one of the answers above.
-
-Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
-&gt; </result>
-        <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1442"></child>
-        </children>
-    </item>
-    <item nodeId="node-1442">
-        <command xml:space="preserve">black jack</command>
-        <result xml:space="preserve">Please give one of the answers above.
-
-Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
-&gt; </result>
-        <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1443"></child>
-        </children>
-    </item>
-    <item nodeId="node-1443">
-        <command xml:space="preserve">x black jack</command>
-        <result xml:space="preserve">Please give one of the answers above.
-
-Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
-&gt; </result>
-        <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1444"></child>
-        </children>
-    </item>
-    <item nodeId="node-1444">
-        <command xml:space="preserve">undo</command>
-        <result xml:space="preserve">The office
-[Previous turn undone.]
-
-&gt;</result>
-        <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1445"></child>
-        </children>
-    </item>
-    <item nodeId="node-1445">
+    <item nodeId="node-1536">
         <command xml:space="preserve">open door</command>
         <result xml:space="preserve">The shaking ground gets you out of your reveries. Is it an earthquake ? Is it a bomb ? In any case you hold on to that door knob with all your strength. Too bad, a strong wind sucks you inward before you can gasp for help.  
 
@@ -159,34 +39,52 @@ You can also see an Aztec Statue here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1446"></child>
+        <children><child nodeId="node-1539"></child>
+            <child nodeId="node-1537"></child>
         </children>
     </item>
-    <item nodeId="node-1446">
+    <item nodeId="node-1537">
+        <command xml:space="preserve">undo</command>
+        <result xml:space="preserve">The office
+[Previous turn undone.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1538"></child>
+        </children>
+    </item>
+    <item nodeId="node-1538">
+        <command xml:space="preserve">open door</command>
+        <result xml:space="preserve">The shaking ground gets you out of your reveries. Is it an earthquake ? Is it a bomb ? In any case you hold on to that door knob with all your strength. Too bad, a strong wind sucks you inward before you can gasp for help.  
+
+ Well well, dear player, the dimesions heard you and sent you quite far away. As you just entered a time and space traveling journey you ought to know that taking a strall to the east fast forwards you to the futur, the west brings you back to the past. As for north and south, they will change your location, letting you roam threw different continents.  
+
+One has to be careful with what he wishes for nowadays... Wherever you land, you better find your way back to your meeting, fast, and with the correct supplies.
+
+Scientific Base Camp
+Present of Antarctica. The only thing you see beyond the camp's igloos is ice and extracted ice caps. You don't want to spend too much time here unless you always wanted to be a human ice cream. The igloos are scattered over a large area, but one is not far away. If you want to go inside, you'll have to crawl through the tunnel.
+
+You can see a tunnel here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1612"></child>
+        </children>
+    </item>
+    <item nodeId="node-1612">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">
-Chinese Workshop
-In the future is Wuhan.
-This workshop is A small and dusty room, with a little window that opens to a wide rice field. The air is tick and gloomy due to the arrival of the rain season. An old artisan wearing a straw hat and loose hemp clothes made is making rice paper at the back of the room. You slowly approach the man and, after bending towards in sign of respect, you ask him: - Sir, may I borrow one of these please? - Yes, of course, go ahead.
-
-You can see an artisan here.
+Mexico City
+In the future is Scorpion's World and in the past is an Aztec Temple.
+Gunshots pierce the sky as you cross the road of today's Mexico. It is getting quite dark and you don't want any trouble. You see four similarly unwellcoming alleyways each leading in different directions: south, north, east and west.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1447"></child>
+        <children><child nodeId="node-1613"></child>
         </children>
     </item>
-    <item nodeId="node-1447">
-        <command xml:space="preserve">w</command>
-        <result xml:space="preserve">You can't go that way.
-
-&gt;</result>
-        <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1448"></child>
-        </children>
-    </item>
-    <item nodeId="node-1448">
-        <command xml:space="preserve">e</command>
+    <item nodeId="node-1613">
+        <command xml:space="preserve">s</command>
         <result xml:space="preserve">
 Wuhan
 In the future is a Futuristic Casino and in the past is a Chinese Workshop.
@@ -196,40 +94,42 @@ You can see a virus here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1449"></child>
+        <children><child nodeId="node-1614"></child>
         </children>
     </item>
-    <item nodeId="node-1449">
+    <item nodeId="node-1614">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">
 Futuristic Casino
-In the past, Wuhan was here. But now, a milion colorful and blinking neon lights iluminate the corridors, and a pathway covered in a fluffy carpet leads you to the Black Jack table. A robot serves you a sparkling drink as the crowd gathered around Black Jack table cheers.
+In the past, Wuhan was here. But now, a milion colorful and blinking neon lights iluminate the corridors, and a pathway covered in a fluffy carpet leads you to the Black Jack table. A robot serves you a sparkling drink as the crowd gathered around Black Jack table cheers. You overhear a conversation and it seems like the winner gets a pistol, which could be very useful in opening doors... Since you are here, you might want to try your luck playing the Black Jack. 
 
-You can see a Black Jack (in which is a hidden pistol) here.
+You can see a Black Jack table (in which is a pistol) here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1450"></child>
+        <children><child nodeId="node-1615"></child>
         </children>
     </item>
-    <item nodeId="node-1450">
+    <item nodeId="node-1615">
         <command xml:space="preserve">play black jack</command>
         <result xml:space="preserve">You won the pistol!
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1451"></child>
+        <children><child nodeId="node-1616"></child>
         </children>
     </item>
-    <item nodeId="node-1451">
-        <command xml:space="preserve">x black jack</command>
-        <result xml:space="preserve">In the Black Jack is a hidden pistol.
+    <item nodeId="node-1616">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1617"></child>
+        </children>
     </item>
-    <item nodeId="node-1452">
-        <command xml:space="preserve">s</command>
+    <item nodeId="node-1617">
+        <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 Wuhan
 In the future is a Futuristic Casino and in the past is a Chinese Workshop.
@@ -239,11 +139,130 @@ You can see a virus here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1466"></child>
-            <child nodeId="node-1453"></child>
+        <children><child nodeId="node-1618"></child>
         </children>
     </item>
-    <item nodeId="node-1453">
+    <item nodeId="node-1618">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+New Delhi
+In the future is Yogi's retreat and in the past is Maharaja's palace. You are now in the city center of New Dehli nowadays: your senses are flooded with all kinds of informations. The smells of a thousand spices assault your nostrils from a street market on your right hand and their colors fill up your soul like flowers in the spring, birds are singing and market sellers seems to be answering them prices of their marchandises; the whole thing is wrapped up in a whirlwind of scooters and tuktuk, adding a deeply human touch to the frenzy of the moment.
+
+Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn't seem to belong here: a modern glass door. You know, that opaque kind of glass which looks very expensive. Of course you'd know, your office has the same ones.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1619"></child>
+        </children>
+    </item>
+    <item nodeId="node-1619">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">(first opening the modern glass door)
+It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1620"></child>
+        </children>
+    </item>
+    <item nodeId="node-1620">
+        <command xml:space="preserve">unlock door</command>
+        <result xml:space="preserve">(with the pistol)
+Pfffffff BOOM!! The bullet destroys the door, and now you can go back to the office.
+
+office
+- No paper, no pens, is this really it? The office of the future?
+
+Now out of your Leather chair, you take a last look at the conference table. You think to yourself:
+
+It can't be. All it is, is a realm of shiny metals and cold greatings. Your buzzing laptop the stainless glass door, the cold coffee you drink, everything you lay your eyes on is chilling.
+
+Going for a strawl could be exactly what you need. Suddenly, you catch yourself hoping for a paper shortage in the whole damn building or, better even, in the whole damn town. So you'd have an excuse to put some miles between you and this place.
+
+Shouldn't you bring back a pen?
+Shouldn't you bring back a paper?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1539">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Chinese Workshop
+In the future is Wuhan.
+This workshop is A small and dusty room, with a little window that opens to a wide rice field. The air is tick and gloomy due to the arrival of the rain season. An old artisan wearing a straw hat and loose hemp clothes made is making rice paper at the back of the room. You slowly approach the man and, after bending towards in sign of respect, you ask him: - Sir, may I borrow one of these papers please? - Yes, of course, go ahead.
+
+You can see an artisan here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1592"></child>
+            <child nodeId="node-1586"></child>
+            <child nodeId="node-1553"></child>
+            <child nodeId="node-1540"></child>
+        </children>
+    </item>
+    <item nodeId="node-1540">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1541"></child>
+        </children>
+    </item>
+    <item nodeId="node-1541">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Wuhan
+In the future is a Futuristic Casino and in the past is a Chinese Workshop.
+A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!
+
+You can see a virus here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1542"></child>
+        </children>
+    </item>
+    <item nodeId="node-1542">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Futuristic Casino
+In the past, Wuhan was here. But now, a milion colorful and blinking neon lights iluminate the corridors, and a pathway covered in a fluffy carpet leads you to the Black Jack table. A robot serves you a sparkling drink as the crowd gathered around Black Jack table cheers. You overhear a conversation and it seems like the winner gets a pistol, which could be very useful in opening doors... Since you are here, you might want to try your luck playing the Black Jack. 
+
+You can see a Black Jack table (in which is a pistol) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1543"></child>
+            <child nodeId="node-1626"></child>
+        </children>
+    </item>
+    <item nodeId="node-1626">
+        <command xml:space="preserve">play black jack</command>
+        <result xml:space="preserve">You won the pistol!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1627"></child>
+        </children>
+    </item>
+    <item nodeId="node-1627">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Wuhan
+In the future is a Futuristic Casino and in the past is a Chinese Workshop.
+A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!
+
+You can see a virus here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1628"></child>
+        </children>
+    </item>
+    <item nodeId="node-1628">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 Chinese Workshop
@@ -254,48 +273,19 @@ You can see an artisan here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1454"></child>
-            <child nodeId="node-1481"></child>
+        <children><child nodeId="node-1629"></child>
         </children>
     </item>
-    <item nodeId="node-1481">
-        <command xml:space="preserve">s</command>
-        <result xml:space="preserve">
-New Delhi
-In the future is Yogi's retreat and in the past is Maharaja's palace. You are now in the city center of New Dehli nowadays: your senses are flooded with all kinds of informations. The smells of a thousand spices assault your nostrils from a street market on your right hand and their colors fill up your soul like flowers in the spring, birds are singing and market sellers seems to be answering them prices of their marchandises; the whole thing is wrapped up in a whirlwind of scooters and tuktuk, adding a deeply human touch to the frenzy of the moment.
-
-Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn't seem to belong here: a modern glass door. You know, that opaque kind of glass which looks very expensive. Of course you'd know, your office has the same ones.
+    <item nodeId="node-1629">
+        <command xml:space="preserve">take paper</command>
+        <result xml:space="preserve">You thank the old man for the paper and now you go look for the pen in order to go back to the office.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1482"></child>
+        <children><child nodeId="node-1630"></child>
         </children>
     </item>
-    <item nodeId="node-1482">
-        <command xml:space="preserve">s</command>
-        <result xml:space="preserve">(first opening the modern glass door)
- Wouldn't it be better to go back with everything your boss has asked for? You still don't have a pen
-&gt;</result>
-        <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1483"></child>
-        </children>
-    </item>
-    <item nodeId="node-1483">
-        <command xml:space="preserve">s</command>
-        <result xml:space="preserve">(first opening the modern glass door)
- Wouldn't it be better to go back with everything your boss has asked for? You still don't have a pen
-&gt;</result>
-        <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1484"></child>
-        </children>
-    </item>
-    <item nodeId="node-1484">
-        <command xml:space="preserve">open the door</command>
-        <result xml:space="preserve"> Wouldn't it be better to go back with everything your boss has asked for? You still don't have a pen
-&gt;</result>
-        <commentary xml:space="preserve"></commentary>
-    </item>
-    <item nodeId="node-1454">
+    <item nodeId="node-1630">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">
 Wuhan
@@ -306,21 +296,290 @@ You can see a virus here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1505"></child>
-            <child nodeId="node-1455"></child>
+        <children><child nodeId="node-1631"></child>
         </children>
     </item>
-    <item nodeId="node-1455">
+    <item nodeId="node-1631">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+New Delhi
+In the future is Yogi's retreat and in the past is Maharaja's palace. You are now in the city center of New Dehli nowadays: your senses are flooded with all kinds of informations. The smells of a thousand spices assault your nostrils from a street market on your right hand and their colors fill up your soul like flowers in the spring, birds are singing and market sellers seems to be answering them prices of their marchandises; the whole thing is wrapped up in a whirlwind of scooters and tuktuk, adding a deeply human touch to the frenzy of the moment.
+
+Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn't seem to belong here: a modern glass door. You know, that opaque kind of glass which looks very expensive. Of course you'd know, your office has the same ones.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1632"></child>
+        </children>
+    </item>
+    <item nodeId="node-1632">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">(first opening the modern glass door)
 It seems to be locked.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1456"></child>
+        <children><child nodeId="node-1633"></child>
         </children>
     </item>
-    <item nodeId="node-1456">
+    <item nodeId="node-1633">
+        <command xml:space="preserve">unlock door</command>
+        <result xml:space="preserve">What do you want to unlock the modern glass door with?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1634"></child>
+        </children>
+    </item>
+    <item nodeId="node-1634">
+        <command xml:space="preserve">with the pistol</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1635"></child>
+        </children>
+    </item>
+    <item nodeId="node-1635">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  Paper rice
+  a pistol
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1636"></child>
+        </children>
+    </item>
+    <item nodeId="node-1636">
+        <command xml:space="preserve">unlock door with pistol</command>
+        <result xml:space="preserve">Pfffffff BOOM!! The bullet destroys the door, and now you can go back to the office.
+
+office
+- No paper, no pens, is this really it? The office of the future?
+
+Now out of your Leather chair, you take a last look at the conference table. You think to yourself:
+
+It can't be. All it is, is a realm of shiny metals and cold greatings. Your buzzing laptop the stainless glass door, the cold coffee you drink, everything you lay your eyes on is chilling.
+
+Going for a strawl could be exactly what you need. Suddenly, you catch yourself hoping for a paper shortage in the whole damn building or, better even, in the whole damn town. So you'd have an excuse to put some miles between you and this place.
+
+Shouldn't you bring back a pen?
+You got the paper, but with what are the people supposed to sign with?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1543">
+        <command xml:space="preserve">black jack</command>
+        <result xml:space="preserve">Please give one of the answers above.
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1544"></child>
+        </children>
+    </item>
+    <item nodeId="node-1544">
+        <command xml:space="preserve">x black jack</command>
+        <result xml:space="preserve">Please give one of the answers above.
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1545"></child>
+        </children>
+    </item>
+    <item nodeId="node-1545">
+        <command xml:space="preserve">undo</command>
+        <result xml:space="preserve">The office
+[Previous turn undone.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1546"></child>
+        </children>
+    </item>
+    <item nodeId="node-1546">
+        <command xml:space="preserve">open door</command>
+        <result xml:space="preserve">The shaking ground gets you out of your reveries. Is it an earthquake ? Is it a bomb ? In any case you hold on to that door knob with all your strength. Too bad, a strong wind sucks you inward before you can gasp for help.  
+
+ Well well, dear player, the dimesions heard you and sent you quite far away. As you just entered a time and space traveling journey you ought to know that taking a strall to the east fast forwards you to the futur, the west brings you back to the past. As for north and south, they will change your location, letting you roam threw different continents.  
+
+One has to be careful with what he wishes for nowadays... Wherever you land, you better find your way back to your meeting, fast, and with the correct supplies.
+
+Aztec temple
+In the future is Mexico City.
+ The humming of a ritual chant bounces on the stone walls, you came right on time for the human sacrifice ! It seems like you landed in the past of Latin America and that the great Aztec civilization is at its peak.
+
+A middle sized wall built in a strangely intelligent way with huge stones. It is too big for you to climb..
+
+You can also see an Aztec Statue here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1547"></child>
+        </children>
+    </item>
+    <item nodeId="node-1547">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Chinese Workshop
+In the future is Wuhan.
+This workshop is A small and dusty room, with a little window that opens to a wide rice field. The air is tick and gloomy due to the arrival of the rain season. An old artisan wearing a straw hat and loose hemp clothes made is making rice paper at the back of the room. You slowly approach the man and, after bending towards in sign of respect, you ask him: - Sir, may I borrow one of these please? - Yes, of course, go ahead.
+
+You can see an artisan here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1548"></child>
+        </children>
+    </item>
+    <item nodeId="node-1548">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1549"></child>
+        </children>
+    </item>
+    <item nodeId="node-1549">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Wuhan
+In the future is a Futuristic Casino and in the past is a Chinese Workshop.
+A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!
+
+You can see a virus here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1550"></child>
+        </children>
+    </item>
+    <item nodeId="node-1550">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Futuristic Casino
+In the past, Wuhan was here. But now, a milion colorful and blinking neon lights iluminate the corridors, and a pathway covered in a fluffy carpet leads you to the Black Jack table. A robot serves you a sparkling drink as the crowd gathered around Black Jack table cheers.
+
+You can see a Black Jack (in which is a hidden pistol) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1551"></child>
+        </children>
+    </item>
+    <item nodeId="node-1551">
+        <command xml:space="preserve">play black jack</command>
+        <result xml:space="preserve">You won the pistol!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1552"></child>
+        </children>
+    </item>
+    <item nodeId="node-1552">
+        <command xml:space="preserve">x black jack</command>
+        <result xml:space="preserve">In the Black Jack is a hidden pistol.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1553">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Wuhan
+In the future is a Futuristic Casino and in the past is a Chinese Workshop.
+A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!
+
+You can see a virus here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1580"></child>
+            <child nodeId="node-1554"></child>
+        </children>
+    </item>
+    <item nodeId="node-1554">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Chinese Workshop
+In the future is Wuhan.
+This workshop is A small and dusty room, with a little window that opens to a wide rice field. The air is tick and gloomy due to the arrival of the rain season. An old artisan wearing a straw hat and loose hemp clothes made is making rice paper at the back of the room. You slowly approach the man and, after bending towards in sign of respect, you ask him: - Sir, may I borrow one of these papers please? - Yes, of course, go ahead.
+
+You can see an artisan here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1559"></child>
+            <child nodeId="node-1555"></child>
+        </children>
+    </item>
+    <item nodeId="node-1555">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+New Delhi
+In the future is Yogi's retreat and in the past is Maharaja's palace. You are now in the city center of New Dehli nowadays: your senses are flooded with all kinds of informations. The smells of a thousand spices assault your nostrils from a street market on your right hand and their colors fill up your soul like flowers in the spring, birds are singing and market sellers seems to be answering them prices of their marchandises; the whole thing is wrapped up in a whirlwind of scooters and tuktuk, adding a deeply human touch to the frenzy of the moment.
+
+Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn't seem to belong here: a modern glass door. You know, that opaque kind of glass which looks very expensive. Of course you'd know, your office has the same ones.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1556"></child>
+        </children>
+    </item>
+    <item nodeId="node-1556">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">(first opening the modern glass door)
+ Wouldn't it be better to go back with everything your boss has asked for? You still don't have a pen
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1557"></child>
+        </children>
+    </item>
+    <item nodeId="node-1557">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">(first opening the modern glass door)
+ Wouldn't it be better to go back with everything your boss has asked for? You still don't have a pen
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1558"></child>
+        </children>
+    </item>
+    <item nodeId="node-1558">
+        <command xml:space="preserve">open the door</command>
+        <result xml:space="preserve"> Wouldn't it be better to go back with everything your boss has asked for? You still don't have a pen
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1559">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Wuhan
+In the future is a Futuristic Casino and in the past is a Chinese Workshop.
+A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!
+
+You can see a virus here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1571"></child>
+            <child nodeId="node-1560"></child>
+        </children>
+    </item>
+    <item nodeId="node-1560">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">(first opening the modern glass door)
+It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1561"></child>
+        </children>
+    </item>
+    <item nodeId="node-1561">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Wuhan
@@ -331,10 +590,10 @@ You can see a virus here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1457"></child>
+        <children><child nodeId="node-1562"></child>
         </children>
     </item>
-    <item nodeId="node-1457">
+    <item nodeId="node-1562">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 Chinese Workshop
@@ -345,10 +604,10 @@ You can see an artisan here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1458"></child>
+        <children><child nodeId="node-1563"></child>
         </children>
     </item>
-    <item nodeId="node-1458">
+    <item nodeId="node-1563">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">
 Wuhan
@@ -359,10 +618,10 @@ You can see a virus here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1459"></child>
+        <children><child nodeId="node-1564"></child>
         </children>
     </item>
-    <item nodeId="node-1459">
+    <item nodeId="node-1564">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">
 Futuristic Casino
@@ -372,19 +631,19 @@ You can see a Black Jack table (in which is a pistol) here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1460"></child>
+        <children><child nodeId="node-1565"></child>
         </children>
     </item>
-    <item nodeId="node-1460">
+    <item nodeId="node-1565">
         <command xml:space="preserve">play black jack</command>
         <result xml:space="preserve">You won the pistol!
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1461"></child>
+        <children><child nodeId="node-1566"></child>
         </children>
     </item>
-    <item nodeId="node-1461">
+    <item nodeId="node-1566">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 Wuhan
@@ -395,10 +654,10 @@ You can see a virus here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1462"></child>
+        <children><child nodeId="node-1567"></child>
         </children>
     </item>
-    <item nodeId="node-1462">
+    <item nodeId="node-1567">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">
 New Delhi
@@ -408,29 +667,29 @@ Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1463"></child>
+        <children><child nodeId="node-1568"></child>
         </children>
     </item>
-    <item nodeId="node-1463">
+    <item nodeId="node-1568">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">(first opening the modern glass door)
 It seems to be locked.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1464"></child>
+        <children><child nodeId="node-1569"></child>
         </children>
     </item>
-    <item nodeId="node-1464">
+    <item nodeId="node-1569">
         <command xml:space="preserve">unlock door with pistol</command>
         <result xml:space="preserve">You unlock the modern glass door.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1465"></child>
+        <children><child nodeId="node-1570"></child>
         </children>
     </item>
-    <item nodeId="node-1465">
+    <item nodeId="node-1570">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">(first opening the modern glass door)
 
@@ -446,7 +705,7 @@ Going for a strawl could be exactly what you need. Suddenly, you catch yourself 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1505">
+    <item nodeId="node-1571">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">
 Futuristic Casino
@@ -456,19 +715,19 @@ You can see a Black Jack table (in which is a pistol) here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1506"></child>
+        <children><child nodeId="node-1572"></child>
         </children>
     </item>
-    <item nodeId="node-1506">
+    <item nodeId="node-1572">
         <command xml:space="preserve">play black jack</command>
         <result xml:space="preserve">You won the pistol!
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1507"></child>
+        <children><child nodeId="node-1573"></child>
         </children>
     </item>
-    <item nodeId="node-1507">
+    <item nodeId="node-1573">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 Wuhan
@@ -479,10 +738,10 @@ You can see a virus here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1508"></child>
+        <children><child nodeId="node-1574"></child>
         </children>
     </item>
-    <item nodeId="node-1508">
+    <item nodeId="node-1574">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">
 New Delhi
@@ -492,30 +751,30 @@ Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1509"></child>
+        <children><child nodeId="node-1575"></child>
         </children>
     </item>
-    <item nodeId="node-1509">
+    <item nodeId="node-1575">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">(first opening the modern glass door)
 It seems to be locked.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1510"></child>
-            <child nodeId="node-1531"></child>
+        <children><child nodeId="node-1578"></child>
+            <child nodeId="node-1576"></child>
         </children>
     </item>
-    <item nodeId="node-1531">
+    <item nodeId="node-1576">
         <command xml:space="preserve">unlock door</command>
         <result xml:space="preserve">(with the pistol)
 Pfffffff BOOM!! The bullet destroys the door, and now you can go back to the office
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1532"></child>
+        <children><child nodeId="node-1577"></child>
         </children>
     </item>
-    <item nodeId="node-1532">
+    <item nodeId="node-1577">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">(first opening the modern glass door)
 It seems to be locked.
@@ -523,16 +782,16 @@ It seems to be locked.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1510">
+    <item nodeId="node-1578">
         <command xml:space="preserve">open door</command>
         <result xml:space="preserve">It seems to be locked.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1511"></child>
+        <children><child nodeId="node-1579"></child>
         </children>
     </item>
-    <item nodeId="node-1511">
+    <item nodeId="node-1579">
         <command xml:space="preserve">unlock door</command>
         <result xml:space="preserve">(with the pistol)
 Pfffffff boom!! And the bullet destroys the door.
@@ -549,7 +808,7 @@ Going for a strawl could be exactly what you need. Suddenly, you catch yourself 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1466">
+    <item nodeId="node-1580">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">
 New Delhi
@@ -559,10 +818,10 @@ Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1467"></child>
+        <children><child nodeId="node-1581"></child>
         </children>
     </item>
-    <item nodeId="node-1467">
+    <item nodeId="node-1581">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 Maharaja's palace
@@ -572,10 +831,10 @@ You can see a Peacock here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1468"></child>
+        <children><child nodeId="node-1582"></child>
         </children>
     </item>
-    <item nodeId="node-1468">
+    <item nodeId="node-1582">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Chinese Workshop
@@ -586,19 +845,19 @@ You can see an artisan here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1469"></child>
+        <children><child nodeId="node-1583"></child>
         </children>
     </item>
-    <item nodeId="node-1469">
+    <item nodeId="node-1583">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1470"></child>
+        <children><child nodeId="node-1584"></child>
         </children>
     </item>
-    <item nodeId="node-1470">
+    <item nodeId="node-1584">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">
 Wuhan
@@ -609,10 +868,10 @@ You can see a virus here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1471"></child>
+        <children><child nodeId="node-1585"></child>
         </children>
     </item>
-    <item nodeId="node-1471">
+    <item nodeId="node-1585">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">
 Futuristic Casino
@@ -623,25 +882,25 @@ You can see a Black Jack table (in which is a pistol) here.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1515">
+    <item nodeId="node-1586">
         <command xml:space="preserve">play black jack</command>
         <result xml:space="preserve">You won the pistol!
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1516"></child>
+        <children><child nodeId="node-1587"></child>
         </children>
     </item>
-    <item nodeId="node-1516">
+    <item nodeId="node-1587">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1517"></child>
+        <children><child nodeId="node-1588"></child>
         </children>
     </item>
-    <item nodeId="node-1517">
+    <item nodeId="node-1588">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 Wuhan
@@ -652,10 +911,10 @@ You can see a virus here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1518"></child>
+        <children><child nodeId="node-1589"></child>
         </children>
     </item>
-    <item nodeId="node-1518">
+    <item nodeId="node-1589">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">
 New Delhi
@@ -665,20 +924,20 @@ Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1519"></child>
+        <children><child nodeId="node-1590"></child>
         </children>
     </item>
-    <item nodeId="node-1519">
+    <item nodeId="node-1590">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">(first opening the modern glass door)
 It seems to be locked.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1520"></child>
+        <children><child nodeId="node-1591"></child>
         </children>
     </item>
-    <item nodeId="node-1520">
+    <item nodeId="node-1591">
         <command xml:space="preserve">unlock door with pistol</command>
         <result xml:space="preserve">Pfffffff BOOM!! The bullet destroys the door, and now you can go back to the office
 office
@@ -693,7 +952,7 @@ Going for a strawl could be exactly what you need. Suddenly, you catch yourself 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1472">
+    <item nodeId="node-1592">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">
 Wuhan
@@ -704,11 +963,11 @@ You can see a virus here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1473"></child>
-            <child nodeId="node-1488"></child>
+        <children><child nodeId="node-1605"></child>
+            <child nodeId="node-1593"></child>
         </children>
     </item>
-    <item nodeId="node-1488">
+    <item nodeId="node-1593">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">
 New Delhi
@@ -718,20 +977,20 @@ Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1489"></child>
+        <children><child nodeId="node-1594"></child>
         </children>
     </item>
-    <item nodeId="node-1489">
+    <item nodeId="node-1594">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">(first opening the modern glass door)
 It seems to be locked.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1490"></child>
+        <children><child nodeId="node-1595"></child>
         </children>
     </item>
-    <item nodeId="node-1490">
+    <item nodeId="node-1595">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Wuhan
@@ -742,10 +1001,10 @@ You can see a virus here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1491"></child>
+        <children><child nodeId="node-1596"></child>
         </children>
     </item>
-    <item nodeId="node-1491">
+    <item nodeId="node-1596">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">
 Futuristic Casino
@@ -755,28 +1014,28 @@ You can see a Black Jack table (in which is a pistol) here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1492"></child>
+        <children><child nodeId="node-1597"></child>
         </children>
     </item>
-    <item nodeId="node-1492">
+    <item nodeId="node-1597">
         <command xml:space="preserve">play black jack</command>
         <result xml:space="preserve">You won the pistol!
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1493"></child>
+        <children><child nodeId="node-1598"></child>
         </children>
     </item>
-    <item nodeId="node-1493">
+    <item nodeId="node-1598">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1494"></child>
+        <children><child nodeId="node-1599"></child>
         </children>
     </item>
-    <item nodeId="node-1494">
+    <item nodeId="node-1599">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 Wuhan
@@ -787,10 +1046,10 @@ You can see a virus here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1495"></child>
+        <children><child nodeId="node-1600"></child>
         </children>
     </item>
-    <item nodeId="node-1495">
+    <item nodeId="node-1600">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">
 New Delhi
@@ -800,38 +1059,38 @@ Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1496"></child>
+        <children><child nodeId="node-1601"></child>
         </children>
     </item>
-    <item nodeId="node-1496">
+    <item nodeId="node-1601">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">(first opening the modern glass door)
 It seems to be locked.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1497"></child>
+        <children><child nodeId="node-1602"></child>
         </children>
     </item>
-    <item nodeId="node-1497">
+    <item nodeId="node-1602">
         <command xml:space="preserve">unlock the door with the pistol</command>
         <result xml:space="preserve">Pfffffff boom!! And the bullet destroys the door.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1498"></child>
+        <children><child nodeId="node-1603"></child>
         </children>
     </item>
-    <item nodeId="node-1498">
+    <item nodeId="node-1603">
         <command xml:space="preserve">s¨</command>
         <result xml:space="preserve">That's not a verb I recognise.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1499"></child>
+        <children><child nodeId="node-1604"></child>
         </children>
     </item>
-    <item nodeId="node-1499">
+    <item nodeId="node-1604">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">(first opening the modern glass door)
 It seems to be locked.
@@ -839,7 +1098,7 @@ It seems to be locked.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1473">
+    <item nodeId="node-1605">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">
 Futuristic Casino
@@ -849,10 +1108,10 @@ You can see a Black Jack table (in which is a pistol) here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1474"></child>
+        <children><child nodeId="node-1606"></child>
         </children>
     </item>
-    <item nodeId="node-1474">
+    <item nodeId="node-1606">
         <command xml:space="preserve">play black jack</command>
         <result xml:space="preserve">You won the pistol!
 
