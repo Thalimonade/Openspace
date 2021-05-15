@@ -9,7 +9,8 @@ A paper is a kind of things.
 
 A pistol is a key. 
 
-Paper rice is a paper.
+Rice paper is a paper.
+scaly skin is paper.
 
 A Mont Blanc quill is a pen.
 A feather is a pen.
@@ -22,15 +23,14 @@ Understand "past" as west.
 
 section 2 - Starting office
 
-Start is a room. The printed name of the start is "The office". The description of the start is "Your boss and yourself are in the midst of stormy negotiations with new potential associates. The atmosphere is tense, so much so that you can feel sweat beads dripping down your tailored shirt as your sticky hands pound on your laptop keyboard. Your boss sits at your left while two other gentlemen sit straight across from you both. All of you have been in here, bargaining over contract terms, for quite a while now and you wrists are staring to ache as you write and erase what the others tell you to. The shadows you cast on the white office walls gently shift as the sun goes down,  you wish they had come up to an agreement by now.
-Suddenly, either out of weariness or out of boldness, one of your guests leans in towards you and suggests a daring idea. You see a spark light up everybody else's as the idea sinks a little deeper in all of your minds. 
--This is great ..! says your boss.
-- This is illegal. you respond. Completely astonished by the nature of such suggestions.  
-- You're right, this can't appear on the records. Put that computer aside and grab a piece of paper! he adds. 
-You look around but can't seem to find any paper laying around. New ideas flood the room and you are not able the write any of them down. You painfully interrupt this flow of thoughts: 
--Sir, I don't think we have any paper nor any pens. The bubbly brainstorm turns into three heavy stairs, the kind of stairs that strip you from your will to disagree. 
-- Would you be so kind as to go and fetch some for us ? asks the scarier of the two guest.
--Yes, of course. you respond as you quickly get up. ".
+Start is a room. The printed name of the start is "The office". The description of the start is "Your boss and yourself are in the midst of stormy negotiations with new potential associates. The atmosphere is tense, so much so that you can feel sweat beads dripping down your tailored shirt as your sticky hands pound on your laptop keyboard. Your boss sits at your left while two other gentlemen sit straight across from you both. All of you have been in here, bargaining over contract terms, for quite a while now and you wrists are staring to ache as you write and erase what the others tell you to. The shadows you cast on the white office walls gently shift as the sun goes down,  you wish they had come up to an agreement by now.[paragraph break] Suddenly, either out of weariness or out of boldness, one of your guests leans in towards you and suggests a daring idea. You see a spark light up everybody else's as the idea sinks a little deeper in all of your minds. [line break] 
+-This is great ..! says your boss.[line break] 
+- This is illegal. you respond. Completely astonished by the nature of such suggestions.  [line break] 
+- You're right, this can't appear on the records. Put that computer aside and grab a piece of paper! he adds. [paragraph break] 
+You look around but can't seem to find any paper laying around. New ideas flood the room and you are not able the write any of them down. You painfully interrupt this flow of thoughts:  [line break] 
+-Sir, I don't think we have any paper nor any pens. The bubbly brainstorm turns into three heavy stairs, the kind of stairs that strip you from your will to disagree. [line break]
+- Would you be so kind as to go and fetch some for us ? asks the scarier of the two guest.[line break]
+-Yes, of course. you respond as you quickly get up.[paragraph break]Now out of your [leather chair], you take a last look at the [conference table]. You think to yourself: [line break]No paper, no pens, is this really it? The office of the future?[line break]It can't be. All it is, is a realm of shiny metals and cold greatings. Your buzzing laptop the stainless glass door, the cold coffee you drink, everything you lay your eyes on is chilling.[line break]Going for a strawl could infact be exactly what you need. Suddenly, you catch yourself hoping for a paper shortage in the whole damn building or, better even, in the whole damn town. So you'd have an excuse to put some miles between you and this place.".
 
 The big door is a thing in the start. The description of the big door is "it is your only way out of the room. Something tells you you should be quick to open it and get on that paper and pen hunt of yours. "
 
@@ -55,15 +55,22 @@ section 4 - Europe
 
 Swamps is a room. Swamps is north of Souk Ruins and south of Yogi's retreat. The description of the swamps is "The air here is breezy. It is hard for you to move comfortably because your feet are plunged in water, or is it silt ? Vegetation is quite dense, reeds and weeds pave your way. If you look west, you can see the framework of a door in the distance. Strangely enough, it looks like the one form your office. There are poorly lit openings in the trees leading either to the north or the south. "
 
-The Aligator is in the Swamps.  A scaly skin is on the Aligator. The description of Aligator is "The poor beast looks like it has enhaled too much pollution, it cannot even swim straight. Do aligators shed their skin ? because his gives the impression it is comming off. "
+The Aligator is in the Swamps.  the scaly skin is on the Aligator. The description of Aligator is "The poor beast looks like it has enhaled too much pollution, it cannot even swim straight. Do aligators shed their skin ? because his gives the impression it is comming off. "
 
 The long wooden stick is in the Swamps. The description of the long wooden stick is "Looks studry."
 
-The familiar looking door is a door. It is east of the office and west of the swamps. The familiar looking door is lockable and locked. The matching key of the familiar looking door is the universal magnetic pass. "[if the player is in Swamps]A big and modern glass door. You know, that opaque kind of glass which looks very expensive.[otherwise]Going for a strawl could be exactly what you need. Suddenly, you catch yourself hoping for a paper shortage in the whole damn building or, better even, in the whole damn town. So you'd have an excuse to put some miles between you and this place.[end if]" 
+Instead of taking the scaly skin:
+	if the player carries the wooden stick:
+		say "You carefully detach the sheding skin with the very end of that sturdy stick you picked up. The skin comes off nicely and offers a very smooth surface, you even think one you could write on it without any problem.";
+		now the player has the scaly skin;
+	otherwise: 
+		say "You want to get in there with your bare hands? What got into you?!";
 
-Druid's tent is a room. Druid's tent is north of Alexandria's Library and south of Maharaja's palace . The description of the Druid's tent is "an old Celtic druid's tent, just like you imagined them. Drapy curtens frame passageways going north and south, they are too thick for you to see threw them. At the very back of the tent, behind all of the mess, you see a [back door]. Strangely enough, it looks like the one form your office ".
+The familiar looking door is a door. It is east of the office and west of the swamps. The familiar looking door is lockable and locked. The matching key of the familiar looking door is the universal magnetic pass. "A big and modern glass door. You know, that opaque kind of glass which looks very expensive. This door, however, looks more modern than the ones you have encoutered before, the knob has been replaced by a little blue screen, as if it was meant to be opened with some kind of beeper or pass." 
 
-The back door is a door. It is west of the office and east of the Druid's tent. The back door is lockable and locked.  "[if the player is in Druid's tent]A big and modern glass door. You know, that opaque kind of glass which looks very expensive.[otherwise]It can't be. All it is, is a realm of shiny metals and cold greatings. Your buzzing laptop the stainless glass door, the cold coffee you drink, everything you lay your eyes on is chilling.[end if]".
+Druid's tent is a room. Druid's tent is north of Alexandria's Library and south of Maharaja's palace . The description of the Druid's tent is "An old Celtic druid's tent, just like you imagined them. Drapy curtens frame passageways going north and south, they are too thick for you to see threw them. At the very back of the tent, behind all of the mess, you see a [back door]. Strangely enough, it looks like the one form your office ".
+
+The back door is a door. It is west of the office and east of the Druid's tent. The back door is lockable and locked.  "A big and modern glass door. You know, that opaque kind of glass which looks very expensive.".
 
  
 Instead of opening the back door when the player carries the empty skinny jar:
@@ -71,6 +78,9 @@ Instead of opening the back door when the player carries the empty skinny jar:
 	move the player to the office.
 Instead of opening the back door when the player carries the full skinny jar:
 	say " Wasn't there a special potion you had in store for these kinds of situations..?".
+
+Instead of opening the back door when the player does not carry the skinny jar:
+	say "This is no ordinary lock, it looks like it only responds to magic."
 
 The shelves are a supporter in the Druid's tent.  "The tent is cramped with peculiar shelves. They are made of thick lumber on which rests an army of glass jars filled with colorful liquids. Each jar is labeled with small srips of paper filled with a handwriting you can bearly decipher."
 
@@ -132,9 +142,9 @@ Report reading: say "you squinkt your eyes: '[The label of the noun]'  mmmh..."
 section 5 - India 
 
 New Delhi is a room. The description of the New Delhi is "In the future is Yogi's retreat and in the past is Maharaja's palace. 
-You are now in the city center of New Dehli nowadays: your senses are flooded with all kinds of informations. The smells of a thousand spices assault your nostrils from a street market on your right hand and their colors fill up your soul like flowers in the spring, birds are singing and market sellers seems to be answering them prices of their marchandises; the whole thing is wrapped up in a whirlwind of scooters and tuktuk, adding a deeply human touch to the frenzy of the moment."
+You are now in the city center of New Dehli nowadays: your senses are flooded with all kinds of informations. The smells of a thousand spices assault your nostrils from a street market on your right hand and their colors fill up your soul like flowers during spring, birds are singing and market sellers seem to be singing out the prices of their marchandises; the whole thing is wrapped up in a whirlwind of scooters and tuktuks, adding a deeply human touch to the frenzy of the moment."
 
-The modern glass door is a door. It is south of New Delhi and north of the office. The modern glass door is lockable and locked.  "[if the player is in New Delhi]Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn't seem to belong here: a modern glass door. You know, that opaque kind of glass which looks very expensive. Of course you'd know, your office has the same ones.[otherwise]- No paper, no pens, is this really it? The office of the future?[end if]"
+The modern glass door is a door. It is south of New Delhi and north of the office. The modern glass door is lockable and locked.  "Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn't seem to belong here: a modern glass door. You know, that opaque kind of glass which looks very expensive. Of course you'd know, your office has the same ones!"
 
 
 Yogi's retreat is a room. Yogi's retreat is east of New Delhi. The description of the Yogi's retreat is "In the past is the city center of New Delhi. 
@@ -142,30 +152,37 @@ Now, it is the only community still standing in 20900's India. This sanctuary is
 
 
 Maharaja's palace is a room. Maharaja's palace is west of New Delhi. The description of the Maharaja's palace is "In the future is the city center of New Delhi. 
-The imposing white marble palace is surrounded by the magnificent gardens of prince Abdul the second. Multiple fountains provide fresh water for the animals that reside in the gardens: birds of all colors and sizes that sing from dawn till dusk, little monkeys that jump from tree to tree and try to steal whatever you're eating, and beautiful colorful peacocks that turn around.
-Looking one of the peacocks, you think to yourself: I bet I could use one of its feathers as a pen..."
+The imposing white marble palace is surrounded by the magnificent gardens of prince Abdul the second. Multiple fountains provide fresh water for the animals that reside in the gardens: birds of all colors and sizes that sing from dawn till dusk, little monkeys that jump from tree to tree while attempting to steal whatever you're eating, as welll as magestic and colorful peacocks spreading their feathers into gorgeous fans.
+While ooking at one of the peacocks, you think to yourself: I bet I could use one of its feathers as a pen..."
 
 A Peacock is in the Maharaja’s palace.
 
 Instead of touching the peacock:
-	say "You run after the peacock while it opens its plumage exhibiting the eye-looking pattern. It has so many feathers, but you only need one… After minutes running in the labyrinth-like garden under the sizzling sun, you manage to corner the peacock and you finally get your feather.";
+	say "You run after the peacock while it opens its plumage exhibiting the eye-catching pattern. It has so many feathers, but you only need one… After minutes running in the labyrinth-like garden under the sizzling sun, you manage to corner the peacock and you finally get your feather.";
 	move the feather to the player.
 
 Section 6 - China
 
-Wuhan is a room. Wuhan is north of New Delhi. The description of Wuhan is "In the future is a Futuristic Casino and in the past is a Chinese Workshop.[line break]A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!".
+Wuhan is a room. Wuhan is north of New Delhi. The description of Wuhan is "In the future is a Futuristic Casino and in the past is a Chinese Workshop.[line break]A new, deadly [virus] was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... [paragraph break]it might be better for you to leave Wuhan as fast as possible.".
 
 A virus is a thing. The virus is in Wuhan.
+the dirty masks are in wuhan. The description of the dirty masks is "These chirurgical masks have served their purpose already. They now are enjoying their eternal rest.".
 
-Instead of doing something other than going when the virus is in the location: say "If you insist.[line break][line break]On the battlefield against the Corono Virus[line break]The first that were touched by the disease, were the people of Wuhan[line break]You were one of them."; end the story.
+
+This is the dying rule: 
+	If the player is in Wuhan for more than 2 turns, say "If you insist.[line break][line break]On the battlefield against the Corona Virus[line break]The first that were touched by the disease, were the people of Wuhan[line break]You were one of them.";
+	end the story.
 
 
-Futuristic Casino is a room. Futuristic Casino is east of Wuhan. The description of Futuristic Casino is "In the past, Wuhan was here.
+Futuristic Casino is a room. Futuristic Casino is east of Wuhan and north of Yogi's retreat. The description of Futuristic Casino is "In the past, Wuhan was here.
 But now, a milion colorful and blinking neon lights iluminate the corridors, and a pathway covered in a fluffy carpet leads you to the Black Jack table. A robot serves you a sparkling drink as the crowd gathered around Black Jack table cheers. You overhear a conversation and it seems like the winner gets a pistol, which could be very useful in opening doors... Since you are here, you might want to try your luck playing the Black Jack. ".
 
 A Black Jack table is a thing. 
 A Black Jack table contains a pistol.  
 A Black Jack table is in the Futuristic Casino. 
+
+Instead of taking the pistol:
+	say "I'll keep my hands off the chinese neo-mafia's stuff if I were you."
 
 Understand the command "play" as something new.
 
@@ -177,24 +194,22 @@ Check playing:
 	if the noun is not a Black Jack table:
 		say "This is not something you can play with."
 		
-Report playing: say "You won the pistol!";
+		
+Report playing: say "The cards spins and swirles is spirals of black and red. The man to your left has been here for quite a while, hypnothised by the agility of the card dealer. He layed all his coins on the velvety matt, and has been here long enough to see his gains double and then disapear all together. The last thing he has left to bet is a lazer pistol, and so he bets it. [line break] His last glimp of hope leaves his eyes as he watches you flip the winning card and get away with his pistol.";
 	move the pistol to the player.
-	
-The pistol unlocks the modern glass door.
-The pistol unlocks the back door.
-The pistol unlocks the big door.
 
-Instead of unlocking the door with the pistol: 
-	say "Pfffffff BOOM!! The bullet destroys the door, and now you can go back to the office.";
+
+Instead of unlocking when the player carries the pistol: 
+	say "Pfffffff BOOM!! The lazer beem destroys the door and offers you an open pathway towards your beloved office.";
 	move the player to the office;
 		say "[If the player carries a pen]You got the pen, but where are the people supposed to sign on?[otherwise]Shouldn't you bring back a pen?[end if]";
 		say "[If the player carries a paper]You got the paper, but with what are the people supposed to sign with?[otherwise]Shouldn't you bring back a paper?[end if]".
 	
-Chinese Workshop is a room. Chinese Workshop is west of Wuhan, south of Aztec temple and north of Maharaja's palace. The description of the  Chinese Workshop is "In the future is Wuhan.[line break]This workshop is A small and dusty room, with a little window that opens to a wide rice field. The air is tick and gloomy due to the arrival of the rain season. An old artisan wearing a straw hat and loose hemp clothes made is making rice paper at the back of the room. You slowly approach the man and, after bending towards in sign of respect, you ask him: 
+Chinese Workshop is a room. Chinese Workshop is west of Wuhan, south of Aztec temple and north of Maharaja's palace. The description of the  Chinese Workshop is "In the future is Wuhan.[line break]This workshop is A small and dusty room, with a little window that opens to a wide rice field. The air is tick and gloomy due to the arrival of the rain season. An old artisan wearing a straw hat and loose hemp clothes is making rice paper at the back of the room. You slowly approach the man and, after bending towards in sign of respect, you ask him: 
 - Sir, may I borrow one of these papers please?
 - Yes, of course, go ahead.".
 
-The artisan is a person. He carries a rice paper. 
+The artisan is a person. He carries rice paper. 
 The artisan is in the Chinese Workshop. 
 
 Instead of taking the paper:
@@ -288,14 +303,15 @@ Section 9 - Africa
 
 Savannah is a room. Savannah is north of Scientific base camp. The description of the Savannah is "Savannah today".
 
-The shiny door is a door. It is south of the office and north of Savannah. The shiny door is lockable and locked.  "[if the player is in Savannah]A big and modern glass door. You know, that opaque kind of glass which looks very expensive.[otherwise]Now out of your [leather chair], you take a last look at the [conference table]. You think to yourself:[end if]"
+The shiny door is a door. It is south of the office and north of Savannah. The shiny door is lockable and locked. The matching key of the shiny door is the Golden Key.  "[if the player is in Savannah]A big and modern glass door. You know, that opaque kind of glass which looks very expensive. [end if]"
  
 
 Alexandria's Library is a room. Alexandria's Library is west of Savannah and north of Blizzard. The description of the Alexandria's Library is "This is probably the greatest sanctuary of knowledge of all time. There are tons of books in there. They don't seem to be arranged in any specific order. You realize just how much looking up stuff was an elephantine task before the Internet.".
-There are 100 books in Alexandria's Library.
 
 A Book is a kind of thing. The description of a Book is "You can browse it if you want to. You might find some useful info here.".
-A Blank Page is a thing.
+A Blank Page is a thing. 
+
+There are 100 books in Alexandria's Library.
 
 Browsing is an action applying to one thing. Check browsing: if the noun is not a Book, say "[The noun] cannot be browsed." instead.
 Understand "browse [something]" as browsing.
@@ -320,10 +336,11 @@ The Oil Lamp is an unopenable opaque container. The description of the Oil Lamp 
 
 The Chest is a locked opaque container. The description of the Chest is "A beautifully ornate Chest. Flowery twines of gold run across shiny pieces of mahogany and tangle with various inlays of ivory and pearl. There is a complex mechanism resembling an astrolabe instead of a keyhole.".
 
-The Astrolabe is a thing. The Astrolabe is part of the Chest. The description of the Astrolabe is "The Astrolabe is looks like a dial with a wavy golden arrow pointing at signs vaguely related to modern Arabic numerals. You can spin the Astrolabe to any of those numbers.".
+The Astrolabe is a thing. The Astrolabe is part of the Chest. The description of the Astrolabe is "The Astrolabe looks like a dial with a wavy golden arrow pointing at signs vaguely related to modern Arabic numerals. You can spin the Astrolabe to any of those numbers.".
 
 Spinning it to is an action applying to one thing and one number. Check spinning it to: if the noun is not the Astrolabe, say "[The noun] is not spinnable." instead. Report spinning: say "Click! Nothing happens."
 
-After spinning the Astrolabe to 1717: now the Chest is unlocked; say "The Astrolabe produces a symphony of mysterious creaking noises." 
+After spinning the Astrolabe to 1717: now the Chest is unlocked; say "The Astrolabe produces a symphony of mysterious creaking noises." ;
+move the golden key to the player.
 
 Understand "spin [something] to [a number]" as spinning it to.
