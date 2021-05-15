@@ -49,7 +49,7 @@ Understand "office" as start.
 
 section 3 - the ending office 
 
-The office is a room.  
+The office is a room. The player can enter the office only if he carries a pen and a paper. 
 
 section 4 - Europe
 

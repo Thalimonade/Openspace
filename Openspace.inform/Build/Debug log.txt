@@ -14,7 +14,7 @@ Reading language definition from </Applications/Inform.app/Contents/Resources/In
 Phase I ... Lexical analysis
 -----------------------------------------------------
 
-I've now read your source text, which is 4752 words long.
+I've now read your source text, which is 4767 words long.
 
 
 -----------------------------------------------------
@@ -53,21 +53,21 @@ Phase VI ... Semantic analysis III
 Phase VII ... First pass through assertions
 -----------------------------------------------------
 
-    Regional: CONSTANT_VNT'latin america'-region()(I105'latin america')
+    Regional: CONSTANT_VNT'latin america'-region()(I108'latin america')
      == region
-    Regional: CONSTANT_VNT'latin america'-region()(I105'latin america')
+    Regional: CONSTANT_VNT'latin america'-region()(I108'latin america')
      == region
-    Regional: CONSTANT_VNT'latin america'-region()(I105'latin america')
+    Regional: CONSTANT_VNT'latin america'-region()(I108'latin america')
      == region
-    Regional: CONSTANT_VNT'latin america'-region()(I105'latin america')
+    Regional: CONSTANT_VNT'latin america'-region()(I108'latin america')
      == region
-    Regional: CONSTANT_VNT'antarctica'-region()(I116'antarctica')
+    Regional: CONSTANT_VNT'antarctica'-region()(I119'antarctica')
      == region
-    Regional: CONSTANT_VNT'antarctica'-region()(I116'antarctica')
+    Regional: CONSTANT_VNT'antarctica'-region()(I119'antarctica')
      == region
-    Regional: CONSTANT_VNT'the antarctica'-region()(I116'antarctica')
+    Regional: CONSTANT_VNT'the antarctica'-region()(I119'antarctica')
      == region
-    Regional: CONSTANT_VNT'antarctica'-region()(I116'antarctica')
+    Regional: CONSTANT_VNT'antarctica'-region()(I119'antarctica')
      == region
 
 
@@ -192,7 +192,7 @@ Phase XIII ... Compilation now complete
 -----------------------------------------------------
 
 Total of 105 files written as streams.
-CPU time: 216 centiseconds
+CPU time: 209 centiseconds
 
 
 That concludes the debugging log from this run of Inform.
