@@ -161,10 +161,11 @@ Instead of doing something other than going when the virus is in the location: s
 
 
 Futuristic Casino is a room. Futuristic Casino is east of Wuhan. The description of Futuristic Casino is "In the past, Wuhan was here.
-But now, a milion colorful and blinking neon lights iluminate the corridors, and a pathway covered in a fluffy carpet leads you to the Black Jack table. A robot serves you a sparkling drink as the crowd gathered around Black Jack table cheers.".
+But now, a milion colorful and blinking neon lights iluminate the corridors, and a pathway covered in a fluffy carpet leads you to the Black Jack table. A robot serves you a sparkling drink as the crowd gathered around Black Jack table cheers. You overhear a conversation and it seems like the winner gets a pistol, which could be very useful in opening doors... Since you are here, you might want to try your luck playing the Black Jack. ".
 
-A black jack is a container. A black jack contains a pistol. 
-A black jack is openable and unlocked. 
+A Black Jack table is a thing. 
+A Black Jack table contains a pistol.  
+A Black Jack table is in the Futuristic Casino. 
 
 Understand the command "play" as something new.
 
@@ -173,7 +174,7 @@ Playing is an action applying to one thing.
 Understand "play [something]" as playing.
 
 Check playing:
-	if the noun is not a black jack:
+	if the noun is not a Black Jack table:
 		say "This is not something you can play with."
 		
 Report playing: say "You won the pistol!";
@@ -185,6 +186,7 @@ Chinese Workshop is a room. Chinese Workshop is west of Wuhan, south of Aztec te
 - Yes, of course, go ahead.".
 
 The artisan is a person. He carries a rice paper. 
+The artisan is in the Chinese Workshop. 
 
 Instead of taking the paper:
 	say "You thank the old man for the paper and[if the player carries a pen] you start to try to find your way back to the office.[otherwise] now you go look for the pen in order to go back to the office.[end if]";
