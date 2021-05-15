@@ -29,9 +29,10 @@ You can see a big door, a Leather chair and a conference table here.
 
 One has to be careful with what he wishes for nowadays... Wherever you land, you better find your way back to your meeting, fast, and with the correct supplies.
 
-Scorpion World
-In the past is Mexico City.
-Here you step into the future of Latin America. As time passed, a lot of species went extinct. Not scorpions though, scorpions got bigger. Unfortunately, way bigger than you. The whole contient mutated into a huge conurbation of enormous scorpion nests: you are in the middle of it. In front of you is one of those scorpion nest.
+Scientific Base Camp
+Present of Antarctica. The only thing you see beyond the camp's igloos is ice and extracted ice caps. You don't want to spend too much time here unless you always wanted to be a human ice cream. The igloos are scattered over a large area, but one is not far away. If you want to go inside, you'll have to crawl through the tunnel.
+
+You can see a tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
@@ -75,6 +76,7 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
         <children><child nodeId="node-1472"></child>
+            <child nodeId="node-1515"></child>
             <child nodeId="node-1452"></child>
             <child nodeId="node-1439"></child>
         </children>
@@ -246,7 +248,7 @@ You can see a virus here.
         <result xml:space="preserve">
 Chinese Workshop
 In the future is Wuhan.
-This workshop is A small and dusty room, with a little window that opens to a wide rice field. The air is tick and gloomy due to the arrival of the rain season. An old artisan wearing a straw hat and loose hemp clothes made is making rice paper at the back of the room. You slowly approach the man and, after bending towards in sign of respect, you ask him: - Sir, may I borrow one of these please? - Yes, of course, go ahead.
+This workshop is A small and dusty room, with a little window that opens to a wide rice field. The air is tick and gloomy due to the arrival of the rain season. An old artisan wearing a straw hat and loose hemp clothes made is making rice paper at the back of the room. You slowly approach the man and, after bending towards in sign of respect, you ask him: - Sir, may I borrow one of these papers please? - Yes, of course, go ahead.
 
 You can see an artisan here.
 
@@ -501,7 +503,25 @@ It seems to be locked.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
         <children><child nodeId="node-1510"></child>
+            <child nodeId="node-1531"></child>
         </children>
+    </item>
+    <item nodeId="node-1531">
+        <command xml:space="preserve">unlock door</command>
+        <result xml:space="preserve">(with the pistol)
+Pfffffff BOOM!! The bullet destroys the door, and now you can go back to the office
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1532"></child>
+        </children>
+    </item>
+    <item nodeId="node-1532">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">(first opening the modern glass door)
+It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
     </item>
     <item nodeId="node-1510">
         <command xml:space="preserve">open door</command>
@@ -599,6 +619,76 @@ Futuristic Casino
 In the past, Wuhan was here. But now, a milion colorful and blinking neon lights iluminate the corridors, and a pathway covered in a fluffy carpet leads you to the Black Jack table. A robot serves you a sparkling drink as the crowd gathered around Black Jack table cheers. You overhear a conversation, and it seems like the prize is a pistol, which could be very useful in opening doors... Since you are here, you might want to try your luck playing the Black Jack. 
 
 You can see a Black Jack table (in which is a pistol) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1515">
+        <command xml:space="preserve">play black jack</command>
+        <result xml:space="preserve">You won the pistol!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1516"></child>
+        </children>
+    </item>
+    <item nodeId="node-1516">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1517"></child>
+        </children>
+    </item>
+    <item nodeId="node-1517">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Wuhan
+In the future is a Futuristic Casino and in the past is a Chinese Workshop.
+A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!
+
+You can see a virus here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1518"></child>
+        </children>
+    </item>
+    <item nodeId="node-1518">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+New Delhi
+In the future is Yogi's retreat and in the past is Maharaja's palace. You are now in the city center of New Dehli nowadays: your senses are flooded with all kinds of informations. The smells of a thousand spices assault your nostrils from a street market on your right hand and their colors fill up your soul like flowers in the spring, birds are singing and market sellers seems to be answering them prices of their marchandises; the whole thing is wrapped up in a whirlwind of scooters and tuktuk, adding a deeply human touch to the frenzy of the moment.
+
+Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn't seem to belong here: a modern glass door. You know, that opaque kind of glass which looks very expensive. Of course you'd know, your office has the same ones.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1519"></child>
+        </children>
+    </item>
+    <item nodeId="node-1519">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">(first opening the modern glass door)
+It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1520"></child>
+        </children>
+    </item>
+    <item nodeId="node-1520">
+        <command xml:space="preserve">unlock door with pistol</command>
+        <result xml:space="preserve">Pfffffff BOOM!! The bullet destroys the door, and now you can go back to the office
+office
+- No paper, no pens, is this really it? The office of the future?
+
+Now out of your Leather chair, you take a last look at the conference table. You think to yourself:
+
+It can't be. All it is, is a realm of shiny metals and cold greatings. Your buzzing laptop the stainless glass door, the cold coffee you drink, everything you lay your eyes on is chilling.
+
+Going for a strawl could be exactly what you need. Suddenly, you catch yourself hoping for a paper shortage in the whole damn building or, better even, in the whole damn town. So you'd have an excuse to put some miles between you and this place.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
