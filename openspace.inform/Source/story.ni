@@ -148,7 +148,13 @@ The modern glass door is a door. It is south of New Delhi and north of the offic
 
 
 Yogi's retreat is a room. Yogi's retreat is east of New Delhi. The description of the Yogi's retreat is "In the past is the city center of New Delhi. 
-Now, it is the only community still standing in 20900's India. This sanctuary is filled with trees, and in the network of streams that run around, you can see huge red, orange and white carps. Yoga matresses are pretty much everywhere, and the smell of the incense is just delightful. You feel a big sense of inner peace... if you stay too long here, you might never leave.".
+Now, it is the only community still standing in 20900's India. This sanctuary is filled with trees, and in the network of streams that run around, you can see huge red, orange and white carps. Yoga matresses are pretty much everywhere, and the smell of the incense is just delightful. You feel a big sense of inner peace...[paragraph break] if you stay here  for too long, you might not find the will to leave.".
+
+The relaxing aura is a thing. 
+before going to Yogi's retreat, move the relaxing aura to Yogi's retreat.
+
+Instead of doing something other than going when the relaxing aura is in the location:
+	say "You enter a comtemplative state of mind. [paragraph break]Everything around you resonates in harmony as you crosse you legs and start to levitate. You no longer have any interest in the futilities of human civilisations. You rise above all this now and won't ever go back. [paragraph break]Let this retreat host your eternal rest."; end the story.
 
 
 Maharaja's palace is a room. Maharaja's palace is west of New Delhi. The description of the Maharaja's palace is "In the future is the city center of New Delhi. 
@@ -218,8 +224,13 @@ Section 7 - Latin America
 
 Latin America is a region. 
 
-Mexico City is a room in Latin America. Mexico City is north of Wuhan. The description of Mexico City is "In the future is Scorpion's World and in the past is an Aztec Temple.[line break]Gunshots pierce the sky as you cross the road of today's Mexico. It is getting quite dark and you don't want any trouble. You see four similarly unwellcoming alleyways each leading in different directions: south, north, east and west.".
+Mexico City is a room in Latin America. Mexico City is north of Wuhan. The description of Mexico City is "In the future is Scorpion's World and in the past is an Aztec Temple.[paragraph break]Gunshots pierce the sky as you cross the road of today's Mexico. It is getting quite dark and you don't want any trouble, an unharmed guy like you should find a way out of hear. You see four similarly unwellcoming alleyways each leading in different directions: south, north, east and west.".
 
+The cartel is a thing. 
+before going to mexico city, move cartel to mexico city.
+
+Instead of doing something other than going when the cartel is in the location:
+	say "Oh no. [paragraph break]Two fighting cartels stumbled onto you, didn't knowing were you stand, the leaders of both cartels shot you to prove their guts to each other.They left you no tim time to escape.[paragraph break]Let Mexico city be your final destination."; end the story.
 
 Scorpion World is a room in Latin America. Scorpion World is east of Mexico City, south of Utopian City and north of futuristic casino. The description of the Scorpion World is "In the past is Mexico City.[line break]Here you step into the future of Latin America. As time passed, a lot of species went extinct. Not scorpions though, scorpions got bigger. Unfortunately, way bigger than you. The whole contient mutated into a huge conurbation of enormous scorpion nests: you are in the middle of it. In front of you is one of those scorpion nest."
 
@@ -296,6 +307,12 @@ Instead of taking the pass:
 
 
 Blizzard is a room in Antarctica. Blizzard is west of Scientific base camp and north of Aztec temple. The description of Blizzard is "Leave this place, you are in a primitive icy storm. The wind pierces your clothes and shut your eyes closed. You don't want to spend too much time in here. As you are reading this, your toes are getting frozen and threatens to fall. With your office clothes, you don't stand a chance. If you stay here few more seconds, you'll never see your beloved office again."
+
+The ice storm is a thing. 
+before going to Blizzard, move the ice storm to Blizzard.
+
+Instead of doing something other than going when the ice storm is in the location:
+	say "Oh no. [paragraph break]You'd like to get back to a warm climate but your feet won't move. Your body doen't respond to external situmli anymore and your feel tired.[paragraph break]Let this blizzard be your final destination."; end the story.
 
 Section 9 - Africa 
 
