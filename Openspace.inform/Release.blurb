@@ -1,18 +1,18 @@
 ! Blurb file created by Inform build 6M62
 
-status "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/CblorbModel.html" "/Users/thaliesch/Documents/GitHub/Openspace/Openspace.inform/Build/StatusCblorb.html"
+status "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/CblorbModel.html" "/Users/davlokpavid/Desktop/Openspace/Openspace.inform/Build/StatusCblorb.html"
 
 
 ! Identification
 
-project folder "/Users/thaliesch/Documents/GitHub/Openspace/Openspace.inform"
-release to "/Users/thaliesch/Documents/GitHub/Openspace/Openspace.materials/Release"
+project folder "/Users/davlokpavid/Desktop/Openspace/Openspace.inform"
+release to "/Users/davlokpavid/Desktop/Openspace/Openspace.materials/Release"
 
 ! Blorb instructions
 
 storyfile leafname "Open Space.gblorb"
-storyfile "/Users/thaliesch/Documents/GitHub/Openspace/Openspace.inform/Build/output.ulx" include
-ifiction "/Users/thaliesch/Documents/GitHub/Openspace/Openspace.inform/Metadata.iFiction" include
+storyfile "/Users/davlokpavid/Desktop/Openspace/Openspace.inform/Build/output.ulx" include
+ifiction "/Users/davlokpavid/Desktop/Openspace/Openspace.inform/Metadata.iFiction" include
 cover "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Cover.jpg"
 picture 1 "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Cover.jpg"
 
