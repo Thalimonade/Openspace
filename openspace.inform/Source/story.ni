@@ -168,10 +168,8 @@ Wuhan is a room. Wuhan is north of New Delhi. The description of Wuhan is "In th
 A virus is a thing. The virus is in Wuhan.
 the dirty masks are in wuhan. The description of the dirty masks is "These chirurgical masks have served their purpose already. They now are enjoying their eternal rest.".
 
-
-This is the dying rule: 
-	If the player is in Wuhan for more than 2 turns, say "If you insist.[line break][line break]On the battlefield against the Corona Virus[line break]The first that were touched by the disease, were the people of Wuhan[line break]You were one of them.";
-	end the story.
+Instead of doing something other than going when the virus is in the location:
+	say "If you insist. [line break][line break][line break]Many people died on the battlefield against the coronavirus. [line break][line break]First to be hit were the people of Wuhan.[line break][line break]You were one of them."; end the story.
 
 
 Futuristic Casino is a room. Futuristic Casino is east of Wuhan and north of Yogi's retreat. The description of Futuristic Casino is "In the past, Wuhan was here.
