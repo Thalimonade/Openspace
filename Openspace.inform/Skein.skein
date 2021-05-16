@@ -9,14 +9,87 @@
 
 Open Space
 An Interactive Fiction by Thalie Schmidt, Laura Pippus, David Pavlik et Ludovic Rochat
-Release 1 / Serial number 210514 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+Release 1 / Serial number 210516 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
 
 The office
-Your boss and yourself are in the midst of stormy negotiations with new potential associates. The atmosphere is tense, so much so that you can feel sweat beads dripping down your tailored shirt as your sticky hands pound on your laptop keyboard. Your boss sits at your left while two other gentlemen sit straight across from you both. All of you have been in here, bargaining over contract terms, for quite a while now and you wrists are staring to ache as you write and erase what the others tell you to. The shadows you cast on the white office walls gently shift as the sun goes down,  you wish they had come up to an agreement by now. Suddenly, either out of weariness or out of boldness, one of your guests leans in towards you and suggests a daring idea. You see a spark light up everybody else's as the idea sinks a little deeper in all of your minds. -This is great ..! says your boss. - This is illegal. you respond. Completely astonished by the nature of such suggestions. - You're right, this can't appear on the records. Put that computer aside and grab a piece of paper! he adds. You look around but can't seem to find any paper laying around. New ideas flood the room and you are not able the write any of them down. You painfully interrupt this flow of thoughts: -Sir, I don't think we have any paper nor any pens. The bubbly brainstorm turns into three heavy stairs, the kind of stairs that strip you from your will to disagree. - Would you be so kind as to go and fetch some for us ? asks the scarier of the two guest. -Yes, of course. you respond as you quickly get up. 
+Your boss and yourself are in the midst of stormy negotiations with new potential associates. The atmosphere is tense, so much so that you can feel sweat beads dripping down your tailored shirt as your sticky hands pound on your laptop keyboard. Your boss sits at your left while two other gentlemen sit straight across from you both. All of you have been in here, bargaining over contract terms, for quite a while now and you wrists are staring to ache as you write and erase what the others tell you to. The shadows you cast on the white office walls gently shift as the sun goes down,  you wish they had come up to an agreement by now.
+ Suddenly, either out of weariness or out of boldness, one of your guests leans in towards you and suggests a daring idea. You see a spark light up everybody else's as the idea sinks a little deeper in all of your minds. 
+ -This is great ..! says your boss.
+ - This is illegal. you respond. Completely astonished by the nature of such suggestions.  
+ - You're right, this can't appear on the records. Put that computer aside and grab a piece of paper! he adds. 
+ You look around but can't seem to find any paper laying around. New ideas flood the room and you are not able the write any of them down. You painfully interrupt this flow of thoughts: 
+ -Sir, I don't think we have any paper nor any pens. The bubbly brainstorm turns into three heavy stairs, the kind of stairs that strip you from your will to disagree. 
+ - Would you be so kind as to go and fetch some for us ? asks the scarier of the two guest.
+ -Yes, of course. you respond as you quickly get up. 
 
 You can see a big door, a Leather chair and a conference table here.
 
 &gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1003"></child>
+        </children>
+    </item>
+    <item nodeId="node-1003">
+        <command xml:space="preserve">open big door</command>
+        <result xml:space="preserve">The shaking ground gets you out of your reveries. Is it an earthquake ? Is it a bomb ? In any case you hold on to that door knob with all your strength. Too bad, a strong wind sucks you inward before you can gasp for help.  
+
+ Well well, dear player, the dimesions heard you and sent you quite far away. As you just entered a time and space traveling journey you ought to know that taking a strall to the east fast forwards you to the futur, the west brings you back to the past. As for north and south, they will change your location, letting you roam threw different continents.  
+
+One has to be careful with what he wishes for nowadays... Wherever you land, you better find your way back to your meeting, fast, and with the correct supplies.
+
+Scientific Base Camp
+Present of Antarctica. The only thing you see beyond the camp's igloos is ice and extracted ice caps. You don't want to spend too much time here unless you always wanted to be a human ice cream. The igloos are scattered over a large area, but one is not far away. If you want to go inside, you'll have to crawl through the tunnel.
+
+You can see a tunnel here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1004"></child>
+        </children>
+    </item>
+    <item nodeId="node-1004">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+Mexico City
+In the future is Scorpion's World and in the past is an Aztec Temple.
+Gunshots pierce the sky as you cross the road of today's Mexico. It is getting quite dark and you don't want any trouble. You see four similarly unwellcoming alleyways each leading in different directions: south, north, east and west.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1005"></child>
+        </children>
+    </item>
+    <item nodeId="node-1005">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+Wuhan
+In the future is a Futuristic Casino and in the past is a Chinese Workshop.
+A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... it might be better to leave Wuhan as fast as possible!!
+
+You can see a virus here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1006"></child>
+        </children>
+    </item>
+    <item nodeId="node-1006">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">If you insist.
+
+On the battlefield against the Corono Virus
+The first that were touched by the disease, were the people of Wuhan
+You were one of them.
+
+
+
+    *** The End ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
         <commentary xml:space="preserve"></commentary>
     </item>
 </Skein>

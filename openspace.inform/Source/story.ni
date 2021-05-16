@@ -23,15 +23,15 @@ Understand "past" as west.
 
 section 2 - Starting office
 
-Start is a room. The printed name of the start is "The office". The description of the start is "Your boss and yourself are in the midst of stormy negotiations with new potential associates. The atmosphere is tense, so much so that you can feel sweat beads dripping down your tailored shirt as your sticky hands pound on your laptop keyboard. Your boss sits at your left while two other gentlemen sit straight across from you both. All of you have been in here, bargaining over contract terms, for quite a while now and you wrists are staring to ache as you write and erase what the others tell you to. The shadows you cast on the white office walls gently shift as the sun goes down,  you wish they had come up to an agreement by now.
-Suddenly, either out of weariness or out of boldness, one of your guests leans in towards you and suggests a daring idea. You see a spark light up everybody else's as the idea sinks a little deeper in all of your minds. 
--This is great ..! says your boss.
-- This is illegal. you respond. Completely astonished by the nature of such suggestions.  
-- You're right, this can't appear on the records. Put that computer aside and grab a piece of paper! he adds. 
-You look around but can't seem to find any paper laying around. New ideas flood the room and you are not able the write any of them down. You painfully interrupt this flow of thoughts: 
--Sir, I don't think we have any paper nor any pens. The bubbly brainstorm turns into three heavy stairs, the kind of stairs that strip you from your will to disagree. 
-- Would you be so kind as to go and fetch some for us ? asks the scarier of the two guest.
--Yes, of course. you respond as you quickly get up. ".
+Start is a room. The printed name of the start is "The office". The description of the start is "Your boss and yourself are in the midst of stormy negotiations with new potential associates. The atmosphere is tense, so much so that you can feel sweat beads dripping down your tailored shirt as your sticky hands pound on your laptop keyboard. Your boss sits at your left while two other gentlemen sit straight across from you both. All of you have been in here, bargaining over contract terms, for quite a while now and you wrists are staring to ache as you write and erase what the others tell you to. The shadows you cast on the white office walls gently shift as the sun goes down,  you wish they had come up to an agreement by now.[line break]
+Suddenly, either out of weariness or out of boldness, one of your guests leans in towards you and suggests a daring idea. You see a spark light up everybody else's as the idea sinks a little deeper in all of your minds. [line break]
+-This is great ..! says your boss.[line break]
+- This is illegal. you respond. Completely astonished by the nature of such suggestions.  [line break]
+- You're right, this can't appear on the records. Put that computer aside and grab a piece of paper! he adds. [line break]
+You look around but can't seem to find any paper laying around. New ideas flood the room and you are not able the write any of them down. You painfully interrupt this flow of thoughts: [line break]
+-Sir, I don't think we have any paper nor any pens. The bubbly brainstorm turns into three heavy stairs, the kind of stairs that strip you from your will to disagree. [line break]
+- Would you be so kind as to go and fetch some for us ? asks the scarier of the two guest.[line break]
+-Yes, of course. you respond as you quickly get up. ". 
 
 The big door is a thing in the start. The description of the big door is "it is your only way out of the room. Something tells you you should be quick to open it and get on that paper and pen hunt of yours. "
 
