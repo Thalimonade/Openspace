@@ -323,7 +323,7 @@ Instead of doing something other than going when the ice storm is in the locatio
 
 Section 9 - Africa 
 
-Savannah is a room. Savannah is north of Scientific base camp. The description of the Savannah is "The future the future is just a pile of stones and the past is a pile of ancient knowledge. From the south comes very cold air.[line break][line break]It seems like you are standing in the middle of Savannah in the present day.".
+Savannah is a room. Savannah is north of Scientific base camp. The description of the Savannah is "The future is just a pile of stones and the past is a pile of ancient knowledge. From the south comes very cold air.[line break][line break]It seems like you are standing in the middle of Savannah in the present day.".
 
 The shiny door is a door. It is south of the office and north of Savannah. The shiny door is lockable and locked. The matching key of the shiny door is the Golden Key.  "[if the player is in Savannah]A big and modern glass door. You know, that opaque kind of glass which looks very expensive. [end if]"
  

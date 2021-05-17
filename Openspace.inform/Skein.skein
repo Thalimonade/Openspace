@@ -33,7 +33,7 @@ You can see a big door here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1218"></child>
+        <children><child nodeId="node-1241"></child>
             <child nodeId="node-1199"></child>
             <child nodeId="node-1013"></child>
             <child nodeId="node-1003"></child>
@@ -2254,21 +2254,20 @@ Shouldn't you bring back a paper?
 
 One has to be careful with what he wishes for nowadays... Wherever you land, you better find your way back to your meeting, fast, and with the correct supplies.
 
-Aztec temple
-In the future is Mexico City.
-The humming of a ritual chant bounces on the stone walls, you came right on time for the human sacrifice ! It seems like you landed in the past of Latin America and that the great Aztec civilization is at its peak.
+Scientific Base Camp
+Present of Antarctica. In the future, cars a flying and plants living peacefully with humans. The past is white, completely white and frozzen. Don't ask why, but from the south you can here gunshots and a hot breeze caresses your ears. North is hot too, but more primitive.
 
-A middle sized wall built in a strangely intelligent way with huge stones. It is too big for you to climb..
+ The only thing you see beyond the camp's igloos is ice and extracted ice caps. You don't want to spend too much time here unless you always wanted to be a human ice cream. The igloos are scattered over a large area, but one is not far away. If you want to go inside, you'll have to crawl through the tunnel.
 
-You can also see an Aztec Statue here.
+You can see a tunnel here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1240"></child>
-            <child nodeId="node-1212"></child>
-            <child nodeId="node-1206"></child>
-            <child nodeId="node-1256"></child>
-            <child nodeId="node-1203"></child>
+        <children><child nodeId="node-1234"></child>
+            <child nodeId="node-1228"></child>
+            <child nodeId="node-1222"></child>
+            <child nodeId="node-1219"></child>
+            <child nodeId="node-1216"></child>
             <child nodeId="node-1200"></child>
         </children>
     </item>
@@ -2283,7 +2282,7 @@ You can see an artisan here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1249"></child>
+        <children><child nodeId="node-1210"></child>
             <child nodeId="node-1201"></child>
         </children>
     </item>
@@ -2298,11 +2297,11 @@ You can see a Peacock here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1202"></child>
-            <child nodeId="node-1262"></child>
+        <children><child nodeId="node-1209"></child>
+            <child nodeId="node-1202"></child>
         </children>
     </item>
-    <item nodeId="node-1262">
+    <item nodeId="node-1202">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Druid's tent
@@ -2316,28 +2315,28 @@ You can also see a small altar (on which are a rounded jar (closed), a skinny ja
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1263"></child>
+        <children><child nodeId="node-1203"></child>
         </children>
     </item>
-    <item nodeId="node-1263">
+    <item nodeId="node-1203">
         <command xml:space="preserve">past</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1264"></child>
+        <children><child nodeId="node-1204"></child>
         </children>
     </item>
-    <item nodeId="node-1264">
+    <item nodeId="node-1204">
         <command xml:space="preserve">couth</command>
         <result xml:space="preserve">That's not a verb I recognise.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1265"></child>
+        <children><child nodeId="node-1205"></child>
         </children>
     </item>
-    <item nodeId="node-1265">
+    <item nodeId="node-1205">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Alexandria's Library
@@ -2347,10 +2346,10 @@ You can see one hundred Books here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1266"></child>
+        <children><child nodeId="node-1206"></child>
         </children>
     </item>
-    <item nodeId="node-1266">
+    <item nodeId="node-1206">
         <command xml:space="preserve">future</command>
         <result xml:space="preserve">
 Savannah
@@ -2360,10 +2359,10 @@ A big and modern glass door. You know, that opaque kind of glass which looks ver
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1267"></child>
+        <children><child nodeId="node-1207"></child>
         </children>
     </item>
-    <item nodeId="node-1267">
+    <item nodeId="node-1207">
         <command xml:space="preserve">future</command>
         <result xml:space="preserve">
 Souk Ruins
@@ -2373,10 +2372,10 @@ You can see a Chest (closed) here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1268"></child>
+        <children><child nodeId="node-1208"></child>
         </children>
     </item>
-    <item nodeId="node-1268">
+    <item nodeId="node-1208">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">
 Swamps
@@ -2391,7 +2390,7 @@ You can also see an Aligator (on which is scaly skin) and a long wooden stick he
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1202">
+    <item nodeId="node-1209">
         <command xml:space="preserve">jump</command>
         <result xml:space="preserve">If you insist.
 
@@ -2406,7 +2405,7 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
 &gt; </result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1249">
+    <item nodeId="node-1210">
         <command xml:space="preserve">past</command>
         <result xml:space="preserve">
 Aztec temple
@@ -2419,19 +2418,19 @@ You can also see an Aztec Statue here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1250"></child>
+        <children><child nodeId="node-1211"></child>
         </children>
     </item>
-    <item nodeId="node-1250">
+    <item nodeId="node-1211">
         <command xml:space="preserve">get on statue</command>
         <result xml:space="preserve">You get onto the Aztec Statue.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1251"></child>
+        <children><child nodeId="node-1212"></child>
         </children>
     </item>
-    <item nodeId="node-1251">
+    <item nodeId="node-1212">
         <command xml:space="preserve">climb wall</command>
         <result xml:space="preserve">(first getting off the Aztec Statue)
 As you are not an athlete, this operation is proving very difficult; but you manage to pull yourself up.
@@ -2443,29 +2442,29 @@ You can see a sharp collarbone here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1252"></child>
+        <children><child nodeId="node-1213"></child>
         </children>
     </item>
-    <item nodeId="node-1252">
+    <item nodeId="node-1213">
         <command xml:space="preserve">take bone</command>
         <result xml:space="preserve">Taken.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1253"></child>
+        <children><child nodeId="node-1214"></child>
         </children>
     </item>
-    <item nodeId="node-1253">
+    <item nodeId="node-1214">
         <command xml:space="preserve">i</command>
         <result xml:space="preserve">You are carrying:
   a sharp collarbone
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1254"></child>
+        <children><child nodeId="node-1215"></child>
         </children>
     </item>
-    <item nodeId="node-1254">
+    <item nodeId="node-1215">
         <command xml:space="preserve">go down</command>
         <result xml:space="preserve">You jump from the wall on the statue and then on the ground. You hurry up because you can hear the ritual chant getting closer!
 
@@ -2480,7 +2479,7 @@ You can also see an Aztec Statue here.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1203">
+    <item nodeId="node-1216">
         <command xml:space="preserve">past</command>
         <result xml:space="preserve">
 Mexico City
@@ -2489,10 +2488,10 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1204"></child>
+        <children><child nodeId="node-1217"></child>
         </children>
     </item>
-    <item nodeId="node-1204">
+    <item nodeId="node-1217">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Wuhan
@@ -2505,10 +2504,10 @@ You can see a dirty masks here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1205"></child>
+        <children><child nodeId="node-1218"></child>
         </children>
     </item>
-    <item nodeId="node-1205">
+    <item nodeId="node-1218">
         <command xml:space="preserve">jump</command>
         <result xml:space="preserve">If you insist. 
 
@@ -2530,7 +2529,7 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
 &gt; </result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1256">
+    <item nodeId="node-1219">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">
 Blizzard
@@ -2540,10 +2539,10 @@ You can see an ice storm here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1257"></child>
+        <children><child nodeId="node-1220"></child>
         </children>
     </item>
-    <item nodeId="node-1257">
+    <item nodeId="node-1220">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">
 Alexandria's Library
@@ -2553,10 +2552,10 @@ You can see one hundred Books here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1258"></child>
+        <children><child nodeId="node-1221"></child>
         </children>
     </item>
-    <item nodeId="node-1258">
+    <item nodeId="node-1221">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">
 Druid's tent
@@ -2570,17 +2569,17 @@ You can also see a small altar (on which are a rounded jar (closed), a skinny ja
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1206">
+    <item nodeId="node-1222">
         <command xml:space="preserve">future</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1209"></child>
-            <child nodeId="node-1207"></child>
+        <children><child nodeId="node-1225"></child>
+            <child nodeId="node-1223"></child>
         </children>
     </item>
-    <item nodeId="node-1207">
+    <item nodeId="node-1223">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Wuhan
@@ -2593,10 +2592,10 @@ You can see a dirty masks here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1208"></child>
+        <children><child nodeId="node-1224"></child>
         </children>
     </item>
-    <item nodeId="node-1208">
+    <item nodeId="node-1224">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">
 Mexico City
@@ -2606,7 +2605,7 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1209">
+    <item nodeId="node-1225">
         <command xml:space="preserve">past</command>
         <result xml:space="preserve">
 Mexico City
@@ -2615,10 +2614,10 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1210"></child>
+        <children><child nodeId="node-1226"></child>
         </children>
     </item>
-    <item nodeId="node-1210">
+    <item nodeId="node-1226">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Wuhan
@@ -2631,10 +2630,10 @@ You can see a dirty masks here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1211"></child>
+        <children><child nodeId="node-1227"></child>
         </children>
     </item>
-    <item nodeId="node-1211">
+    <item nodeId="node-1227">
         <command xml:space="preserve">jump</command>
         <result xml:space="preserve">If you insist. 
  Many people died on the battlefield against the coronavirus. 
@@ -2652,16 +2651,16 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
 &gt; </result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1212">
+    <item nodeId="node-1228">
         <command xml:space="preserve">futur</command>
         <result xml:space="preserve">That's not a verb I recognise.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1213"></child>
+        <children><child nodeId="node-1229"></child>
         </children>
     </item>
-    <item nodeId="node-1213">
+    <item nodeId="node-1229">
         <command xml:space="preserve">future</command>
         <result xml:space="preserve">
 Mexico City
@@ -2670,10 +2669,10 @@ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting q
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1214"></child>
+        <children><child nodeId="node-1230"></child>
         </children>
     </item>
-    <item nodeId="node-1214">
+    <item nodeId="node-1230">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 Wuhan
@@ -2686,10 +2685,10 @@ You can see a dirty masks here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1215"></child>
+        <children><child nodeId="node-1231"></child>
         </children>
     </item>
-    <item nodeId="node-1215">
+    <item nodeId="node-1231">
         <command xml:space="preserve">south</command>
         <result xml:space="preserve">
 New Delhi
@@ -2699,10 +2698,10 @@ Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1216"></child>
+        <children><child nodeId="node-1232"></child>
         </children>
     </item>
-    <item nodeId="node-1216">
+    <item nodeId="node-1232">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">
 Wuhan
@@ -2715,44 +2714,44 @@ You can see a dirty masks here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1217"></child>
+        <children><child nodeId="node-1233"></child>
         </children>
     </item>
-    <item nodeId="node-1217">
+    <item nodeId="node-1233">
         <command xml:space="preserve">jump</command>
         <result xml:space="preserve">You jump on the spot.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1240">
+    <item nodeId="node-1234">
         <command xml:space="preserve">climb</command>
         <result xml:space="preserve">What do you want to climb?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1241"></child>
+        <children><child nodeId="node-1235"></child>
         </children>
     </item>
-    <item nodeId="node-1241">
+    <item nodeId="node-1235">
         <command xml:space="preserve">get on aztec statue</command>
         <result xml:space="preserve">You get onto the Aztec Statue.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1242"></child>
+        <children><child nodeId="node-1236"></child>
         </children>
     </item>
-    <item nodeId="node-1242">
+    <item nodeId="node-1236">
         <command xml:space="preserve">climb</command>
         <result xml:space="preserve">What do you want to climb?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1243"></child>
+        <children><child nodeId="node-1237"></child>
         </children>
     </item>
-    <item nodeId="node-1243">
+    <item nodeId="node-1237">
         <command xml:space="preserve">climb wall</command>
         <result xml:space="preserve">(first getting off the Aztec Statue)
 As you are not an athlete, this operation is proving very difficult; but you manage to pull yourself up.
@@ -2764,44 +2763,44 @@ You can see a sharp collarbone here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1244"></child>
+        <children><child nodeId="node-1238"></child>
         </children>
     </item>
-    <item nodeId="node-1244">
+    <item nodeId="node-1238">
         <command xml:space="preserve">take callarbone</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1245"></child>
+        <children><child nodeId="node-1239"></child>
         </children>
     </item>
-    <item nodeId="node-1245">
+    <item nodeId="node-1239">
         <command xml:space="preserve">take pen</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1246"></child>
+        <children><child nodeId="node-1240"></child>
         </children>
     </item>
-    <item nodeId="node-1246">
+    <item nodeId="node-1240">
         <command xml:space="preserve">x callarbone</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1218">
+    <item nodeId="node-1241">
         <command xml:space="preserve"></command>
         <result xml:space="preserve">I beg your pardon?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1219"></child>
+        <children><child nodeId="node-1242"></child>
         </children>
     </item>
-    <item nodeId="node-1219">
+    <item nodeId="node-1242">
         <command xml:space="preserve">open big door</command>
         <result xml:space="preserve">The shaking ground gets you out of your reveries. Is it an earthquake ? Is it a bomb ? In any case you hold on to that door knob with all your strength. Too bad, a strong wind sucks you inward before you can gasp for help.  
 
@@ -2825,170 +2824,170 @@ You were one of them.
 Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
 &gt; </result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1220"></child>
+        <children><child nodeId="node-1243"></child>
         </children>
     </item>
-    <item nodeId="node-1220">
+    <item nodeId="node-1243">
         <command xml:space="preserve">go east</command>
         <result xml:space="preserve">Please give one of the answers above.
 
 Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
 &gt; </result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1221"></child>
+        <children><child nodeId="node-1244"></child>
         </children>
     </item>
-    <item nodeId="node-1221">
+    <item nodeId="node-1244">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">Please give one of the answers above.
 
 Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
 &gt; </result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1222"></child>
+        <children><child nodeId="node-1245"></child>
         </children>
     </item>
-    <item nodeId="node-1222">
+    <item nodeId="node-1245">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">Please give one of the answers above.
 
 Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
 &gt; </result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1223"></child>
+        <children><child nodeId="node-1246"></child>
         </children>
     </item>
-    <item nodeId="node-1223">
+    <item nodeId="node-1246">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">Please give one of the answers above.
 
 Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
 &gt; </result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1224"></child>
+        <children><child nodeId="node-1247"></child>
         </children>
     </item>
-    <item nodeId="node-1224">
+    <item nodeId="node-1247">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">Please give one of the answers above.
 
 Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
 &gt; </result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1225"></child>
+        <children><child nodeId="node-1248"></child>
         </children>
     </item>
-    <item nodeId="node-1225">
+    <item nodeId="node-1248">
         <command xml:space="preserve">take scally skin</command>
         <result xml:space="preserve">Please give one of the answers above.
 
 Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
 &gt; </result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1226"></child>
+        <children><child nodeId="node-1249"></child>
         </children>
     </item>
-    <item nodeId="node-1226">
+    <item nodeId="node-1249">
         <command xml:space="preserve">scaly skin</command>
         <result xml:space="preserve">Please give one of the answers above.
 
 Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
 &gt; </result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1227"></child>
+        <children><child nodeId="node-1250"></child>
         </children>
     </item>
-    <item nodeId="node-1227">
+    <item nodeId="node-1250">
         <command xml:space="preserve">take scaly skin</command>
         <result xml:space="preserve">Please give one of the answers above.
 
 Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
 &gt; </result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1228"></child>
+        <children><child nodeId="node-1251"></child>
         </children>
     </item>
-    <item nodeId="node-1228">
+    <item nodeId="node-1251">
         <command xml:space="preserve">take stick</command>
         <result xml:space="preserve">Please give one of the answers above.
 
 Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
 &gt; </result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1229"></child>
+        <children><child nodeId="node-1252"></child>
         </children>
     </item>
-    <item nodeId="node-1229">
+    <item nodeId="node-1252">
         <command xml:space="preserve">take scaly skin</command>
         <result xml:space="preserve">Please give one of the answers above.
 
 Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
 &gt; </result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1230"></child>
+        <children><child nodeId="node-1253"></child>
         </children>
     </item>
-    <item nodeId="node-1230">
+    <item nodeId="node-1253">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">Please give one of the answers above.
 
 Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
 &gt; </result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1231"></child>
+        <children><child nodeId="node-1254"></child>
         </children>
     </item>
-    <item nodeId="node-1231">
+    <item nodeId="node-1254">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">Please give one of the answers above.
 
 Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
 &gt; </result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1232"></child>
+        <children><child nodeId="node-1255"></child>
         </children>
     </item>
-    <item nodeId="node-1232">
+    <item nodeId="node-1255">
         <command xml:space="preserve">go east</command>
         <result xml:space="preserve">Please give one of the answers above.
 
 Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
 &gt; </result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1233"></child>
+        <children><child nodeId="node-1256"></child>
         </children>
     </item>
-    <item nodeId="node-1233">
+    <item nodeId="node-1256">
         <command xml:space="preserve">go east</command>
         <result xml:space="preserve">Please give one of the answers above.
 
 Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
 &gt; </result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1234"></child>
+        <children><child nodeId="node-1257"></child>
         </children>
     </item>
-    <item nodeId="node-1234">
+    <item nodeId="node-1257">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">Please give one of the answers above.
 
 Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
 &gt; </result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1235"></child>
+        <children><child nodeId="node-1258"></child>
         </children>
     </item>
-    <item nodeId="node-1235">
+    <item nodeId="node-1258">
         <command xml:space="preserve">take stick</command>
         <result xml:space="preserve">Please give one of the answers above.
 
 Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
 &gt; </result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1236"></child>
+        <children><child nodeId="node-1259"></child>
         </children>
     </item>
-    <item nodeId="node-1236">
+    <item nodeId="node-1259">
         <command xml:space="preserve">take scaly skin</command>
         <result xml:space="preserve">Please give one of the answers above.
 
