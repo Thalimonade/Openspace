@@ -323,12 +323,14 @@ Instead of doing something other than going when the ice storm is in the locatio
 
 Section 9 - Africa 
 
-Savannah is a room. Savannah is north of Scientific base camp. The description of the Savannah is "The future is just a pile of stones and the past is a pile of ancient knowledge. From the south comes very cold air.[line break][line break]It seems like you are standing in the middle of Savannah in the present day.".
+Savannah is a room. Savannah is north of Scientific base camp. The description of the Savannah is "The future is just a pile of stones and the past is a pile of ancient knowledge. From the south comes very cold air.[line break][line break]It seems like you are standing in the middle of Savannah in the present day. dried weeds caress your chins as you stare into the distance. You've hear on some National Geographic documentary that lions sleep during most of the day, you hope the sun doesn't leave you just yet.".
 
 The shiny door is a door. It is south of the office and north of Savannah. The shiny door is lockable and locked. The matching key of the shiny door is the Golden Key.  "[if the player is in Savannah]A big and modern glass door. You know, that opaque kind of glass which looks very expensive. [end if]"
  
 
-Alexandria's Library is a room. Alexandria's Library is west of Savannah and north of Blizzard. The description of the Alexandria's Library is "This is probably the greatest sanctuary of knowledge of all time. There are tons of books in there. They don't seem to be arranged in any specific order. You realize just how much looking up stuff was an elephantine task before the Internet.".
+Alexandria's Library is a room. Alexandria's Library is west of Savannah and north of Blizzard. The description of the Alexandria's Library is "The future and the south offer landscapes worthy of a BBC documentary, although the former garentees à warm weather while the latter promises frost bites. The north holds magic and mystical encounters. [paragraph break]
+
+This is probably the greatest sanctuary of knowledge of all time. There are tons of books in there. They don't seem to be arranged in any specific order. You realize just how much looking up stuff was an elephantine task before the Internet.".
 
 A Book is a kind of thing. The description of a Book is "You can browse it if you want to. You might find some useful info here.".
 A Blank Page is a thing. 
@@ -349,7 +351,7 @@ Carry out browsing a book:
 		say "The book is written in an ancient language you have never seen before. You don't understand anything. Try another one.";
 
 
-Souk Ruins is a room. Souk Ruins is east of Savannah. The description of Souk Ruins is "A labyrinthine series of corridors unfolds in front of you. The stones that pave the ground reflect the dazzling sunlight".
+Souk Ruins is a room. Souk Ruins is east of Savannah. The description of Souk Ruins is "The past and north is what some would call a wildlife sanctuaries, although they nest very different creatures. as for the south, it leads to every city men's dream: The peak of urban modernism. [paragraph break]A labyrinthine series of corridors unfolds in front of you. The stones that pave the ground reflect the dazzling sunlight".
 The Chest is in the Souk Ruins.
 The Oil Lamp is in the Chest.
 The Golden Key is in the Oil Lamp.
