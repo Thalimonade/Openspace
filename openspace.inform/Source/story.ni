@@ -300,7 +300,8 @@ Instead of searching the researcher when the researcher carries the Mont Blanc q
 	move the Mont Blanc quill to the player.
 
 
-Utopian City is a room in the Antarctica. Utopian City is east of Scientific base camp and south of souk ruins. The description of the Utopian City is "Cars finally float on air cushions and plants co-exist with skyscrapers in a friendly and aesthetic way. "
+Utopian City is a room in the Antarctica. Utopian City is east of Scientific base camp and south of souk ruins. The description of the Utopian City is "North is full of ruins when south is swarming with strange and enormous insects.[line break][line break]
+Here, cars finally float on air cushions and plants co-exist with skyscrapers in a friendly and aesthetic way. "
 
 The floating car is a vehicle in the Utopian City. "A flying car is floating in front of you." The description is "The flying car goes up and down in a very fluide way. It is completely made of glass and its shape is oval and sleek." 
 
@@ -311,7 +312,8 @@ Instead of taking the pass:
 	move the pass to the player.
 
 
-Blizzard is a room in Antarctica. Blizzard is west of Scientific base camp and north of Aztec temple. The description of Blizzard is "Leave this place, you are in a primitive icy storm. The wind pierces your clothes and shut your eyes closed. You don't want to spend too much time in here. As you are reading this, your toes are getting frozen and threatens to fall. With your office clothes, you don't stand a chance. If you stay here few more seconds, you'll never see your beloved office again."
+Blizzard is a room in Antarctica. Blizzard is west of Scientific base camp and north of Aztec temple. The description of Blizzard is "The future looks kind of the same as here, but lest hostile and with igloos. South is a temple and you can hear what seems to be sacred chants. North is filled with knowledge.[line break][line break]
+Leave this place, you are in a primitive icy storm. The wind pierces your clothes and shut your eyes closed. You don't want to spend too much time in here. As you are reading this, your toes are getting frozen and threatens to fall. With your office clothes, you don't stand a chance. If you stay here few more seconds, you'll never see your beloved office again."
 
 The ice storm is a thing. 
 before going to Blizzard, move the ice storm to Blizzard.
@@ -321,7 +323,7 @@ Instead of doing something other than going when the ice storm is in the locatio
 
 Section 9 - Africa 
 
-Savannah is a room. Savannah is north of Scientific base camp. The description of the Savannah is "Savannah today".
+Savannah is a room. Savannah is north of Scientific base camp. The description of the Savannah is "The future the future is just a pile of stones and the past is a pile of ancient knowledge. From the south comes very cold air.[line break][line break]It seems like you are standing in the middle of Savannah in the present day.".
 
 The shiny door is a door. It is south of the office and north of Savannah. The shiny door is lockable and locked. The matching key of the shiny door is the Golden Key.  "[if the player is in Savannah]A big and modern glass door. You know, that opaque kind of glass which looks very expensive. [end if]"
  
