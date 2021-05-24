@@ -66,7 +66,11 @@ Instead of taking the scaly skin:
 	otherwise: 
 		say "You want to get in there with your bare hands? What got into you?!";
 
-The familiar looking door is a door. It is east of the office and west of the swamps. The familiar looking door is lockable and locked. The matching key of the familiar looking door is the universal magnetic pass. "A big and modern glass door. You know, that opaque kind of glass which looks very expensive. This door, however, looks more modern than the ones you have encoutered before, the knob has been replaced by a little blue screen, as if it was meant to be opened with some kind of beeper or pass." 
+The familiar looking door is a door. It is east of the office and west of the swamps. The familiar looking door is lockable and locked. The matching key of the familiar looking door is the universal magnetic pass. "A big and modern glass door. You know, that opaque kind of glass which looks very expensive. This door, however, looks more modern than the ones you have encoutered before, the knob has been replaced by a little blue screen, as if it was meant to be opened with some kind of beeper or pass."
+Check opening the familiar door:
+	say "[If the player carries a pen]You got the pen, but where are the people supposed to sign on?[otherwise]Shouldn't you bring back a pen?[end if]";
+	say "[If the player carries a paper]You got the paper, but with what are the people supposed to sign with?[otherwise]Shouldn't you bring back a paper?[end if]";
+	say "[If the player carries a paper and the player carries a pen]Well done! You accomplished your mission by bringing back a paper and a pen[end if]". 
 
 
 Druid's tent is a room. Druid's tent is north of Alexandria's Library and south of Maharaja's palace. The description of the Druid's tent is "To the south,  you can see a huge marble palace far away. When you look to the north, it seems like there is an ancient building in a hot place.[line break][line break]An old Celtic druid's tent, just like you imagined them. Drapy curtens frame passageways going north and south, they are too thick for you to see threw them. At the very back of the tent, behind all of the mess, you see a [back door]. Strangely enough, it looks like the one form your office ".
@@ -81,6 +85,11 @@ Instead of opening the back door when the player carries the full skinny jar:
 
 Instead of opening the back door when the player does not carry the skinny jar:
 	say "This is no ordinary lock, it looks like it only responds to magic."
+	
+Check opening the back door:
+	say "[If the player carries a pen]You got the pen, but where are the people supposed to sign on?[otherwise]Shouldn't you bring back a pen?[end if]";
+	say "[If the player carries a paper]You got the paper, but with what are the people supposed to sign with?[otherwise]Shouldn't you bring back a paper?[end if]";
+	say "[If the player carries a paper and the player carries a pen]Well done! You accomplished your mission by bringing back a paper and a pen[end if]".
 
 The shelves are a supporter in the Druid's tent.  "The tent is cramped with peculiar shelves. They are made of thick lumber on which rests an army of glass jars filled with colorful liquids. Each jar is labeled with small srips of paper filled with a handwriting you can bearly decipher."
 
@@ -144,7 +153,11 @@ section 5 - India
 New Delhi is a room. The description of the New Delhi is "In the future is Yogi's retreat and in the past is Maharaja's palace. To the north is a huge modern city.[line break][line break]
 You are now in the city center of New Dehli nowadays: your senses are flooded with all kinds of informations. The smells of a thousand spices assault your nostrils from a street market on your right hand and their colors fill up your soul like flowers during spring, birds are singing and market sellers seem to be singing out the prices of their marchandises; the whole thing is wrapped up in a whirlwind of scooters and tuktuks, adding a deeply human touch to the frenzy of the moment."
 
-The modern glass door is a door. It is south of New Delhi and north of the office. The modern glass door is lockable and locked.  "Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn't seem to belong here: a modern glass door. You know, that opaque kind of glass which looks very expensive. Of course you'd know, your office has the same ones!"
+The modern glass door is a door. It is south of New Delhi and north of the office. The modern glass door is lockable and locked.  "Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn't seem to belong here: a modern glass door. You know, that opaque kind of glass which looks very expensive. Of course you'd know, your office has the same ones!".
+Check opening the modern glass door:
+	say "[If the player carries a pen]You got the pen, but where are the people supposed to sign on?[otherwise]Shouldn't you bring back a pen?[end if]";
+	say "[If the player carries a paper]You got the paper, but with what are the people supposed to sign with?[otherwise]Shouldn't you bring back a paper?[end if]";
+	say "[If the player carries a paper and the player carries a pen]Well done! You accomplished your mission by bringing back a paper and a pen[end if]".
 
 
 Yogi's retreat is a room. Yogi's retreat is east of New Delhi. The description of the Yogi's retreat is "In the past is the city center of New Delhi. South is muddy and wet when north is full of lights and distand hubbub.[line break][line break]
@@ -328,6 +341,10 @@ Savannah is a room. Savannah is north of Scientific base camp. The description o
 
 The shiny door is a door. It is south of the office and north of Savannah. The shiny door is lockable and locked. The matching key of the shiny door is the Golden Key.  "[if the player is in Savannah]A big and modern glass door. You know, that opaque kind of glass which looks very expensive. [end if]"
  
+Check opening the shiny door:
+	say "[If the player carries a pen]You got the pen, but where are the people supposed to sign on?[otherwise]Shouldn't you bring back a pen?[end if]";
+	say "[If the player carries a paper]You got the paper, but with what are the people supposed to sign with?[otherwise]Shouldn't you bring back a paper?[end if]";
+	say "[If the player carries a paper and the player carries a pen]Well done! You accomplished your mission by bringing back a paper and a pen[end if]".
 
 Alexandria's Library is a room. Alexandria's Library is west of Savannah and north of Blizzard. The description of the Alexandria's Library is "The future and the south offer landscapes worthy of a BBC documentary, although the former garentees à warm weather while the latter promises frost bites. The north holds magic and mystical encounters. [paragraph break]
 

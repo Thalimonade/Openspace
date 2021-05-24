@@ -157,15 +157,24 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
 
 One has to be careful with what he wishes for nowadays... Wherever you land, you better find your way back to your meeting, fast, and with the correct supplies.
 
-Aztec temple
-In the future is Mexico City.
-The humming of a ritual chant bounces on the stone walls, you came right on time for the human sacrifice ! It seems like you landed in the past of Latin America and that the great Aztec civilization is at its peak.
+If you insist. 
 
-A middle sized wall built in a strangely intelligent way with huge stones. It is too big for you to climb..
 
-You can also see an Aztec Statue here.
+Many people died on the battlefield against the coronavirus. 
 
-&gt;</result>
+First to be hit were the people of Wuhan.
+
+You were one of them.
+
+
+
+    *** The End ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
         <commentary xml:space="preserve"></commentary>
         <children><child nodeId="node-1156"></child>
             <child nodeId="node-1118"></child>
@@ -183,7 +192,8 @@ You can also see an Aztec Statue here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1015"></child>
+        <children><child nodeId="node-1333"></child>
+            <child nodeId="node-1015"></child>
         </children>
     </item>
     <item nodeId="node-1015">
@@ -421,6 +431,100 @@ You can also see a shiny door here.
 Shouldn't you bring back a paper and a pen?
 Shouldn't you bring back a pen?
 You got the paper, but with what are the people supposed to sign with?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1333">
+        <command xml:space="preserve">open doo</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1334"></child>
+        </children>
+    </item>
+    <item nodeId="node-1334">
+        <command xml:space="preserve">open door</command>
+        <result xml:space="preserve">The shaking ground gets you out of your reveries. Is it an earthquake ? Is it a bomb ? In any case you hold on to that door knob with all your strength. Too bad, a strong wind sucks you inward before you can gasp for help.  
+
+ Well well, dear player, the dimesions heard you and sent you quite far away. As you just entered a time and space traveling journey you ought to know that taking a strall to the east fast forwards you to the futur, the west brings you back to the past. As for north and south, they will change your location, letting you roam threw different continents.  
+
+One has to be careful with what he wishes for nowadays... Wherever you land, you better find your way back to your meeting, fast, and with the correct supplies.
+
+Aztec temple
+In the future is Mexico City.
+The humming of a ritual chant bounces on the stone walls, you came right on time for the human sacrifice ! It seems like you landed in the past of Latin America and that the great Aztec civilization is at its peak.
+
+A middle sized wall built in a strangely intelligent way with huge stones. It is too big for you to climb..
+
+You can also see an Aztec Statue here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1335"></child>
+        </children>
+    </item>
+    <item nodeId="node-1335">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Chinese Workshop
+In the future is Wuhan. In the north - deep in the distance - lays a huge brown and gold temple, could be in South America. If you turn you back to it, you can see another temple which looks more like a sanctuary, asian style.
+
+ This workshop is A small and dusty room, with a little window that opens to a wide rice field. The air is tick and gloomy due to the arrival of the rain season. An old artisan wearing a straw hat and loose hemp clothes is making rice paper at the back of the room. You slowly approach the man and, after bending towards in sign of respect, you ask him: - Sir, may I borrow one of these papers please? - Yes, of course, go ahead.
+
+You can see an artisan here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1336"></child>
+        </children>
+    </item>
+    <item nodeId="node-1336">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Maharaja's palace
+In the future is the city center of New Delhi. From what you can see, south seems like a place in north europa when north looks more chinese. It is definitely difficult to understand the geography of this strange world. 
+
+ The imposing white marble palace is surrounded by the magnificent gardens of prince Abdul the second. Multiple fountains provide fresh water for the animals that reside in the gardens: birds of all colors and sizes that sing from dawn till dusk, little monkeys that jump from tree to tree while attempting to steal whatever you're eating, as welll as magestic and colorful peacocks spreading their feathers into gorgeous fans. While ooking at one of the peacocks, you think to yourself: I bet I could use one of its feathers as a pen...
+
+You can see a Peacock here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1337"></child>
+        </children>
+    </item>
+    <item nodeId="node-1337">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1338"></child>
+        </children>
+    </item>
+    <item nodeId="node-1338">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+New Delhi
+In the future is Yogi's retreat and in the past is Maharaja's palace. To the north is a huge modern city.
+
+ You are now in the city center of New Dehli nowadays: your senses are flooded with all kinds of informations. The smells of a thousand spices assault your nostrils from a street market on your right hand and their colors fill up your soul like flowers during spring, birds are singing and market sellers seem to be singing out the prices of their marchandises; the whole thing is wrapped up in a whirlwind of scooters and tuktuks, adding a deeply human touch to the frenzy of the moment.
+
+Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn't seem to belong here: a modern glass door. You know, that opaque kind of glass which looks very expensive. Of course you'd know, your office has the same ones!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1339"></child>
+        </children>
+    </item>
+    <item nodeId="node-1339">
+        <command xml:space="preserve">open door</command>
+        <result xml:space="preserve">Shouldn't you bring back a pen?
+Shouldn't you bring back a paper?
+
+It seems to be locked.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
