@@ -206,8 +206,9 @@ Report playing: say "The cards spins and swirles is spirals of black and red. Th
 Instead of unlocking when the player carries the pistol: 
 	say "Pfffffff BOOM!! The lazer beem destroys the door and offers you an open pathway towards your beloved office.";
 	move the player to the office;
-		say "[If the player carries a pen]You got the pen, but where are the people supposed to sign on?[otherwise]Shouldn't you bring back a pen?[end if]";
-		say "[If the player carries a paper]You got the paper, but with what are the people supposed to sign with?[otherwise]Shouldn't you bring back a paper?[end if]".
+	say "[If the player carries a pen]You got the pen, but where are the people supposed to sign on?[otherwise]Shouldn't you bring back a pen?[end if]";
+	say "[If the player carries a paper]You got the paper, but with what are the people supposed to sign with?[otherwise]Shouldn't you bring back a paper?[end if]";
+	say "[If the player carries a paper and the player carries a pen]Well done! You accomplished your mission by bringing back a paper and a pen[end if]".
 		
 	
 Chinese Workshop is a room. Chinese Workshop is west of Wuhan, south of Aztec temple and north of Maharaja's palace. The description of the Chinese Workshop is "In the future is Wuhan. In the north - deep in the distance - lays a huge brown and gold temple, could be in South America. If you turn you back to it, you can see another temple which looks more like a sanctuary, asian style.[line break][line break]

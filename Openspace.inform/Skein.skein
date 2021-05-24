@@ -9,7 +9,7 @@
 
 Open Space
 An Interactive Fiction by Thalie Schmidt, Laura Pippus, David Pavlik et Ludovic Rochat
-Release 1 / Serial number 210517 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+Release 1 / Serial number 210524 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
 
 The office
 Your boss and yourself are in the midst of stormy negotiations with new potential associates. The atmosphere is tense, so much so that you can feel sweat beads dripping down your tailored shirt as your sticky hands pound on your laptop keyboard. Your boss sits at your left while two other gentlemen sit straight across from you both. All of you have been in here, bargaining over contract terms, for quite a while now and you wrists are staring to ache as you write and erase what the others tell you to. The shadows you cast on the white office walls gently shift as the sun goes down,  you wish they had come up to an agreement by now.
@@ -157,30 +157,22 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
 
 One has to be careful with what he wishes for nowadays... Wherever you land, you better find your way back to your meeting, fast, and with the correct supplies.
 
-If you insist. 
+Aztec temple
+In the future is Mexico City.
+The humming of a ritual chant bounces on the stone walls, you came right on time for the human sacrifice ! It seems like you landed in the past of Latin America and that the great Aztec civilization is at its peak.
 
+A middle sized wall built in a strangely intelligent way with huge stones. It is too big for you to climb..
 
-Many people died on the battlefield against the coronavirus. 
+You can also see an Aztec Statue here.
 
-First to be hit were the people of Wuhan.
-
-You were one of them.
-
-
-
-    *** The End ***
-
-
-
-
-Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
-&gt; </result>
+&gt;</result>
         <commentary xml:space="preserve"></commentary>
         <children><child nodeId="node-1156"></child>
             <child nodeId="node-1118"></child>
             <child nodeId="node-1110"></child>
             <child nodeId="node-1104"></child>
             <child nodeId="node-1025"></child>
+            <child nodeId="node-1263"></child>
             <child nodeId="node-1014"></child>
         </children>
     </item>
@@ -202,10 +194,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
 
 One has to be careful with what he wishes for nowadays... Wherever you land, you better find your way back to your meeting, fast, and with the correct supplies.
 
-Scientific Base Camp
-Present of Antarctica. The only thing you see beyond the camp's igloos is ice and extracted ice caps. You don't want to spend too much time here unless you always wanted to be a human ice cream. The igloos are scattered over a large area, but one is not far away. If you want to go inside, you'll have to crawl through the tunnel.
+Scorpion World
+In the past is Mexico City. North and south seems to be far in the future; the first one is animated by iron and glass things flying through blue skies ans the second is filled with light and cashmachine sounds.
 
-You can see a tunnel here.
+ Here you step into the future of Latin America. As time passed, a lot of species went extinct. Not scorpions though, scorpions got bigger. Unfortunately, way bigger than you. The whole contient mutated into a huge conurbation of enormous scorpion nests: you are in the middle of it. In front of you is one of those scorpion nest.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
@@ -215,13 +207,17 @@ You can see a tunnel here.
     <item nodeId="node-1016">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">
-Mexico City
-In the future is Scorpion's World and in the past is an Aztec Temple.
-Gunshots pierce the sky as you cross the road of today's Mexico. It is getting quite dark and you don't want any trouble. You see four similarly unwellcoming alleyways each leading in different directions: south, north, east and west.
+Futuristic Casino
+In the past, Wuhan was here. You can't be sure, but in the north you might be seeing what looks like weird huge dinosaurs; nothing surprises you anymore... Not even the sanctuary that is in the opposite direction.
+
+ But now, a milion colorful and blinking neon lights iluminate the corridors, and a pathway covered in a fluffy carpet leads you to the Black Jack table. A robot serves you a sparkling drink as the crowd gathered around Black Jack table cheers. You overhear a conversation and it seems like the winner gets a pistol, which could be very useful in opening doors... Since you are here, you might want to try your luck playing the Black Jack. 
+
+You can see a Black Jack table (in which is a pistol) here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1017"></child>
+        <children><child nodeId="node-1314"></child>
+            <child nodeId="node-1017"></child>
         </children>
     </item>
     <item nodeId="node-1017">
@@ -326,12 +322,353 @@ Shouldn't you bring back a paper?
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
+    <item nodeId="node-1314">
+        <command xml:space="preserve">play black jack</command>
+        <result xml:space="preserve">The cards spins and swirles is spirals of black and red. The man to your left has been here for quite a while, hypnothised by the agility of the card dealer. He layed all his coins on the velvety matt, and has been here long enough to see his gains double and then disapear all together. The last thing he has left to bet is a lazer pistol, and so he bets it. 
+ His last glimp of hope leaves his eyes as he watches you flip the winning card and get away with his pistol.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1315"></child>
+        </children>
+    </item>
+    <item nodeId="node-1315">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Wuhan
+In the future is a Futuristic Casino and in the past is a Chinese Workshop. To the north is a huge modern city and in the opposite direction is filled whit colors, sounds and human interaction.
+
+A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... 
+
+it might be better for you to leave Wuhan as fast as possible.
+
+You can see a dirty masks here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1316"></child>
+        </children>
+    </item>
+    <item nodeId="node-1316">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Chinese Workshop
+In the future is Wuhan. In the north - deep in the distance - lays a huge brown and gold temple, could be in South America. If you turn you back to it, you can see another temple which looks more like a sanctuary, asian style.
+
+ This workshop is A small and dusty room, with a little window that opens to a wide rice field. The air is tick and gloomy due to the arrival of the rain season. An old artisan wearing a straw hat and loose hemp clothes is making rice paper at the back of the room. You slowly approach the man and, after bending towards in sign of respect, you ask him: - Sir, may I borrow one of these papers please? - Yes, of course, go ahead.
+
+You can see an artisan here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1317"></child>
+        </children>
+    </item>
+    <item nodeId="node-1317">
+        <command xml:space="preserve">take paper</command>
+        <result xml:space="preserve">You thank the old man for the paper and now you go look for the pen in order to go back to the office.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1318"></child>
+        </children>
+    </item>
+    <item nodeId="node-1318">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Wuhan
+In the future is a Futuristic Casino and in the past is a Chinese Workshop. To the north is a huge modern city and in the opposite direction is filled whit colors, sounds and human interaction.
+
+A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... 
+
+it might be better for you to leave Wuhan as fast as possible.
+
+You can see a dirty masks here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1319"></child>
+        </children>
+    </item>
+    <item nodeId="node-1319">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+New Delhi
+In the future is Yogi's retreat and in the past is Maharaja's palace. To the north is a huge modern city.
+
+ You are now in the city center of New Dehli nowadays: your senses are flooded with all kinds of informations. The smells of a thousand spices assault your nostrils from a street market on your right hand and their colors fill up your soul like flowers during spring, birds are singing and market sellers seem to be singing out the prices of their marchandises; the whole thing is wrapped up in a whirlwind of scooters and tuktuks, adding a deeply human touch to the frenzy of the moment.
+
+Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn't seem to belong here: a modern glass door. You know, that opaque kind of glass which looks very expensive. Of course you'd know, your office has the same ones!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1320"></child>
+        </children>
+    </item>
+    <item nodeId="node-1320">
+        <command xml:space="preserve">unlock door with pistol</command>
+        <result xml:space="preserve">Pfffffff BOOM!! The lazer beem destroys the door and offers you an open pathway towards your beloved office.
+
+office
+Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn't seem to belong here: a modern glass door. You know, that opaque kind of glass which looks very expensive. Of course you'd know, your office has the same ones!
+
+A big and modern glass door. You know, that opaque kind of glass which looks very expensive.
+
+A big and modern glass door. You know, that opaque kind of glass which looks very expensive. This door, however, looks more modern than the ones you have encoutered before, the knob has been replaced by a little blue screen, as if it was meant to be opened with some kind of beeper or pass.
+
+You can also see a shiny door here.
+
+Shouldn't you bring back a paper and a pen?
+Shouldn't you bring back a pen?
+You got the paper, but with what are the people supposed to sign with?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1263">
+        <command xml:space="preserve">take tale</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1264"></child>
+        </children>
+    </item>
+    <item nodeId="node-1264">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1265"></child>
+        </children>
+    </item>
+    <item nodeId="node-1265">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the tunnel)
+You see nothing special about the tunnel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1266"></child>
+        </children>
+    </item>
+    <item nodeId="node-1266">
+        <command xml:space="preserve">touch baby scorpion</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1267"></child>
+        </children>
+    </item>
+    <item nodeId="node-1267">
+        <command xml:space="preserve">take tale</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1268"></child>
+        </children>
+    </item>
+    <item nodeId="node-1268">
+        <command xml:space="preserve">touch baby scorpion</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1269"></child>
+        </children>
+    </item>
+    <item nodeId="node-1269">
+        <command xml:space="preserve">touch</command>
+        <result xml:space="preserve">(the tunnel)
+You feel nothing unexpected.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1270"></child>
+        </children>
+    </item>
+    <item nodeId="node-1270">
+        <command xml:space="preserve">attack baby scorpion</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1271"></child>
+        </children>
+    </item>
+    <item nodeId="node-1271">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Mexico City
+In the future is Scorpion's World and in the past is an Aztec Temple. If you look up north, all is frozen in the distance when in south everything seems be made of steal and concrete.
+
+ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting quite dark and you don't want any trouble, an unharmed guy like you should find a way out of hear. You see four similarly unwellcoming alleyways each leading in different directions: south, north, east and west.
+
+You can see a cartel here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1272"></child>
+        </children>
+    </item>
+    <item nodeId="node-1272">
+        <command xml:space="preserve">play black jack</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1273"></child>
+        </children>
+    </item>
+    <item nodeId="node-1273">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">Oh no. 
+
+Two fighting cartels stumbled onto you, didn't knowing were you stand, the leaders of both cartels shot you to prove their guts to each other.They left you no tim time to escape.
+
+Let Mexico city be your final destination.
+
+
+
+    *** The End ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1274"></child>
+        </children>
+    </item>
+    <item nodeId="node-1274">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">Please give one of the answers above.
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1275"></child>
+        </children>
+    </item>
+    <item nodeId="node-1275">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">Please give one of the answers above.
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1276"></child>
+        </children>
+    </item>
+    <item nodeId="node-1276">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">Please give one of the answers above.
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1277"></child>
+        </children>
+    </item>
+    <item nodeId="node-1277">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">Please give one of the answers above.
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1278"></child>
+        </children>
+    </item>
+    <item nodeId="node-1278">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">Please give one of the answers above.
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1279"></child>
+        </children>
+    </item>
+    <item nodeId="node-1279">
+        <command xml:space="preserve">tale paper</command>
+        <result xml:space="preserve">Please give one of the answers above.
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1280"></child>
+        </children>
+    </item>
+    <item nodeId="node-1280">
+        <command xml:space="preserve">take paper</command>
+        <result xml:space="preserve">Please give one of the answers above.
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1281"></child>
+        </children>
+    </item>
+    <item nodeId="node-1281">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">Please give one of the answers above.
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1282"></child>
+        </children>
+    </item>
+    <item nodeId="node-1282">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">Please give one of the answers above.
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1283"></child>
+        </children>
+    </item>
+    <item nodeId="node-1283">
+        <command xml:space="preserve">open door</command>
+        <result xml:space="preserve">Please give one of the answers above.
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1284"></child>
+        </children>
+    </item>
+    <item nodeId="node-1284">
+        <command xml:space="preserve">use pistol to open door</command>
+        <result xml:space="preserve">Please give one of the answers above.
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1285"></child>
+        </children>
+    </item>
+    <item nodeId="node-1285">
+        <command xml:space="preserve">unlock door with pistol</command>
+        <result xml:space="preserve">Please give one of the answers above.
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
     <item nodeId="node-1025">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">
 Chinese Workshop
-In the future is Wuhan.
-This workshop is A small and dusty room, with a little window that opens to a wide rice field. The air is tick and gloomy due to the arrival of the rain season. An old artisan wearing a straw hat and loose hemp clothes made is making rice paper at the back of the room. You slowly approach the man and, after bending towards in sign of respect, you ask him: - Sir, may I borrow one of these papers please? - Yes, of course, go ahead.
+In the future is Wuhan. In the north - deep in the distance - lays a huge brown and gold temple, could be in South America. If you turn you back to it, you can see another temple which looks more like a sanctuary, asian style.
+
+ This workshop is A small and dusty room, with a little window that opens to a wide rice field. The air is tick and gloomy due to the arrival of the rain season. An old artisan wearing a straw hat and loose hemp clothes is making rice paper at the back of the room. You slowly approach the man and, after bending towards in sign of respect, you ask him: - Sir, may I borrow one of these papers please? - Yes, of course, go ahead.
 
 You can see an artisan here.
 
@@ -340,6 +677,7 @@ You can see an artisan here.
         <children><child nodeId="node-1089"></child>
             <child nodeId="node-1083"></child>
             <child nodeId="node-1050"></child>
+            <child nodeId="node-1323"></child>
             <child nodeId="node-1026"></child>
         </children>
     </item>
@@ -624,6 +962,117 @@ You can see a Black Jack (in which is a hidden pistol) here.
     <item nodeId="node-1049">
         <command xml:space="preserve">x black jack</command>
         <result xml:space="preserve">In the Black Jack is a hidden pistol.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1323">
+        <command xml:space="preserve">take paper</command>
+        <result xml:space="preserve">You thank the old man for the paper and now you go look for the pen in order to go back to the office.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1324"></child>
+        </children>
+    </item>
+    <item nodeId="node-1324">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1325"></child>
+        </children>
+    </item>
+    <item nodeId="node-1325">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Wuhan
+In the future is a Futuristic Casino and in the past is a Chinese Workshop. To the north is a huge modern city and in the opposite direction is filled whit colors, sounds and human interaction.
+
+A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... 
+
+it might be better for you to leave Wuhan as fast as possible.
+
+You can see a dirty masks here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1326"></child>
+        </children>
+    </item>
+    <item nodeId="node-1326">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Futuristic Casino
+In the past, Wuhan was here. You can't be sure, but in the north you might be seeing what looks like weird huge dinosaurs; nothing surprises you anymore... Not even the sanctuary that is in the opposite direction.
+
+ But now, a milion colorful and blinking neon lights iluminate the corridors, and a pathway covered in a fluffy carpet leads you to the Black Jack table. A robot serves you a sparkling drink as the crowd gathered around Black Jack table cheers. You overhear a conversation and it seems like the winner gets a pistol, which could be very useful in opening doors... Since you are here, you might want to try your luck playing the Black Jack. 
+
+You can see a Black Jack table (in which is a pistol) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1327"></child>
+        </children>
+    </item>
+    <item nodeId="node-1327">
+        <command xml:space="preserve">play black jack</command>
+        <result xml:space="preserve">The cards spins and swirles is spirals of black and red. The man to your left has been here for quite a while, hypnothised by the agility of the card dealer. He layed all his coins on the velvety matt, and has been here long enough to see his gains double and then disapear all together. The last thing he has left to bet is a lazer pistol, and so he bets it. 
+ His last glimp of hope leaves his eyes as he watches you flip the winning card and get away with his pistol.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1328"></child>
+        </children>
+    </item>
+    <item nodeId="node-1328">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Wuhan
+In the future is a Futuristic Casino and in the past is a Chinese Workshop. To the north is a huge modern city and in the opposite direction is filled whit colors, sounds and human interaction.
+
+A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... 
+
+it might be better for you to leave Wuhan as fast as possible.
+
+You can see a dirty masks here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1329"></child>
+        </children>
+    </item>
+    <item nodeId="node-1329">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+New Delhi
+In the future is Yogi's retreat and in the past is Maharaja's palace. To the north is a huge modern city.
+
+ You are now in the city center of New Dehli nowadays: your senses are flooded with all kinds of informations. The smells of a thousand spices assault your nostrils from a street market on your right hand and their colors fill up your soul like flowers during spring, birds are singing and market sellers seem to be singing out the prices of their marchandises; the whole thing is wrapped up in a whirlwind of scooters and tuktuks, adding a deeply human touch to the frenzy of the moment.
+
+Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn't seem to belong here: a modern glass door. You know, that opaque kind of glass which looks very expensive. Of course you'd know, your office has the same ones!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1330"></child>
+        </children>
+    </item>
+    <item nodeId="node-1330">
+        <command xml:space="preserve">unlock door with pistol</command>
+        <result xml:space="preserve">Pfffffff BOOM!! The lazer beem destroys the door and offers you an open pathway towards your beloved office.
+
+office
+Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn't seem to belong here: a modern glass door. You know, that opaque kind of glass which looks very expensive. Of course you'd know, your office has the same ones!
+
+A big and modern glass door. You know, that opaque kind of glass which looks very expensive.
+
+A big and modern glass door. You know, that opaque kind of glass which looks very expensive. This door, however, looks more modern than the ones you have encoutered before, the knob has been replaced by a little blue screen, as if it was meant to be opened with some kind of beeper or pass.
+
+You can also see a shiny door here.
+
+Shouldn't you bring back a pen?
+You got the paper, but with what are the people supposed to sign with?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
