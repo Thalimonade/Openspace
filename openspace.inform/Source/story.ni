@@ -67,7 +67,7 @@ Carry out showing to the boss:
 	if the noun is a Blank page:
 		say "The boss says: 'I don't want to know where you found that. I hope you have a pen that you haven't stolen...'";
 	if the noun is a Mont Blanc quill:
-		say "The boss says: 'Wow, this is some beautiful of equipment. Our new associates will be impressed !'";
+		say "The boss says: 'Wow, this is some beautiful piece of equipment. Our new associates will be impressed ! Now listen to our plan and take good notes of it!' Your boring life resumes.";
 		end the story;
 	if the noun is a feather:
 		say "The boss says: 'Ok, this will add a touch of medieval solemnity to our ritual. But you are definitely some kind of crazy clerk. Now listen to our plan and take good notes of it!' Your boring life resumes.";
