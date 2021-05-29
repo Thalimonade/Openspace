@@ -96,8 +96,8 @@ Instead of taking the scaly skin:
 
 The familiar looking door is a door. It is east of the office and west of the swamps. The familiar looking door is lockable and locked. The matching key of the familiar looking door is the universal magnetic pass. "A big and modern glass door. You know, that opaque kind of glass which looks very expensive. This door, however, looks more modern than the ones you have encoutered before, the knob has been replaced by a little blue screen, as if it was meant to be opened with some kind of beeper or pass."
 Check opening the familiar door:
-	say "[If the player carries a pen]You got the pen, but where are the people supposed to sign on?[otherwise]Shouldn't you bring back a pen?[end if]";
-	say "[If the player carries a paper]You got the paper, but with what are the people supposed to sign with?[otherwise]Shouldn't you bring back a paper?[end if]";
+	say "[If the player carries a pen and the player does not carry a paper]You got the pen, but where are the people supposed to sign on?[otherwise]Shouldn't you bring back a pen?[end if]";
+	say "[If the player carries a paper and the player does not carry a pen]You got the paper, but with what are the people supposed to sign with?[otherwise]Shouldn't you bring back a paper?[end if]";
 	say "[If the player carries a paper and the player carries a pen]Well done! You accomplished your mission by bringing back a paper and a pen[end if]". 
 
 
