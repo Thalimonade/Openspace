@@ -391,6 +391,8 @@ Carry out browsing a book:
 	if a random chance of 1 in 10 succeeds:
 		say "There is a Blank Page in the book. You tear it and put it in your pocket.";
 		now the player has a Blank Page;
+	otherwise:
+		say "The book is written in an ancient language you have never seen before. You don't understand anything. Try another one.";
 	if  a random chance of 1 in 20 succeeds:
 		say "This looks like ancient Greek. Your are able to decipher a few lines mentioning time travel and a golden key. The next page tells the story of a rich merchant and a chest full of invaluable treasures. On the top of the page, some Arabic numerals indicate the number 1717.";
 	otherwise:
