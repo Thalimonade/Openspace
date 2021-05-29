@@ -65,7 +65,7 @@ Carry out showing to the boss:
 	if the noun is rice paper:
 		say "The boss says: 'This is some immaculately white paper! Neat job, my dear ! Now, do you have a pen?'";
 	if the noun is a Blank page:
-		say "Te boss says: 'I don't want to know where you found that. I hope you have a pen that you haven't stolen...'";
+		say "The boss says: 'I don't want to know where you found that. I hope you have a pen that you haven't stolen...'";
 	if the noun is a Mont Blanc quill:
 		say "The boss says: 'Wow, this is some beautiful of equipment. Our new associates will be impressed !'";
 		end the story;
