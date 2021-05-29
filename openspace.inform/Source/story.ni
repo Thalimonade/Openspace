@@ -28,7 +28,7 @@ Start is a room. The printed name of the start is "The office". The description 
 - This is illegal. you respond. Completely astonished by the nature of such suggestions.[line break] 
 - You're right, this can't appear on the records. Put that computer aside and grab a piece of paper! he adds. [paragraph break] 
 You look around but can't seem to find any paper laying around. New ideas flood the room and you are not able the write any of them down. You painfully interrupt this flow of thoughts:  [line break] 
--Sir, I don't think we have any paper nor any pens. The bubbly brainstorm turns into three heavy stairs, the kind of stairs that strip you from your will to disagree. [line break]
+-Sir, I don't think we have any paper nor any pens. The bubbly brainstorm turns into three heavy stares, the kind of stares that strip you from your will to disagree. [line break]
 - Would you be so kind as to go and fetch some for us ? asks the scarier of the two guest.[line break]
 -Yes, of course. you respond as you quickly get up.[paragraph break]Now out of your [leather chair], you take a last look at the [conference table]. You think to yourself: [line break]No paper, no pens, is this really it? The office of the future?[line break]It can't be. All it is, is a realm of shiny metals and cold greatings. Your buzzing laptop the stainless glass door, the cold coffee you drink, everything you lay your eyes on is chilling.[line break]Going for a strawl could infact be exactly what you need. Suddenly, you catch yourself hoping for a paper shortage in the whole damn building or, better even, in the whole damn town. So you'd have an excuse to put some miles between you and this place.".
 
@@ -47,9 +47,37 @@ Your laptop and several coffee mugs are scenery.
 
 Understand "office" as start.
 
-section 3 - the ending office 
+section 3 - the ending office
 
-The office is a room. 
+The office is a room.
+The Boss is person. He is in the Office.
+The description of the office is "This place looks uncannily familiar. You can feel memories of calmer times resonate in your mind.  Is this where we came in?... Your boss is standing in a corner of the room and appears to be in a state of great agitation. Around the table, two obnoxious businessmen seem to have spend hours snorting cocaine. Talk to the boss."
+
+Talking to the boss is an action applying to nothing.
+Understand "talk to the boss" as talking to the boss.
+Carry out talking to the boss:
+	say "Have you found some paper? We've been waiting for hours and have conceived a flawless method to achieve universal dominion. Show me what you got."
+
+The block showing rule is not listed in the check showing it to rules.	
+Carry out showing to the boss:
+	if the noun is scaly skin:
+		say "The boss says, 'Ok, this is weird... Well I have no choice, it'll do. Now, do you have a pen?'";
+	if the noun is rice paper:
+		say "The boss says: 'This is some immaculately white paper! Neat job, my dear ! Now, do you have a pen?'";
+	if the noun is a Blank page:
+		say "Te boss says: 'I don't want to know where you found that. I hope you have a pen that you haven't stolen...'";
+	if the noun is a Mont Blanc quill:
+		say "The boss says: 'Wow, this is some beautiful of equipment. Our new associates will be impressed !'";
+		end the story;
+	if the noun is a feather:
+		say "The boss says: 'Ok, this will add a touch of medieval solemnity to our ritual. But you are definitely some kind of crazy clerk. Now listen to our plan and take good notes of it!' Your boring life resumes.";
+		end the story;
+	if the noun is a scorpion's tail:
+		say "The boss exclaims: 'What the hell is this?!' He grabs the scorpion's  tail in anger and dies. You are relieved.";
+		end the story;
+	if the noun is a sharp collarbone:
+		say "The boss says: 'You really are the creepiest clerk I have ever seen. Now listen to our plan and take good notes of it!' Your boring life resumes.";
+		end the story;
 
 section 4 - Europe
 
@@ -351,7 +379,7 @@ Alexandria's Library is a room. Alexandria's Library is west of Savannah and nor
 This is probably the greatest sanctuary of knowledge of all time. There are tons of books in there. They don't seem to be arranged in any specific order. You realize just how much looking up stuff was an elephantine task before the Internet.".
 
 A Book is a kind of thing. The description of a Book is "You can browse it if you want to. You might find some useful info here.".
-A Blank Page is a thing. 
+A Blank Page is paper. 
 
 There are 100 books in Alexandria's Library.
 
