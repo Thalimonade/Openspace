@@ -77,8 +77,9 @@ Carry out showing to the boss:
 		end the story;
 	if the noun is a sharp collarbone:
 		say "The boss says: 'You really are the creepiest clerk I have ever seen. Now listen to our plan and take good notes of it!' Your boring life resumes.";
-		end the story;
+		end the story.
 
+		
 section 4 - Europe
 
 Swamps is a room. Swamps is north of Souk Ruins and south of Yogi's retreat. The description of the swamps is "In south direction you can see something like ruins in the distance. On the opposite direction it seems like there is a temple or a sanctuary.[line break][line break]The air here is breezy. It is hard for you to move comfortably because your feet are plunged in water, or is it silt ? Vegetation is quite dense, reeds and weeds pave your way. If you look west, you can see the framework of a door in the distance. Strangely enough, it looks like the one form your office. There are poorly lit openings in the trees leading either to the north or the south. "
@@ -204,16 +205,18 @@ While ooking at one of the peacocks, you think to yourself: I bet I could use on
 
 A Peacock is in the Maharaja’s palace.
 
-Instead of touching the peacock:
+Instead of taking the peacock:
 	say "You run after the peacock while it opens its plumage exhibiting the eye-catching pattern. It has so many feathers, but you only need one… After minutes running in the labyrinth-like garden under the sizzling sun, you manage to corner the peacock and you finally get your feather.";
 	move the feather to the player.
+	Understand "catch [peacock]" as taking
 
 Section 6 - China
 
 Wuhan is a room. Wuhan is north of New Delhi. The description of Wuhan is "In the future is a Futuristic Casino and in the past is a Chinese Workshop. To the north is a huge modern city and in the opposite direction is filled whit colors, sounds and human interaction.[line break][line break]A new, deadly [virus] was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... [paragraph break]it might be better for you to leave Wuhan as fast as possible.".
 
-A virus is a thing. The virus is in Wuhan.
-the dirty masks are in wuhan. The description of the dirty masks is "These chirurgical masks have served their purpose already. They now are enjoying their eternal rest.".
+A virus is a thing. 
+before going to Wuhan, move the virus to Wuhan.
+the dirty masks are in Wuhan. The description of the dirty masks is "These chirurgical masks have served their purpose already. They now are enjoying their eternal rest.".
 
 Instead of doing something other than going when the virus is in the location:
 	say "If you insist. [line break][line break][line break]Many people died on the battlefield against the coronavirus. [line break][line break]First to be hit were the people of Wuhan.[line break][line break]You were one of them."; end the story.
