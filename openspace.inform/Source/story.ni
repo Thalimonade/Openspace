@@ -47,7 +47,7 @@ Start is a room. The printed name of the Start is "The Office". The description 
 - You're right, this can't appear on the records. Put that computer aside and grab a piece of paper! he adds. [paragraph break] 
 You look around but can't seem to find any paper laying around. New ideas flood the room and you are not able the write any of them down. You painfully interrupt this flow of thoughts:  [line break] 
 - Sir, I don't think we have any paper nor any pens. [line break] 
-The bubbly brainstorm turns into three heavy stares, the kind of stares that strip you from your will to disagree. 
+The bubbly brainstorm turns into three heavy stares, the kind of stares that strip you from your will to disagree.[line break] 
 - Would you be so kind as to go and fetch some for us ? asks the scarier of the two guest.[line break]
 - Yes, of course. you respond as you quickly get up.[paragraph break]Now out of your [leather chair], you take a last look at the [conference table]. You think to yourself: [line break]No paper, no pens, is this really it? The office of the future?[line break]It can't be. All it is, is a realm of shiny metals and cold greatings. Your buzzing laptop the stainless glass door, the cold coffee you drink, everything you lay your eyes on is chilling.[line break]Going for a strawl could infact be exactly what you need. Suddenly, you catch yourself hoping for a paper shortage in the whole damn building or, even better, in the whole damn town. So you'd have an excuse to put some miles between you and this place.".
 
@@ -75,7 +75,7 @@ The Boss is a person. He is in the Office.
 Talking to the Boss is an action applying to nothing.
 Understand "talk to the boss" as talking to the boss.
 Carry out talking to the Boss:
-	say "Have you found some paper? We've been waiting for hours and have conceived a flawless method to achieve universal dominion. Show me what you got."
+	say "Have you found some paper? We've been waiting for hours and have conceived a flawless method to achieve universal dominion. Show me what you got.".
 
 The block showing rule is not listed in the check showing it to rules.	
 Carry out showing to the boss:
@@ -170,7 +170,7 @@ Understand "label" as the jar.
 
 Report reading: say "You squinkt your eyes: '[The label of the noun]' mmmh..."
 
-The back door is a door. It is west of the Office and east of the Druid's tent. The back door is lockable and locked.  "A big and modern glass door. You know, that opaque kind of glass which looks very expensive.".
+The back door is a door. It is west of the Office and east of the Druid's tent. The back door is lockable and locked. "A big and modern glass door. You know, that opaque kind of glass which looks very expensive.".
  
 Instead of opening the back door when the player carries the empty skinny jar:
 	say " The same fuzz you felt before now runs threw your fingertips. As you touch the door nob you hear the lock pop and the big door slam open. ";
@@ -190,7 +190,7 @@ Check opening the back door:
 Section 6 - India 
 
 New Delhi is a room. The description of the New Delhi is "In the future is Yogi's retreat and in the past is Maharaja's palace. To the north is a huge modern city.[line break][line break]
-You are now in the city center of New Dehli nowadays: your senses are flooded with all kinds of informations. The smells of a thousand spices assault your nostrils from a street market on your right hand and their colors fill up your soul like flowers during spring, birds are singing and market sellers seem to be singing out the prices of their marchandises; the whole thing is wrapped up in a whirlwind of scooters and tuktuks, adding a deeply human touch to the frenzy of the moment."
+You are now in the city center of New Dehli nowadays: your senses are flooded with all kinds of informations. The smells of a thousand spices assault your nostrils from a street market on your right hand and their colors fill up your soul like flowers during spring, birds are singing and market sellers seem to be singing out the prices of their marchandises; the whole thing is wrapped up in a whirlwind of scooters and tuktuks, adding a deeply human touch to the frenzy of the moment.".
 
 The modern glass door is a door. It is south of New Delhi and north of the office. The modern glass door is lockable and locked.  "Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn't seem to belong here: a modern glass door. You know, that opaque kind of glass which looks very expensive. Of course you'd know, your office has the same ones!".
 
@@ -267,7 +267,7 @@ This workshop is A small and dusty room, with a little window that opens to a wi
 - Sir, may I borrow one of these papers please?
 - Yes, of course, go ahead.".
 
-The artisan is a person. He carries rice paper. The artisan is in the Chinese Workshop. 
+The Artisan is a person. He carries a rice paper. The Artisan is in the Chinese Workshop. 
 
 Instead of taking the rice paper:
 	say "You thank the old man for the paper and[if the player carries a pen] you start to try to find your way back to the office.[otherwise] now you go look for the pen in order to go back to the office.[end if]";
@@ -282,7 +282,7 @@ Mexico City is a room in Latin America. Mexico City is north of Wuhan. The descr
 Gunshots pierce the sky as you cross the road of today's Mexico. It is getting quite dark and you don't want any trouble, an unharmed guy like you should find a way out of hear. You see four similarly unwellcoming alleyways each leading in different directions: south, north, east and west.".
 
 The cartel is a thing. 
-Before going to mexico city, move cartel to mexico city.
+Before going to Mexico City, move cartel to Mexico City.
 
 Instead of doing something other than going when the cartel is in the location:
 	say "Oh no. [paragraph break]Two fighting cartels stumbled onto you, didn't knowing were you stand, the leaders of both cartels shot you to prove their guts to each other.They left you no tim time to escape.[paragraph break]Let Mexico city be your final destination."; end the story.
@@ -291,7 +291,7 @@ Instead of doing something other than going when the cartel is in the location:
 Scorpion World is a room in Latin America. Scorpion World is east of Mexico City, south of Utopian City and north of futuristic casino. The description of the Scorpion World is "In the past is Mexico City. North and south seems to be far in the future; the first one is animated by iron and glass things flying through blue skies ans the second is filled with light and cashmachine sounds.[line break][line break]
 Here you step into the future of Latin America. As time passed, a lot of species went extinct. Not scorpions though, scorpions got bigger. Unfortunately, way bigger than you. The whole contient mutated into a huge conurbation of enormous scorpion nests: you are in the middle of it. In front of you is one of those scorpion nest."
 
-A nest is an openable container. It is open. It is scenery in Scorpion World. "The nest is swarming with 'little' scorpions, as big as your head. One of the baby scorpion – that you surprisingly find cute with its sharp little claws, its hairy exoskeleton and its menacing scorpion's tail dancing gently in the warm wind - comes to you, certainly interested by your delicious monkey shape. Violence is never an answer – but now that you are in front of the scorpion that keeps coming closer, saliva dripping from its lips, I would suggest you to attack it!'"
+A nest is an openable container. It is open. It is scenery in Scorpion World. "The nest is swarming with 'little' scorpions, as big as your head. One of the baby scorpion – that you surprisingly find cute with its sharp little claws, its hairy exoskeleton and its menacing scorpion's tail dancing gently in the warm wind - comes to you, certainly interested by your delicious monkey shape. Violence is never an answer – but now that you are in front of the scorpion that keeps coming closer, saliva dripping from its lips, I would suggest you to attack it!'".
 
 A baby scorpion is a person in the nest. Understand "scorpion" as baby scorpion. The baby carries a scorpion's tail.
 
@@ -303,11 +303,11 @@ Instead of searching the scorpion when the scorpion carries the scorpion's tail:
 	move the scorpion's tail to the player.
 
 
-Aztec Temple is a room in Latin America. Aztec Temple is west of Mexico City. The description of Aztec temple is "In the future is Mexico City.[line break]The humming of a ritual chant bounces on the stone walls, you came right on time for the human sacrifice ! It seems like you landed in the past of Latin America and that the great Aztec civilization is at its peak."
+Aztec Temple is a room in Latin America. Aztec Temple is west of Mexico City. The description of Aztec temple is "In the future is Mexico City.[line break]The humming of a ritual chant bounces on the stone walls, you came right on time for the human sacrifice ! It seems like you landed in the past of Latin America and that the great Aztec civilization is at its peak.".
 
 An Aztec Statue is a enterable supporter in the Aztec Temple. The description of the Aztec Statue is "A representation of Quetzalcóatl, the snake-god. It is cubical and stable. It stands just in front of the wall, behind which is a strange place that looks like a landfill site but instead of broken washing machines and old lamps, a lot of yellow-white sticks and balls with wholes are laying there...". Understand "statue" as Aztec Statue.
 
-A wall is a thing. It is in the Aztec Temple. "A middle sized wall built in a strangely intelligent way with huge stones. It is too big for you to climb.."
+A wall is a thing. It is in the Aztec Temple. "A middle sized wall built in a strangely intelligent way with huge stones. It is too big for you to climb...".
 
 
 Ritual Waste is a room in Latin America. It is up from Aztec Temple. "This place reminds you why you dont like BBQs: mostly because of the smell... While you are wondering why you got up here, your eyes are caught by what seems to be a human collarbone. It is strangely sharp, it almost look like a pen.."
@@ -363,8 +363,7 @@ Instead of taking the pass:
 Blizzard is a room in Antarctica. Blizzard is west of Scientific base camp and north of Aztec temple. The description of Blizzard is "The future looks kind of the same as here, but lest hostile and with igloos. South is a temple and you can hear what seems to be sacred chants. North is filled with knowledge.[line break][line break]
 Leave this place, you are in a primitive icy storm. The wind pierces your clothes and shut your eyes closed. You don't want to spend too much time in here. As you are reading this, your toes are getting frozen and threatens to fall. With your office clothes, you don't stand a chance. If you stay here few more seconds, you'll never see your beloved office again."
 
-The ice storm is a thing. 
-Before going to Blizzard, move the ice storm to Blizzard.
+The ice storm is a thing. Before going to Blizzard, move the ice storm to Blizzard.
 
 Instead of doing something other than going when the ice storm is in the location:
 	say "Oh no. [paragraph break]You'd like to get back to a warm climate but your feet won't move. Your body doen't respond to external situmli anymore and your feel tired.[paragraph break]Let this blizzard be your final destination."; end the story.
@@ -397,7 +396,7 @@ Carry out browsing a book:
 	otherwise if  a random chance of 1 in 20 succeeds:
 		say "This looks like ancient Greek. Your are able to decipher a few lines mentioning time travel and a golden key. The next page tells the story of a rich merchant and a chest full of invaluable treasures. On the top of the page, some Arabic numerals indicate the number 1717.";
 	otherwise:
-		say "The book is written in an ancient language you have never seen before. You don't understand anything. Try another one.";
+		say "The book is written in an ancient language you have never seen before. You don't understand anything. Try another one.".
 
 
 Souk Ruins is a room. Souk Ruins is east of Savannah. The description of Souk Ruins is "The past and north is what some would call a wildlife sanctuaries, although they nest very different creatures. as for the south, it leads to every city men's dream: The peak of urban modernism. [paragraph break]A labyrinthine series of corridors unfolds in front of you. The stones that pave the ground reflect the dazzling sunlight".
@@ -412,9 +411,11 @@ The chest is a locked opaque container. The description of the chest is "A beaut
 
 The astrolabe is a thing. The Astrolabe is part of the chest. The description of the astrolabe is "The astrolabe looks like a dial with a wavy golden arrow pointing at signs vaguely related to modern Arabic numerals. You can spin the astrolabe to any of those numbers.".
 
-Spinning it to is an action applying to one thing and one number. Check spinning it to: if the noun is not the astrolabe, say "[The noun] is not spinnable." instead. Report spinning: say "Click! Nothing happens."
+Spinning it to is an action applying to one thing and one number. Check spinning it to: if the noun is not the astrolabe, say "[The noun] is not spinnable." instead. 
+Report spinning: 
+   say "Click! Nothing happens.".
 
-After spinning the Astrolabe to 1717: now the chest is unlocked; say "The astrolabe produces a symphony of mysterious creaking noises." ;
+After spinning the astrolabe to 1717: now the chest is unlocked; say "The astrolabe produces a symphony of mysterious creaking noises." ;
 move the golden key to the player.
 
 Understand "spin [something] to [a number]" as spinning it to.

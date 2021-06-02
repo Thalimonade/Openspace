@@ -25,21 +25,21 @@
     </dict>
     <key>3</key><dict>
         <key>Filename</key><string>/Users/laurapippus/Documents/GitHub/Openspace/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>40</integer>
+        <key>Line</key><integer>42</integer>
         <key>Title</key><string>Section 3 - Starting Office</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>4</key><dict>
         <key>Filename</key><string>/Users/laurapippus/Documents/GitHub/Openspace/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>67</integer>
+        <key>Line</key><integer>69</integer>
         <key>Title</key><string>Section 4 - The Ending Office</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>5</key><dict>
         <key>Filename</key><string>/Users/laurapippus/Documents/GitHub/Openspace/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>100</integer>
+        <key>Line</key><integer>102</integer>
         <key>Title</key><string>Section 5 - Europe</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
@@ -74,7 +74,7 @@
     </dict>
     <key>10</key><dict>
         <key>Filename</key><string>/Users/laurapippus/Documents/GitHub/Openspace/Openspace/Openspace.inform/Source/story.ni</string>
-        <key>Line</key><integer>373</integer>
+        <key>Line</key><integer>372</integer>
         <key>Title</key><string>Section 10 - Africa</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
