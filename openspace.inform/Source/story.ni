@@ -332,7 +332,7 @@ Section 9 - Antarctica
 Antarctica is a region. Ice, stars and wind is a backdrop. Ice, stars and wind is in Antartica. 
 
 
-Scientific Base Camp is a room in Antarctica. Scientific base camp is north of Mexico City. The description of Scientific base camp is "Present of Antarctica. In the future, cars a flying and plants living peacefully with humans. The past is white, completely white and frozzen. Don't ask why, but from the south you can here gunshots and a hot breeze caresses your ears. North is hot too, but more primitive.[line break][line break]
+Scientific Base Camp is a room in Antarctica. Scientific base camp is north of Mexico City. The description of Scientific base camp is "Present of Antarctica. In the future, cars are flying and plants living peacefully with humans. The past is white, completely white and frozen. Don't ask why, but from the south you can here gunshots and a hot breeze caresses your ears. North is hot too, but more primitive.[line break][line break]
 The only thing you see beyond the camp's igloos is ice and extracted ice caps. You don't want to spend too much time here unless you always wanted to be a human ice cream. The igloos are scattered over a large area, but one is not far away. If you want to go inside, you'll have to crawl through the tunnel."
 
 The tunnel is an unopenable open door. It is down from the Scientific Base Camp and up from the Igloo.
@@ -371,9 +371,9 @@ Instead of doing something other than going when the ice storm is in the locatio
 
 Section 10 - Africa 
 
-Savannah is a room. Savannah is north of Scientific base camp. The description of the Savannah is "The future is just a pile of stones and the past is a pile of ancient knowledge. From the south comes very cold air.[line break][line break]It seems like you are standing in the middle of Savannah in the present day. dried weeds caress your chins as you stare into the distance. You've hear on some National Geographic documentary that lions sleep during most of the day, you hope the sun doesn't leave you just yet.".
+Savannah is a room. Savannah is north of Scientific base camp. The description of the Savannah is "The future is just a pile of stones and the past is a pile of ancient knowledge. From the south comes very cold air.[line break][line break]It seems like you are standing in the middle of Savannah in the present day. Dried weeds caress your chins as you stare into the distance. You've heard on some National Geographic documentary that lions sleep during most of the day, you hope the sun doesn't leave you just yet.".
 
-The shiny door is a door. It is south of the office and north of Savannah. The shiny door is lockable and locked. The matching key of the shiny door is the Golden Key.  "[if the player is in Savannah]A big and modern glass door. You know, that opaque kind of glass which looks very expensive. [end if]"
+The shiny door is a door. It is south of the office and north of Savannah. The shiny door is lockable and locked. The matching key of the shiny door is the Golden Key. "[if the player is in Savannah]A big and modern glass door. You know, that opaque kind of glass which looks very expensive. [end if]".
  
 Check opening the shiny door:
 	say "[If the player carries a pen]You got the pen, but where are the people supposed to sign on?[otherwise]Shouldn't you bring back a pen?[end if]";
