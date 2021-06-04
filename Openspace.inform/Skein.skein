@@ -9,7 +9,7 @@
 
 Open Space
 An Interactive Fiction by Thalie Schmidt, Laura Pippus, David Pavlik et Ludovic Rochat
-Release 1 / Serial number 210602 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+Release 1 / Serial number 210604 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
 
 The Office
 Your boss and yourself are in the midst of stormy negotiations with new potential associates. The atmosphere is tense, so much so that you can feel sweat beads dripping down your tailored shirt as your sticky hands pound on your laptop keyboard. Your boss sits at your left while two other gentlemen sit straight across from you both. All of you have been in here, bargaining over contract terms, for quite a while now and you wrists are staring to ache as you write and erase what the others tell you to. The shadows you cast on the white office walls gently shift as the sun goes down,  you wish they had come up to an agreement by now.
@@ -35,6 +35,7 @@ You can see a big door here.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
         <children><child nodeId="node-1355"></child>
+            <child nodeId="node-1376"></child>
             <child nodeId="node-1244"></child>
             <child nodeId="node-1013"></child>
             <child nodeId="node-1003"></child>
@@ -158,12 +159,14 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
 
 One has to be careful with what he wishes for nowadays... Wherever you land, you better find your way back to your meeting, fast, and with the correct supplies.
 
-Scientific Base Camp
-Present of Antarctica. In the future, cars a flying and plants living peacefully with humans. The past is white, completely white and frozzen. Don't ask why, but from the south you can here gunshots and a hot breeze caresses your ears. North is hot too, but more primitive.
+Wuhan
+In the future is a Futuristic Casino and in the past is a Chinese Workshop. To the north is a huge modern city and in the opposite direction is filled whit colors, sounds and human interaction.
 
- The only thing you see beyond the camp's igloos is ice and extracted ice caps. You don't want to spend too much time here unless you always wanted to be a human ice cream. The igloos are scattered over a large area, but one is not far away. If you want to go inside, you'll have to crawl through the tunnel.
+A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... 
 
-You can see a tunnel here.
+it might be better for you to leave Wuhan as fast as possible.
+
+You can see a dirty masks here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
@@ -4175,6 +4178,141 @@ You can see a sharp collarbone here.
     <item nodeId="node-1354">
         <command xml:space="preserve">x callarbone</command>
         <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1376">
+        <command xml:space="preserve">ope</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1377"></child>
+        </children>
+    </item>
+    <item nodeId="node-1377">
+        <command xml:space="preserve">open door</command>
+        <result xml:space="preserve">The shaking ground gets you out of your reveries. Is it an earthquake ? Is it a bomb ? In any case you hold on to that door knob with all your strength. Too bad, a strong wind sucks you inward before you can gasp for help.  
+
+ Well well, dear player, the dimesions heard you and sent you quite far away. As you just entered a time and space traveling journey you ought to know that taking a strall to the east fast forwards you to the futur, the west brings you back to the past. As for north and south, they will change your location, letting you roam threw different continents.  
+
+One has to be careful with what he wishes for nowadays... Wherever you land, you better find your way back to your meeting, fast, and with the correct supplies.
+
+Wuhan
+In the future is a Futuristic Casino and in the past is a Chinese Workshop. To the north is a huge modern city and in the opposite direction is filled whit colors, sounds and human interaction.
+
+A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... 
+
+it might be better for you to leave Wuhan as fast as possible.
+
+You can see a dirty masks here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1378"></child>
+        </children>
+    </item>
+    <item nodeId="node-1378">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+New Delhi
+In the future is Yogi's retreat and in the past is Maharaja's palace. To the north is a huge modern city.
+
+ You are now in the city center of New Dehli nowadays: your senses are flooded with all kinds of informations. The smells of a thousand spices assault your nostrils from a street market on your right hand and their colors fill up your soul like flowers during spring, birds are singing and market sellers seem to be singing out the prices of their marchandises; the whole thing is wrapped up in a whirlwind of scooters and tuktuks, adding a deeply human touch to the frenzy of the moment.
+
+Somewhere in this exotic atmosphere, your eye catches a strange thing that doesn't seem to belong here: a modern glass door. You know, that opaque kind of glass which looks very expensive. Of course you'd know, your office has the same ones!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1379"></child>
+        </children>
+    </item>
+    <item nodeId="node-1379">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">(first opening the modern glass door)
+Shouldn't you bring back a pen?
+Shouldn't you bring back a paper?
+
+It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1380"></child>
+        </children>
+    </item>
+    <item nodeId="node-1380">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Wuhan
+In the future is a Futuristic Casino and in the past is a Chinese Workshop. To the north is a huge modern city and in the opposite direction is filled whit colors, sounds and human interaction.
+
+A new, deadly virus was detected for the first time here. The city center is deserted, while the hospitals and morgues are filled with covid patients. You don't have a mask, you not even have a scarf to put around your mouth and nose... 
+
+it might be better for you to leave Wuhan as fast as possible.
+
+You can see a dirty masks here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1381"></child>
+        </children>
+    </item>
+    <item nodeId="node-1381">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Mexico City
+In the future is Scorpion's World and in the past is an Aztec Temple. If you look up north, all is frozen in the distance when in south everything seems be made of steal and concrete.
+
+ Gunshots pierce the sky as you cross the road of today's Mexico. It is getting quite dark and you don't want any trouble, an unharmed guy like you should find a way out of hear. You see four similarly unwellcoming alleyways each leading in different directions: south, north, east and west.
+
+You can see a cartel here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1382"></child>
+        </children>
+    </item>
+    <item nodeId="node-1382">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Scientific Base Camp
+Present of Antarctica. In the future, cars are flying and plants living peacefully with humans. The past is white, completely white and frozen. Don't ask why, but from the south you can here gunshots and a hot breeze caresses your ears. North is hot too, but more primitive.
+
+ The only thing you see beyond the camp's igloos is ice and extracted ice caps. You don't want to spend too much time here unless you always wanted to be a human ice cream. The igloos are scattered over a large area, but one is not far away. If you want to go inside, you'll have to crawl through the tunnel.
+
+You can see a tunnel here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1383"></child>
+        </children>
+    </item>
+    <item nodeId="node-1383">
+        <command xml:space="preserve">get in the tunnel</command>
+        <result xml:space="preserve">
+Igloo
+You cannot see much, but a dying fire sufficiently illuminates the place to be able to see the room made of ice. At the back of the igloo, you see a sleeping person. He looks like a researcher, he certainly writes things down everyday...
+
+You can see a tunnel and a sleeping researcher here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1384"></child>
+        </children>
+    </item>
+    <item nodeId="node-1384">
+        <command xml:space="preserve">touch researcher</command>
+        <result xml:space="preserve">Why don't you try searching him?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1385"></child>
+        </children>
+    </item>
+    <item nodeId="node-1385">
+        <command xml:space="preserve">search researcher</command>
+        <result xml:space="preserve">You lift the multiple layers of blankets and fur and after a quick search you see something shiny that catches your frozen eyes: a Mont Blanc quill! Exactly what your boss needs to sign the contract. After a brief discussion with your conscience, you decide to take it.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>

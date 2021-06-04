@@ -348,6 +348,9 @@ Instead of searching the researcher when the researcher carries the Mont Blanc q
 	say "You lift the multiple layers of blankets and fur and after a quick search you see something shiny that catches your frozen eyes: a Mont Blanc quill! Exactly what your boss needs to sign the contract. After a brief discussion with your conscience, you decide to take it.";
 	move the Mont Blanc quill to the player.
 
+Instead of touching the researcher: 
+     say "Why don't you try searching him?".
+
 
 Utopian City is a room in the Antarctica. Utopian City is east of Scientific base camp and south of souk ruins. The description of the Utopian City is "North is full of ruins when south is swarming with strange and enormous insects.[line break][line break]
 Here, cars finally float on air cushions and plants co-exist with skyscrapers in a friendly and aesthetic way. "
